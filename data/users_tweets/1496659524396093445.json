@@ -1,0 +1,533 @@
+[
+    {
+        "tweet_id": 1503107273953972225,
+        "text": "The actor that plays Batman in the new Batman movie looks like Leon Kennedy",
+        "created_at": "2022-03-13 20:34:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502736602069495808,
+        "text": "@Depressie15 It was my secrete plan all along \ud83d\ude08\ud83d\ude08\ud83d\ude08",
+        "created_at": "2022-03-12 20:01:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1340167429616402432,
+        "referenced_tweets": {
+            "id": 1502735126991581188,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502735002684964864,
+        "text": "@Depressie15 Damn #girlqueenpussyfart that\u2019s tough /j",
+        "created_at": "2022-03-12 19:55:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1340167429616402432,
+        "referenced_tweets": {
+            "id": 1502734758454779909,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499937782818557954,
+        "text": "@Depressie15 What did I say about snorting smarties",
+        "created_at": "2022-03-05 02:40:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1340167429616402432,
+        "referenced_tweets": {
+            "id": 1499878045972254720,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499451100650360847,
+        "text": "Waiting for @sabaton to drop the Ghost of Kyiv song",
+        "created_at": "2022-03-03 18:26:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498782054984531970,
+        "text": "Idc what you say Naps = time travel",
+        "created_at": "2022-03-01 22:07:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497768961911312388,
+        "text": "What if Vasiliy Khamotiskiy fought butterbean a.k.a Eric Esch in a slap fight #slapfight",
+        "created_at": "2022-02-27 03:02:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497472910830702594,
+        "text": "Could you imagine fighting in ww3 and the fuckin Russian cheese man pulls up on you https://t.co/Gaiyjd33ee",
+        "created_at": "2022-02-26 07:25:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497472245857337345,
+        "text": "Thinking about the fact that orange\u2019s are flammable like could you imagine some dude throws flaming oranges at you and as you slowly burn he says \u201cvitamin C you later\u201d",
+        "created_at": "2022-02-26 07:22:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497270118526582784,
+        "text": "I can\u2019t get over how funny this was to me when it happened #DarkSouls #DARKSOULSIII https://t.co/uqZ6bu9RX1",
+        "created_at": "2022-02-25 17:59:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497101284242968579,
+        "text": "Call of duty vanguard? If uneven  spawns and the same repetitive gameplay for the past 3 years is art then we\u2019ve really lowered the standards https://t.co/GP05txKCLz",
+        "created_at": "2022-02-25 06:48:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496579993484546049,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1497074542124023813,
+        "text": "A #ResidentEvilVillage Demake would be cool to see",
+        "created_at": "2022-02-25 05:02:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497059648502833152,
+        "text": "Could you imagine if they made a new #initialD movie and the opening to the trailer its a black screen with the caption \u201cdo you ever get deja vu\u201d",
+        "created_at": "2022-02-25 04:03:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497055974791647236,
+        "text": "My toxic trait makes it that whenever I get hit by something or hurt in front of people I act like I didn\u2019t even feel it",
+        "created_at": "2022-02-25 03:48:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497017855874797572,
+        "text": "@mythicflight Resident evil 4 is my all time favorite",
+        "created_at": "2022-02-25 01:17:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1275525760309235713,
+        "referenced_tweets": {
+            "id": 1496989161026252817,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496957150739845126,
+        "text": "Quite literally shit myself when this happened. Even with the infinite weapons on too it scared the shit out of me. https://t.co/igbrocF5eU",
+        "created_at": "2022-02-24 21:16:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496955834688958475,
+        "text": "@AynzYT You brought a knife to a virus fight \ud83e\udd23",
+        "created_at": "2022-02-24 21:10:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2567910627,
+        "referenced_tweets": {
+            "id": 1496782618603499520,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496904146905026562,
+        "text": "RT @espuma68050635: \ud83d\udc30\n#leonkennedy \n#ResidentEvil \n#ResidentEvil2 https://t.co/JhkEDS3iEM",
+        "created_at": "2022-02-24 17:45:34+00:00",
+        "public_metrics": {
+            "retweet_count": 37,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496834349768929283,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496904063455088640,
+        "text": "Did anyone else take more than 3 hours to get through the police station in #ResidentEvil2 or do I just have adhd https://t.co/UNN24dHXhC",
+        "created_at": "2022-02-24 17:45:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496709947744153604,
+        "text": "Don\u2019t ever say your worthless https://t.co/YJyGegM35X",
+        "created_at": "2022-02-24 04:53:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496708285956648961,
+        "text": "When you play video games so much that your mom congratulates you for taking a shower, it might be time to put the controller down for a bit",
+        "created_at": "2022-02-24 04:47:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496702245584310274,
+        "text": "@Depressie15 Huh must be a penis thing",
+        "created_at": "2022-02-24 04:23:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1340167429616402432,
+        "referenced_tweets": {
+            "id": 1496701452030398470,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496693365349310465,
+        "text": "@TKH34588668 Every time I play through resident evil 4 I always throw a grenade into this circle of enemy\u2019s",
+        "created_at": "2022-02-24 03:48:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1245182866847182849,
+        "referenced_tweets": {
+            "id": 1496419196628045830,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496692316500742145,
+        "text": "@JerJer1990 Easy clap ngl",
+        "created_at": "2022-02-24 03:43:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 60432438,
+        "referenced_tweets": {
+            "id": 1493811556307640326,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496691933363642371,
+        "text": "@vibe_trying Yes very logical. Me and Clair spoke once and now we are BFF\u2019s",
+        "created_at": "2022-02-24 03:42:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1481359686154739712,
+        "referenced_tweets": {
+            "id": 1494167722439188481,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496691638193713156,
+        "text": "@NocheLord The timeline is pretty strait forward be we aren\u2019t sure when they started testing tyrants and when they tested Lisa",
+        "created_at": "2022-02-24 03:41:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1496659524396093445,
+        "referenced_tweets": {
+            "id": 1496691463853199365,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496691463853199365,
+        "text": "@NocheLord Honestly it seems like they didn\u2019t really have much to do with her so umbrella just seemed to use her as a Guinea pig for virus and I suppose the right amount mixed and made her indestructible and shit",
+        "created_at": "2022-02-24 03:40:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1111584520933986305,
+        "referenced_tweets": {
+            "id": 1495606547313049601,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496690897727066116,
+        "text": "@GameDadJP \u201cWe were bad but now we\u2019re good\u201d moment. If you read into Lisa\u2019s backstory I believe it shows that even though she was injected with a shit ton of viruses, she is still somewhat I. Control of her actions. There are some plot holes though",
+        "created_at": "2022-02-24 03:38:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3048900145,
+        "referenced_tweets": {
+            "id": 1494136886524268547,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496690055766687745,
+        "text": "@AynzYT NO YOU",
+        "created_at": "2022-02-24 03:34:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2567910627,
+        "referenced_tweets": {
+            "id": 1495075154531172357,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496689911042215938,
+        "text": "RT @JerJer1990: Lisa Trevor vs the Licker...#WelcomeToRaccoonCity https://t.co/VZzGsrJ8v0",
+        "created_at": "2022-02-24 03:34:16+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493811556307640326,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496689714656542725,
+        "text": "@Depressie15 YOU DONT GET THAT???",
+        "created_at": "2022-02-24 03:33:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1340167429616402432,
+        "referenced_tweets": {
+            "id": 1496689106193027074,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496675364617158656,
+        "text": "Can someone explain why I always have to pee when I turn on the shower",
+        "created_at": "2022-02-24 02:36:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496675215002136576,
+        "text": "@EllynResident Resident evil 4 infinite rocket launcher. Took forever to rack up 1,000,000 pts but it\u2019s hella fun",
+        "created_at": "2022-02-24 02:35:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1281614577793368067,
+        "referenced_tweets": {
+            "id": 1496543271211917316,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496674764898725891,
+        "text": "@nerodsi And I took that personally /j",
+        "created_at": "2022-02-24 02:34:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1103001381114429440,
+        "referenced_tweets": {
+            "id": 1496530832508571653,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496668121611915265,
+        "text": "@CyberpunkGame A good example of why games are better to be released late and be polished then be released early and be full of bugs. Had a lot of potential though and I\u2019m sure it\u2019s alright now that most of the bugs have been patched. Shouldn\u2019t have bothered with old gen",
+        "created_at": "2022-02-24 02:07:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 821102114,
+        "referenced_tweets": {
+            "id": 1496062268261478403,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496666108744519681,
+        "text": "@ResidentEvil I carried",
+        "created_at": "2022-02-24 01:59:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 126139466,
+        "referenced_tweets": {
+            "id": 1494038874393223171,
+            "type": "replied_to"
+        }
+    }
+]

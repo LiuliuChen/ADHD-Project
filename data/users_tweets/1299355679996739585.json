@@ -1,0 +1,1216 @@
+[
+    {
+        "tweet_id": 1503757012248711169,
+        "text": "It's hard to pick a favorite thing about working at @testdouble! This is definitely in the top 5 reasons \ud83d\udc9a Come work with us! https://t.co/O72mSKtvID",
+        "created_at": "2022-03-15 15:36:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503748002149720074,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1502353324271669248,
+        "text": "RT @testdouble: Software consulting is an experience accelerator.\u2728 Grow your knowledge working on a variety of challenging projects\u2014from so\u2026",
+        "created_at": "2022-03-11 18:38:39+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501996454629588998,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502353042976485383,
+        "text": "RT @mikedoel: There's a lot of talk about remote vs. returning to the office. We @testdouble haven't been shy about saying that we'd love t\u2026",
+        "created_at": "2022-03-11 18:37:32+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502056184299368484,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501924540011712513,
+        "text": "@camdotbio This is very relatable.\n\n\"fixed the thing I broke\"\n\"oops\"\n\"I have committed a code crime and I will have to atone for this at some point\"\n\"just ignore me\"",
+        "created_at": "2022-03-10 14:14:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1294753579992047617,
+        "referenced_tweets": {
+            "id": 1501910998428626948,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501690039893311489,
+        "text": "Normally I'd be sad that I'm eligible for the senior citizen discount by a local skatepark, but a deal is a deal \ud83e\udd72 https://t.co/XPOSqKfTFH",
+        "created_at": "2022-03-09 22:43:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501251583136436228,
+        "text": "Almost forgot about the communal fridge! https://t.co/3ykGM4dYJL",
+        "created_at": "2022-03-08 17:40:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501247117066653696,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1501238295342235660,
+        "text": "would they be effective? absolutely not, I'd probably twist my ankle immediately. do I still want to make them anyway? YES.",
+        "created_at": "2022-03-08 16:47:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1501238110587338762,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501238110587338762,
+        "text": "someone stop me from making platform Vans skates for park skating, please. please. I am haunted by this obsession right now.",
+        "created_at": "2022-03-08 16:47:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499520545506926595,
+        "text": "if you thought the local comedy open mic sets are bad, just imagine when they move to the metaverse! speaking as a comedian with terrible open mic sets, of course.",
+        "created_at": "2022-03-03 23:02:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499020077584338947,
+        "text": "But on a serious note, we had a really bad tick season last year. I anticipate it might be the same this year as well. I was pulling ticks off almost every day, just from walking around my property. Check yourself often. Prevention is key!!",
+        "created_at": "2022-03-02 13:53:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1499018969663082498,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499018969663082498,
+        "text": "Spring seems to be ramping up in NC, which means I won't be shutting up about tick prevention for several months to come. I'm really just trying to save y'all from having to see pictures of ticks every time you get a newsletter about all things lyme disease.",
+        "created_at": "2022-03-02 13:49:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498289300588347400,
+        "text": "2nd day caffeine-free, don't ask me why I picked right now for my 5th attempt to do so. I have been drinking coffee for more than half my life and previous attempts have been disastrous. So far so good, just horrible headaches and the hole in my heart where coffee goes.",
+        "created_at": "2022-02-28 13:29:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497191649176428545,
+        "text": "Dear Gmail, I am almost never writing Happy Father's Day and most assuredly writing Happy Friday. Pls stop trying to autocorrect \ud83e\udd72",
+        "created_at": "2022-02-25 12:48:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496901115941695496,
+        "text": "YES, JOIN US SO YOU CAN YELL TOO https://t.co/uB2IsvXSdU",
+        "created_at": "2022-02-24 17:33:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496865503486296070,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1496842825199202312,
+        "text": "Good morning to everyone except people who @ channel on Slack for non-important things",
+        "created_at": "2022-02-24 13:41:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496520056343339012,
+        "text": "RT @testdouble: Job descriptions are useful when you apply to new jobs. What then? Pam-Marie shares how they can be used as a tool througho\u2026",
+        "created_at": "2022-02-23 16:19:20+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496515316112936960,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496255683691429888,
+        "text": "My non-productive ADHD \"hobby\" is looking at house listings in random cities on Zillow. If you see any of these words/phrases in a listing, RUN: cozy, quaint, needs TLC, motivated, location x 3, charming, potential, starter home, recently renovated (I will die on this hill)",
+        "created_at": "2022-02-22 22:48:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495885039317381120,
+        "text": "\u274c commute for 2 hours for work\n\u2705 commute for 2 hours for roller derby\n\n(still much better than my old 2 hour commute + the added hour and a half to go from work to practice and then practice home)",
+        "created_at": "2022-02-21 22:16:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494464176735019008,
+        "text": "I started playing roller derby in 2009. The sport has changed so much over the years and it's been a truly wild ride. I, too, have changed a lot, so I decided to retire my old name/number for a new one! gotta credit adhd on this hyper-fixation of mine :) https://t.co/SVwnzjcHC4",
+        "created_at": "2022-02-18 00:10:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493688026127556615,
+        "text": "RT @searls: Issue #1 of our @testdouble Dispatch newsletter went out today (don't miss the next one: https://t.co/JNgCBpjUdt).\n\nWe knew our\u2026",
+        "created_at": "2022-02-15 20:45:51+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493687146720464903,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493677059884916740,
+        "text": "RT @testdouble: P.S. We're hiring! \ud83e\udd29",
+        "created_at": "2022-02-15 20:02:16+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493629435567919106,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1492161358258966536,
+        "text": "it's me. I'm the recruiter.",
+        "created_at": "2022-02-11 15:39:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1492161240302563328,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492161240302563328,
+        "text": "recruiters the instant someone switches on \"open to work\" on LinkedIn https://t.co/m2Zf21SEMx",
+        "created_at": "2022-02-11 15:38:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491854732004048900,
+        "text": "Also: time is such an illusion. I'm a bit embarrassed that the last time I played derby was at the WFTDA D2 playoffs in 2016. That was a brutal season for me, mentally and physically, so I took a break. I didn't realize it would be this long of one \ud83d\ude2d",
+        "created_at": "2022-02-10 19:21:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1491854113713369095,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491854113713369095,
+        "text": "Roller derby literally saved my life. I was the founding member of a league and skating pulled me out of the darkness of my suffering with Lyme and gave me something to fight for. I still have so many lifelong friends from the 7 years I played derby.",
+        "created_at": "2022-02-10 19:18:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1491851612557619210,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491851612557619210,
+        "text": "In January 2020, I decided that I would be coming out of roller derby retirement and start skating again. Blah blah, you know the rest of how that went. I am excited to announce that this year is the year and I will be starting with a new league soon!",
+        "created_at": "2022-02-10 19:08:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491433211486150658,
+        "text": "RT @searls: New talk! Debuts at 1pm eastern.\n\nThe title is too audacious, as usual: \"How to Trust Again\".\n\nYou might ask, \"How can a ~30 mi\u2026",
+        "created_at": "2022-02-09 15:26:01+00:00",
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491429140029120512,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491396473325510657,
+        "text": "Every Wednesday my friends and I battle our collective depression by playing Stardew Valley together. We call it Dewsday and it's the best day of the week",
+        "created_at": "2022-02-09 13:00:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491055271132950529,
+        "text": "RT @nicholalexander: Excited about the new newsletter coming from @testdouble - signup here!  \n\nhttps://t.co/lyfnTYeoGH",
+        "created_at": "2022-02-08 14:24:13+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491049586038763526,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490822934541180929,
+        "text": "RUDE of my phone to target me just because I have ADHD by suggesting \"happy belated birthday\" when I start typing \"happy birthday\"",
+        "created_at": "2022-02-07 23:01:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489612375191961602,
+        "text": "RT @cassidoo: Who is hiring junior developers (&lt;1 year of experience) right now?\n\nIf you're not, please retweet for reach!",
+        "created_at": "2022-02-04 14:50:40+00:00",
+        "public_metrics": {
+            "retweet_count": 2042,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489344941138583557,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489612294711660545,
+        "text": "not me looking up both gen x and gen z internet slang/acronyms in any given day",
+        "created_at": "2022-02-04 14:50:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488920372082839567,
+        "text": "when the candidate looks at your profile but doesn't respond to your message https://t.co/YmbQfcMeqn",
+        "created_at": "2022-02-02 17:00:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487052264510533633,
+        "text": "Love spotting these in the wild https://t.co/BfX15Dzwxo",
+        "created_at": "2022-01-28 13:17:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486852522354503689,
+        "text": "this has been the longest year of the pandemic so far and it's only January.",
+        "created_at": "2022-01-28 00:04:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486730157222031369,
+        "text": "RT @testdouble: How we stopped negotiating salaries and switched to salary bands to improve equity (and why you should, too). @ChristineMcC\u2026",
+        "created_at": "2022-01-27 15:57:46+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1486727208668327937,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1486338806215319554,
+        "text": "What was your first coding language and why? I'll go first: CSS because I wanted my Myspace profile to look a certain way \ud83d\ude0e",
+        "created_at": "2022-01-26 14:02:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486103083541164034,
+        "text": "fun fact: people do not like it when you show up at their homes in the country unannounced in the middle of the day, knock loudly on the door for over a minute scaring their animals, and then meander around their driveway for 10 minutes. it's me, I'm people.",
+        "created_at": "2022-01-25 22:26:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485619307665108996,
+        "text": "\"let's just include pretty much every salary in this company, that should suffice\" Command-C, Command-V",
+        "created_at": "2022-01-24 14:23:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1485617881643683844,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485617881643683844,
+        "text": "Companies are already enacting yet skirting the entire purpose of the various wage transparency acts being passed in various states that require them to put salary ranges in their job descriptions. One I saw the other day stated the salary range as $67k - $198k \ud83e\uddd0",
+        "created_at": "2022-01-24 14:17:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484662843261788161,
+        "text": "signed, recruiter who just wants to find your github so I'm not contacting you about a language you haven't used in 10+ years",
+        "created_at": "2022-01-21 23:03:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1484662535685029895,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484662535685029895,
+        "text": "There are only two extremes when it comes to online presence for senior-level+ engineers: incredibly active on every possible platform or practically a ghost. You cannot convince me otherwise. You either have a regularly-updated portfolio/blog or your website doesn't even work.",
+        "created_at": "2022-01-21 23:01:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484171557450788866,
+        "text": "Life hack: *2* lamps for SAD. Follow me for more seasonal depression tips and tricks!",
+        "created_at": "2022-01-20 14:30:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482005576745984015,
+        "text": "I have to brag about my Wordle today so I feel better when I never reach this level of success ever again:\nWordle 209 3/6\n\n\ud83d\udfe9\u2b1b\u2b1b\u2b1b\u2b1b\n\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\u2b1b\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+        "created_at": "2022-01-14 15:03:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481762844555284483,
+        "text": "RT @KassandraSanch: Debugging in CSS https://t.co/ARoVCWmX9H",
+        "created_at": "2022-01-13 22:59:26+00:00",
+        "public_metrics": {
+            "retweet_count": 326,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1481626276276408320,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481761500645797893,
+        "text": "I heard someone say that we're in junior year of COVID University and I laugh cried a lil too hard https://t.co/jgShU8kypv",
+        "created_at": "2022-01-13 22:54:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481402672318226442,
+        "text": "Yes! Join us! https://t.co/RNVhPiqnIq",
+        "created_at": "2022-01-12 23:08:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1481401778562285568,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1479226869685833731,
+        "text": "RT @TheKevinTruong: Thoughts on how I approach getting a tech job in 2022. I've been a boot camp instructor / mentor, and now a senior soft\u2026",
+        "created_at": "2022-01-06 23:02:23+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479204448190742534,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479164319644499968,
+        "text": "Yay!! So excited for this! https://t.co/MganboEodH",
+        "created_at": "2022-01-06 18:53:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479135765259067400,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1479094760849743876,
+        "text": "https://t.co/7gb19dfzlf",
+        "created_at": "2022-01-06 14:17:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1479094618037833729,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479094618037833729,
+        "text": "https://t.co/FCVrwoFen7",
+        "created_at": "2022-01-06 14:16:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1479094574282944517,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479094574282944517,
+        "text": "I'm obviously biased, but I'm proud to be a part of a company that takes pride and care in the way we interview people. Shameless plugs about how we interview and what our process is: https://t.co/rlPbAJVqvD",
+        "created_at": "2022-01-06 14:16:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1479093297893289994,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479093297893289994,
+        "text": "What is incredibly striking to me is that nearly every candidate I speak with has some sort of tech interview horror story. Encouraged that the Great Resignation and changes in the market will push for more empathetic and ethical interview practices.",
+        "created_at": "2022-01-06 14:11:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478430629343731713,
+        "text": "@lsparlin_dev @testdouble Welcome, Lewis!!",
+        "created_at": "2022-01-04 18:18:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 28006237,
+        "referenced_tweets": {
+            "id": 1478356655096180737,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478400976495202311,
+        "text": "RT @searls: Pumped to see @klesse413 featured on @testdouble's homepage. Really proud of what our team and @betterment have been able to ac\u2026",
+        "created_at": "2022-01-04 16:20:34+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478397035523055617,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478391870879318027,
+        "text": "Up until this point, I've only learned how to surf the web \ud83e\udd72",
+        "created_at": "2022-01-04 15:44:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1478391676578287620,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478391676578287620,
+        "text": "I've shared this both on LinkedIn and IG: what's something you're wanting to learn this year? What's something you've always wanted to learn but you've been too afraid to? Let's get through some bucket list items together! My two are sewing and surfing :) https://t.co/CAOUSgEieK",
+        "created_at": "2022-01-04 15:43:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476555990321762305,
+        "text": "Welp, it happened. I had a code-related nightmare last night and it was about HTML emails \ud83d\ude2d",
+        "created_at": "2021-12-30 14:09:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475895273847148553,
+        "text": "RT @rose_w: 2 years ago the start up I was at gave everyone 2 hours notice and closed their doors in Dec. Job hunting over the holidays is\u2026",
+        "created_at": "2021-12-28 18:23:48+00:00",
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474439560721432576,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1475894892060725249,
+        "text": "@rose_w Test Double is hiring! We are looking for senior/staff engineers with 4+ years of experience in Ruby, React, Java, and Elixir who are confident communicators and creative problem solvers. We are 100% remote &amp; 100% employee owned. DM me or apply here: https://t.co/NW7AI09sty",
+        "created_at": "2021-12-28 18:22:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15384679,
+        "referenced_tweets": {
+            "id": 1474439560721432576,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475837050385534990,
+        "text": "The slack channels this week https://t.co/EeqIEUfuqI",
+        "created_at": "2021-12-28 14:32:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473295721050906628,
+        "text": "My lifelong relentless optimism is fading but I'm hanging in there. BTW the army national guard folks at my local vaccination site put this poster up and it brightened my day when I got my booster yesterday \ud83d\udc9a they have been stationed in my county since January \ud83d\ude31 https://t.co/2u5dA0g7AD",
+        "created_at": "2021-12-21 14:14:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472734877401419778,
+        "text": "my favorite type of before and after. all is well with my soul! nothing like some reconditioning, clean bearings, and new wheels (that light up, of course \ud83d\ude0e) https://t.co/M3lXRIDdwM",
+        "created_at": "2021-12-20 01:05:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1471860884804931590,
+        "text": "Around this time of year I would typically be writing an absurd amount of holiday marketing HTML emails. While I do enjoy writing code and I liked my work as a dev, I do not miss the agency holiday deadlines and I especially don't miss those deadlines being HTML email related!",
+        "created_at": "2021-12-17 15:12:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1471500774714667015,
+        "text": "Long story short, @rollersk8nation shipped my new laces, wheels, and other gear in under an hour yesterday! So excited to give my skates the care and love they deserve after being forgotten in the corner of my closet for so long. Excited to hit the rink and maybe the track!",
+        "created_at": "2021-12-16 15:21:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1471500378835341320,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1471500378835341320,
+        "text": "I had been skating on the same wheels for at least 2 seasons, and I can't tell you the last time I bought new bearings. I had always kept up with maintenance, though, until the end. So yesterday I was looking at my skates and decided it was time to update!",
+        "created_at": "2021-12-16 15:20:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1471499895504732161,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1471499895504732161,
+        "text": "My skates were looking a little sad. I rode them rough in 2016 - so many tournaments and bouts and I didn't have that much money at the time, or during the 6 years of previous derby seasons.",
+        "created_at": "2021-12-16 15:18:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1471499076470394892,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1471499076470394892,
+        "text": "And by \"hanging my skates up\" I seriously mean that I put my skates back in the back of my closet and didn't skate, watch derby, or even look at my skates until about 6 months ago. I had a lot of feelings surrounding skating and derby and I needed that break.",
+        "created_at": "2021-12-16 15:14:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1471498846635114498,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1471498846635114498,
+        "text": "Coming out of skating retirement since hanging my skates up in 2016 after my last concussion and burning myself out during the WFTDA 2016 season. I'm starting with the basics - wearing my skates while at my standing desk! My work is already fun, so this is perfect!",
+        "created_at": "2021-12-16 15:13:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469369599871406080,
+        "text": "RT @cometleonard: Hello Earthlings! This is me as seen from the UK! Follow me for daily updates on my distance and my position\n#FollowTheCo\u2026",
+        "created_at": "2021-12-10 18:13:06+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1469343251211632650,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1469312882873708547,
+        "text": "RT @wnb_rb: We'd love to see more women and non binary people as speakers at tech conferences. That's why we open the stage of our February\u2026",
+        "created_at": "2021-12-10 14:27:44+00:00",
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1469030871453683717,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1469032360389849098,
+        "text": "Despite the guilt trips from @duolingo every time I accidentally open it, I am proud of this number. I can honestly say I've never spent this much time learning a foreign language. I was learning Japanese! Maybe I will keep learning soon (pls don't threaten me, duo) https://t.co/reNIh4bhDV",
+        "created_at": "2021-12-09 19:53:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1461017800328331264,
+        "text": "As a side note, an additional challenge facing my friend is that he doesn't even have WiFi available at his house. He lives here in my own community and I didn't even realize that there was still a huge lack of access to what most of us would consider a basic necessity.",
+        "created_at": "2021-11-17 17:06:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1461015536037507079,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1461015536037507079,
+        "text": "It's an issue that many folks in my own community face. If you're just barely keeping your head above water, it's hard to even dream for yourself or envision yourself outside of the constant struggle. If you can, help folks any way you can. We all make it through together.",
+        "created_at": "2021-11-17 16:57:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1461015229521965060,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1461015229521965060,
+        "text": "While so many of us are fortunate to have seemingly endless opportunities, it's not so easy for so many people out there. Lack of opportunity, depression, disability, and lack of education are some of the many hurdles people are still trying to navigate.",
+        "created_at": "2021-11-17 16:55:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1461014945647284228,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1461014945647284228,
+        "text": "Celebrating today because I got a call from a friend that he got a job!! He lost his during the pandemic and we worked together on building him up and finding opportunities that would be a good fit for him. It's not easy out there for entry-level folks!",
+        "created_at": "2021-11-17 16:54:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1452980043379089420,
+        "text": "Also I'm constantly astonished by his work \ud83d\ude2d It's perfection. The art, the gameplay, the dialogue, THE MUSIC?? What can't he do??",
+        "created_at": "2021-10-26 12:46:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299355679996739585,
+        "referenced_tweets": {
+            "id": 1452979596652158981,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1452979596652158981,
+        "text": "If I'm being totally transparent with y'all, @ConcernedApe's Stardew Valley got me through a really rough round of SAD last year. I still play weekly with my friends. So excited for Haunted Chocolatier in the future!",
+        "created_at": "2021-10-26 12:45:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1451170153291522053,
+        "text": "Yes, I am the person who emails a company back if they sent me either an email that looks broken (with all the specs, of course) or has a templating issue. I would want to know!",
+        "created_at": "2021-10-21 12:55:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1450170747146706946,
+        "text": "Appreciative of the Community Leadership Summit being available virtually at @AllThingsOpen today! Learning so much &amp; grateful to be able to attend #ATO2021",
+        "created_at": "2021-10-18 18:43:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1445078216243400704,
+        "text": "RT @devdevcharlie: Built a small demo for my hands-free coding experiment.\n\nManaged to write a little React component w/ my eyes in &lt; 30s!\u2026",
+        "created_at": "2021-10-04 17:27:49+00:00",
+        "public_metrics": {
+            "retweet_count": 517,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1444861827427356676,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1440421812307857412,
+        "text": "thanks, I love it https://t.co/6S1tbBKgH3",
+        "created_at": "2021-09-21 21:04:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1440395384044490756,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1300397844420067335,
+        "text": "RT @JescoWuester: Hey @steveschoger , I took your list of well designed pages and made it searchable by page/component type. Thought it may\u2026",
+        "created_at": "2020-08-31 11:39:40+00:00",
+        "public_metrics": {
+            "retweet_count": 96,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1299852229776728066,
+            "type": "retweeted"
+        }
+    }
+]

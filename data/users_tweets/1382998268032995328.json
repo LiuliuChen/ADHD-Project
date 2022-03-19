@@ -1,0 +1,5615 @@
+[
+    {
+        "tweet_id": 1504143037781676032,
+        "text": "@Im_random_yes I reject your false dichotomy, get both!",
+        "created_at": "2022-03-16 17:10:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1306180372812779520,
+        "referenced_tweets": {
+            "id": 1504132278158598145,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504044127054442498,
+        "text": "If (!bitches)\n{ \n    get.bitches();\n};",
+        "created_at": "2022-03-16 10:37:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503848309798191110,
+        "text": "RT @CaoYi_MFA: 1 / \u0627\u062a\u0647\u0645 \u0627\u0644\u0628\u0639\u0636 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u0635\u064a\u0646 \u0628\u0646\u0634\u0631 \"\u0646\u0638\u0631\u064a\u0629 \u0627\u0644\u0645\u0624\u0627\u0645\u0631\u0629\" \u0648\"\u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u0645\u0636\u0644\u0644\u0629\" \u062d\u0648\u0644 \u0627\u0644\u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0628\u064a\u0648\u0644\u0648\u062c\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0641\u064a \u0623\u0648\u0643\u0631\u2026",
+        "created_at": "2022-03-15 21:39:11+00:00",
+        "public_metrics": {
+            "retweet_count": 668,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503454382205153288,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503489397144100865,
+        "text": "I cant believe twitter banned me on my birthday... anyway, im back, bitches",
+        "created_at": "2022-03-14 21:53:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500630700298584067,
+        "text": "RT @thinking_panda: On twitter, as a Chinese, the most frequently asked question for me is, why don't you oppose the CPC? Why don't Chinese\u2026",
+        "created_at": "2022-03-07 00:33:33+00:00",
+        "public_metrics": {
+            "retweet_count": 2050,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1305784641262026752,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500585417573376001,
+        "text": "Im better than yall\nWordle 260 3/6\n\n\u2b1c\u2b1c\u2b1c\u2b1c\u2b1c\n\u2b1c\ud83d\udfe8\ud83d\udfe9\u2b1c\ud83d\udfe8\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+        "created_at": "2022-03-06 21:33:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500492050877370377,
+        "text": "@CaoYi_MFA \u0648\u064a\u0642\u0648\u0644\u0648\u0646 \u0627\u0646 \u0644\u062f\u064a\u0647\u0645 \u062d\u0631\u064a\u0629 \u062a\u0639\u0628\u064a\u0631 \u0639\u0646 \u0627\u0644\u0631\u0623\u064a",
+        "created_at": "2022-03-06 15:22:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 995265275481284608,
+        "referenced_tweets": {
+            "id": 1500356610430226435,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500470315234873346,
+        "text": "RT @XiaoYewen: \"Freedom of speech\" in the West  means freedom of having someone with different opinions shut up.",
+        "created_at": "2022-03-06 13:56:15+00:00",
+        "public_metrics": {
+            "retweet_count": 107,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500221259937763328,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500449724196954115,
+        "text": "RT @PortlandCPUSA: Today we remember Josef Stalin, an incredible revolutionary that the world lost almost 70 years ago. His contributions a\u2026",
+        "created_at": "2022-03-06 12:34:25+00:00",
+        "public_metrics": {
+            "retweet_count": 149,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500178281387085825,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500443758650925058,
+        "text": "@Blake3one7 @Commander_Ivy Not very freedom of speech of you and them ngl",
+        "created_at": "2022-03-06 12:10:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1436763547,
+        "referenced_tweets": {
+            "id": 1500287973832626178,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500267747472728067,
+        "text": "You can block me on social media, but you can't unhold my penis while i was peeing on the side of the road",
+        "created_at": "2022-03-06 00:31:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500236033824329728,
+        "text": "@hjmendelsohn @Banzisto @Qba_kozak @EmbassyofRussia @mfa_russia @PMSimferopol @RusConsCapetown @mahasharampedi @SABCNews @ThabisoLehoko @MID_Kaliningrad @RusEmbEthiopia @georgegalloway @calebmaupin Enjoy your boot, i guess",
+        "created_at": "2022-03-05 22:25:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41898195,
+        "referenced_tweets": {
+            "id": 1500233334756032512,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500229385084940289,
+        "text": "@hjmendelsohn @Banzisto @Qba_kozak @EmbassyofRussia @mfa_russia @PMSimferopol @RusConsCapetown @mahasharampedi @SABCNews @ThabisoLehoko @MID_Kaliningrad @RusEmbEthiopia @georgegalloway @calebmaupin Kol airy ya ibn el menteke, go let someone who is lebanese translate that to you lmao, you expect me to doz myself for you? You are free to believe me and go educate yourself or dont and stay in your echo chamber licking american boots",
+        "created_at": "2022-03-05 21:58:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41898195,
+        "referenced_tweets": {
+            "id": 1500224176686256130,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500143042711494658,
+        "text": "@CaoYi_MFA \u0645\u0639\u062f\u0644 \u0627\u0644\u0646\u0645\u0648 \u0644\u0644\u0633\u0643\u0627\u0646 \u0644\u0644\u0648\u064a\u063a\u0648\u0631 \u0641\u064a \u0634\u064a\u0646\u062c\u064a\u0627\u0646\n\u0645\u0639\u062f\u0644 \u0627\u0644\u0646\u0645\u0648 \u0644\u0644\u0633\u0643\u0627\u0646 \u0641\u064a \u0627\u0644\u0635\u064a\u0646",
+        "created_at": "2022-03-05 16:15:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 995265275481284608,
+        "referenced_tweets": {
+            "id": 1500141499895398402,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500141047757824017,
+        "text": "@zito142 @EmbassyofRussia @MbalulaFikile @mfa_russia @PMSimferopol @RusConsCapetown @mahasharampedi @SABCNews @ThabisoLehoko @MID_Kaliningrad @RusEmbEthiopia @georgegalloway @calebmaupin No, they can't de ide to kill the people of the donbass for 8 years and not have people draw a line",
+        "created_at": "2022-03-05 16:07:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1486048875270053888,
+        "referenced_tweets": {
+            "id": 1500025200938737669,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500140446915387392,
+        "text": "@hjmendelsohn @Banzisto @Qba_kozak @EmbassyofRussia @mfa_russia @PMSimferopol @RusConsCapetown @mahasharampedi @SABCNews @ThabisoLehoko @MID_Kaliningrad @RusEmbEthiopia @georgegalloway @calebmaupin As a lebanese guy, lebanon was the victim of many terrorist attacks coming from syrian rebels until russia intervened. Stop spitting western propaganda",
+        "created_at": "2022-03-05 16:05:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41898195,
+        "referenced_tweets": {
+            "id": 1500093631612571648,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499833066524745739,
+        "text": "RT @richimedhurst: Zelensky said this is the first time in history a country (Russia) has targeted a nuclear plant. Actually, that's not tr\u2026",
+        "created_at": "2022-03-04 19:44:03+00:00",
+        "public_metrics": {
+            "retweet_count": 4110,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499590809913602054,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499548807972990978,
+        "text": "How do i make a twitter bot that comments this picture on braindead ukrain-russia takes? https://t.co/wRobr9jExa",
+        "created_at": "2022-03-04 00:54:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499548568641839105,
+        "text": "@Millward434 @shutupmoaner @CaoYi_MFA https://t.co/69OWO3DQuc",
+        "created_at": "2022-03-04 00:53:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3010273272,
+        "referenced_tweets": {
+            "id": 1499461322114682909,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499548227854548992,
+        "text": "@Jimbodiddley @CaoYi_MFA https://t.co/XQaQIBiI7A",
+        "created_at": "2022-03-04 00:52:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 18219274,
+        "referenced_tweets": {
+            "id": 1499433658779844613,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499547670452617219,
+        "text": "@pavel23 @yanisvaroufakis @Joccck https://t.co/HTddkixGDJ",
+        "created_at": "2022-03-04 00:49:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17177278,
+        "referenced_tweets": {
+            "id": 1499393052657348611,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499543719275597833,
+        "text": "RT @revdefeat: Westerners shouldnt form opinions on \ud83c\uddfa\ud83c\udde6 until they've read up on these orgs &amp; their integration within the post-2014 \ud83c\uddfa\ud83c\udde6 govt\u2026",
+        "created_at": "2022-03-04 00:34:17+00:00",
+        "public_metrics": {
+            "retweet_count": 491,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499298966109786112,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499538377070231557,
+        "text": "@MarxMidwest You are non ironically the only white western communist that doesn't have braindead takes that i have seen online, its sad to see how you get treated, keep up the good job from a comrade of the global south.",
+        "created_at": "2022-03-04 00:13:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1295505639926640641,
+        "referenced_tweets": {
+            "id": 1499396557258559489,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499533181552410624,
+        "text": "Fucking gigachad https://t.co/PTROSpNAIn",
+        "created_at": "2022-03-03 23:52:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496583319257075722,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1499532047483916290,
+        "text": "The first second and third worlds make a comeback \ud83d\udc80\ud83d\udc80 https://t.co/sLi2KsT8rF",
+        "created_at": "2022-03-03 23:47:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499034632808927235,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1499529844463480837,
+        "text": "@DisquietPessoa @ASBMilitary Liberator",
+        "created_at": "2022-03-03 23:39:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1104137715749130240,
+        "referenced_tweets": {
+            "id": 1499431343498960900,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499509182856372228,
+        "text": "DPR chad captures Nazi cuck https://t.co/1aZOQLoJyf",
+        "created_at": "2022-03-03 22:17:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499506629988995082,
+        "text": "https://t.co/fnGr1dbsAn",
+        "created_at": "2022-03-03 22:06:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499176471985893377,
+        "text": "RT @DPRK_IIHF: The DPR built a monument to Givi  \u26ab\ud83d\udd35\ud83d\udd34 https://t.co/k52mkTaZa7",
+        "created_at": "2022-03-03 00:14:58+00:00",
+        "public_metrics": {
+            "retweet_count": 157,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499072859880267778,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499175047302463490,
+        "text": "@_slantedsociety @MAslam_Lak @Truthte83602973 @ASBMilitary I mean putin already said it, russia's military capapbilities are nothing compared to the entirety of NATO, but what russia does have, is a huge arsenal of nuclear weapons, so that means everyone on earth will die in a nuclear winter Grow the fuck up the world is not a video game",
+        "created_at": "2022-03-03 00:09:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 932199434674372608,
+        "referenced_tweets": {
+            "id": 1498975626660917249,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499001555843956747,
+        "text": "RT @CarlZha: Canadian Embassy in Beijing put up \u201cWe support Ukraine\u201d sign in Chinese. \n\nFew hrs later... https://t.co/CIB3klI9LU",
+        "created_at": "2022-03-02 12:39:55+00:00",
+        "public_metrics": {
+            "retweet_count": 1285,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498992952609099778,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498923116281614337,
+        "text": "My day be so fine the boom, i remember glrbachev is is still alive https://t.co/AKbjiXrnP7",
+        "created_at": "2022-03-02 07:28:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498812020543610881,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1498643726108868621,
+        "text": "@gee7724 @JaoSmokin @jguberne @FT Well given that the US and UK keep backing extreemist reigimes, no. It will once you guys stop interfering you racist fuck",
+        "created_at": "2022-03-01 12:58:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 26455188,
+        "referenced_tweets": {
+            "id": 1498478973168373760,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498643292606668803,
+        "text": "@xxSolusGodxx @CasellasRichard @FT Cool story, when is the west gonna pay reparations for the entire global south then?",
+        "created_at": "2022-03-01 12:56:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1490664968328515586,
+        "referenced_tweets": {
+            "id": 1498591678164307968,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498643064985903105,
+        "text": "@CasellasRichard @FT Cope and seethe western imperialist",
+        "created_at": "2022-03-01 12:55:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3295413585,
+        "referenced_tweets": {
+            "id": 1498458129151016963,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498614946086719488,
+        "text": "Literally all you need to know about them https://t.co/6TbrYhi1Td",
+        "created_at": "2022-03-01 11:03:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498298842864922635,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1498609593764790272,
+        "text": "@Im_random_yes im dropping a follow just for the anti malfouf business, carry on",
+        "created_at": "2022-03-01 10:42:24+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1306180372812779520,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498468133304250371,
+        "text": "RT @Xinhua_88: China lifts all restrictions on wheat imports from Russia, This is to provide a lifeline to Russian economy amid western san\u2026",
+        "created_at": "2022-03-01 01:20:17+00:00",
+        "public_metrics": {
+            "retweet_count": 84,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498263892212002820,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498468054254198784,
+        "text": "@OhThatsJustRich @BadPostsLLC @JaneOst_ Im gonna give you benefit of the doubt about knowing what the russians want to do/are doing... You do know that tanks have breaks and can stop right?",
+        "created_at": "2022-03-01 01:19:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 848645966,
+        "referenced_tweets": {
+            "id": 1498419430249799680,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498451225628585985,
+        "text": "@ZEROSUlTSAMUS I told you so - edward said",
+        "created_at": "2022-03-01 00:13:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 968135038142357505,
+        "referenced_tweets": {
+            "id": 1498383907397402624,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498451034720673792,
+        "text": "RT @ISeeDanger_: Thread of sources on Ukraine that can't be dismissed as Russian propaganda. If you have more please link them below.\n1. Uk\u2026",
+        "created_at": "2022-03-01 00:12:21+00:00",
+        "public_metrics": {
+            "retweet_count": 743,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498358565576208386,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498427948625453062,
+        "text": "@kirbyseIecta @fcsm_eng Because politics is not allowed in football and you can be fined just like what happened to anyone that expressed support for palestine when they were getting bombed by israel, yall westerners are hypocrites",
+        "created_at": "2022-02-28 22:40:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1311585891756933122,
+        "referenced_tweets": {
+            "id": 1498374017245495307,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498426076988592131,
+        "text": "RT @non_philosophy: idk, Western media people kinda being a little bit racist right now \ud83d\ude33 (a thread)",
+        "created_at": "2022-02-28 22:33:10+00:00",
+        "public_metrics": {
+            "retweet_count": 31912,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498000420815396872,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498425661937045505,
+        "text": "@MatteoCaldanel1 @fcsm_eng When fans and players expressed support for palestine and gaza they got fined because \"football is no place for politics\" why is it different now?",
+        "created_at": "2022-02-28 22:31:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 836677416194027520,
+        "referenced_tweets": {
+            "id": 1498379911819665413,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498425264006524932,
+        "text": "When people expressed support for palestine, they got fined... https://t.co/XYcmAuHlgy",
+        "created_at": "2022-02-28 22:29:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498372318556422144,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1498422399141920768,
+        "text": "Lmao orientalism but the quiet part is said out loud https://t.co/L4KEhjpYEf",
+        "created_at": "2022-02-28 22:18:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498422121588006914,
+        "text": "@syncretica @twgahler @RTSG_Kojeve @ASBMilitary Lmao told you not to engage with the likes of him, too braindead to see the world",
+        "created_at": "2022-02-28 22:17:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445090028271673353,
+        "referenced_tweets": {
+            "id": 1498416015184650243,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498414275244838914,
+        "text": "@syncretica @twgahler @RTSG_Kojeve @ASBMilitary Bruh no need to entertain the likes of him by taking them seriously, he is clearly willfully ignorant and nothingyou can say will get past his cognitive dissonance. They cant accept the fact that they are the evil empire",
+        "created_at": "2022-02-28 21:46:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445090028271673353,
+        "referenced_tweets": {
+            "id": 1498411990921981965,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498391811332714496,
+        "text": "@twgahler @syncretica @RTSG_Kojeve @ASBMilitary Are you shitting me? Learn about the history of your fucking empire, to reduce all the evil that was done into \"mistakes\" is just fucking brilliant.",
+        "created_at": "2022-02-28 20:17:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 176477267,
+        "referenced_tweets": {
+            "id": 1498340528278192131,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498361802886897676,
+        "text": "RT @nbjewbolshevik: \u201cbut zelensky is jewish, ukraine can\u2019t be antisemitic\u201d is going to be my joker arc",
+        "created_at": "2022-02-28 18:17:46+00:00",
+        "public_metrics": {
+            "retweet_count": 413,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498020623435636742,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498358181856268290,
+        "text": "@nik12313 @ASBMilitary Who is gonna fly them?",
+        "created_at": "2022-02-28 18:03:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1497324024631730179,
+        "referenced_tweets": {
+            "id": 1498253981331574785,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498340024244477955,
+        "text": "@twgahler @syncretica @RTSG_Kojeve @ASBMilitary No he isn't, the american empire is the worst thing in existence and anything that destabilise it is for the good of mankind",
+        "created_at": "2022-02-28 16:51:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 176477267,
+        "referenced_tweets": {
+            "id": 1498304538868125702,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498338064950833154,
+        "text": "@Starskiwars2 @MarxMidwest If you honestly can't make the connection you are just stupider than i thought, i guess what they say about US school system is worse than i imagined",
+        "created_at": "2022-02-28 16:43:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1105162895137095680,
+        "referenced_tweets": {
+            "id": 1498290312460095488,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498288774794690563,
+        "text": "@Starskiwars2 @MarxMidwest You literally said countering nato aggression is fascism, but then again you are a westerner, chauvinism is gard for yall to get rid off, eddy here at least shows me that it is possible.",
+        "created_at": "2022-02-28 13:27:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1105162895137095680,
+        "referenced_tweets": {
+            "id": 1498267064850657288,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498264939299016705,
+        "text": "@Starskiwars2 @MarxMidwest Actually you do, it keeps you from having stupid takes like this, you would be doing himanity a favor if you stfu honestly. Western imperial apologist",
+        "created_at": "2022-02-28 11:52:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1105162895137095680,
+        "referenced_tweets": {
+            "id": 1498251527097565184,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498250851323977729,
+        "text": "@Starskiwars2 @MarxMidwest That is the liberal understanding, to get the marxist understanding of it i suggest instead of googleling something after talking about it, you read imperialsim by VI Lenin, because it does not mean, \"when a government does military thing\"",
+        "created_at": "2022-02-28 10:56:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1105162895137095680,
+        "referenced_tweets": {
+            "id": 1498188720209596420,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498107327848886272,
+        "text": "RT @BelfastBranch: We know Volodymyr Zelenskyy\u2019s views on occupation when it comes to other countries, the man who supports the occupation\u2026",
+        "created_at": "2022-02-28 01:26:35+00:00",
+        "public_metrics": {
+            "retweet_count": 55,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497993519675461642,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498105999378497539,
+        "text": "@Iwobrand @ASBMilitary The ukranian state border guard just confirmed that they are all alive and taken POW",
+        "created_at": "2022-02-28 01:21:18+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 739905789511471104,
+        "referenced_tweets": {
+            "id": 1497903408619171843,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498104508592885773,
+        "text": "Lmfaooo https://t.co/w2h043YzWP",
+        "created_at": "2022-02-28 01:15:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498103343155085315,
+        "text": "@Starskiwars2 @MarxMidwest What is imperialism?",
+        "created_at": "2022-02-28 01:10:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1105162895137095680,
+        "referenced_tweets": {
+            "id": 1497748376959565825,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498101073759940608,
+        "text": "Why aren't all the humanitarian anti-war people not talking about how the US bombed somalia 2 days ago?",
+        "created_at": "2022-02-28 01:01:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497979243581558793,
+        "text": "RT @MaxistLeninist: 'But nazis are only a minority in the Ukranian military!' \n\nAre these people saying there is an acceptable amount of na\u2026",
+        "created_at": "2022-02-27 16:57:37+00:00",
+        "public_metrics": {
+            "retweet_count": 459,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497570275713761283,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497978216912457728,
+        "text": "Found out today that givi was killed in 2017 \ud83d\ude14. Another reason to wish for the downfall of the ukranian government https://t.co/PS53FByRho",
+        "created_at": "2022-02-27 16:53:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497943812752257031,
+        "text": "Credit: @iHeartJamul https://t.co/f3fiARlmKm",
+        "created_at": "2022-02-27 14:36:50+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497613071937855490,
+        "text": "Lmfaoooo https://t.co/ra1UVd8vlk",
+        "created_at": "2022-02-26 16:42:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497352540509376512,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1497612980212674564,
+        "text": "RT @TheAcherons: Not to speculate &amp; get the tin foil hats out, but I think it's very suspicious &amp; telling that the US, NATO, et al. all dec\u2026",
+        "created_at": "2022-02-26 16:42:13+00:00",
+        "public_metrics": {
+            "retweet_count": 131,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497342112123305995,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497547380748697600,
+        "text": "@YourfavPrem @liu87393221 @TheDrowse @Karl_Was_Right I literally pointed out that your argument what was whataboutism, its not my fault you dont understand logical fallacies",
+        "created_at": "2022-02-26 12:21:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1137686699222286336,
+        "referenced_tweets": {
+            "id": 1497417180295491588,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497402273516953605,
+        "text": "@YourfavPrem @liu87393221 @TheDrowse @Karl_Was_Right My guy atfu i already proved that you are an idiot that knows nothing about anything, spare me your whataboutism",
+        "created_at": "2022-02-26 02:44:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1137686699222286336,
+        "referenced_tweets": {
+            "id": 1497380174668578816,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497016561139396609,
+        "text": "@TheDrowse @YourfavPrem @liu87393221 @Karl_Was_Right Where were they last year when palestinians were being murdered? Where are they now while yemen is being starved? Its not about himanitarian aid, its just nato expansionism, and the \"internation community\" just means western leaders.",
+        "created_at": "2022-02-25 01:12:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 852185568,
+        "referenced_tweets": {
+            "id": 1497016019994382336,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497016065158791169,
+        "text": "@YourfavPrem @TheDrowse @liu87393221 @Karl_Was_Right No, us and nato did a coup in ukraine in 2014 then dangled the nato membership infront of ukraine to try and encircle russia, this whole thing has been going on for 8 years now, and nato expanding is a bad thing",
+        "created_at": "2022-02-25 01:10:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1137686699222286336,
+        "referenced_tweets": {
+            "id": 1497015630213517340,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497015812913250311,
+        "text": "My twitter feed is full of thirst traps and russian-ukraine updates, im starting to get confused and get a boner every time i see Cyrillic",
+        "created_at": "2022-02-25 01:09:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497012940561551375,
+        "text": "RT @richimedhurst: NATO said it won't be sending troops to Ukraine.\n\nThe West dangled NATO membership in front of Ukraine for years, just t\u2026",
+        "created_at": "2022-02-25 00:57:52+00:00",
+        "public_metrics": {
+            "retweet_count": 4178,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496920096647757824,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497011265394278401,
+        "text": "Lmfao the ukranian neo-nazi azov battalion has been almost wiped out by heavy artillery",
+        "created_at": "2022-02-25 00:51:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497009195383767049,
+        "text": "@YourfavPrem @TheDrowse @liu87393221 @Karl_Was_Right US intervenes in global wouth countries and kills people, have you been living under a rock for the past 100 years?",
+        "created_at": "2022-02-25 00:42:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1137686699222286336,
+        "referenced_tweets": {
+            "id": 1497007127272968197,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497009070355943427,
+        "text": "@YourfavPrem @liu87393221 @TheDrowse @Karl_Was_Right Ukraine literally have a neonazi organization as part of their military. (azov battalion) literaly educate yourself",
+        "created_at": "2022-02-25 00:42:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1137686699222286336,
+        "referenced_tweets": {
+            "id": 1497007714190331904,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497006815514558465,
+        "text": "@YmHu7DqnSC2ah9d \u0647\u0630\u0647 \u062f\u0628\u0627\u0628\u0627\u062a T-64 BV \u062a\u0627\u0628\u0639\u0629 \u0644\u0644\u062c\u064a\u0634 \u0627\u0644\u0627\u0648\u0643\u0631\u0627\u0646\u064a",
+        "created_at": "2022-02-25 00:33:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1453598944739708929,
+        "referenced_tweets": {
+            "id": 1496838230888566787,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497002327923961857,
+        "text": "@TheDrowse @liu87393221 @YourfavPrem @Karl_Was_Right No. No they can't, international trade and diplomasy is leading to nothing but masses of people dying in the global south due to US intervention, anything that destabilise the US empire is a good thing",
+        "created_at": "2022-02-25 00:15:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 852185568,
+        "referenced_tweets": {
+            "id": 1496992553953947657,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497001960112861186,
+        "text": "@YourfavPrem @liu87393221 @TheDrowse @Karl_Was_Right Ohh no the ukrainian people want to facilitate the global hegemony of the US, so we need to let them, fuck no! Them nazis can fuck right off",
+        "created_at": "2022-02-25 00:14:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1137686699222286336,
+        "referenced_tweets": {
+            "id": 1496991115257344011,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496989002942976000,
+        "text": "@YourfavPrem @liu87393221 @TheDrowse @Karl_Was_Right Russia is attacking ukraine to stop them from joining nato, its called acting before something happens. Had the US not couped the ukrainian govt in 2014 none of this would be happening. Educate yourself",
+        "created_at": "2022-02-24 23:22:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1137686699222286336,
+        "referenced_tweets": {
+            "id": 1496985016819073024,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496791820826722305,
+        "text": "@games_tray @Karl_Was_Right Ahh yes the all lives matter take of empirialism. I swear westerners are a differenr breed.",
+        "created_at": "2022-02-24 10:19:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1283936105268514816,
+        "referenced_tweets": {
+            "id": 1496771420063367175,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496791594086723584,
+        "text": "@YourfavPrem @liu87393221 @TheDrowse @Karl_Was_Right Because the US and NATO have hegemonic cobtrol over the globe and anything to destabilise thatcis actually good, even if its lesser imperialism by other capitalist countries. The US remains the # 1 enemy.",
+        "created_at": "2022-02-24 10:18:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1137686699222286336,
+        "referenced_tweets": {
+            "id": 1496654192781324289,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496544237403389953,
+        "text": "RT @uhmmkristina: https://t.co/hjHjzUCJhl",
+        "created_at": "2022-02-23 17:55:25+00:00",
+        "public_metrics": {
+            "retweet_count": 9070,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496094035349540866,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496543676117524492,
+        "text": "@RaulWolfBruning @chenweihua @AP You mean liberation",
+        "created_at": "2022-02-23 17:53:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4577476035,
+        "referenced_tweets": {
+            "id": 1496135337705447438,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496543583490523141,
+        "text": "@chenweihua @CaoYi_MFA @AP It should be called the iraqi genocide since it lead to the death of over a million iraqis",
+        "created_at": "2022-02-23 17:52:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 88702710,
+        "referenced_tweets": {
+            "id": 1496134684316688395,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496422324026892291,
+        "text": "Me: *seeing a new therapist*\nTherapist: ok so now i wont say anything im gonna let you talk sbout anything that comes to mind\nMe: *rambles for exactly 5 mins*\nTherapist: ok, so you have depression, do you agree with that?\nMe: \ud83d\udc41\ud83d\udc44\ud83d\udc41",
+        "created_at": "2022-02-23 09:50:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495475987961847808,
+        "text": "@Patrick78565951 @JimothyRimothy @lfromsocal @95Smokey Bruh they calling me insane because im calling them out on their shit, they are used to people from the global south looking to them as saviours rather than oppressors.",
+        "created_at": "2022-02-20 19:10:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1490375799601614851,
+        "referenced_tweets": {
+            "id": 1495458174232629250,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494397390425665538,
+        "text": "Im better than yall\nWordle 243 3/6\n\n\u2b1c\u2b1c\u2b1c\ud83d\udfe8\u2b1c\n\ud83d\udfe9\u2b1c\ud83d\udfe9\u2b1c\ud83d\udfe8\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+        "created_at": "2022-02-17 19:44:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494394340529119236,
+        "text": "@JimothyRimothy @lfromsocal @95Smokey Then why are you licking american boots? Thats even worse... you know that right?",
+        "created_at": "2022-02-17 19:32:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1464998795851317253,
+        "referenced_tweets": {
+            "id": 1494390296666427398,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494394146915823618,
+        "text": "@MstrWaterbender @angrymaxfuryst @alexsoc99 @95Smokey @Doopery_Doop Ohh thank you great american overlord for only killing some of us... get fucked sanctions kill less americans war at least ensures some of you fuckers die aswell",
+        "created_at": "2022-02-17 19:31:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 464497740,
+        "referenced_tweets": {
+            "id": 1494389813776027657,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494317167780712453,
+        "text": "@JimothyRimothy @lfromsocal @95Smokey US has the right view, US view is imperialism, -&gt; right view is imperialism, wow the US education system is worse than i thought, yall too stupid for yourselves even",
+        "created_at": "2022-02-17 14:25:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1464998795851317253,
+        "referenced_tweets": {
+            "id": 1494287694146514946,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494273107888152578,
+        "text": "@lfromsocal @95Smokey The right view is imperialsm?",
+        "created_at": "2022-02-17 11:30:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1384392733188509696,
+        "referenced_tweets": {
+            "id": 1494208340963983360,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494272667842662403,
+        "text": "@MstrWaterbender @angrymaxfuryst @alexsoc99 @95Smokey @Doopery_Doop Still imperialism you chauvinist twat",
+        "created_at": "2022-02-17 11:29:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 464497740,
+        "referenced_tweets": {
+            "id": 1494212366652755971,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493029059688906752,
+        "text": "@skepticalspice Everyone working and investing in this needs to be killed",
+        "created_at": "2022-02-14 01:07:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 366666997,
+        "referenced_tweets": {
+            "id": 1492661782397308933,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491623340360052744,
+        "text": "RT @Troydiscospider: https://t.co/GoULqjcsWN",
+        "created_at": "2022-02-10 04:01:32+00:00",
+        "public_metrics": {
+            "retweet_count": 127,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491514611425853447,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491374901109821440,
+        "text": "Alright campers, today's challenge is...\nTo find a reason to keep going",
+        "created_at": "2022-02-09 11:34:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491374704015253504,
+        "text": "I often think about the girl that told me the SSNP to commie pipeline is a thing. Ill never forget you",
+        "created_at": "2022-02-09 11:33:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490467737457594375,
+        "text": "@CaoYi_MFA We need lebanon to join this initiative",
+        "created_at": "2022-02-06 23:29:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 995265275481284608,
+        "referenced_tweets": {
+            "id": 1490284772152811524,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490467732399271937,
+        "text": "@IdrisDangalan @CaoYi_MFA Its not modern globalisation, its internationalism",
+        "created_at": "2022-02-06 23:29:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 216088342,
+        "referenced_tweets": {
+            "id": 1490387452611153922,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490455712035713032,
+        "text": "@DengistDuck @Indescribled Which theory?",
+        "created_at": "2022-02-06 22:41:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2926378774,
+        "referenced_tweets": {
+            "id": 1490071123584770052,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490455379855224839,
+        "text": "God feared my horniness so he gave men a cooldown for nutting",
+        "created_at": "2022-02-06 22:40:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490392018505416707,
+        "text": "@RealRousshoe CPR by cupcakke?",
+        "created_at": "2022-02-06 18:28:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1383494159407804416,
+        "referenced_tweets": {
+            "id": 1490351191372570630,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490391659091267585,
+        "text": "RT @Troydiscospider: only been saying this forever. https://t.co/Wpo61g4HSl",
+        "created_at": "2022-02-06 18:27:16+00:00",
+        "public_metrics": {
+            "retweet_count": 261,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490109337813012482,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490391574047567882,
+        "text": "@IndyyProg @ASG_ML @NotPotBol If they had nuked, they would have been nuked by the soviets, thus destroying the world, and they could not spend more, because it would not have been viable, making it a losing war for them. It literaly why the vietnamese applied guerilla warfare, because that is the point of it",
+        "created_at": "2022-02-06 18:26:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 745284356630056960,
+        "referenced_tweets": {
+            "id": 1489959332527554560,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489600543878270983,
+        "text": "@drainprofessor @ConSelfOwns If you can't beat them, join them",
+        "created_at": "2022-02-04 14:03:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1441048202556448770,
+        "referenced_tweets": {
+            "id": 1489305373727240195,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488951713520398342,
+        "text": "This bitch said she wants to \"fluff my aura\" then proceeded to tap on my face like its a keyboard. Im done with yall astrolohoes",
+        "created_at": "2022-02-02 19:05:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488951364428390414,
+        "text": "@TacoMajority @ROTTENFEMUR Bitches be hating because no one gives a shit about jordan",
+        "created_at": "2022-02-02 19:04:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1225479575544762369,
+        "referenced_tweets": {
+            "id": 1488946210266308619,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487879925973622787,
+        "text": "I just had a throw back to when i got out of the car to pee and my gf at that time got out aswell because she wanted to hold it for me \ud83d\udc80\ud83d\udc80\ud83d\udc80",
+        "created_at": "2022-01-30 20:06:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487879314154655744,
+        "text": "They always ask where you at?\nBut they never ask how you at?",
+        "created_at": "2022-01-30 20:04:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487758127843926019,
+        "text": "RT @CaoYi_MFA: https://t.co/bKhn5DdZYn",
+        "created_at": "2022-01-30 12:02:33+00:00",
+        "public_metrics": {
+            "retweet_count": 622,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487349684138123264,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487756576358293506,
+        "text": "@JChamata Lmfao please send king",
+        "created_at": "2022-01-30 11:56:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1426204198929149954,
+        "referenced_tweets": {
+            "id": 1487733454578069506,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487756347173220353,
+        "text": "Bruh bitches think im mansplaining, when i have ADHD and think am being nice, not realising how much im talking",
+        "created_at": "2022-01-30 11:55:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487212494300987392,
+        "text": "@FriskySocialist @HurricaneKnapp @CPUSA_LA I do feel that way about the entire communist movement in the US, because you said it, the largest communist movement there is useless.\nAlso i am not from the US, the US is not the entire world. Yall are fucking defensive as fuck given that yall are useless",
+        "created_at": "2022-01-28 23:54:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1481486178893320197,
+        "referenced_tweets": {
+            "id": 1487099863217049600,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487089543459311624,
+        "text": "@FriskySocialist @HurricaneKnapp @CPUSA_LA You dont need to be helpful to tell that someone is useless",
+        "created_at": "2022-01-28 15:45:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1481486178893320197,
+        "referenced_tweets": {
+            "id": 1487017577150914564,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486629079923232770,
+        "text": "Please let them both enlist, if we cant have good things we might aswell have funny things https://t.co/UIMzIQNjd7",
+        "created_at": "2022-01-27 09:16:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1486098082945286154,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1486343234729172994,
+        "text": "When people tell you its all in your head, \nNo! Fuck you karen! Mental illness is stored in the balls",
+        "created_at": "2022-01-26 14:20:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485757640886128642,
+        "text": "Can't wait to have ads streamed directly into my brain https://t.co/THxqVl1cVJ",
+        "created_at": "2022-01-24 23:33:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485019174355279879,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1485754842538782721,
+        "text": "How am i supposed to live laugh love in these conditions?",
+        "created_at": "2022-01-24 23:22:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485587141065383944,
+        "text": "Bitches love to be held, until it's accountable",
+        "created_at": "2022-01-24 12:15:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483395174587944960,
+        "text": "@hayeteisamess Why was this tweet reccomended to me? Im not the guy!",
+        "created_at": "2022-01-18 11:05:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1139130864074416128,
+        "referenced_tweets": {
+            "id": 1483172937935073287,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482713775555764226,
+        "text": "@CaoYi_MFA Lao gan ma",
+        "created_at": "2022-01-16 13:58:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 995265275481284608,
+        "referenced_tweets": {
+            "id": 1482649223837454336,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482310018968039425,
+        "text": "@sonnofthesunn I guess. can't go against the twitter bot,\nFollow me you fucking idiot \ud83d\ude43",
+        "created_at": "2022-01-15 11:13:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1167028143359713280,
+        "referenced_tweets": {
+            "id": 1482308756226588673,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482308433093267461,
+        "text": "@sonnofthesunn Why tf was i reccomended this tweet, idk who you are \ud83d\ude2d",
+        "created_at": "2022-01-15 11:07:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1167028143359713280,
+        "referenced_tweets": {
+            "id": 1482113789361377284,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482307616512647175,
+        "text": "Just realised the spacetoon theme for \u0639\u0647\u062f \u0627\u0644\u0627\u0635\u062f\u0642\u0627\u0621 literally talks about suicide. Like wtf is that where my trauma originates?",
+        "created_at": "2022-01-15 11:04:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479191705870028801,
+        "text": "@DivineOmega Hey jordan im fuckboj zizek, i hornypost on twitter constantly",
+        "created_at": "2022-01-06 20:42:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 5371602,
+        "referenced_tweets": {
+            "id": 1460009962181120004,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479191024857722881,
+        "text": "https://t.co/k9SIWCQyBq",
+        "created_at": "2022-01-06 20:39:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479119702735527946,
+        "text": "Andrew Garfield is to lesbians what  Ryan Reynolds is to straight men",
+        "created_at": "2022-01-06 15:56:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478630451136929794,
+        "text": "@extraaaketchupp W2er",
+        "created_at": "2022-01-05 07:32:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1282026427186118656,
+        "referenced_tweets": {
+            "id": 1478051196954980354,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478488076271894534,
+        "text": "@miirights @TheBabylonBee Your grandma's family deserved it",
+        "created_at": "2022-01-04 22:06:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3298973887,
+        "referenced_tweets": {
+            "id": 1476752508160659465,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478487796016943107,
+        "text": "RT @Dripkasi4L: https://t.co/1qAykxQpwo",
+        "created_at": "2022-01-04 22:05:34+00:00",
+        "public_metrics": {
+            "retweet_count": 23,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1477890239620431873,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478487207363100677,
+        "text": "Girls be like \"im shy \ud83e\udd7a\" and then want you to force eye contact while nutting in em",
+        "created_at": "2022-01-04 22:03:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477443314819289090,
+        "text": "@frogluvr91 Worry about your own shit, westerner",
+        "created_at": "2022-01-02 00:55:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 1228497121713774592,
+        "referenced_tweets": {
+            "id": 1477088441221398533,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476618851534217216,
+        "text": "If i fw you im gonna help you reach your full potential. God ain't put me in your life to let you drown in mediocrity",
+        "created_at": "2021-12-30 18:19:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476269094253088772,
+        "text": "The WHO told me to tell you to show me your tits",
+        "created_at": "2021-12-29 19:09:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476259212468576260,
+        "text": "RT @dripkasi: hot take: the term \"leftist\" is useless, you either a communist, liberal or fascist",
+        "created_at": "2021-12-29 18:29:58+00:00",
+        "public_metrics": {
+            "retweet_count": 474,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1475904852479909893,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1475812206679896072,
+        "text": "RT @yugopnik: An MLM MLM where each member has to buy 300 books to resell to other members and gets paid in landlords to beat.",
+        "created_at": "2021-12-28 12:53:43+00:00",
+        "public_metrics": {
+            "retweet_count": 29,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1475811813937852422,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1475811807256264707,
+        "text": "@OnAuthoritybot Based",
+        "created_at": "2021-12-28 12:52:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1428910863231168517,
+        "referenced_tweets": {
+            "id": 1475810966939996160,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475809856821080073,
+        "text": "Dear santa,\nThis year i just want @OnAuthoritybot to reply to my tweet.",
+        "created_at": "2021-12-28 12:44:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475806982242250755,
+        "text": "RT @OnAuthoritybot: Authoritarian is a buzzword read on authority cope and seethe anarcracker",
+        "created_at": "2021-12-28 12:32:58+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1475722006700052480,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1475806548849004545,
+        "text": "Bruh he has not been losing, its literally the same game he started in 2016 https://t.co/6rmbTQ8IMm",
+        "created_at": "2021-12-28 12:31:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474816978976231431,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1475805898966765579,
+        "text": "Learn to say \"fuck you\" to the world every now and then",
+        "created_at": "2021-12-28 12:28:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475477866074812419,
+        "text": "RT @MinistryofBased: Schedule:\n1. Meditate\n2. Defend Stalin\n3. Lift\n4. Defend Mao\n5. Meditate\n6. Eat 4,000 calories\n7. Defend Lenin",
+        "created_at": "2021-12-27 14:45:10+00:00",
+        "public_metrics": {
+            "retweet_count": 146,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1475212140416057350,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473139755076440070,
+        "text": "RT @TheDeprogramPod: Some of the stuff you guys send us is uhm... https://t.co/Ooa9AZg5fP",
+        "created_at": "2021-12-21 03:54:21+00:00",
+        "public_metrics": {
+            "retweet_count": 64,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473010158213214210,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473139689632763915,
+        "text": "Just saying, mfs with ADHD and people with choking kinks make the best couples.",
+        "created_at": "2021-12-21 03:54:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472567649129410560,
+        "text": "All hot girls have stomache problems and sleep with stuffed animals",
+        "created_at": "2021-12-19 14:01:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472055809693659142,
+        "text": "If she likes to be called baby girl and has \"oof\" in her vocabulary, she likes to be choked.",
+        "created_at": "2021-12-18 04:07:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1471668870570258433,
+        "text": "Major red flag when she's a fan of louis hamilton \ud83d\udea9\ud83d\udea9\ud83d\udea9",
+        "created_at": "2021-12-17 02:29:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1470793336336392199,
+        "text": "Im not feeling very fly like a G6",
+        "created_at": "2021-12-14 16:30:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1470253781266976771,
+        "text": "When she has eye bags, and looks like she is terminally ill and in her final days \ud83d\ude29\ud83d\udca6",
+        "created_at": "2021-12-13 04:46:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1470078550632017925,
+        "text": "Hahahaha eat shit and die hamilton",
+        "created_at": "2021-12-12 17:10:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469931566344327169,
+        "text": "The emirati girl that was being racist on tiktok just blocked me for calling her a filthy bedouin \ud83d\udc80\ud83d\udc80\ud83d\udc80",
+        "created_at": "2021-12-12 07:26:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469177078180458500,
+        "text": "RT @NatTecito: https://t.co/l6Hcz3ycig",
+        "created_at": "2021-12-10 05:28:06+00:00",
+        "public_metrics": {
+            "retweet_count": 93,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1468886050894405634,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1467910509085315073,
+        "text": "When she offers to buy me food after draining my life force and taking 3 generations worth of lineage from me",
+        "created_at": "2021-12-06 17:35:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467360561126162432,
+        "text": "I just realized that i horny post on here while being followed by a member of the chinese government",
+        "created_at": "2021-12-05 05:09:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467360149484486663,
+        "text": "@fOrGiVeNcHy Hi horny, i'm dad",
+        "created_at": "2021-12-05 05:08:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 389065077,
+        "referenced_tweets": {
+            "id": 1467355367650779136,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1467359863038697472,
+        "text": "Are you a guitar? Coz i wanna grab you by the neck and listen to the sounds you make when i finger you",
+        "created_at": "2021-12-05 05:07:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467167920828649479,
+        "text": "Everyone asks what da dog doin, but never how da dog doin \ud83d\ude14",
+        "created_at": "2021-12-04 16:24:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467159741164134415,
+        "text": "@notkristiane You tried asking?",
+        "created_at": "2021-12-04 15:51:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 139441584,
+        "referenced_tweets": {
+            "id": 1466773562379886603,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1467159293048807425,
+        "text": "God, please give Luis Hamilton a heart attack during the final race.",
+        "created_at": "2021-12-04 15:50:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466711498856837121,
+        "text": "https://t.co/IxHcqhDqTO",
+        "created_at": "2021-12-03 10:10:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465174841737322497,
+        "text": "I can't fucking believe kanye sampled the globglogabgalab",
+        "created_at": "2021-11-29 04:24:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1462237135956811778,
+        "text": "Pornstars should get their own fifa style cards, i mean the stats are technically the same: ball control, heading, finishing, stamina...",
+        "created_at": "2021-11-21 01:51:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1461286819467866116,
+        "text": "@khrachvik @Cherrykickstart @marinaxdove I found the chauvinist",
+        "created_at": "2021-11-18 10:55:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1342462335747842050,
+        "referenced_tweets": {
+            "id": 1460945878651392009,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1459771580431613958,
+        "text": "When you get yourself ready for something to fail just like every other thing in life, but it works out in the end https://t.co/7kXBXyblGI",
+        "created_at": "2021-11-14 06:34:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1458559222287900676,
+        "text": "I know he is dying, he should have done this 50 years sooner.",
+        "created_at": "2021-11-10 22:16:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1382998268032995328,
+        "referenced_tweets": {
+            "id": 1458559080964964359,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1458559080964964359,
+        "text": "Noam chomsky can suck a poisonous toad",
+        "created_at": "2021-11-10 22:15:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1458095873242636301,
+        "text": "I'm not mentally ill. I'm based",
+        "created_at": "2021-11-09 15:35:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1457582267514163204,
+        "text": "I win",
+        "created_at": "2021-11-08 05:34:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1457580517608538113,
+        "text": "I will reiterate this https://t.co/wRcT5DWx6Q",
+        "created_at": "2021-11-08 05:27:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1457001920191770627,
+        "text": "Say this affirmation: im done with growth and patience, and will be jumping mfs on sight.",
+        "created_at": "2021-11-06 15:08:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1455080156779978753,
+        "text": "Things I'll be doing tonight:\n1- not well\n2- your mom",
+        "created_at": "2021-11-01 07:51:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1454316036627521537,
+        "text": "RT @yugopnik: would've won, don't care what you say https://t.co/MpMWS44Km7",
+        "created_at": "2021-10-30 05:15:37+00:00",
+        "public_metrics": {
+            "retweet_count": 118,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1453505188107636738,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1453883629420089345,
+        "text": "RT @thalmannenjoyer: https://t.co/Cv8aQwsvIG",
+        "created_at": "2021-10-29 00:37:23+00:00",
+        "public_metrics": {
+            "retweet_count": 399,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1453264621188616194,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1453218737721643016,
+        "text": "Perhaps the heaviest things we lift is not our weights, but our cringe",
+        "created_at": "2021-10-27 04:35:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1452887131488198656,
+        "text": "RT @notshathaa: true!!! https://t.co/4BBvk3MA7r",
+        "created_at": "2021-10-26 06:37:40+00:00",
+        "public_metrics": {
+            "retweet_count": 133,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1452686311282905100,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1452886832249720835,
+        "text": "Daylight come and me wan go home",
+        "created_at": "2021-10-26 06:36:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1451409095353769987,
+        "text": "Yes you should https://t.co/bMOqb031Ad",
+        "created_at": "2021-10-22 04:44:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1451039295654047744,
+        "text": "@punishedmother Ive been doing better recently. Thanks for asking",
+        "created_at": "2021-10-21 04:15:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1435320417732988935,
+        "referenced_tweets": {
+            "id": 1450882238736998401,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1451038791800655882,
+        "text": "RT @fayemikah: bro https://t.co/opJtP0vMGJ",
+        "created_at": "2021-10-21 04:13:01+00:00",
+        "public_metrics": {
+            "retweet_count": 6394,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1450978149634879490,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1450412348007661573,
+        "text": "Based Chairman Xi https://t.co/GjI4DkrWhF",
+        "created_at": "2021-10-19 10:43:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1450026253713436681,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1449264391212392450,
+        "text": "My cat keeps bullying the neighbours dog so much that she refuses to walk in front of our house unless he is carrying her",
+        "created_at": "2021-10-16 06:42:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1448650842786054151,
+        "text": "You know you have evolved as a tankie when chinese state officials are following you on twitter",
+        "created_at": "2021-10-14 14:04:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1448529472869879809,
+        "text": "Just came across this gem in a tiktok comment section https://t.co/8tdSCUDEyl",
+        "created_at": "2021-10-14 06:01:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1448063400702001154,
+        "text": "Im not in a good place right now, not mentally, im in kesserwen",
+        "created_at": "2021-10-12 23:09:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1447912501618827267,
+        "text": "RT @socializm_: https://t.co/UgCpIUnQJB",
+        "created_at": "2021-10-12 13:10:15+00:00",
+        "public_metrics": {
+            "retweet_count": 161,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1447617192699338760,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1447911121722216449,
+        "text": "If she wears S\u00ed by georgio armani. Imma wife tf outa her \ud83d\ude29\ud83d\udca6",
+        "created_at": "2021-10-12 13:04:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1447583490778746882,
+        "text": "RT @yugopnik: I did it https://t.co/lzPJbUexTW",
+        "created_at": "2021-10-11 15:22:53+00:00",
+        "public_metrics": {
+            "retweet_count": 26,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1447516306866069508,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1446570648021704713,
+        "text": "Find yourself someone that treats you like @YaBoiHakim and @yugopnik tweet at each other",
+        "created_at": "2021-10-08 20:18:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446464636522467336,
+        "text": "Let kids believe in santa, some of yall believe in israel",
+        "created_at": "2021-10-08 13:16:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446356567088115733,
+        "text": "The \"oversimplified \" channel and it's consequences have been a disaster for the human race.",
+        "created_at": "2021-10-08 06:07:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446314511892426758,
+        "text": "RT @OnAuthoritybot: Criticizing On Authority bot? Ceratinly the most authoritarian thing there is",
+        "created_at": "2021-10-08 03:20:25+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1446020278304317442,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1445911562221494275,
+        "text": "RT @exMalwa: ARE YOU FUCKING KIDDING ME https://t.co/2aM3hmo5nG",
+        "created_at": "2021-10-07 00:39:14+00:00",
+        "public_metrics": {
+            "retweet_count": 148,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1445846260343193603,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1445898536021725186,
+        "text": "RT @sahouraxo: Free Julian Assange. https://t.co/OVMx2UjC9d",
+        "created_at": "2021-10-06 23:47:29+00:00",
+        "public_metrics": {
+            "retweet_count": 2182,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1445844046228959239,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1445889926873108480,
+        "text": "RT @istrebki: Sigma male: *nods* https://t.co/d6VsCwYqVz",
+        "created_at": "2021-10-06 23:13:16+00:00",
+        "public_metrics": {
+            "retweet_count": 38,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1445675356606795784,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1445889782211514369,
+        "text": "Forgot to mention she was calling him on his business phone",
+        "created_at": "2021-10-06 23:12:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1382998268032995328,
+        "referenced_tweets": {
+            "id": 1445865371634835466,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1445865371634835466,
+        "text": "Just listened to an 18 min phone conversation of a friend trying yo explain to this senile german woman that keeps calling him that he does not speak german",
+        "created_at": "2021-10-06 21:35:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1445453115239530500,
+        "text": "@TacoMajority Wtf is you on about",
+        "created_at": "2021-10-05 18:17:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1225479575544762369,
+        "referenced_tweets": {
+            "id": 1445452993382387719,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1445452707523858435,
+        "text": "Just got done crying and about the gender pay gap (i can tie a cherry stem into a knot with my tongue btw)",
+        "created_at": "2021-10-05 18:15:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1445246905232072707,
+        "text": "RT @zecrabbitcpx: https://t.co/CmANDF3cDc",
+        "created_at": "2021-10-05 04:38:08+00:00",
+        "public_metrics": {
+            "retweet_count": 26830,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1444744174381711361,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1444482215774146567,
+        "text": "@hannahrosePhD What kind of stuff do the taliban sell?",
+        "created_at": "2021-10-03 01:59:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2233876183,
+        "referenced_tweets": {
+            "id": 1443965997514428416,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1444147277208162307,
+        "text": "This bitch is more obsessed than me with her butt",
+        "created_at": "2021-10-02 03:48:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1443792357640613889,
+        "text": "The person in charge lf the spartak fc tiktok account is an absolute legend, imma start watching the russian league",
+        "created_at": "2021-10-01 04:18:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1443789418301726722,
+        "text": "https://t.co/dBzc3MyrsY",
+        "created_at": "2021-10-01 04:06:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1443599525134880770,
+        "text": "Breeding kinks are a capitalist ploy to fix the falling birth rates.\nDont fall for it comrades",
+        "created_at": "2021-09-30 15:32:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1443408889727291394,
+        "text": "RT @lenins_kittycat: https://t.co/yPhESJiUbx",
+        "created_at": "2021-09-30 02:54:31+00:00",
+        "public_metrics": {
+            "retweet_count": 216,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1443199219213471744,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1442926498839621633,
+        "text": "@TacoMajority Soon tm",
+        "created_at": "2021-09-28 18:57:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1225479575544762369,
+        "referenced_tweets": {
+            "id": 1442925729184829441,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1442922903008256005,
+        "text": "Shoutout to my therapist who helped me realize today that if people get angry at me setting boundaries, its not on me its on them. I deserve people who respect me and my boundaries.",
+        "created_at": "2021-09-28 18:43:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1442877690671894534,
+        "text": "Marrying a girl coz you got her pregnant is a real life \"you break it you buy it\" situation",
+        "created_at": "2021-09-28 15:43:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1442280917448282115,
+        "text": "This girl on discord just tried to explain the female gaze to me... im pretty sure they prefer the term lesbian",
+        "created_at": "2021-09-27 00:12:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1441779443358441476,
+        "text": "Tomorrow is not promised, slap your sibling for no reason today",
+        "created_at": "2021-09-25 14:59:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1441736467261255686,
+        "text": "RT @killerguerilla: Anticommunism is a disease. https://t.co/d72OnUsyEL",
+        "created_at": "2021-09-25 12:08:54+00:00",
+        "public_metrics": {
+            "retweet_count": 1497,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1441110789448888321,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1441735771174572032,
+        "text": "RT @ChaosIsMel: me at every landlord https://t.co/7jh1uAGoGI",
+        "created_at": "2021-09-25 12:06:08+00:00",
+        "public_metrics": {
+            "retweet_count": 79,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1441456045159632896,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1441464418814988289,
+        "text": "After listening to anthony touma's song i have decided that we should ban lebanese diaspora from making music",
+        "created_at": "2021-09-24 18:07:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1441403147646160898,
+        "text": "@softnstarry Order food, I mean thats why im there",
+        "created_at": "2021-09-24 14:04:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1384984866568212484,
+        "referenced_tweets": {
+            "id": 1441217875386126341,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1441402630786355215,
+        "text": "@m7nsha I dont condone this but i mean you did ask",
+        "created_at": "2021-09-24 14:02:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1270030565832613893,
+        "referenced_tweets": {
+            "id": 1440780421671768076,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1441401676196352002,
+        "text": "RT @NatalieRevolts: \ud83d\ude2d https://t.co/IrrYIzXkr1",
+        "created_at": "2021-09-24 13:58:34+00:00",
+        "public_metrics": {
+            "retweet_count": 3977,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1441153816150175755,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1441400714702491648,
+        "text": "@Fuckboj_Zizek say no more",
+        "created_at": "2021-09-24 13:54:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1382998268032995328,
+        "referenced_tweets": {
+            "id": 1441400654967148554,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1441400654967148554,
+        "text": "1 like and ill step on her organs while she sleeps, lets see how the bitch likes it https://t.co/0xjGb7OPIZ",
+        "created_at": "2021-09-24 13:54:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1438986056561479684,
+        "text": "When she starts to get comfortable with you and tell you everything, and you start to understand why her ex did her like that",
+        "created_at": "2021-09-17 21:59:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1438443311543558148,
+        "text": "@lizzygrantsgirl Hahahahahhahahahha king",
+        "created_at": "2021-09-16 10:03:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1420094531094056960,
+        "referenced_tweets": {
+            "id": 1438174358686642186,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1438442597098401792,
+        "text": "@thanasig44 King, its no simp September",
+        "created_at": "2021-09-16 10:00:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1237496631714553857,
+        "referenced_tweets": {
+            "id": 1438250870018281473,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1438442082792787973,
+        "text": "Stop being so hot you're making me wanna rail y- butterflies you're giving me butterflies",
+        "created_at": "2021-09-16 09:58:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1437508680719769600,
+        "text": "Cute matching pfp ideas https://t.co/qGmq1cFZ7v",
+        "created_at": "2021-09-13 20:09:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1437400440870686726,
+        "text": "Fellas if she refuses to recreate the ankha video with you, is she even the one?",
+        "created_at": "2021-09-13 12:59:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1437123054522576898,
+        "text": "RT @yugopnik: When 9/11 happened my whole block threw a party. I remember being sent to the store for 4 whiskey bottles by my dad.",
+        "created_at": "2021-09-12 18:36:51+00:00",
+        "public_metrics": {
+            "retweet_count": 78,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1436822146848804871,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1436166347495456768,
+        "text": "https://t.co/gBHJkzADTu",
+        "created_at": "2021-09-10 03:15:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1435719061053349889,
+        "text": "The only problem with kissing a 10/10 is that the mirror is sometimes cold",
+        "created_at": "2021-09-08 21:37:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1434796168295460867,
+        "text": "Eyyy italy just broke the world record in football for most number of consecutive games without a loss: 36 games",
+        "created_at": "2021-09-06 08:30:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1433543467326705679,
+        "text": "RT @yugopnik: It's not the Vietnam War it's the American war. It's not the Iraq war it's the American War. It's not the Korean war it's the\u2026",
+        "created_at": "2021-09-02 21:32:51+00:00",
+        "public_metrics": {
+            "retweet_count": 66,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1432857827379449856,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1433157109240238080,
+        "text": "We need a TV show where gordon ramsay hooks up with girls and reviews their coochie",
+        "created_at": "2021-09-01 19:57:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1431174457167687681,
+        "text": "Bro she got 10 other guys trying to make her day... be diffferent, try to ruin it.",
+        "created_at": "2021-08-27 08:39:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1430982001385934859,
+        "text": "@sojboj_zizek Whatever tf that means, should i be concerned?",
+        "created_at": "2021-08-26 19:54:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 612775305,
+        "referenced_tweets": {
+            "id": 1430950333581307906,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1430884062630121475,
+        "text": "Sent this girl my birth chart and now she sending me shit like this. Help \ud83d\udc80 https://t.co/6zjnFLy7Bn",
+        "created_at": "2021-08-26 13:25:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1430667747403476994,
+        "text": "@iicekarim \u0414\u0430 \u0442\u043e\u0432\u0430\u0440\u0438\u0449",
+        "created_at": "2021-08-25 23:05:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1065962665883910146,
+        "referenced_tweets": {
+            "id": 1430467169188556802,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1430302245296525313,
+        "text": "I support the lgbt community but wtf is this? \ud83e\udd22 https://t.co/F2efVicdfg",
+        "created_at": "2021-08-24 22:53:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1429487717994336256,
+        "text": "RT @stealyoredbull: https://t.co/Fh5LX6eVrX",
+        "created_at": "2021-08-22 16:56:45+00:00",
+        "public_metrics": {
+            "retweet_count": 51,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1429161937728937995,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1429487617968680960,
+        "text": "Fellas if she doesn't tell you \"yaretne batikha la tsir tsafe2ne kfouf abel ma tefta7ne w tekelne\" is she the one?",
+        "created_at": "2021-08-22 16:56:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1429238217589641221,
+        "text": "RT @MinistryofBased: https://t.co/bnw05Lewlx",
+        "created_at": "2021-08-22 00:25:19+00:00",
+        "public_metrics": {
+            "retweet_count": 100,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1429141007946354692,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1429218686779465731,
+        "text": "You may be able to read my birth astrology charts but can you read my red flags?",
+        "created_at": "2021-08-21 23:07:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1429209102102716416,
+        "text": "https://t.co/VbeTSl4Y59",
+        "created_at": "2021-08-21 22:29:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1428642728955482113,
+        "text": "After everything i did this is what i get...",
+        "created_at": "2021-08-20 08:59:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1427914888521953283,
+        "text": "Some akho sharmouta is driving in the neighbourhood blasting the samsung alarm in his car at max volume",
+        "created_at": "2021-08-18 08:46:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1427343395857502215,
+        "text": "@CaoYi_MFA consul, please tell president Xi that we in lebanon need liberation from this capitalist nightmare. Please help us in the name of the eternal science of Marxism-Leninism-Maoism",
+        "created_at": "2021-08-16 18:55:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 995265275481284608,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1425762269271576576,
+        "text": "Ive said it before and ill say it again, skinny girls whos head looks too big for their body are a different breed \ud83d\ude29\ud83d\udca6",
+        "created_at": "2021-08-12 10:13:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1425500795429179412,
+        "text": "RT @MarxMidwest: https://t.co/cJnkYjnDvS",
+        "created_at": "2021-08-11 16:54:08+00:00",
+        "public_metrics": {
+            "retweet_count": 142,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1425498272341368834,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1424351920181886978,
+        "text": "https://t.co/NSHzC8Ueh0",
+        "created_at": "2021-08-08 12:48:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1423740400557297665,
+        "text": "Sigma rule #3098:\nThreaten to put people in forced labor camps",
+        "created_at": "2021-08-06 20:18:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1423371540062687239,
+        "text": "When someone says they are LF https://t.co/b62ROc6Bar",
+        "created_at": "2021-08-05 19:53:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1423212523814334465,
+        "text": "@ChinainLebanon \u0633\u064a\u062f\u064a \u0627\u0644\u0633\u0641\u064a\u0631 \u0627\u0631\u062c\u0648\u0643 \u0627\u0628\u0644\u063a \u062d\u0636\u0631\u0629 \u0627\u0644\u0631\u0626\u064a\u0633 \u0634\u064a \u062c\u064a\u0646 \u0628\u064a\u0646\u063a \u0627\u0646\u0646\u0627 \u0646\u062d\u062a\u0627\u062c \u0627\u0644\u064a\u0647 \u0627\u0646 \u064a\u062d\u0631\u0631\u0646\u0627 \u0645\u0646 \u0627\u0644\u0631\u0623\u0633\u0645\u0627\u0644\u064a\u064a\u0646 \u0648\u0627\u0644\u0646\u0641\u0648\u0630 \u0627\u0644\u0627\u0645\u0631\u064a\u0643\u064a \u0641\u064a \u0644\u0628\u0646\u0627\u0646. \u0627\u0644\u0634\u0639\u0628 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a \u064a\u0631\u064a\u062f \u0627\u0644\u062d\u0631\u064a\u0629.",
+        "created_at": "2021-08-05 09:21:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1225742020301467649,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1423038921559138308,
+        "text": "@XiuChmeta Us",
+        "created_at": "2021-08-04 21:51:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1334617747,
+        "referenced_tweets": {
+            "id": 1422877397389545472,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1423024120476864517,
+        "text": "\u0645\u0646 \u0630\u0643\u0631\u064a\u0627\u062a \u0627\u0644\u0632\u0645\u0646 \u0627\u0644\u062c\u0645\u064a\u0644 https://t.co/ewhu2H1xtP",
+        "created_at": "2021-08-04 20:52:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1422644016567537666,
+        "text": "@ShareMyMemesPls @XiuChmeta Lets go \u0627\u0646\u0639\u0632\u0627\u0644\u064a\u0629 gang",
+        "created_at": "2021-08-03 19:42:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1164882608444125191,
+        "referenced_tweets": {
+            "id": 1422272715147333635,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1422596906795085837,
+        "text": "@i_quinboot @shawarmacommie https://t.co/FsrqKISVr3",
+        "created_at": "2021-08-03 16:35:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 866947693213626368,
+        "referenced_tweets": {
+            "id": 1422472024367136770,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1421196973424709633,
+        "text": "My favorite tea is tizek",
+        "created_at": "2021-07-30 19:52:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1420687691209904132,
+        "text": "Girls who's head looks too big for their body tho",
+        "created_at": "2021-07-29 10:08:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1418190595349176321,
+        "text": "@TacoMajority Bruh just go to syria or iraq, they sell them fresh off the dead american troops",
+        "created_at": "2021-07-22 12:46:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1225479575544762369,
+        "referenced_tweets": {
+            "id": 1417908491432378370,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1418190420908068866,
+        "text": "There are decades where we fuck around and weeks where we find out - V.I. Lenin",
+        "created_at": "2021-07-22 12:45:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1418189343626338306,
+        "text": "@BookSyrup Coz the little bitch just bit me so she doesn't deserve the clout",
+        "created_at": "2021-07-22 12:41:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1240693319635787777,
+        "referenced_tweets": {
+            "id": 1417995142129242113,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1418189119763714052,
+        "text": "Finally got my second pfizer dose, who needs they pussy ate?",
+        "created_at": "2021-07-22 12:40:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1418098952541556741,
+        "text": "I just saw a video of someone putting druz nawre songs over the eminem battle scene in 8 mile.\nEnough internet for today.",
+        "created_at": "2021-07-22 06:41:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1418057520883675141,
+        "text": "@iicekarim Clap",
+        "created_at": "2021-07-22 03:57:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1065962665883910146,
+        "referenced_tweets": {
+            "id": 1417948542442876937,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1418057275231645696,
+        "text": "https://t.co/v9N3NoQlSF",
+        "created_at": "2021-07-22 03:56:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1417857995262906373,
+        "text": "@XiuChmeta Im gonna say the m word",
+        "created_at": "2021-07-21 14:44:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1334617747,
+        "referenced_tweets": {
+            "id": 1417843288531509257,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1417339316360073224,
+        "text": "Id like to wish everyone that owns a mining rig a very \u0627\u0646\u0634\u0627\u0644\u0644\u0647 \u062a\u062d\u0637\u0646 \u0639\u0635\u062d\u062a\u0643",
+        "created_at": "2021-07-20 04:23:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1417138072525975556,
+        "text": "RT @antiphoenicia: \u0647\u064a\u0643 \u062e\u0628\u0631 \u0628\u0635\u064a\u0631 \u064a\u0645\u0631\u0642 \u0639\u0627\u062f\u064a \u0628\u0633 \u064a\u0643\u0648\u0646 \u0643\u0644 \u0634\u0639\u0628\u0646\u0627 \u062a\u0635\u0647\u064a\u0646 https://t.co/HQoNEQkSCw",
+        "created_at": "2021-07-19 15:03:40+00:00",
+        "public_metrics": {
+            "retweet_count": 144,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1417101473868140551,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1416795944251691011,
+        "text": "@XiuChmeta Leclerc got done dirty",
+        "created_at": "2021-07-18 16:24:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1334617747,
+        "referenced_tweets": {
+            "id": 1416761002234982400,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1416509135894556678,
+        "text": "RT @yugopnik: I feel like I used to be a party animal pre-covid. Now I'm this https://t.co/0q4Dq0mHua",
+        "created_at": "2021-07-17 21:24:30+00:00",
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1416495719607898117,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1416095823893602309,
+        "text": "@garbitch8 Instead call them cum skinned goblins",
+        "created_at": "2021-07-16 18:02:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1135518370173005826,
+        "referenced_tweets": {
+            "id": 1415769611669278722,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415977563034357762,
+        "text": "@XiuChmeta AHAHAHAHAHHAHAHAHAHAHAHAHHAHAHAHAHAHAHAHA METET!",
+        "created_at": "2021-07-16 10:12:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1334617747,
+        "referenced_tweets": {
+            "id": 1415898209805901829,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415977376752746500,
+        "text": "Stop! Homie checkpoint!\nDid you cum today?",
+        "created_at": "2021-07-16 10:11:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1415379825100009477,
+        "text": "Pirates are just tropical goths",
+        "created_at": "2021-07-14 18:37:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1415172793335943177,
+        "text": "Fuck zodiac signs, which of these was your favorite? https://t.co/vLzweGO3nK",
+        "created_at": "2021-07-14 04:54:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1414320476491591682,
+        "text": "https://t.co/ZNTxZauwk7",
+        "created_at": "2021-07-11 20:27:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1414314710065897472,
+        "text": "\u6bcf\u4e2a\u4eba\u7684\u51b0\u6dc7\u6dcb https://t.co/nrDaxMx31K",
+        "created_at": "2021-07-11 20:04:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1414314167289487363,
+        "text": "Ngl if italy loses disappearing from all social media and ghosting everyone i know",
+        "created_at": "2021-07-11 20:02:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1414313981221670917,
+        "text": "Lets go drink coffee not in a lebanese local iris rootop kind of way, but in an iconic post-ironic mar mikhael hamra non indie, non binary socialist highbrow brutalist kind of way",
+        "created_at": "2021-07-11 20:01:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1413864161864523777,
+        "text": "@XiuChmeta Bruh ktir wa7sh l show",
+        "created_at": "2021-07-10 14:14:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1334617747,
+        "referenced_tweets": {
+            "id": 1413788309617262593,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1413541391855235072,
+        "text": "https://t.co/2lOEAXLuUR",
+        "created_at": "2021-07-09 16:51:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1412190704697229314,
+        "text": "Say this affirmation:\nI will no longer expect anything from anyone.\nI have been let down far too many times, and would rather travel through this drug fueled capitalism nightmare by myself than to be dissapointed once again.",
+        "created_at": "2021-07-05 23:24:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1412187657858322433,
+        "text": "I be raw dogging the gym. No energy drink, no pre-workout. Just fueled by bitterness and rage.\nAnyways, lets get them gains.",
+        "created_at": "2021-07-05 23:12:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1412080911634546691,
+        "text": "Spotify is fucking savage \ud83d\udc80 https://t.co/moI3LkHmOU",
+        "created_at": "2021-07-05 16:08:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1411984499739668487,
+        "text": "Why do bottoms suck at fighting games?\n\nBecause all of them are keysmashers",
+        "created_at": "2021-07-05 09:45:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1411983928513208320,
+        "text": "RT @superloafcat: Happy 4th https://t.co/4vwl4Zp53d",
+        "created_at": "2021-07-05 09:42:56+00:00",
+        "public_metrics": {
+            "retweet_count": 424,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1411680515548225544,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1411735829697925123,
+        "text": "@XiuChmeta Bruh \ud83d\udc80",
+        "created_at": "2021-07-04 17:17:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1334617747,
+        "referenced_tweets": {
+            "id": 1411620786524372998,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1411726409240920076,
+        "text": "I saw this so yall have to see this too https://t.co/88gN7WYf5i",
+        "created_at": "2021-07-04 16:39:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1411603703220604930,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1410947943230803971,
+        "text": "If your mom's phone number was your bank account.\nHow much money would you have?",
+        "created_at": "2021-07-02 13:06:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1410787488872992768,
+        "text": "I love titties because they prove that i can focus on 2 things at once",
+        "created_at": "2021-07-02 02:28:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1409672865893412882,
+        "text": "@TacoMajority I would but marx didn't write any theory on how to get bitches",
+        "created_at": "2021-06-29 00:39:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1225479575544762369,
+        "referenced_tweets": {
+            "id": 1409671777941213186,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1409669115376115716,
+        "text": "My stupid ass annoying cat keeps snoring and i cant sleep, if this goes on imma fucking walk on her face while she asleep, lets see how she likes it",
+        "created_at": "2021-06-29 00:24:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1409663064727687170,
+        "text": "RT @ColdEmpanadas: \"Stalin killed millions of people!\"\n\nThe people: https://t.co/yt7bFGu9mS",
+        "created_at": "2021-06-29 00:00:39+00:00",
+        "public_metrics": {
+            "retweet_count": 153,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1409302551309205515,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1409662271769387013,
+        "text": "State and revolution was ok but i don't really get thqt part in chapter 3 where lenin starts rambling about how Engels is submissive and breedable.",
+        "created_at": "2021-06-28 23:57:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1409492107132391426,
+        "text": "Bitches be like youre not my type\nLike bitch im trynna fuck not donate blood",
+        "created_at": "2021-06-28 12:41:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1409239442066391052,
+        "text": "I'll forever choose revenge, i can heal in hell",
+        "created_at": "2021-06-27 19:57:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1409228394466795520,
+        "text": "Candice this, deez that...\nCandice pain go away because deez days keep getting harder",
+        "created_at": "2021-06-27 19:13:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1409156556659249155,
+        "text": "- Boobs or ass?\n- kahraba khaye, badi kahraba",
+        "created_at": "2021-06-27 14:27:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1409150604363153409,
+        "text": "Are the snow bunnies ok? https://t.co/G2BlLOhRpW",
+        "created_at": "2021-06-27 14:04:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1408496109643866113,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1409150141995569156,
+        "text": "RT @realGenZedong: Radlib moment https://t.co/DM1G6Jz8em",
+        "created_at": "2021-06-27 14:02:29+00:00",
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1408641365391470594,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1409149963146305545,
+        "text": "RT @schizoidvisions: introducing myself https://t.co/7UkZCMG0ML",
+        "created_at": "2021-06-27 14:01:46+00:00",
+        "public_metrics": {
+            "retweet_count": 1201,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1408479506306850826,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1408874492886192129,
+        "text": "You can act like you dont know me in public but you can't unsuck my toes",
+        "created_at": "2021-06-26 19:47:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1406956321673465860,
+        "text": "Its fathers day and your father figure is abscent?\nThats fine ill be your daddy, you can wish me a happy fathers day. \ud83d\ude0a",
+        "created_at": "2021-06-21 12:45:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1405576658095165442,
+        "text": "Why is it always the bitches who hate kids that have a breeding kink?",
+        "created_at": "2021-06-17 17:22:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1403344474747686912,
+        "text": "Yes i suffer from BPD\nB ased\nP ersonality\nD isorder",
+        "created_at": "2021-06-11 13:32:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1403096362158280717,
+        "text": "Women deserve to drink water too, they get thirsty just like us",
+        "created_at": "2021-06-10 21:06:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1402650989585387527,
+        "text": "HOTEL without EL is me\nHOTEL without TL is you",
+        "created_at": "2021-06-09 15:37:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1402270184170266626,
+        "text": "@sojboj_zizek This the only way bitches(derogatory) deserve to be treated",
+        "created_at": "2021-06-08 14:23:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 612775305,
+        "referenced_tweets": {
+            "id": 1402269513626890247,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1402266943973953546,
+        "text": "Daily affirmation repeat after me:\n\nI have an underlying propensity for viilence and i can tap into primitive rage at the drop of a hat \ud83d\udc41\ud83d\udc44\ud83d\udc41",
+        "created_at": "2021-06-08 14:11:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1402266645016596490,
+        "text": "Texting this girl and having a genuinely nice conversation but then i remember to pretend to be toxic so she doesn't get bored and ghost me.",
+        "created_at": "2021-06-08 14:09:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1402266437595578377,
+        "text": "@sojboj_zizek This is \u0642ultural appropriation",
+        "created_at": "2021-06-08 14:09:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 612775305,
+        "referenced_tweets": {
+            "id": 1402203188766380034,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1401283052245028871,
+        "text": "@Fuckboj_Zizek say no more",
+        "created_at": "2021-06-05 21:01:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1382998268032995328,
+        "referenced_tweets": {
+            "id": 1401282999904317444,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1401282999904317444,
+        "text": "Crossfaded in a byblos pub. 1 like and ill dance on the table",
+        "created_at": "2021-06-05 21:01:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1400098697204092930,
+        "text": "@foronahmadfaran Syria's flag when it was under the french mandate",
+        "created_at": "2021-06-02 14:35:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1381976324152176643,
+        "referenced_tweets": {
+            "id": 1400065016842309640,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1400097324785938433,
+        "text": "RT @realGenZedong: Here's something to warm your heart today \u263a\ufe0f https://t.co/TrA0gNRCJg",
+        "created_at": "2021-06-02 14:29:49+00:00",
+        "public_metrics": {
+            "retweet_count": 49,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1400055297360728071,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1399318988799234057,
+        "text": "Honestly i don't know how many more \"it is what it is\" i got left in me",
+        "created_at": "2021-05-31 10:56:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1398968780307509248,
+        "text": "I only have sex with suicidal bitches.\nCoz that pussy be limited edition",
+        "created_at": "2021-05-30 11:45:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1398370630769254402,
+        "text": "Ohh you're a socialist?\nSocialise with some bitches lmao",
+        "created_at": "2021-05-28 20:08:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1398240539120635904,
+        "text": "People act so shocked and confused as to why poor people in far away countries turn to armed struggle and \"terrorism\" after an occupying army destroyed their homes and killed their family. But then watch starwars and they recognize that luke skywalker is the good guy",
+        "created_at": "2021-05-28 11:31:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1397899057729662979,
+        "text": "Don't call it a god complex there is nothing complex about it i am a god",
+        "created_at": "2021-05-27 12:54:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1395679973634199555,
+        "text": "I just want someone to look at me the way zionists look st palestinian homes.",
+        "created_at": "2021-05-21 09:56:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1394594813169782787,
+        "text": "RT @RealRousshoe: Did you know that cuddling is mutual aid?",
+        "created_at": "2021-05-18 10:04:48+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1394449930148790275,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1394373270372298756,
+        "text": "Wtf do you mean israelis are natives to the area, i literally have coins older than your state https://t.co/XdSnz1SPoY",
+        "created_at": "2021-05-17 19:24:28+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1394357379374911493,
+        "text": "Some people say that the israelis and palestinians should find a peaceful solutions.\nI say if you break a zionists arm, he has 50% less arms to do zionist stuff with",
+        "created_at": "2021-05-17 18:21:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1392818203580059655,
+        "text": "RT @Louis_Allday: Mohammed Bakri's documentary \"Jenin, Jenin\" is a heart-rending depiction of the aftermath of Israel's destruction of Jeni\u2026",
+        "created_at": "2021-05-13 12:25:11+00:00",
+        "public_metrics": {
+            "retweet_count": 642,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1042420424347463682,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1392552141676482560,
+        "text": "RT @broseph_stalin: For the first time since 1966 the Israeli occupation declares a state of emergency in the occupied city of Lod. This is\u2026",
+        "created_at": "2021-05-12 18:47:57+00:00",
+        "public_metrics": {
+            "retweet_count": 837,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1392252801741381633,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1392551426346430465,
+        "text": "@thejoebedan Bruh more than 80% of ashkenazi (european jews) are of european descent not middle eastern, so technically they are being antisemitic",
+        "created_at": "2021-05-12 18:45:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1381976324152176643,
+        "referenced_tweets": {
+            "id": 1392541606675423234,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1392549663996325891,
+        "text": "RT @kimpossiblefact: this is the biggest cop shit i\u2019ve ever seen on this website https://t.co/qYSh7S99wQ",
+        "created_at": "2021-05-12 18:38:06+00:00",
+        "public_metrics": {
+            "retweet_count": 3517,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1392263764871839744,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1392549461830873091,
+        "text": "RT @mxmovement: Palestinian liberation. Revolutionary theory and intifada. https://t.co/PIDEjEZTrk",
+        "created_at": "2021-05-12 18:37:18+00:00",
+        "public_metrics": {
+            "retweet_count": 403,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1392022801129803783,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1392539028935909376,
+        "text": "\u0628\u0634\u064a\u0631 \u0645\u0646\u0648 \u0645\u0633\u0628\u0629 https://t.co/OS20wihGQH",
+        "created_at": "2021-05-12 17:55:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1392538502341042179,
+        "text": "\u0642\u0648\u0629 \u062a\u0633\u062a\u0639\u0631\u0636 \u0628\u0627\u0644\u0634\u0627\u0634\u0629 \u0648\u0635\u062f\u062a \u0628\u0627\u0644\u062a\u062e\u0632\u064a\u0646 https://t.co/B4QIM6cScu",
+        "created_at": "2021-05-12 17:53:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1392287047080157187,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1392537936709791749,
+        "text": "Hamza nasser an 11 year old palestinian was murdered 1 day after he was mourning his murdered father https://t.co/j56U1thPwg",
+        "created_at": "2021-05-12 17:51:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1392537495057879043,
+        "text": "This is now a Palestinian posting account until further notice",
+        "created_at": "2021-05-12 17:49:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1392537200131203077,
+        "text": "@wa7adayr @prettygirljoud he was mourning his father who was murdered one day before",
+        "created_at": "2021-05-12 17:48:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 851868898853097472,
+        "referenced_tweets": {
+            "id": 1392476961092538379,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1392536285630410752,
+        "text": "RT @CommunistPoster: \"Zionism is racism! The essence of racism is the same everywhere: oppression, humiliation, cruelty, and war!\"\n\n(Soviet\u2026",
+        "created_at": "2021-05-12 17:44:57+00:00",
+        "public_metrics": {
+            "retweet_count": 341,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1392509934936465418,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1392217650194010116,
+        "text": "RT @jaboukie: you have 1 hour to delete this https://t.co/nnmqveysYe",
+        "created_at": "2021-05-11 20:38:48+00:00",
+        "public_metrics": {
+            "retweet_count": 20580,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1392178111207329795,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1392105927935991816,
+        "text": "Bout to \"tabboultik shou taybe ya tante \ud83d\udc4c\" my way into some lebanese milf \ud83d\udc31",
+        "created_at": "2021-05-11 13:14:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1391940246506459139,
+        "text": "Me and my gang plotting and scheming https://t.co/GdyypwpvvP",
+        "created_at": "2021-05-11 02:16:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1391882031488028675,
+        "text": "https://t.co/SGI10ZgQfl",
+        "created_at": "2021-05-10 22:25:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1391524276294103044,
+        "text": "Also why am i friends with a science bitch",
+        "created_at": "2021-05-09 22:43:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1382998268032995328,
+        "referenced_tweets": {
+            "id": 1391524169196658689,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1391524169196658689,
+        "text": "Everyone be talking about growth in animals and growth in plants, but no one be talking about the growth in my pants",
+        "created_at": "2021-05-09 22:43:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1391438171406278656,
+        "text": "Candice this, candice that. Bro, candice life just end?",
+        "created_at": "2021-05-09 17:01:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1391421267052466177,
+        "text": "Head empty no thoughts",
+        "created_at": "2021-05-09 15:54:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1391098568824475649,
+        "text": "Please send Chengdu J20 multirole stealth jet fighter to liberate palestine chairman Xi https://t.co/u8siEaHadD",
+        "created_at": "2021-05-08 18:31:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1391097842584981517,
+        "text": "RT @heyitshagz: good morning https://t.co/hsTmeTAUjN",
+        "created_at": "2021-05-08 18:29:05+00:00",
+        "public_metrics": {
+            "retweet_count": 2169,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1390904713663614976,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1391083993009999872,
+        "text": "RT @nashwakay: There are stories of settlers taking houses while people still had warm tea on the table. For people who are \u201cscared\u201d to dis\u2026",
+        "created_at": "2021-05-08 17:34:03+00:00",
+        "public_metrics": {
+            "retweet_count": 2768,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1390879918649643008,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1390268510841016322,
+        "text": "RT @poldiscoursebot: Um, every tankie is hot.",
+        "created_at": "2021-05-06 11:33:37+00:00",
+        "public_metrics": {
+            "retweet_count": 106,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1390144169516150785,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1390143278889279492,
+        "text": "Besties you gotta say your affirmations. Repeat after me\n\"I am at my breaking point and the world will suffer the consequences\"",
+        "created_at": "2021-05-06 03:15:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1389751268009250819,
+        "text": "Guys is it women to have calorie intake? https://t.co/VtmBKtwVwz",
+        "created_at": "2021-05-05 01:18:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1389546415991541763,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1389734693214490626,
+        "text": "@shawarmacommie Social democracy is based in capitalism, so no",
+        "created_at": "2021-05-05 00:12:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1347592362273497090,
+        "referenced_tweets": {
+            "id": 1389425502948139014,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1389725623334146052,
+        "text": "@ayshughh Cyprus not west palestine?",
+        "created_at": "2021-05-04 23:36:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1192106527940907009,
+        "referenced_tweets": {
+            "id": 1389644884827688960,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1389307272967372808,
+        "text": "@CaitCamelia @yedoye_ @doinkpatrol @MohanadElshieky Indie rock",
+        "created_at": "2021-05-03 19:54:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1627177045,
+        "referenced_tweets": {
+            "id": 1389259910601453568,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1388199528629772289,
+        "text": "@tryan80 @WWIIpix Thats an ISU-122",
+        "created_at": "2021-04-30 18:32:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1139859200627085312,
+        "referenced_tweets": {
+            "id": 1256584822413197314,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387916215771881473,
+        "text": "Some people be the living version of nokia arabic ringtone, sad to a point where its funny",
+        "created_at": "2021-04-29 23:46:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1387790479807426563,
+        "text": "@iicekarim You interact with this but not my top quality memes",
+        "created_at": "2021-04-29 15:26:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1065962665883910146,
+        "referenced_tweets": {
+            "id": 1387790035550982144,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387789880193953802,
+        "text": "Lmao i love this thread https://t.co/3jdrfrZmpg",
+        "created_at": "2021-04-29 15:24:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1387678953226178561,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1387789209247813636,
+        "text": "RT @yugopnik: @lackingsaint You either die a hero or...",
+        "created_at": "2021-04-29 15:21:46+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1387730544151175171,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1387203622858108929,
+        "text": "Today has been AAAAAAAAAAAAAAAAAAAAA 2: return of the AAAAAAAAAAAAAAAAAAAAAAA",
+        "created_at": "2021-04-28 00:34:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1387166376436117505,
+        "text": "When she asks for a selfie but you talk your way out of it because lately this has been you https://t.co/K76Jp7zciK",
+        "created_at": "2021-04-27 22:06:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1387121752657047556,
+        "text": "@sojboj_zizek https://t.co/yzyRu8wICm",
+        "created_at": "2021-04-27 19:09:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 612775305,
+        "referenced_tweets": {
+            "id": 1387120439781113857,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387054935934586880,
+        "text": "https://t.co/PXpJpr0jlV",
+        "created_at": "2021-04-27 14:44:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1387039731553292288,
+        "text": "@sojboj_zizek Thats breadtube not lefttube",
+        "created_at": "2021-04-27 13:43:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 612775305,
+        "referenced_tweets": {
+            "id": 1387009174488371201,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386866471813455872,
+        "text": "Y'all ever feel like AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA?",
+        "created_at": "2021-04-27 02:15:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1386367435230654474,
+        "text": "Carbon based lifeform implies the existence of a carbon cringe lifeform",
+        "created_at": "2021-04-25 17:12:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1386081545304383490,
+        "text": "@JoudT__ Comparing catboys/catgirls to gods is much more interesting than dogs and cats tbh",
+        "created_at": "2021-04-24 22:16:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1307329586276032512,
+        "referenced_tweets": {
+            "id": 1386066034185101312,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1385963205382623235,
+        "text": "Yes pornhub i am aware that there is a desperate slut in my area. I own a mirror.",
+        "created_at": "2021-04-24 14:25:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1385954583827165184,
+        "text": "@JoudT__ I didn't know having a cat and  a god complex are mutually exclusive",
+        "created_at": "2021-04-24 13:51:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1307329586276032512,
+        "referenced_tweets": {
+            "id": 1385739996523634692,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1385410388041293824,
+        "text": "No offence but fuck you for using me to make you happy until you felt like you didn't need me anymore and left me wondering where i went wrong.",
+        "created_at": "2021-04-23 01:49:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1385367789561532417,
+        "text": "Sounds alot like a conversation im having with oomf https://t.co/St3NIRJHdv",
+        "created_at": "2021-04-22 22:59:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1385328432490373129,
+        "text": "Who wants to practice leninism with me? https://t.co/5QW11Aooj3",
+        "created_at": "2021-04-22 20:23:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1385064299559899137,
+        "text": "These are my reasons you should crush my skull with your thighs\n\n1-common courtesy: weve all had a pretty hard year and i think its a good time for us to be generous with the people in our lives and the strangers on the internet that we might in the future meet\n2-i just wanna die",
+        "created_at": "2021-04-22 02:53:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1385051666215489540,
+        "text": "RT @NotPotBol: Due to this fucking fancam every time I hear this song I think of Fidel Castro. There is no escape. https://t.co/IdWFt83Bb9",
+        "created_at": "2021-04-22 02:03:44+00:00",
+        "public_metrics": {
+            "retweet_count": 32,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1384975621655126016,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1384959655030542339,
+        "text": "@sojboj_zizek Wtf us",
+        "created_at": "2021-04-21 19:58:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 612775305,
+        "referenced_tweets": {
+            "id": 1384959496238342149,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1384958583989837824,
+        "text": "If i fuck an emo girl with no condom, is it considered going in Rawr xd?",
+        "created_at": "2021-04-21 19:53:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1384956000193683457,
+        "text": "@sojboj_zizek Pull up",
+        "created_at": "2021-04-21 19:43:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 612775305,
+        "referenced_tweets": {
+            "id": 1384954784080400385,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1384949328075268097,
+        "text": "I am a staunch feminist but for some reason that doesn't translate well to my attitude in the bedroom.\nYou wont just be leaving not being able to walk, you'll be leaving forgetting you have the right to vote.",
+        "created_at": "2021-04-21 19:17:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1384855105355272193,
+        "text": "@CaitCamelia Let people chase cussy",
+        "created_at": "2021-04-21 13:02:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1627177045,
+        "referenced_tweets": {
+            "id": 1384603949785886722,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1384854919484686343,
+        "text": "@ghiduck Will the duck be there?",
+        "created_at": "2021-04-21 13:01:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1288544723733544960,
+        "referenced_tweets": {
+            "id": 1384588234957672450,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1384854100072927234,
+        "text": "@thesadneighbor Deiman ken 7essa morra saraha",
+        "created_at": "2021-04-21 12:58:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3153212108,
+        "referenced_tweets": {
+            "id": 1384752584439869440,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1384632259500720129,
+        "text": "What if we kissed in front of juche tower?",
+        "created_at": "2021-04-20 22:17:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1384563749743366144,
+        "text": "Thinking of buying a new necklace, are your legs available?",
+        "created_at": "2021-04-20 17:44:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1384199411912253445,
+        "text": "https://t.co/A2W5mpuni8",
+        "created_at": "2021-04-19 17:37:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1384188686393253894,
+        "text": "@HOUSEOFDEVI Did you just sum up liberal idpol?",
+        "created_at": "2021-04-19 16:54:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1225250605653991424,
+        "referenced_tweets": {
+            "id": 1383945795938906113,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1384164101144805376,
+        "text": "This could be us, but i don't trust these hoes https://t.co/Nqcf1nAt5x",
+        "created_at": "2021-04-19 15:16:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1383778271968387077,
+        "text": "@ghiduck \ud83d\udc41\ud83d\udc44\ud83d\udc41",
+        "created_at": "2021-04-18 13:43:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1288544723733544960,
+        "referenced_tweets": {
+            "id": 1383734270242422788,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1383777938118561798,
+        "text": "I just made some bomb ass guac. Today was a good day",
+        "created_at": "2021-04-18 13:42:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1383777476149579778,
+        "text": "@nada_baba ? https://t.co/Fmue6YQGso",
+        "created_at": "2021-04-18 13:40:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 612775305,
+        "referenced_tweets": {
+            "id": 1383590605452824587,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1383776540677181443,
+        "text": "RT @Communist_World: 17 \u0430\u043f\u0440\u0435\u043b\u044f \u0432 \u0411\u0435\u0440\u043b\u0438\u043d\u0435 \u043f\u0440\u043e\u0448\u0435\u043b \u043c\u0438\u0442\u0438\u043d\u0433, \u043f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0439 135-\u043b\u0435\u0442\u0438\u044e \u0441\u043e \u0434\u043d\u044f \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u0432\u043e\u0436\u0434\u044f \u043d\u0435\u043c\u0435\u0446\u043a\u0438\u0445 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u0441\u0442\u043e\u0432 \u042d\u0440\u043d\u0441\u0442\u0430 \u0422\u0435\u043b\u044c\u043c\u0430\u043d\u0430. \u0421\u2026",
+        "created_at": "2021-04-18 13:36:51+00:00",
+        "public_metrics": {
+            "retweet_count": 85,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1383498614593392640,
+            "type": "retweeted"
+        }
+    }
+]

@@ -1,0 +1,987 @@
+[
+    {
+        "tweet_id": 1495855588730974215,
+        "text": "how does one acquire Mars level spirituality. https://t.co/zXt9nCklNm",
+        "created_at": "2022-02-21 20:18:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491094809863684096,
+        "text": "it's so difficult to have to sit at work and class on days like this.",
+        "created_at": "2022-02-08 17:01:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491094281796595712,
+        "text": "overwhelm is imposter syndrome's best friend.",
+        "created_at": "2022-02-08 16:59:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487049437214130176,
+        "text": "also all the signs were there but easily missed bc allegedly i've been super masking since i was a kid.",
+        "created_at": "2022-01-28 13:06:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1220740867629162500,
+        "referenced_tweets": {
+            "id": 1487048233532768259,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487048233532768259,
+        "text": "but for real what a fucking relief there's an answer for what tf is going on in my brain.",
+        "created_at": "2022-01-28 13:01:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1220740867629162500,
+        "referenced_tweets": {
+            "id": 1487047951096717314,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487047951096717314,
+        "text": "turns out i have adhd. did not see that one coming. https://t.co/AojxWrtcdH",
+        "created_at": "2022-01-28 13:00:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486804592717410308,
+        "text": "the week before my period is a living nightmare for my mental health. https://t.co/FB8Kvj84WG",
+        "created_at": "2022-01-27 20:53:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480250648688046083,
+        "text": "so do neurotypical people experience intrusive thoughts? and if not, they just. go to sleep??",
+        "created_at": "2022-01-09 18:50:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479112390885007364,
+        "text": "feel like absolute fucking garbage about myself. looks like that mental health dip from yesterday lingered.",
+        "created_at": "2022-01-06 15:27:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478836642479808516,
+        "text": "it's amazing how missing a meal can fuck up my mental health for the rest of the day.",
+        "created_at": "2022-01-05 21:11:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478551195824406532,
+        "text": "got the 3 p's. https://t.co/1AgqyOgpr7",
+        "created_at": "2022-01-05 02:17:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478425174567534592,
+        "text": "and also fuck you twitter for suggesting those tweets when i specially said NO.",
+        "created_at": "2022-01-04 17:56:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1220740867629162500,
+        "referenced_tweets": {
+            "id": 1478424853208354823,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478424853208354823,
+        "text": "i can't handle this c***d anxiety. having fucking anxiety attacks when im out is not the move. and yet. here i am.",
+        "created_at": "2022-01-04 17:55:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478099965285175297,
+        "text": "is the break down stress induced or bc depression and anxiety lower your threshold for handling things https://t.co/42iC2THZTO",
+        "created_at": "2022-01-03 20:24:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475638730509758475,
+        "text": "@wetneptune I often have \"unexplained\" situations w dreams but Ive had so many vivid dreams over the last 2 yrs w this guy I used to date that Im POSITIVE we're having a shared dream, especially the ones where I can physically feel him. He channels me A LOT bc he never moved past me.",
+        "created_at": "2021-12-28 01:24:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1107446390630821889,
+        "referenced_tweets": {
+            "id": 1475275615616086016,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474187954927112194,
+        "text": "which was a result of overspending guilt. and not coincidentally it started with capricorn season. gimme \ud83c\udf5e\ud83c\udf5e PLZ.",
+        "created_at": "2021-12-24 01:19:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1220740867629162500,
+        "referenced_tweets": {
+            "id": 1474187604501401608,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474187604501401608,
+        "text": "within the last 48 hrs i impulsively started a Poshmark. now it's my hyperfixation. https://t.co/EPZ1sYNrJp",
+        "created_at": "2021-12-24 01:18:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473445295417704456,
+        "text": "anxiety is telling me don't go out stay safe at home. https://t.co/K9SZAeLfJn",
+        "created_at": "2021-12-22 00:08:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472732946016751617,
+        "text": "asked for something I need to hear- i was just talking about forgiveness with my therapist today. https://t.co/gXC0gNxoIM",
+        "created_at": "2021-12-20 00:57:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472209457719529474,
+        "text": "all i ask. is to not be woken up. on days i need sleep. \ud83d\ude35\u200d\ud83d\udcab https://t.co/6XFstsIkFV",
+        "created_at": "2021-12-18 14:17:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472059569220243457,
+        "text": "i felt so stupid for having fomo rn. i still feel it, but i also still feel anxious.\n\ntoday i was triggered by the flu, something that used to be so NORMAL. and now i'm showing signs of a trauma response. it's VALID.",
+        "created_at": "2021-12-18 04:22:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1220740867629162500,
+        "referenced_tweets": {
+            "id": 1472058268885340169,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472058268885340169,
+        "text": "maybe it seems like everyone is carrying on like nothing happened since 2020. and maybe you feel bad about not living like you were. but it's valid to be traumatized. still wearing masks. VALID. precautions in public. VALID. still feeling anxiety. FUCKING VALID. it's ok.",
+        "created_at": "2021-12-18 04:16:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1471899739453112329,
+        "text": "random urge to cry: 19373672818\nme: 0",
+        "created_at": "2021-12-17 17:46:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1471867365667311623,
+        "text": "don't know if the impulse to buy things is depression or bc I'm a hoe for discounts.",
+        "created_at": "2021-12-17 15:38:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1471549946725863434,
+        "text": "Which is a silver lining of the rollercoaster I've been on the last few weeks.",
+        "created_at": "2021-12-16 18:37:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1220740867629162500,
+        "referenced_tweets": {
+            "id": 1471549672988807168,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1471549672988807168,
+        "text": "I finally went on a walk again after 1.5 months of ignoring the depression aches in my legs.",
+        "created_at": "2021-12-16 18:35:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1253363962860707841,
+        "text": "https://t.co/XWROvGaQeB",
+        "created_at": "2020-04-23 16:43:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1248028415069995014,
+        "text": "RT @WomenintheWorld: UN research finds that 1 in 4 women does not have the freedom to say no to sex:\nhttps://t.co/aRk9Zuu0Mq via @Reuters",
+        "created_at": "2020-04-08 23:22:16+00:00",
+        "public_metrics": {
+            "retweet_count": 26,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1245916433319632896,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1239335684248408068,
+        "text": "RT @zoramag: Rulings across the Deep South cut off access for many low-income, marginalized people and put them at risk. https://t.co/JvHxw\u2026",
+        "created_at": "2020-03-15 23:40:27+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1239253773417091082,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1239334332969385989,
+        "text": "\u201cBuilding a sustainable future for all, means leaving no one behind.\u201d https://t.co/tZYn85SaZG",
+        "created_at": "2020-03-15 23:35:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1239228628115873792,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1239332970336530433,
+        "text": "\u201cBeauty is about respect and value and the right to exist without having to alter who you fundamentally are.\u201d\n\nhttps://t.co/J5fY1Ubv7m",
+        "created_at": "2020-03-15 23:29:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1236828360493457408,
+        "text": "\u201cEvery 100 men promoted and hired to a manager position, only 72 women are promoted and hired for the same role. For WOC, it\u2019s lower- 68 Latina women and 58 black women are promoted to manager for every 100 entry-level men promoted to the same job.\u201d\n\n https://t.co/xXalZvH6gj",
+        "created_at": "2020-03-09 01:37:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1236826157611462657,
+        "text": "RT @WomenintheWorld: \u201cMen are typically hired based on potential and what we believe they can do, while women are typically hired and promo\u2026",
+        "created_at": "2020-03-09 01:28:29+00:00",
+        "public_metrics": {
+            "retweet_count": 47,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1236166689231982592,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1234959401775173632,
+        "text": "\u201cGender parity has a fundamental bearing on whether or not economies and societies thrive.\u201d https://t.co/AOyAPklINL",
+        "created_at": "2020-03-03 21:50:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1233102820599042051,
+        "text": "The study is 6 years old, but still extremely relevant. Women in general are underrepresented in media, and when present, are stereotyped, sexualized&amp; passive. WOC are even more underrepresented, stereotyped, sexualized &amp; fetishized. \n\nhttps://t.co/lYNDoPL5l5",
+        "created_at": "2020-02-27 18:53:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1233100292989837315,
+        "text": "RT @zoramag: Limited income, stressful jobs, and daily traumas mean Black and Brown women need a more intense, less expensive pamper routin\u2026",
+        "created_at": "2020-02-27 18:43:14+00:00",
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1232907806149349378,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1233096828255600640,
+        "text": "Access to any kind of healthcare, including reproductive and sexual, is a HUGE gap in gender, and racial, equality. \n\nhttps://t.co/Kw6n7Qrms1",
+        "created_at": "2020-02-27 18:29:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1233096066175729667,
+        "text": "RT @WomenintheWorld: \u201cThese are not luxury items. They are indeed essential.\u201d\n\nThat\u2019s the thinking behind Scotland\u2019s move today to become t\u2026",
+        "created_at": "2020-02-27 18:26:26+00:00",
+        "public_metrics": {
+            "retweet_count": 53,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1232785848254521349,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1230970487838257154,
+        "text": "RT @UN_Women: Whom we deem \u2018beautiful\u2019 is a reflection of our values. \n\nHas a more expansive world arrived where \u2018we are all beautiful\u2019? vi\u2026",
+        "created_at": "2020-02-21 21:40:09+00:00",
+        "public_metrics": {
+            "retweet_count": 59,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1230319922611445763,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1230966136847699968,
+        "text": "RT @zoramag: Saying no to sex\u200a\u2014\u200aor to babies, or even simply to plans\u200a\u2014\u200ais subversive. It goes against everything we have been taught. http\u2026",
+        "created_at": "2020-02-21 21:22:51+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1230153738175860739,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1230964374736658432,
+        "text": "RT @zoramag: It\u2019s more important than ever to stand by Black women and believe their stories. https://t.co/UMk4jt74IQ",
+        "created_at": "2020-02-21 21:15:51+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1230427787019931648,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1228777029493043202,
+        "text": "RT @TEDTalks: Preventing unintended pregnancy shouldn't just be women's responsibility. https://t.co/pOyHm9dCfH",
+        "created_at": "2020-02-15 20:24:08+00:00",
+        "public_metrics": {
+            "retweet_count": 75,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1228650226317221888,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1228101140035907584,
+        "text": "https://t.co/edJsCTx538",
+        "created_at": "2020-02-13 23:38:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1228019847973478406,
+        "text": "\ud83d\udc40\ud83d\udc40\n\nhttps://t.co/zZyJt4VMEn",
+        "created_at": "2020-02-13 18:15:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1227304881175875585,
+        "text": "RT @zoramag: There's a correlation between chemical straighteners, hair dyes, and cancer, a @NIH study found.\n\nUsage of permanent hair dye\u2026",
+        "created_at": "2020-02-11 18:54:20+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1227059984665661442,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1227304477188853760,
+        "text": "RT @WomenintheWorld: \"Because of my age I didn\u2019t really think anything of it.\" https://t.co/3xBDBwqTfx via @NYDailyNews",
+        "created_at": "2020-02-11 18:52:44+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1226955242966786049,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1226926292781731840,
+        "text": "RT @zoramag: There can never be an all-Black 'Friends,' because that show was the all-white 'Living Single.' Period. \n\n@EAlexTheGreat, a st\u2026",
+        "created_at": "2020-02-10 17:49:58+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1226907602744991747,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1226923565573910528,
+        "text": "RT @Medium: More than 1/3 of women report having been harassed in the workplace at some point in their careers. https://t.co/Kf9EE4I709 (vi\u2026",
+        "created_at": "2020-02-10 17:39:07+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1226772866244456453,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1226194255837876230,
+        "text": "RT @WomenintheWorld: \u201cThis is very different from the past -- the mentality has totally changed.\"\nhttps://t.co/2FTBwZN5XF\nvia @business",
+        "created_at": "2020-02-08 17:21:06+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1225906044158849033,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1226191055164510210,
+        "text": "RT @WomenintheWorld: \"Women don\u2019t have access to the care they need.\"  https://t.co/rM3BNTZG24\nvia @BuzzFeedNews",
+        "created_at": "2020-02-08 17:08:23+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1225915894234255361,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1226189523865960449,
+        "text": "RT @UN_Women: Female genital mutilation is a global human rights violation deeply rooted in gender inequalities. Find out more: https://t.c\u2026",
+        "created_at": "2020-02-08 17:02:18+00:00",
+        "public_metrics": {
+            "retweet_count": 123,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1225503198460416002,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1225502153046974466,
+        "text": "RT @TRF_Stories: Female genital mutilation will not end unless women are lifted out of poverty and donors stop wasting money on ineffective\u2026",
+        "created_at": "2020-02-06 19:30:56+00:00",
+        "public_metrics": {
+            "retweet_count": 34,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1225422643907584000,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1225502119215669249,
+        "text": "RT @UN: Female genital mutilation is a global human rights violation, that at least 200 million girls &amp; women alive today have been subject\u2026",
+        "created_at": "2020-02-06 19:30:48+00:00",
+        "public_metrics": {
+            "retweet_count": 256,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1225374325772959745,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1224853555028353025,
+        "text": "RT @Medium: \"As women of color putting their sexuality on full display on a stage where we have been punished for doing so before, [they] t\u2026",
+        "created_at": "2020-02-05 00:33:38+00:00",
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1224787529976680454,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1224767047902601216,
+        "text": "RT @TheCut: \u201cI don\u2019t know how many times I\u2019ve been told \u2018You\u2019re beautiful\u2019 in the bathroom or how many times I\u2019ve told another woman that s\u2026",
+        "created_at": "2020-02-04 18:49:53+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1224712001508773892,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1224765280662048771,
+        "text": "RT @UN_Women: 6 February is the International Day to End Female Genital Mutilation and a new opportunity to put an end to this harmful prac\u2026",
+        "created_at": "2020-02-04 18:42:52+00:00",
+        "public_metrics": {
+            "retweet_count": 1071,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1224295232545660930,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1224048934819180548,
+        "text": "RT @Medium: Office advice for women of color who know that leaning in doesn\u2019t always work. (via @zoramag) https://t.co/gAkJzrZ2k3",
+        "created_at": "2020-02-02 19:16:22+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1224040158430924806,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1224044282920800258,
+        "text": "https://t.co/7Hpfk4YPgt",
+        "created_at": "2020-02-02 18:57:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1223331941228912641,
+        "text": "RT @Medium: Sanitary products are not a luxury, but a human right. (via @zoramag) https://t.co/2lFGWWsjBL",
+        "created_at": "2020-01-31 19:47:17+00:00",
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1223190929365962752,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1223321450389671937,
+        "text": "RT @Medium: It begins with not settling for the mediocre. (via @zoramag) https://t.co/xWBBWzU9uh",
+        "created_at": "2020-01-31 19:05:36+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1223018627210924033,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1223321308370522114,
+        "text": "RT @zoramag: There aren\u2019t enough therapists of color to go around. \n\nWhen trying to find a therapist of color, women are discovering barrie\u2026",
+        "created_at": "2020-01-31 19:05:02+00:00",
+        "public_metrics": {
+            "retweet_count": 103,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1207330023780188161,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1223321241370710023,
+        "text": "RT @Medium: \"The first question asked is, \u2018Why is she here? She is a girl.' So how much access do you expect a female reporter to get from\u2026",
+        "created_at": "2020-01-31 19:04:46+00:00",
+        "public_metrics": {
+            "retweet_count": 19,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1220559345026465792,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1222925530191843332,
+        "text": "RT @Medium: The 2010s will be remembered as that era an entire generation upended a country's assumptions about gender, all in the span of\u2026",
+        "created_at": "2020-01-30 16:52:21+00:00",
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1221493629170212864,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1222925472394350592,
+        "text": "RT @TEDTalks: \"We teach girls that they can have ambition, but not too much ... to be successful, but not too successful, or they'll threat\u2026",
+        "created_at": "2020-01-30 16:52:08+00:00",
+        "public_metrics": {
+            "retweet_count": 345,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1221459734752043009,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1222925401003044870,
+        "text": "RT @PPFA: In partnership with @AbortionStories, we\u2019re proud to launch #OursToTell, a short film about four people living full and empowered\u2026",
+        "created_at": "2020-01-30 16:51:51+00:00",
+        "public_metrics": {
+            "retweet_count": 310,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1219656922682613761,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1222925318224326656,
+        "text": "RT @Medium: \"If Weinstein is found guilty, we\u2019ll likely be hearing a lot about how the justice system works \u2014 that the culture and the cour\u2026",
+        "created_at": "2020-01-30 16:51:31+00:00",
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1221706948850126849,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1222219672684310528,
+        "text": "https://t.co/g2qTCcWS4B",
+        "created_at": "2020-01-28 18:07:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

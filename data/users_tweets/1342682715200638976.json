@@ -1,0 +1,2839 @@
+[
+    {
+        "tweet_id": 1504811678504001558,
+        "text": "Happy Match Day to all the med students out there!",
+        "created_at": "2022-03-18 13:27:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504486939088596994,
+        "text": "What is this outside world full of everything I want to catch in the morning https://t.co/cDmdOdImpn",
+        "created_at": "2022-03-17 15:56:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499534322172375041,
+        "text": "@KimDHolderness  Congrats for the  win!",
+        "created_at": "2022-03-03 23:56:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15831125,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499519823809761282,
+        "text": "Non-spoiler, but if you are wondering how the film Against The Ice does on the scale of \"does the dog die\". Don't look.",
+        "created_at": "2022-03-03 22:59:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499404730174480384,
+        "text": "RT @siftpop: On this week's Writers' Room, @schwhitecastle is joined by @jeffery_rahming and @AlexMakesVids. They'll preview the new Bat su\u2026",
+        "created_at": "2022-03-03 15:21:59+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499075526723518471,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498101983433175040,
+        "text": "Watching my cat react to the screen while watching Reign of Fire may be more entertaining than the film itself... and I unashamedly watch Reign of Fire frequently.",
+        "created_at": "2022-02-28 01:05:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495898168889913348,
+        "text": "RT @siftpop: New review from @Scarticus! I think he hated the new Texas Chainsaw Massacre. https://t.co/uj92xdtCad",
+        "created_at": "2022-02-21 23:08:10+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495798688534474756,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495875202017865730,
+        "text": "Roommate progress https://t.co/O0HrxaZqKc",
+        "created_at": "2022-02-21 21:36:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495567562268102658,
+        "text": "Just finally got around to starting Hawkeye .... and have 0 plans to sleep tonight.",
+        "created_at": "2022-02-21 01:14:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495412317642801158,
+        "text": "Mardi Gras parades in Galveston wouldn't be complete without a @redbull DJ truck https://t.co/hMYBAOMmKH",
+        "created_at": "2022-02-20 14:57:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495140593978253312,
+        "text": "No fish today but still love having this view just miles away https://t.co/81AcU7DpuA",
+        "created_at": "2022-02-19 20:57:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495046920468844544,
+        "text": "RT @siftpop: With the release of #Uncharted this week, we're doing some of our favorite \"Un\" movies! https://t.co/h0hC1l4u7z",
+        "created_at": "2022-02-19 14:45:37+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494734266906861571,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494725062305456133,
+        "text": "RT @LinaHidalgoTX: This is a reason elections officials should be able to send mail ballot apps, as we did in Harris County before the stat\u2026",
+        "created_at": "2022-02-18 17:26:40+00:00",
+        "public_metrics": {
+            "retweet_count": 609,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494500336693825537,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494724825805475845,
+        "text": "Soo... Eternals may be the most boring MCU entry yet. My ADHD aside, I'm an hour in and fighting to figure out how this cast got so wasted.",
+        "created_at": "2022-02-18 17:25:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494485190823063552,
+        "text": "120+lb great dane still perplexed  trying to figure out why the new 6lb furball doesn't respond to her play advances . https://t.co/jbiuWfaTyk",
+        "created_at": "2022-02-18 01:33:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494419649810898945,
+        "text": "Houston... where 42 degree temp drops happen in a day. Should be fun. https://t.co/Es9rqrVuip",
+        "created_at": "2022-02-17 21:13:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493058417119932419,
+        "text": "Cincy, well done! Stafford, Donald and the Rams well done! Great game.",
+        "created_at": "2022-02-14 03:04:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492967403415871490,
+        "text": "Operation super bowl food is a go. Step 1: Smoke some wings https://t.co/fI3ZJIZLOc",
+        "created_at": "2022-02-13 21:02:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492600270085365774,
+        "text": "@HorrorVirgin @ToddJAwesome Every time you have used the \"word\" hand axe. Happy birthday and thanks for bringing joy!",
+        "created_at": "2022-02-12 20:43:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 987802569006305280,
+        "referenced_tweets": {
+            "id": 1492591750401208336,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492599640335790085,
+        "text": "Biathlon is both confusing and mesmerizing",
+        "created_at": "2022-02-12 20:41:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492340354233909252,
+        "text": "RT @siftpop: Best Ever Movies Featuring Amazing Facial\u00a0Hair https://t.co/HqBimj1thQ",
+        "created_at": "2022-02-12 03:30:41+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492204767929671680,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1492163033447247883,
+        "text": "Winning the day https://t.co/R3Y8Cpky5F",
+        "created_at": "2022-02-11 15:46:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491832150018203652,
+        "text": "RT @siftpop: On this week's Writers' Room, @schwhitecastle and Joe preview #Kimi and #DeathOnTheNile,chat about #JudgeDredd and #Dredd, and\u2026",
+        "created_at": "2022-02-10 17:51:16+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491811638894288901,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491518320931131392,
+        "text": "Our pup is perfect... and about to get a teeth cleaning https://t.co/V5w6GhfwHj",
+        "created_at": "2022-02-09 21:04:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491175798661070848,
+        "text": "I have apparently lost the top role in our household https://t.co/4mMqPL5ei2",
+        "created_at": "2022-02-08 22:23:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490520561927311362,
+        "text": "So Encanto just charmed my ass off and I loved every second of it.",
+        "created_at": "2022-02-07 02:59:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489688981746987014,
+        "text": "RT @siftpop: Best Ever Disaster\u00a0Movies https://t.co/4JChBAosA5",
+        "created_at": "2022-02-04 19:55:04+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489660459624108041,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489658194481795090,
+        "text": "Welcome to the family Maddie! https://t.co/PmV7yGJRHP",
+        "created_at": "2022-02-04 17:52:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489420196502806528,
+        "text": "Finally watching @birbigs Don't Think Twice \ud83d\ude0d",
+        "created_at": "2022-02-04 02:07:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489347758251253774,
+        "text": "Apparently whoever used the fireplace in its hayday left the soot too",
+        "created_at": "2022-02-03 21:19:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1342682715200638976,
+        "referenced_tweets": {
+            "id": 1489347472573054976,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489347472573054976,
+        "text": "https://t.co/axtDWN149i",
+        "created_at": "2022-02-03 21:18:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489315767397109770,
+        "text": "Day 2 of our newly adopted cat exploring our small home. After hours of frantically searching, afraid I left the door open, take a last ditch effort and check the (nonfunctional) fireplace: https://t.co/G97sJ9hB0n",
+        "created_at": "2022-02-03 19:12:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489064797454966786,
+        "text": "RT @siftpop: Here's a new review for The Fallout by @hilty_mike https://t.co/VikwFv5E0P",
+        "created_at": "2022-02-03 02:34:47+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489049063794388995,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488996319771439106,
+        "text": "@HorrorVirgin can we add the lava fighting copters from Volcano to the copterverse.  They do dump it all https://t.co/TWFHrgXeCX",
+        "created_at": "2022-02-02 22:02:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 987802569006305280,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488977969204895748,
+        "text": ".... she does have a litter box... https://t.co/poIYIGJWqW",
+        "created_at": "2022-02-02 20:49:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488960656892116997,
+        "text": "RT @siftpop: On this weeks Writers Room, @schwhitecastle is joined by @Jake_Bourgeois\nAnd @KerbRider to do lots of things including preview\u2026",
+        "created_at": "2022-02-02 19:40:58+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488952033579261952,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488709947550482432,
+        "text": "RT @siftpop: There's a new Ice Age film. @ContoShane is here to answer if it's worth your time. https://t.co/dwLBwZxdHa",
+        "created_at": "2022-02-02 03:04:45+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488687683564146688,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487928084200370177,
+        "text": "That Patrick price won't buy championships. My titans and falcons are out but love this for Cincinnati!",
+        "created_at": "2022-01-30 23:17:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487263385729351681,
+        "text": "How did I not get to this until now",
+        "created_at": "2022-01-29 03:16:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1342682715200638976,
+        "referenced_tweets": {
+            "id": 1487258882686783489,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487261520979505156,
+        "text": "@birbigs @brettgoldstein Yes!!!!",
+        "created_at": "2022-01-29 03:09:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15147397,
+        "referenced_tweets": {
+            "id": 1487240662340845569,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487258882686783489,
+        "text": "Bo Burnham: Inside is the choice tonight!",
+        "created_at": "2022-01-29 02:58:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487149553837031425,
+        "text": "RT @siftpop: With #HomeTeam coming out on #Netflix this weekend, we figured we would count count down our favorite football movies! https:/\u2026",
+        "created_at": "2022-01-28 19:44:18+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487123490742444032,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487148588081856512,
+        "text": "Hey @kogibbq , please come to Houston so I don't have to keep sending people to LA for your awesomeness, it's a long flight. https://t.co/1dxjmhDPUm",
+        "created_at": "2022-01-28 19:40:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487092100600639493,
+        "text": "Danes are the best https://t.co/HGPGYe1Hqz",
+        "created_at": "2022-01-28 15:56:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486148405994962946,
+        "text": "Maybe late to the party. But rewatching Hush for the millionth time and just seeing this... will you ever stop trolling us @flanaganfilm https://t.co/slSwNeCZzA",
+        "created_at": "2022-01-26 01:26:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485798991107346445,
+        "text": "My best laugh may be every week where my wife is introduced to a film from my childhood via a BEC watch for the week. Looking at (thanking) you @siftpop",
+        "created_at": "2022-01-25 02:17:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485797395380191237,
+        "text": "I forgot how awesome Faizon Love and Jon Favreau are in this.",
+        "created_at": "2022-01-25 02:11:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1342682715200638976,
+        "referenced_tweets": {
+            "id": 1485786224824659977,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485786224824659977,
+        "text": "The Keanu Kick continues... tonight it's The Replacements . I forgot how amazingly 2000 this is.",
+        "created_at": "2022-01-25 01:26:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485766676880756736,
+        "text": "RT @CincinnatiZoo: Happy 5th Birthday Fiona! Her care team made her a special cake with all of her favorite produce and snacks! #TeamFiona\u2026",
+        "created_at": "2022-01-25 00:09:14+00:00",
+        "public_metrics": {
+            "retweet_count": 366,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485673876059262980,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485672740032073732,
+        "text": "RT @CincinnatiZoo: Happy 5th Birthday Fiona! #TeamFiona https://t.co/PI2hUrIgrz https://t.co/f2evvslHFH",
+        "created_at": "2022-01-24 17:55:58+00:00",
+        "public_metrics": {
+            "retweet_count": 596,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485614000725540867,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485672153018257413,
+        "text": "RT @CincyChildrens: Today we wish @CincinnatiZoo's favorite hippo, Fiona, a Happy 5th Birthday! Among all who celebrate her each year, are\u2026",
+        "created_at": "2022-01-24 17:53:38+00:00",
+        "public_metrics": {
+            "retweet_count": 170,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485652207483695115,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485444034768347137,
+        "text": "Every kicker has earned a bonus this weekend no matter what \ud83d\ude03\ud83d\ude03",
+        "created_at": "2022-01-24 02:47:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485393486115442697,
+        "text": "@cinemasins The preview left me incredibly confused.... and not even remotely excited.",
+        "created_at": "2022-01-23 23:26:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1093769448,
+        "referenced_tweets": {
+            "id": 1485389659781935108,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485345860582006784,
+        "text": "Come on Rams. I can accept the titans dropping yesterday to Cincy, as long as you can cap off the weekend with both the Packers and bucs being knocked out. Let's do it Stafford!",
+        "created_at": "2022-01-23 20:17:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485037056787156995,
+        "text": "Titans and Bengals doing their best to make this game as confusing as possible.",
+        "created_at": "2022-01-22 23:49:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485033745853919235,
+        "text": "@Jacob_Hopkins Anxiety blanket and anx meds for this one every visit no matter how simple... followed by an evening of sleeping around the house stoned as can be. Fully understand https://t.co/PSTdDhxbZu",
+        "created_at": "2022-01-22 23:36:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 53847510,
+        "referenced_tweets": {
+            "id": 1484929486101569536,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484960761432707072,
+        "text": "Early Bday present from the lovely @NikkiLawsonMD . Come back soon @TedLasso https://t.co/NtA0EfGDQr",
+        "created_at": "2022-01-22 18:46:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484595206682988544,
+        "text": "RT @siftpop: One of this week's new releases is #RedeemingLove, so we thought we'd do some of our other favorite #Romance movies based on b\u2026",
+        "created_at": "2022-01-21 18:34:14+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484587710236999689,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1484562698046222341,
+        "text": "@bitsofjoel @schwhitecastle Jane Lynch is perfect in it as well, absolutely worth a watch.",
+        "created_at": "2022-01-21 16:25:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4890272643,
+        "referenced_tweets": {
+            "id": 1484557023916212226,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484367569473589249,
+        "text": "@MRandolph24 Just solved it with an ADHD guess for the win and I will hear nothing other than applause for the next 24 hours as if I earned it.",
+        "created_at": "2022-01-21 03:29:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 24093355,
+        "referenced_tweets": {
+            "id": 1484301580899954695,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484320402344013825,
+        "text": "I guess technically these are instructions... can't wait to see how this $70 desk turns out Wayfair. https://t.co/m3WBKBj1cs",
+        "created_at": "2022-01-21 00:22:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483455922257154051,
+        "text": "First attempt for a little free library https://t.co/XOTyOlz1HV",
+        "created_at": "2022-01-18 15:07:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482873820507684877,
+        "text": "I am wayyyy too happy watching Free Guy",
+        "created_at": "2022-01-17 00:34:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482837817441107970,
+        "text": "I don't deserve the awesomeness that is my wife @NikkiLawsonMD . No matter what dumb accidental injury I bring on myself (landscaping mishaps  in our yard or botched making breakfast injuries). She just rolls with it everytime I say \"heyyy....sooo I may have messed up\".",
+        "created_at": "2022-01-16 22:11:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482768536615505922,
+        "text": "https://t.co/nWEalbjLzw",
+        "created_at": "2022-01-16 17:35:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1342682715200638976,
+        "referenced_tweets": {
+            "id": 1482761873070211072,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482761873070211072,
+        "text": "Mandolins are sharp and will cut whatever is presented. Use the included produce holder when slicing.. Not your hand. Not speaking from experience this morning at all...",
+        "created_at": "2022-01-16 17:09:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482078745662001152,
+        "text": "RT @siftpop: With the release of \"Scream\" or \"5 cream\" as we affectionally call it here, we decided to take a look at some of our other fav\u2026",
+        "created_at": "2022-01-14 19:54:43+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1482064067502219267,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481775870926888962,
+        "text": "RT @siftpop: On this week's Writers' Room, @schwhitecastle is joined by 21 different Siftpop writers to give their Top 5 Favorite films of\u2026",
+        "created_at": "2022-01-13 23:51:12+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1481325072887463939,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481059278039531526,
+        "text": "I forgot how awesomely WordArt the opening credits font is for Speed. \ud83d\ude05",
+        "created_at": "2022-01-12 00:23:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480765804312514562,
+        "text": "LET'S GO DAWGS!!!!!! FINALLY!!!  #GoDawgs https://t.co/MtVYNGCTQ2",
+        "created_at": "2022-01-11 04:57:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480755608768892930,
+        "text": "@DICKS Feel free not to jinx it",
+        "created_at": "2022-01-11 04:17:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41135906,
+        "referenced_tweets": {
+            "id": 1480751322374684681,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480711767651229697,
+        "text": "Of course. Ugh. Let's #GoDawgs !!!",
+        "created_at": "2022-01-11 01:22:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480706582543581189,
+        "text": "RT @ESPNCFB: GAME TIME \ud83d\ude24\ud83d\ude24\n\nThe Dawgs are ready for the #NationalChampionship https://t.co/tNhSvNehoG",
+        "created_at": "2022-01-11 01:02:14+00:00",
+        "public_metrics": {
+            "retweet_count": 269,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1480701428817661952,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479492330424053762,
+        "text": "@jennferatu @ScreamMovies Favorite moment the explanation of the rules for how to survive a horror movie!",
+        "created_at": "2022-01-07 16:37:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1006921768211271680,
+        "referenced_tweets": {
+            "id": 1479098145913163777,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479491119083933697,
+        "text": "The Thing (1982)! https://t.co/dkrTtH3P9w",
+        "created_at": "2022-01-07 16:32:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479098145913163777,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1478810211045580802,
+        "text": "RT @siftpop: On this week's Writers' Room, @schwhitecastle @mlawso620 and @Whittsinned preview #Scream (or 5cream as we call it) and #The35\u2026",
+        "created_at": "2022-01-05 19:26:43+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478808799951654913,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477805243073245184,
+        "text": "@Jake_Bourgeois Too soon \ud83d\ude14",
+        "created_at": "2022-01-03 00:53:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3235570381,
+        "referenced_tweets": {
+            "id": 1477745568709447680,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477803332651606019,
+        "text": "@Whittsinned  and @schwhitecastle  the next 85 minutes and the 3 dollars on my credit card are all your fault https://t.co/anGSorj2lL",
+        "created_at": "2022-01-03 00:45:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2714542025,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477083031923998724,
+        "text": "#dawgs",
+        "created_at": "2022-01-01 01:03:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476608102057271299,
+        "text": "If you hoped you would one day attempt to watch a football game and hear the phrase \"holy mayonnaise!\" And then later watch that same broadcaster dip Oreos in mayonnaise... this UNC v SC bowl game is perfect for your nauseous fantasy.",
+        "created_at": "2021-12-30 17:36:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476034740637646848,
+        "text": "That. Was. Fantastic!! Lights out from Garfield and a ridiculously awesome cast! About to watch anything with Joshua Henry singing in it!",
+        "created_at": "2021-12-29 03:38:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1342682715200638976,
+        "referenced_tweets": {
+            "id": 1476005690494033920,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476005690494033920,
+        "text": "Finally getting a chance to sit down and take in Tick, Tick...Boom!",
+        "created_at": "2021-12-29 01:42:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475554889744986112,
+        "text": "... Heavyweights is a prequel to Dodgeball. Globo Gym began at camp hope. https://t.co/gE1vcj4UF8",
+        "created_at": "2021-12-27 19:51:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1474942297397764096,
+        "text": "@NikkiLawsonMD @nethertonians It only took 3 nights of movie watching and several arguments ... all of which I was right in ;)",
+        "created_at": "2021-12-26 03:17:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1151662915440787458,
+        "referenced_tweets": {
+            "id": 1474935270898339841,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474941915934216197,
+        "text": "RT @NikkiLawsonMD: Watching #MatrixResurrections with Lauren, @nethertonians, and @mlawso620! Thanks to @mlawso620 for bringing me up to sp\u2026",
+        "created_at": "2021-12-26 03:15:30+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474935270898339841,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1474503096944537601,
+        "text": "Spoiled pup opening her Christmas treats early https://t.co/TtwOWn2YLm",
+        "created_at": "2021-12-24 22:11:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473159431751929856,
+        "text": "Running out of Christmas movies.. may as well Jingle All The Way https://t.co/vDbmQ8KAlH",
+        "created_at": "2021-12-21 05:12:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472710571657154575,
+        "text": "@schwhitecastle Well, after 24 hours this crisis is over and every person involved with the negations probably feels like this walking away. Meanwhile... I finally did my Saturday to-do list and saved $15 for one month... so who really won... https://t.co/fF34tAaNQq",
+        "created_at": "2021-12-19 23:28:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 88289008,
+        "referenced_tweets": {
+            "id": 1472259428829347846,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472257646589882373,
+        "text": "@schwhitecastle Guess it's time to make the switch... is it bad I'm just more annoyed at having to create a new login bc I'm lazy",
+        "created_at": "2021-12-18 17:29:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 88289008,
+        "referenced_tweets": {
+            "id": 1472256561926057987,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472251194802327554,
+        "text": "Well... wanted to watch football today. Thanks Disney/YouTube for this pissing contest you're having.",
+        "created_at": "2021-12-18 17:03:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472247733859852292,
+        "text": "Attempting to do morning reading with a Dane: https://t.co/t4TxHxYvg3",
+        "created_at": "2021-12-18 16:49:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472033607913029635,
+        "text": "@LZZYHALE more Houston shows please!!!!!",
+        "created_at": "2021-12-18 02:38:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19410179,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472032484787380225,
+        "text": "Our dog.. watching my wife.. watching The Matrix for the first time. https://t.co/l8SK2Cf4dG",
+        "created_at": "2021-12-18 02:34:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1471530992213139459,
+        "text": "Your poor planning and running late is never a reason to be rude to the waitstaff. Shout out to the folks at the S. Shepherd @torchystacos in Houston for their patience and grace this morning with some customers who challenged that.",
+        "created_at": "2021-12-16 17:21:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1471238517980385287,
+        "text": "So proud of my amazing wife @NikkiLawsonMD ! Congrats on matching in pediatric criticical care fellowship at Texas Children's! Looking forward to many more years of our journey with our amazing Houston fam!!!",
+        "created_at": "2021-12-15 21:59:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1471154658882297868,
+        "text": "It's been an hour of this stalking... the squirrel is long gone https://t.co/VDnuJN7WXg",
+        "created_at": "2021-12-15 16:26:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1342682715200638976,
+        "referenced_tweets": {
+            "id": 1471153807946137601,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1471153807946137601,
+        "text": "No amount of slobber will stop her from protecting the yard from those threatening squirrels https://t.co/z4OOXcQOtx",
+        "created_at": "2021-12-15 16:22:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1471090984125706242,
+        "text": "Good Morning to all the med residents matching for fellowship today, awaiting the news of where the next step of this journey takes you ... Happy Match Day!!!",
+        "created_at": "2021-12-15 12:13:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1470551463579602951,
+        "text": "If work from home during COVID has taught me any unexpected skill... it's how to, in your pajamas, skirt through the sight lines of your spouses camera during their zoom meeting while avoiding the creaky boards like you're living in A Quiet Place.",
+        "created_at": "2021-12-14 00:29:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469821777387921416,
+        "text": "Update: Land Before Time was somehow more horror than Jurassic Park.",
+        "created_at": "2021-12-12 00:09:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1342682715200638976,
+        "referenced_tweets": {
+            "id": 1469488416391897089,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469821394846420994,
+        "text": "Am I the only person who laughs their butt off when it's time for white elephant \ud83d\udc18 Christmas parties bc I know someone else will soon share in saying \"WTF?\" As they open items I'm purging from our  attic, sent from distant relatives years ago for who knows why? Just me?",
+        "created_at": "2021-12-12 00:08:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469488416391897089,
+        "text": "Land Before Time \u2705 Follow it up with Jurassic Park as a double feature? Why not.",
+        "created_at": "2021-12-11 02:05:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469483186497404929,
+        "text": "@JosephCshnDavis Come to Houston and we will celebrate!",
+        "created_at": "2021-12-11 01:44:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1165060435,
+        "referenced_tweets": {
+            "id": 1469481567324188675,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469475804002365445,
+        "text": "5 minutes into this \" You know Sarah has CTE and multiple injuries\" . I am married to a doctor.",
+        "created_at": "2021-12-11 01:15:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1342682715200638976,
+        "referenced_tweets": {
+            "id": 1469473302250987527,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469473302250987527,
+        "text": "Rewatching The Land Before Time  with @NikkiLawsonMD may be the greatest way to spend a Friday night ever.",
+        "created_at": "2021-12-11 01:05:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469449631667007494,
+        "text": "Yup. My wife makes great frittatas. And I totally contributed by cracking eggs: https://t.co/FsfGvEWaHL",
+        "created_at": "2021-12-10 23:31:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469384368904974345,
+        "text": "I watched Christmas Vacation twice last night. And I am not ashamed of that fact.",
+        "created_at": "2021-12-10 19:11:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469371658737704968,
+        "text": "RT @siftpop: With #WestSideStory coming out this weekend, we thought we'd look at Steven Spielberg's best films https://t.co/YPU0toECng",
+        "created_at": "2021-12-10 18:21:17+00:00",
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1469369374234628097,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1468960421126176779,
+        "text": "There is nothing more adhd than getting distracted shopping for a beta fish,having a thought you wrote down the wrong time for ur doc appt so you go online just to double check...realize you were right, and somehow manage to pull your shit together and make it with 1 min to spare",
+        "created_at": "2021-12-09 15:07:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468593360004956168,
+        "text": "Every. Single. Morning she stands and waits for the neighborhood cats to arrive on our doorstep scavenging... and every morning..  Upon their arrival... she runs to the bedroom to hide. I will never get tired of this ritual. https://t.co/xiDmThDZwN",
+        "created_at": "2021-12-08 14:48:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467878312936710148,
+        "text": "@HorrorVirgin You can blame Mikey all you want for multiple Nazi themed episodes, but when @CultPodcastShow drops an episode titled Nazis Part 1 the same morning.. @PaigeWesley becomes the prime suspect \ud83d\ude0f\ud83d\ude0f",
+        "created_at": "2021-12-06 15:27:16+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 16,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 987802569006305280,
+        "referenced_tweets": {
+            "id": 1467863635280244743,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1467261842674393091,
+        "text": "Is there a contractual obligation for every announcer calling a Georgia game to somehow shoehorn in talk about Baker Mayfield... from a game years ago that UGA won? Lol",
+        "created_at": "2021-12-04 22:37:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467240204910145536,
+        "text": "Let's #GoDawgs !!!",
+        "created_at": "2021-12-04 21:11:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466892531640283139,
+        "text": "@aarondicer Top 5 twitter length backstories you can make up about the people you are surrounded by on this flight.",
+        "created_at": "2021-12-03 22:10:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 7759222,
+        "referenced_tweets": {
+            "id": 1466865819770662918,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466859324085608450,
+        "text": "RT @siftpop: With #Encounter hitting theaters this week and #PrimeVideo next week, we thought why not take a look at the Best Ever Alien In\u2026",
+        "created_at": "2021-12-03 19:58:10+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1466829728103419910,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1466785976043323394,
+        "text": "@samloomis13 Benign... coming to a theater near you 2022",
+        "created_at": "2021-12-03 15:06:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 534469274,
+        "referenced_tweets": {
+            "id": 1466611418531254274,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466762653876076549,
+        "text": "@birbigs Dallas tickets acquired!",
+        "created_at": "2021-12-03 13:34:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15147397,
+        "referenced_tweets": {
+            "id": 1464690175255187456,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466498702948847616,
+        "text": "Nothing says \"adulting\" quite like getting excited about buying new sheets that aren't the bottom shelf jersey knit at target.",
+        "created_at": "2021-12-02 20:05:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466097221720584194,
+        "text": "It's unfair how much of a force John Krasinski and Emily Blunt are together. To the point I'm making the jarring tonal shift straight from watching A Quiet Place to  watching the delightful @ssava Animal Crackers for more moments of their awesome chemistry.",
+        "created_at": "2021-12-01 17:29:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465729576068435975,
+        "text": "2 years of Houston life have made our frigid Cincinnati raised pup think 60 degrees is cold. https://t.co/xe0ps2gE1d",
+        "created_at": "2021-11-30 17:08:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464712388385677314,
+        "text": "@birbigs Houston!!!",
+        "created_at": "2021-11-27 21:47:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15147397,
+        "referenced_tweets": {
+            "id": 1464690175255187456,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464319427126640647,
+        "text": "RT @siftpop: WIth the Release of #HouseOfGucci, we decided to do Best Ever #RidleyScott films! https://t.co/eqsxdvNEWb",
+        "created_at": "2021-11-26 19:45:31+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1464293111098716168,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1464267067855671314,
+        "text": "Nothing says Christmas like the promotional ornament you and @NikkiLawsonMD got for sending a picture of breakfast to @JimmyDean  2 years ago. https://t.co/4AGxwI4FJ4",
+        "created_at": "2021-11-26 16:17:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464020022934872066,
+        "text": "Ah the best part of Thanksgiving dinner clean up, hours after the feasting is complete, and awkward family conversation has been survived: you must face the gelatinous mass in the bottom of the turkey roasting pan reminding you what you just did to your body. Or is that just me?",
+        "created_at": "2021-11-25 23:55:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1462499817519788038,
+        "text": "I need to get better at negotiating my severance packages. https://t.co/dtsKOefrwl",
+        "created_at": "2021-11-21 19:15:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1461805485921902592,
+        "text": "RT @siftpop: With #KingRichard hitting theaters and #HBOMax this weekend, how about a BEC for sister films! https://t.co/jwx0HmG8xM",
+        "created_at": "2021-11-19 21:16:01+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1461756255844933638,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1459627330645774343,
+        "text": "I've adjusted the color settings on my TV multiple times now..but I'm pretty sure all the Vols fans were sold blue shirts for this \"Black Out Dark Mode\" game... or my TV needs replaced. Either option is fine",
+        "created_at": "2021-11-13 21:00:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1458848401399980032,
+        "text": "RT @alyankovic: Congratulations to Paul Rudd on being named People Magazine\u2019s Sexiest Man Alive of 2021. https://t.co/DjgqwAPHjc",
+        "created_at": "2021-11-11 17:25:37+00:00",
+        "public_metrics": {
+            "retweet_count": 7987,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1458484350266195974,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1458844141664755715,
+        "text": "@jennferatu Sonic lemon limeade and some popcorn chicken were my post booster celebration of choice! Way to go Jenn!",
+        "created_at": "2021-11-11 17:08:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1006921768211271680,
+        "referenced_tweets": {
+            "id": 1458843224638898185,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1458836832175722499,
+        "text": "120lb great dane..4lb neighborhood  cat... one of these ran away to hide on the bed. Hint: dog. https://t.co/voMjs8r1Ob",
+        "created_at": "2021-11-11 16:39:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1458799708718125061,
+        "text": "@JosephCshnDavis A-Teens may be just what you need to remedy that with some sweet ABBA covers!",
+        "created_at": "2021-11-11 14:12:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1165060435,
+        "referenced_tweets": {
+            "id": 1458790256501796871,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1458799379234631688,
+        "text": "Sorry to disappoint whoever broke into my car last night, clearly you were not interested in empty redbull cans, Zotz  and Kroger receipts. Thanks for not taking my insurance card though!",
+        "created_at": "2021-11-11 14:10:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1458482402880282631,
+        "text": "Finally getting to go back to a theater! Last Night In Soho, it's time :)",
+        "created_at": "2021-11-10 17:11:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1458213897878573066,
+        "text": "@NikkiLawsonMD",
+        "created_at": "2021-11-09 23:24:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1342682715200638976,
+        "referenced_tweets": {
+            "id": 1458213646488772612,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1458213646488772612,
+        "text": "Last night of resiedency call officially over and  in the books! Time to celebrate! Ps I married a badass :) https://t.co/gzVkwCzNlF",
+        "created_at": "2021-11-09 23:23:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1458117641843916805,
+        "text": "Tree cutting crew at our house this morning, and if this isn't the most Michael Myers/Jason looking thing ever I don't know what is. Looking at you @HorrorVirgin look for the human(?) in the tree https://t.co/mPatCUhIZD",
+        "created_at": "2021-11-09 17:01:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1457878527584489474,
+        "text": "This is what losing your spot on the loveseat looks like. https://t.co/LB5fYPbDwf",
+        "created_at": "2021-11-09 01:11:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1457729811955306502,
+        "text": "Nothing screams Monday like opening the door to a hawk completing the circle of life in the yard by destroying a dove, then being chastised by a squirrel that is angry I didn't intervene sooner: https://t.co/xpyAy30JUh",
+        "created_at": "2021-11-08 15:20:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1457086260892348423,
+        "text": "RT @GeorgiaFootball: Historic career. Welcome back to Athens Coach @MarkRicht!\n\n#GoDawgs #DGD https://t.co/xXMh5FyljQ",
+        "created_at": "2021-11-06 20:43:30+00:00",
+        "public_metrics": {
+            "retweet_count": 430,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1457045349521002496,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1456786214388912135,
+        "text": "Introducing my wife to the Tremors franchise may be the most fun possible. The over/under for \"they made more?!\" Has already been blown out... 2 films in. @NikkiLawsonMD",
+        "created_at": "2021-11-06 00:51:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1456777938913927170,
+        "text": "Me: Hey Dad we'll be coming home for Thanksgiving.\nDad: just a heads up, this is roaming the backyard: https://t.co/RZrbSptqmv",
+        "created_at": "2021-11-06 00:18:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1456705805969989633,
+        "text": "It's Friday!! https://t.co/YqnURTtcVj",
+        "created_at": "2021-11-05 19:31:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1456619480440791044,
+        "text": "RT @LaurenceECourt: Hello everyone. We are still hiring for multiple positions to support the use of AI in radiation oncology - focusing on\u2026",
+        "created_at": "2021-11-05 13:48:41+00:00",
+        "public_metrics": {
+            "retweet_count": 53,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1434638296479633414,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1456381630717825026,
+        "text": "Trying a new brand of charcoal this evening ... which apparently thinks there is a new Pope. https://t.co/n2H25iQw05",
+        "created_at": "2021-11-04 22:03:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1456282522321629191,
+        "text": "@CinemaSinsBTS Throwing great Danes in the ring for cutest puppies debate. https://t.co/E4mVYTX6A4",
+        "created_at": "2021-11-04 15:29:44+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1191897488225120256,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1455901168400543749,
+        "text": "I feel it's my duty to my Georgia roots to play nothing but \"Welcome To Atlanta\" with the windows down while running errands around Houston today. #Braves",
+        "created_at": "2021-11-03 14:14:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1455682117522927628,
+        "text": "Remember to #Vote safely! https://t.co/7Cu8u821BV",
+        "created_at": "2021-11-02 23:43:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1454664697391767558,
+        "text": "Rally pumpkin. #Braves https://t.co/Se8YRV2Rpm",
+        "created_at": "2021-10-31 04:21:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1454167321082273807,
+        "text": "RT @siftpop: With #LastNightInSoho being this week's biggest flick, we thought we'd take a look at our other favorite \"Last\" movies! https:\u2026",
+        "created_at": "2021-10-29 19:24:41+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1454135152125243394,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1454124159672455171,
+        "text": "Well my kitchen sink doing this out of nowhere doesn't make me at all think it's haunted. https://t.co/T5bmSmtpxM",
+        "created_at": "2021-10-29 16:33:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1453103854665576451,
+        "text": "Even asleep, I'm not convinced she isn't plotting the next way to swat everything off the table. https://t.co/2GcB3Cqama",
+        "created_at": "2021-10-26 20:58:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1451570415948779528,
+        "text": "The grocery store begins playing Brian McKnight's \"Back at One\" as I walk past the Cool Ranch Doritos... well played.",
+        "created_at": "2021-10-22 15:25:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1449513877360857088,
+        "text": "RT @RedPandaEveryHr: https://t.co/HXznIXCgf9",
+        "created_at": "2021-10-16 23:13:33+00:00",
+        "public_metrics": {
+            "retweet_count": 140,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1449472720786370562,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1449509497781764101,
+        "text": "RT @NikkiLawsonMD: Excited to join everyone in #PedsICU\nat #SCCM2022! https://t.co/6PbMwJrdZi",
+        "created_at": "2021-10-16 22:56:09+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1449115147159678976,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1448753008926461955,
+        "text": "My dog is not a fan of going to the vet, once a month we go for \"happy visits\" thus we show up and let her explore the lobby/normalize being there I just realized I use my time in the waiting room at the dentist office when I drop off my wife for her appt the same way for myself.",
+        "created_at": "2021-10-14 20:50:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1448385618258563074,
+        "text": "Had an unfortunate accident today that resulted in the loss of a false tooth I've had compliments of a soccer injury 20 years ago.. and this is my amazing wife's response. I don't deserve this level of cool best friend. https://t.co/iSm6f8j5nA",
+        "created_at": "2021-10-13 20:30:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1447959002445488139,
+        "text": "Dear World, It's Tuesday, go make somebody Smile!",
+        "created_at": "2021-10-12 16:15:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1447646628538720260,
+        "text": "@schwhitecastle I live in Houston... surrounded by Astros apologists and burnt orange UT homers ready to yell \"We're back baby\" every Saturday as they walk by my porch that is dressed to the nines for UGA and Atlanta Braves. The intensity is obnoxious... but I still smile every time.",
+        "created_at": "2021-10-11 19:33:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 88289008,
+        "referenced_tweets": {
+            "id": 1447615113301745674,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1447542873457573892,
+        "text": "@WKRQ  I vote Jeff and Fritsch enter the cardboard boat regatta race in New Richmond to rectify this past canoe tragedy. Yes it's real and a great way to spend a day!",
+        "created_at": "2021-10-11 12:41:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 21422384,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1447329569699209219,
+        "text": "I want a John Wick Laurie Strode team up so badly.",
+        "created_at": "2021-10-10 22:33:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1447298883458158598,
+        "text": "No that is totally logical NFL, thanks for killing my feed and switching over moments before the game deciding field goal in overtime so I could see a standard  kickoff for another game...",
+        "created_at": "2021-10-10 20:31:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1447022426328641537,
+        "text": "I am ignorant of a lot of rules in college football, so can someone please educate me ok what the hell \"joint possession\" is? Asking for a Nebraska friend...",
+        "created_at": "2021-10-10 02:13:25+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446971480575811590,
+        "text": "@jscotttn Yes.",
+        "created_at": "2021-10-09 22:50:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14494206,
+        "referenced_tweets": {
+            "id": 1446673518884761608,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1446966855290208265,
+        "text": "I lost my place on the couch today while dogsitting... https://t.co/Jwp9uD8M6h",
+        "created_at": "2021-10-09 22:32:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446644501586628610,
+        "text": "Jamie Lee Curtis is a national treasure and I will hear nothing else.",
+        "created_at": "2021-10-09 01:11:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446555573097533449,
+        "text": "Sam is my hero #TedLasso",
+        "created_at": "2021-10-08 19:18:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446547493861445634,
+        "text": "Say what you want, I'm beyond grateful for the self awareness #TedLasso has for mental health and am more than ready to spend every Friday running the gamut of emotions! #Believe",
+        "created_at": "2021-10-08 18:46:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446522864304365623,
+        "text": "@siftpop I had high hopes of having both first and last place on this list.. but 1st and 22 is acceptable.",
+        "created_at": "2021-10-08 17:08:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1076560784329752576,
+        "referenced_tweets": {
+            "id": 1446521021096505344,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1446522500184215555,
+        "text": "RT @siftpop: With the release of #NoTimeToDie, it seems like the perfect time to rank the #007 films! https://t.co/iNMoaAI9DX",
+        "created_at": "2021-10-08 17:06:53+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1446521021096505344,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1446506692724895751,
+        "text": "Just realized our internet contract includes a dedicated landline and home phone #... step 2 of showing my age: Where the heck sells home phones near me, maybe I need it in case of emergency? Step 3: I recognize I am old.",
+        "created_at": "2021-10-08 16:04:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446504821025120272,
+        "text": "@MrNobre Please? I'll use it wisely.",
+        "created_at": "2021-10-08 15:56:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 60032981,
+        "referenced_tweets": {
+            "id": 1446149751716528128,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1446453403266191384,
+        "text": "@WKRQ Hey Jeff &amp; Jenn, please include more reaction audio clips for the mom and pop spots!! Adorable and made our morning!",
+        "created_at": "2021-10-08 12:32:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 21422384,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446246814529826822,
+        "text": "Tomorrow, we close season two of #TedLasso , and I believe Jack Horne said it best \"I knew, tomorrow was gonna be a dark day\" https://t.co/VH65U28C65",
+        "created_at": "2021-10-07 22:51:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446245801550884865,
+        "text": "@schwhitecastle I hate knowing he lives blocks away from me. But love knowing that Mariachi bands across Houston have made bank the last few months due to this dumbass.",
+        "created_at": "2021-10-07 22:47:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 88289008,
+        "referenced_tweets": {
+            "id": 1445964270282366977,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1446228907330613250,
+        "text": "@samloomis13 love the @AMCTheatres Thrills and Chills rec on @CinemaSinsBTS! Was not yet aware this was a thing, but now have plans for a few Fridays in October!",
+        "created_at": "2021-10-07 21:40:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 534469274,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446220837292580865,
+        "text": "Soo... @MRandolph24 can we expect another Mikey Month special for @HorrorVirgin soon? https://t.co/YkbreZIGpM",
+        "created_at": "2021-10-07 21:08:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446136737172963333,
+        "text": "No, sorry ma'am... no matter how stealthy you think you are, slowly wedging your cart into my side repeatedly is not a subtle way of trying to move ahead one person in the customer service line at Sam's. Ask my dog how that method works out for establishing position on the couch.",
+        "created_at": "2021-10-07 15:34:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1445804405312217088,
+        "text": "RT @LinaHidalgoTX: The secret is out: Houston is a finalist to land the 2026 World Cup! We know we\u2019re the best, but we need to show that ou\u2026",
+        "created_at": "2021-10-06 17:33:26+00:00",
+        "public_metrics": {
+            "retweet_count": 1555,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1445781206155481108,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1445548068271763456,
+        "text": "Even Sadie knows to look away when I've chosen wrong for the evening's movie... https://t.co/MbUe1JcNAb",
+        "created_at": "2021-10-06 00:34:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1445430573254729732,
+        "text": "It's Tuesday, help somebody smile today!",
+        "created_at": "2021-10-05 16:47:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1444421986357219328,
+        "text": "@ToddJAwesome @Shudder @HorrorVirgin Being from Chattanooga, it won't be the weirdest thing someone is seen watching in a lobby..",
+        "created_at": "2021-10-02 22:00:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1861297344,
+        "referenced_tweets": {
+            "id": 1444420317997420547,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1444406658755596294,
+        "text": "@GeorgiaFootball in the trenches today. Unstoppable.  #GoDawgs https://t.co/9OKJOIIoBn",
+        "created_at": "2021-10-02 20:59:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 321586997,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1443995638925086722,
+        "text": "RT @siftpop: With the release of #ManySaintsOfNewark, we decided to do our Best Ever Movies based on TV Shows! Are we missing any? What wou\u2026",
+        "created_at": "2021-10-01 17:46:03+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1443984182347276310,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1443614491950866446,
+        "text": "So, @flanaganfilm is pretty good at this horror stuff. 3 Episodes into #MidnightMass and I am uneasy, creeped out but so hooked. Fantastically shot and absolutely perfect casting!",
+        "created_at": "2021-09-30 16:31:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1443612225030217730,
+        "text": "@jennferatu Cats. https://t.co/nwbpyrn1EL",
+        "created_at": "2021-09-30 16:22:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1006921768211271680,
+        "referenced_tweets": {
+            "id": 1443559016710430722,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1442905431005806593,
+        "text": "@HorrorVirgin The absurdness that had me rolling, as well as the realization I will be dressing my dog as that catepillar for halloween, made it 1000000% worth the confused looks I kept getting from the passenger sitting beside me. Well done!",
+        "created_at": "2021-09-28 17:33:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 987802569006305280,
+        "referenced_tweets": {
+            "id": 1440435134117781506,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1441526544233467911,
+        "text": "RT @siftpop: Here it is, this week's Best Ever Movies featuring Mistaken Identities in honor of #DearEvanHansen coming out this weekend! ht\u2026",
+        "created_at": "2021-09-24 22:14:45+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1441447376955265024,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1441115625628188683,
+        "text": "Finally had my first chance to try the famous short rib tacos from @kogibbq, and oh man, they more than live up to the hype!! Can't wait to go back! https://t.co/Hn2IGCsOpX",
+        "created_at": "2021-09-23 19:01:54+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1441013171318190085,
+        "text": "@BloggingBanshee Tucker and Dale vs Evil",
+        "created_at": "2021-09-23 12:14:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14146985,
+        "referenced_tweets": {
+            "id": 1440895845575004160,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1440732792774553608,
+        "text": "Well hello there LA, nice to finally meet you. https://t.co/zBdKwyxlfZ",
+        "created_at": "2021-09-22 17:40:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1440425320767655948,
+        "text": "@HorrorVirgin Major decision time. Which one should I check off my watch list to pass the time on a 3hr flight tomorrow: House 2 or Attack of the Killer Tomatoes?",
+        "created_at": "2021-09-21 21:18:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 987802569006305280,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1440385130095251463,
+        "text": "John Goodman in Arachnophobia will never get old.",
+        "created_at": "2021-09-21 18:39:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1437624874487386120,
+        "text": "So I know it's none of my business, but steelers... watcha doin?",
+        "created_at": "2021-09-14 03:50:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1437579700663111685,
+        "text": "RT @MayEllenMedia: Loved writing this one! Can\u2019t sing my praises for this one enough.",
+        "created_at": "2021-09-14 00:51:24+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1437480673816764425,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1437343100675006464,
+        "text": "RT @RedPandaEveryHr: https://t.co/lTmDtDhePE",
+        "created_at": "2021-09-13 09:11:14+00:00",
+        "public_metrics": {
+            "retweet_count": 148,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1437242132197265408,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1436453365123358734,
+        "text": "Thanks for making sure I feel every emotion possible in 45 mins #TedLasso",
+        "created_at": "2021-09-10 22:15:44+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1436449513770819612,
+        "text": "RT @siftpop: BEST EVER GAMBLING\u00a0MOVIES https://t.co/4LAfA0SdVY",
+        "created_at": "2021-09-10 22:00:26+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1436373468401094658,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1436023035857969152,
+        "text": "@aarondicer https://t.co/XbNoy9W08Q",
+        "created_at": "2021-09-09 17:45:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1342682715200638976,
+        "referenced_tweets": {
+            "id": 1436022503634345989,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1436022503634345989,
+        "text": "@aarondicer Doctors are angry at this one secret...",
+        "created_at": "2021-09-09 17:43:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 7759222,
+        "referenced_tweets": {
+            "id": 1435978495470051336,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1435973061283651596,
+        "text": "Sidenote: sweetest cat with most terrifying eyes ever.",
+        "created_at": "2021-09-09 14:27:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1342682715200638976,
+        "referenced_tweets": {
+            "id": 1435971287374049281,
+            "type": "replied_to"
+        }
+    }
+]

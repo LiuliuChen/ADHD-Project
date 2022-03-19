@@ -1,0 +1,1457 @@
+[
+    {
+        "tweet_id": 1501904061649543180,
+        "text": "@grumpyshrubbery I tale 18mg of slow release in the morning and then a 10mg fast release in the afternoon.",
+        "created_at": "2022-03-10 12:53:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1501888202990403585,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488039082450198531,
+        "text": "I got that ADHD/Autism combo, baby",
+        "created_at": "2022-01-31 06:38:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481562989119553536,
+        "text": "Me looking at any doorway/entrance while watching a show: \"yonic\"",
+        "created_at": "2022-01-13 09:45:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479521597010726917,
+        "text": "@chel_faust I deeply care about this",
+        "created_at": "2022-01-07 18:33:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1171537115898728449,
+        "referenced_tweets": {
+            "id": 1479159825565110276,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479519964168171522,
+        "text": "@rhiiiiiy @grumpyshrubbery Yeah the sexism in medical fields is fucking crazy",
+        "created_at": "2022-01-07 18:27:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 15,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1432436183804436482,
+        "referenced_tweets": {
+            "id": 1479481040292876293,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479428065537179648,
+        "text": "@grumpyshrubbery I've thought myself to have bpd for the longest time but neither my psychiatrist or psychologist completely agree with me",
+        "created_at": "2022-01-07 12:21:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1479392947766505472,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479427676519677958,
+        "text": "@grumpyshrubbery Yooooooooooooo",
+        "created_at": "2022-01-07 12:20:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1479392947766505472,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479367908799172608,
+        "text": "@glitchybpd @boy_grrrl Are you an anarchist by any chance?",
+        "created_at": "2022-01-07 08:22:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1476984353913769988,
+        "referenced_tweets": {
+            "id": 1479122216553893891,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475751723994071041,
+        "text": "I've awoken to tweet: fuck",
+        "created_at": "2021-12-28 08:53:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1474865562736070660,
+        "text": "@grumpyshrubbery Absolute banger",
+        "created_at": "2021-12-25 22:12:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1474769792599040011,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474865320674406405,
+        "text": "@_rootbound I just really fucking like frogs. Snails too",
+        "created_at": "2021-12-25 22:11:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1249235200636104707,
+        "referenced_tweets": {
+            "id": 1474638754610507782,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474667343682977797,
+        "text": "@cjthex Banger",
+        "created_at": "2021-12-25 09:04:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1650686768,
+        "referenced_tweets": {
+            "id": 1474532574152253445,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474297949643591695,
+        "text": "@roramdin https://t.co/G7DpPh8cuu",
+        "created_at": "2021-12-24 08:36:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2730908724,
+        "referenced_tweets": {
+            "id": 1474236418348097537,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474075758226292737,
+        "text": "@grumpyshrubbery Nah that's fair",
+        "created_at": "2021-12-23 17:53:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1474065610711736324,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474063559688699904,
+        "text": "@grumpyshrubbery How come?",
+        "created_at": "2021-12-23 17:05:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1474046558702342147,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1473567780221894659,
+        "text": "@REALFishFeeling Did the spirit of Thomas Jefferson  possess them?",
+        "created_at": "2021-12-22 08:15:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1423525585322663936,
+        "referenced_tweets": {
+            "id": 1473173431571070981,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472960218959073291,
+        "text": "@Hideki_Naganuma Good",
+        "created_at": "2021-12-20 16:00:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 150522620,
+        "referenced_tweets": {
+            "id": 1472957085524856832,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1470706756842053636,
+        "text": "@YouAre_Bot Only if you play your cards right",
+        "created_at": "2021-12-14 10:46:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1319763634361225216,
+        "referenced_tweets": {
+            "id": 1470475692911509508,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469952734078066690,
+        "text": "@grumpyshrubbery Bro I'm surprised people say this because it gets so much worse as an adult",
+        "created_at": "2021-12-12 08:50:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1469719374227456006,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1465969247440580612,
+        "text": "@cjthex Rest in piss",
+        "created_at": "2021-12-01 09:01:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1650686768,
+        "referenced_tweets": {
+            "id": 1465887845906673665,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464848541843656705,
+        "text": "@grumpyshrubbery Oh like the animal",
+        "created_at": "2021-11-28 06:48:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1464747069709733888,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1459787215102431238,
+        "text": "Cum",
+        "created_at": "2021-11-14 07:36:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1457754496805785610,
+        "text": "@ANeuroDdude My thoughts are evil and upset me so I can't write them down without hurting my feelings",
+        "created_at": "2021-11-08 16:58:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1317769298019078146,
+        "referenced_tweets": {
+            "id": 1457442708595912710,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1457684524603686919,
+        "text": "@VaushV Straws are pet holea",
+        "created_at": "2021-11-08 12:20:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1099570025491423233,
+        "referenced_tweets": {
+            "id": 1457623802162995202,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1455223871993487364,
+        "text": "@cjthex The fear of God",
+        "created_at": "2021-11-01 17:23:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1650686768,
+        "referenced_tweets": {
+            "id": 1455163218389782528,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1454053432361357317,
+        "text": "@cjthex Shit maybe i should do that",
+        "created_at": "2021-10-29 11:52:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1650686768,
+        "referenced_tweets": {
+            "id": 1453847294319767553,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1452643170458669069,
+        "text": "@ashleyloob You gotta flip it inside out",
+        "created_at": "2021-10-25 14:28:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1218067203871977472,
+        "referenced_tweets": {
+            "id": 1452515434528444424,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1452642957341900804,
+        "text": "@grumpyshrubbery That's valid. I love mac n cheese but it makes me nauseous",
+        "created_at": "2021-10-25 14:27:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1452367550390710274,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1450090753548558336,
+        "text": "@grumpyshrubbery More peanut butter",
+        "created_at": "2021-10-18 13:25:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1449772391433900033,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1448704505860796422,
+        "text": "@DylanBurns1776 Oh I hate this",
+        "created_at": "2021-10-14 17:37:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1062357909621874688,
+        "referenced_tweets": {
+            "id": 1448474423628029958,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1448642933511495687,
+        "text": "@grumpyshrubbery Go to therapy you're ruining you're relationships and also you're disabled",
+        "created_at": "2021-10-14 13:32:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1448587367468634113,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1447607626444025859,
+        "text": "@grumpyshrubbery If I don't balance my meds with my caffeine intake I clip through solid surfaces",
+        "created_at": "2021-10-11 16:58:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1447556113516408834,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1429010501057515527,
+        "text": "@ashleyloob Nah that's valid",
+        "created_at": "2021-08-21 09:20:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1218067203871977472,
+        "referenced_tweets": {
+            "id": 1428562734254366720,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1428328016661319683,
+        "text": "@GodivaGhoul I love this",
+        "created_at": "2021-08-19 12:08:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1425472176111726596,
+        "referenced_tweets": {
+            "id": 1428298878785310720,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1427932797973446657,
+        "text": "@BensonBoss_ https://t.co/JCDMQCjyzH",
+        "created_at": "2021-08-18 09:58:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1423697739376959490,
+        "referenced_tweets": {
+            "id": 1427282177629294596,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1425104729114349577,
+        "text": "@ashleyloob Based",
+        "created_at": "2021-08-10 14:40:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1218067203871977472,
+        "referenced_tweets": {
+            "id": 1424434721778552842,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1420826035554226184,
+        "text": "@godiva_ghoul Hell yeah",
+        "created_at": "2021-07-29 19:18:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1351852441067782145,
+        "referenced_tweets": {
+            "id": 1420816603483156481,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1420737909175377923,
+        "text": "@YouAre_Bot \u00d8h?",
+        "created_at": "2021-07-29 13:28:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1319763634361225216,
+        "referenced_tweets": {
+            "id": 1420722319186702344,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1420348412172587011,
+        "text": "@cjthex https://t.co/nYEURFSxwR",
+        "created_at": "2021-07-28 11:40:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1650686768,
+        "referenced_tweets": {
+            "id": 1420088862223765510,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1417202159297318925,
+        "text": "@DeathBattleBot Darwin would fold gayass",
+        "created_at": "2021-07-19 19:18:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1228340620835655687,
+        "referenced_tweets": {
+            "id": 1416529386329739270,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404793660990971905,
+        "text": "@kazADHD Is this why my bladder is suddenly full???",
+        "created_at": "2021-06-15 13:31:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1404789102189420545,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1401900500732235781,
+        "text": "@EristocracyTV Yeah",
+        "created_at": "2021-06-07 13:55:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1300051637915054082,
+        "referenced_tweets": {
+            "id": 1401737673040175107,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1399326819086651393,
+        "text": "@ChrisRGun I had to go to psychiatrist to get diagnosed for adhd. Nothing was the same for me after that",
+        "created_at": "2021-05-31 11:28:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44054652,
+        "referenced_tweets": {
+            "id": 1399208238944440321,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1397470180918366211,
+        "text": "@xaviersonline There's no way this is real",
+        "created_at": "2021-05-26 08:30:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1170543256293130240,
+        "referenced_tweets": {
+            "id": 1397115277167403011,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387006295602089985,
+        "text": "@kazADHD I don't have adhd. I'm just like this",
+        "created_at": "2021-04-27 11:30:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1386986334137552896,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1375134161858617345,
+        "text": "Linkin Park be hitting different",
+        "created_at": "2021-03-25 17:15:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1374779337094934533,
+        "text": "@kazADHD It's so easy for others to assume your suffering is an excuse",
+        "created_at": "2021-03-24 17:45:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1374757163621621761,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1372551361255079944,
+        "text": "@hizziesclexa https://t.co/z5cYR0kpOl",
+        "created_at": "2021-03-18 14:11:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1318034732630876161,
+        "referenced_tweets": {
+            "id": 1372207449307033600,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1372494515374850051,
+        "text": "I taught myself how to read books again and I even have a small collection that's growing https://t.co/dYLeyXNX5l",
+        "created_at": "2021-03-18 10:26:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1372488584343748611,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1372070596645912577,
+        "text": "@JasonSCampbell These people are the slimiest, most unfunny pieces of shit",
+        "created_at": "2021-03-17 06:21:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 325716763,
+        "referenced_tweets": {
+            "id": 1371856007203336194,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1372069403982979072,
+        "text": "@BlackSalander I have ADHD. I experience the shiver",
+        "created_at": "2021-03-17 06:16:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 45679584,
+        "referenced_tweets": {
+            "id": 1371950809710272514,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1371710503672745984,
+        "text": "@ArtbyDoe @BS_artsss I fucking love the artwork in dragon age: inquisition. I always wondered who did it. Guess I know now",
+        "created_at": "2021-03-16 06:30:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 909044460,
+        "referenced_tweets": {
+            "id": 1370974864815714306,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1370350697066156038,
+        "text": "@okapitar Bruh",
+        "created_at": "2021-03-12 12:27:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2862554470,
+        "referenced_tweets": {
+            "id": 1370066461197266948,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1369521691043434501,
+        "text": "@sdlorman All pigeons are beautiful",
+        "created_at": "2021-03-10 05:33:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180656042,
+        "referenced_tweets": {
+            "id": 1369009328053755906,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1369322362894770178,
+        "text": "@MonicaBeletsky Bro mix raced people got such a raw deal",
+        "created_at": "2021-03-09 16:21:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19386625,
+        "referenced_tweets": {
+            "id": 1368830545002594307,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1369322027451039747,
+        "text": "@kazADHD I have imposter syndrome and constantly wonder if I'm faking being tired and frustrated all the time",
+        "created_at": "2021-03-09 16:19:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1368912973515853828,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1369321132264931331,
+        "text": "You ever trying to vibe and suddenly realise just how traumatised you are?",
+        "created_at": "2021-03-09 16:16:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1369320930388893704,
+        "text": "@fembojj Nah fr",
+        "created_at": "2021-03-09 16:15:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1285663194078482434,
+        "referenced_tweets": {
+            "id": 1368992569745637381,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1368933061094748165,
+        "text": "@kazADHD Hmmmm",
+        "created_at": "2021-03-08 14:34:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1368914679783960581,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1366788598255738883,
+        "text": "@WhatTheADHD I dunnonthe name of the material but some notebooks have it on their covers. It's really rough and corse and makes my skin crawl. That and ice cream sticks",
+        "created_at": "2021-03-02 16:32:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1341112484476968960,
+        "referenced_tweets": {
+            "id": 1366734339971682306,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1366637583590187008,
+        "text": "@Saaci8 @VaushV That's fair",
+        "created_at": "2021-03-02 06:32:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1313914073432682496,
+        "referenced_tweets": {
+            "id": 1366102002137260035,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1366101378817474562,
+        "text": "@Saaci8 @VaushV I mean relatively to what Marvel usually makes (comics not included). There's definitely weirder stuff out there",
+        "created_at": "2021-02-28 19:02:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1313914073432682496,
+        "referenced_tweets": {
+            "id": 1366099949583282177,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1366098149614493699,
+        "text": "@VaushV Is pretty good. You can tell it isn't a mainline marvel project because it's so fucking weird.",
+        "created_at": "2021-02-28 18:49:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1099570025491423233,
+        "referenced_tweets": {
+            "id": 1366097553083699200,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1365991680160239617,
+        "text": "@chalkloid Adhd",
+        "created_at": "2021-02-28 11:46:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1327814439719084034,
+        "referenced_tweets": {
+            "id": 1365439814623985665,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1364526432555307009,
+        "text": "@kazADHD Hey I related to this. Hmmmmm",
+        "created_at": "2021-02-24 10:43:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1364521109819908098,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1362068999610265602,
+        "text": "Can't stop thinking about oats",
+        "created_at": "2021-02-17 15:58:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1362058977480220675,
+        "text": "@StructuredSucc Oh my god is that why I over complicate everything?",
+        "created_at": "2021-02-17 15:19:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1235307709194354688,
+        "referenced_tweets": {
+            "id": 1362053942264356864,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1359088149692055553,
+        "text": "@VaushV Vaush say thing\nDestiny say thing too \nThen...argue? \nBut no kiss? \n\nWorst ship dynamic",
+        "created_at": "2021-02-09 10:34:00+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 97,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1099570025491423233,
+        "referenced_tweets": {
+            "id": 1359080358432579584,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1358490161185779722,
+        "text": "@nesgritton https://t.co/rZG1c6oHC8",
+        "created_at": "2021-02-07 18:57:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 134869029,
+        "referenced_tweets": {
+            "id": 1358327253843644417,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1358057916222349313,
+        "text": "@SmokeAndSomno https://t.co/tziilZE7K5",
+        "created_at": "2021-02-06 14:20:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 26667094,
+        "referenced_tweets": {
+            "id": 1357856526942277633,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1357808041316474890,
+        "text": "@kazADHD Being neurodivergent makes me sad and sad and sad",
+        "created_at": "2021-02-05 21:47:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1357783291475197953,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1356372100085403652,
+        "text": "@kazADHD @ZebraSock26 Fuck, now I want pasta",
+        "created_at": "2021-02-01 22:41:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1356368202859765764,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1356343921698344960,
+        "text": "@kazADHD The grapes must be punished for their crimes",
+        "created_at": "2021-02-01 20:49:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1356342668700299267,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1356333233210880002,
+        "text": "@kazADHD You ever just fucken uhhh..... https://t.co/ovPZw4zC9o",
+        "created_at": "2021-02-01 20:06:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1356326778827137024,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1356230432224923650,
+        "text": "@kazADHD Truuuuuuue",
+        "created_at": "2021-02-01 13:18:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1356214623297531905,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1355101782163206147,
+        "text": "@dreamsofskies It took me four hours to get out of bed today",
+        "created_at": "2021-01-29 10:33:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 620594826,
+        "referenced_tweets": {
+            "id": 1354967789837058054,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1355050216098050051,
+        "text": "@kazADHD Apparently it's a defense mechanism. I still struggle with it too. I just try my best to let my therapist know my mind decided to go buy cugarettes instead of paying attention",
+        "created_at": "2021-01-29 07:08:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1354947921658179594,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1354846229310664704,
+        "text": "@kazADHD Bruh",
+        "created_at": "2021-01-28 17:38:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1354834963179438083,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1354656690696843266,
+        "text": "@kazADHD I don't tense up when people hug me from behind. But if anything touches my lower back I feel so gross that I start contorting",
+        "created_at": "2021-01-28 05:04:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1354574514013794304,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1354344170853429252,
+        "text": "Bisexual culture isn't falling in love with your friends exactly but realising each of them could get it",
+        "created_at": "2021-01-27 08:23:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1353980154469613568,
+        "text": "@SuperGamerCody https://t.co/xpIHCZOGrk",
+        "created_at": "2021-01-26 08:16:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1253470170753859584,
+        "referenced_tweets": {
+            "id": 1353194912485945345,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1353972597353013249,
+        "text": "@kazADHD I make air vibrations more pleasant",
+        "created_at": "2021-01-26 07:46:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1353813268599599105,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1353320654423142400,
+        "text": "@kazADHD Only if you use your powers to speak to the ceo of racism",
+        "created_at": "2021-01-24 12:36:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1353318887262187520,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1353237323614400512,
+        "text": "Why did they make winx edgy? \n#FateTheWinxSaga",
+        "created_at": "2021-01-24 07:04:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1352635992897945600,
+        "text": "It's not done but I'm so fucking proud of this https://t.co/7sDQpBwTMQ",
+        "created_at": "2021-01-22 15:15:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1352634661248360451,
+        "text": "@kazADHD My experience with adhd is basically aiming for 2/3 since I was 9",
+        "created_at": "2021-01-22 15:10:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1352633998598676482,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1352633650110750721,
+        "text": "@kazADHD You're right about everything except the bass guitar",
+        "created_at": "2021-01-22 15:06:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1352633246002130948,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1352632393539186691,
+        "text": "@kazADHD You've got a range to work from. Give me your best guess",
+        "created_at": "2021-01-22 15:01:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1352625495054168068,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1352221523701100545,
+        "text": "@Shoe0nheadClips I actually prefer the right one but i saw \"left\" and immediately hit it. Just hot commie things",
+        "created_at": "2021-01-21 11:48:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1320761028968353796,
+        "referenced_tweets": {
+            "id": 1352215999588786177,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1350123449012932608,
+        "text": "@kazADHD Aaaaaaaaaaaaaaa\nDaaaaaaaaaaaaaa\nHaaaaaaaaaaaaaa\nDaaaaaaaaaaaaaa",
+        "created_at": "2021-01-15 16:51:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 15,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890519425677393920,
+        "referenced_tweets": {
+            "id": 1350110381650415619,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1349957588922863616,
+        "text": "@adhdjournals Try snacking as often as possible. ADHD meds are known to suppress hunger. Also exercise when you can to burn off any excess energy you might have, you don't wanna be up at 4am everyday trying to copy Bayonetta's smash bro's move set.",
+        "created_at": "2021-01-15 05:52:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1265573233308372994,
+        "referenced_tweets": {
+            "id": 1349670833342586880,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1349361425005875200,
+        "text": "Me: \"Can I do the thing in wanna do please?\"\nAdhd: *holding a snacking carrot like a cigarette, staring off into the distance * \"Yes but you'll be in pain the entire time.\"",
+        "created_at": "2021-01-13 14:23:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1349002847023726597,
+        "text": "@ADHDelaide Fucken same",
+        "created_at": "2021-01-12 14:38:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3186824098,
+        "referenced_tweets": {
+            "id": 1348947921987899394,
+            "type": "replied_to"
+        }
+    }
+]

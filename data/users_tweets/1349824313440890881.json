@@ -1,0 +1,830 @@
+[
+    {
+        "tweet_id": 1504484987793395719,
+        "text": "I legit slept maybe 3 hours last night \ud83e\udd23\ud83d\ude05",
+        "created_at": "2022-03-17 15:49:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1349824313440890881,
+        "referenced_tweets": {
+            "id": 1504464156019232777,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504464156019232777,
+        "text": "Yup.. I forgot how much nervous energy I get after auditions \ud83d\ude05",
+        "created_at": "2022-03-17 14:26:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502381781290340358,
+        "text": "Not me passionately singing \"You Belong With Me\" by Taylor Swift even though I know I have a wonderful girlfriend \ud83e\udd23\ud83d\ude05",
+        "created_at": "2022-03-11 20:31:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498458902265925634,
+        "text": "@ayyyychill NO!! NO IT WASN'T!!!",
+        "created_at": "2022-03-01 00:43:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 911769188,
+        "referenced_tweets": {
+            "id": 1498320990186577921,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495617307330105345,
+        "text": "Kaleigh: Did you know you can take I15 to Canada?\nMe: Really? What's stopping us??\nKaleigh: .... Work.. Money.. Pets.....\nMe: Uggghhh.....",
+        "created_at": "2022-02-21 04:32:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495490909399666689,
+        "text": "My ADHD Nightmare: Cleaning blinds while listening to music and chatting with your best friends... some of these things have been cleaned 4 times \ud83d\ude05",
+        "created_at": "2022-02-20 20:09:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488958150350802944,
+        "text": "The only thing keeping me going this week is listening to Kith and Kin to and from work.. \ud83d\udda4\ud83d\udc99 Thanks @LauraBaileyVO, @VoiceOfOBrien, and @robbiedaymond \ud83d\ude2d",
+        "created_at": "2022-02-02 19:31:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488363119835430919,
+        "text": "RT @NPC_Creations: Can confirm. \ud83d\udd25\ud83c\udfb2\ud83d\udcdd#DnD #ttrpg #pathfinder https://t.co/jj9abovhQB",
+        "created_at": "2022-02-01 04:06:34+00:00",
+        "public_metrics": {
+            "retweet_count": 809,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488144268854239235,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1486922829832413188,
+        "text": "@ayyyychill I 100% second this!!",
+        "created_at": "2022-01-28 04:43:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 911769188,
+        "referenced_tweets": {
+            "id": 1486425487312252930,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486558109376335872,
+        "text": "@makayla_th I neeeeed this!",
+        "created_at": "2022-01-27 04:34:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 854589601318543361,
+        "referenced_tweets": {
+            "id": 1486356257183207426,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483600674222837761,
+        "text": "RT @SamComerford24: I have two ADHD DM moods:\n\n1. I have a game to run today? Fuuuuuuck I haven\u2019t planned anything, guess we\u2019ll see how thi\u2026",
+        "created_at": "2022-01-19 00:42:19+00:00",
+        "public_metrics": {
+            "retweet_count": 208,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483483549047140356,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479924313495015426,
+        "text": "Me finding out my patronus is a St. Bernard.. \ud83d\ude05",
+        "created_at": "2022-01-08 21:13:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1349824313440890881,
+        "referenced_tweets": {
+            "id": 1479920157749248003,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479920157749248003,
+        "text": "Me: Do I have golden retriever energy??\n\nEveryone in the room: Yes!",
+        "created_at": "2022-01-08 20:57:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477135644937781250,
+        "text": "RT @Valkyrae: \ud83d\ude21 I\u2019m hoping you all achieve your goals this upcoming year \ud83d\ude21 take those baby steps \ud83d\ude21 START THE YEAR OFF STRONG \ud83d\ude21\ud83c\udf89",
+        "created_at": "2022-01-01 04:32:36+00:00",
+        "public_metrics": {
+            "retweet_count": 3242,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1477012551590240256,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477109158193229825,
+        "text": "Damn... it shouldn't be possible for for someone with a lactose intolerance to love cheese as much as I do..... \ud83d\ude2d",
+        "created_at": "2022-01-01 02:47:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476952198105890818,
+        "text": "@ayyyychill Hey Rachel.. I freaking adore you and miss your beautiful face! You are incredible and you can do whatever you've got to do today!! \ud83d\udc9b",
+        "created_at": "2021-12-31 16:23:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 911769188,
+        "referenced_tweets": {
+            "id": 1476610945304514565,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474684780906102787,
+        "text": "Chilling at my parents house playing The Sims 4 at 3 am because everyone in this house snores so I can't sleep... \ud83d\ude05",
+        "created_at": "2021-12-25 10:13:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472714227508867077,
+        "text": "@ayyyychill Thank you \ud83d\ude2d\ud83d\udc95",
+        "created_at": "2021-12-19 23:43:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 911769188,
+        "referenced_tweets": {
+            "id": 1472382225433776135,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472332655987355649,
+        "text": "Am I Alice Cullen today?? Yes. Yes I am \ud83d\ude0a https://t.co/iUiUn4QioZ",
+        "created_at": "2021-12-18 22:27:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1471714882500259845,
+        "text": "@EmmaOlson27: \"The Mandalorian!\"\nMe: \"I was gonna say Boba Fett but okay..\"\nEmma: \"Same person different fonts!!\"",
+        "created_at": "2021-12-17 05:32:25+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 617642678,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1470248570057936897,
+        "text": "Oh wait that's my current mood 24/7 \ud83d\ude05\ud83d\ude2d",
+        "created_at": "2021-12-13 04:25:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1349824313440890881,
+        "referenced_tweets": {
+            "id": 1470247829704560640,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1470247829704560640,
+        "text": "Current Mood: Just wanna escape to a fantasy world so I don't have to deal with life \ud83d\ude05",
+        "created_at": "2021-12-13 04:22:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468285435759652866,
+        "text": "@CaderikWilson Me every day... \ud83d\ude05",
+        "created_at": "2021-12-07 18:25:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 753790850644180992,
+        "referenced_tweets": {
+            "id": 1468255970308493313,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464069005509992455,
+        "text": "Dang.. I just cried my way through Frozen 2 yet again \ud83d\ude05\ud83d\ude2d",
+        "created_at": "2021-11-26 03:10:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1460346677621977094,
+        "text": "@ayyyychill I did it \ud83d\ude05 https://t.co/Tg48TK4t8H",
+        "created_at": "2021-11-15 20:39:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 911769188,
+        "referenced_tweets": {
+            "id": 1460150840405102593,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1459205173608288257,
+        "text": "Man.. the only thing keeping me going today is Red (Taylor's Version). Who else?? \ud83d\ude4b\u200d\u2640\ufe0f",
+        "created_at": "2021-11-12 17:03:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1459013413577773067,
+        "text": "Thanks @LauraBaileyVO \ud83d\udc9c https://t.co/OkmaYVAZ4O",
+        "created_at": "2021-11-12 04:21:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1459011647989686274,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1459003322099122177,
+        "text": "Weekend at Berties \ud83d\ude05\n#CriticalRoleSpoilers \n@WillingBlam @matthewmercer",
+        "created_at": "2021-11-12 03:41:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1455581332017274882,
+        "text": "Okay finished rewatching The Witcher for like the 5th time. What To watch next? Oooh The Witcher looks good!!",
+        "created_at": "2021-11-02 17:03:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1453955851035693056,
+        "text": "Okay.. I love with all of these new characters. But Laudna and Fresh Cut Grass have my heart. Witchy Vibes and Smiley Robots seem to be my weaknesses. #CriticalRole",
+        "created_at": "2021-10-29 05:24:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1453235293474144261,
+        "text": "@ayyyychill And I'm okay being a nerd \ud83e\udd23\ud83d\udc95",
+        "created_at": "2021-10-27 05:41:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 911769188,
+        "referenced_tweets": {
+            "id": 1453093773987094528,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1451799960911966208,
+        "text": "Hey brain.. can we have one day this week without a terrible headache. Thanks in advance.",
+        "created_at": "2021-10-23 06:37:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1442572259986526208,
+        "text": "@Kmk_otd I hated that.. I never want to choose between these 3 again \ud83d\ude05\ud83d\ude2d",
+        "created_at": "2021-09-27 19:30:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1439655551323893760,
+        "referenced_tweets": {
+            "id": 1442569647597883393,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1440876084396916741,
+        "text": "My DM: Why do I as a DM suck when I have zombies fight you guys.\n\nMe: Remembering a year ago when my character died by a zombie... \ud83e\udd28\ud83d\ude10",
+        "created_at": "2021-09-23 03:10:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1436028143773491231,
+        "text": "@EmmaOlson27 Idk what it is but do it!",
+        "created_at": "2021-09-09 18:06:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 617642678,
+        "referenced_tweets": {
+            "id": 1435822863848591361,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1435634594083000326,
+        "text": "RT @NotSaige: Existing is an absolute roller coaster to hell right now, but I think you're doing a pretty good job.",
+        "created_at": "2021-09-08 16:02:14+00:00",
+        "public_metrics": {
+            "retweet_count": 125,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1435297497937633293,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1433895865580544002,
+        "text": "I've had blood taken before but holy cow... 7 vials in one sitting feels extreme \ud83d\ude05\ud83d\ude2c",
+        "created_at": "2021-09-03 20:53:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1433565910787256324,
+        "text": "Jayden: I'm doing great! I've got straight A's!!\n\nMe: It's the 3rd day of school....\n\nJayden: So you're picking up what I'm putting down \ud83d\ude1c",
+        "created_at": "2021-09-02 23:02:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1431291070608916481,
+        "text": "Cow: Does absolutely nothing.\n\nMe: Oh. My. Gosh. LET ME PET YOU!!! \ud83d\ude0d\ud83d\ude0d\ud83d\ude2d",
+        "created_at": "2021-08-27 16:22:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1430654174446850052,
+        "text": "You know you're having a really crappy week when two members of your family order you Doordash on the same day lol.. I love them so so much \ud83d\udc95\ud83d\ude2d",
+        "created_at": "2021-08-25 22:11:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1430370591547170816,
+        "text": "RT @rudeunicorns: don\u2019t be a butthead",
+        "created_at": "2021-08-25 03:24:58+00:00",
+        "public_metrics": {
+            "retweet_count": 33,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1430310653328203777,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1429919856464302081,
+        "text": "@ayyyychill @CaderikWilson I mean.. now I'm stressed which I feel like is proving the point \ud83d\ude05\ud83e\udd23",
+        "created_at": "2021-08-23 21:33:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 911769188,
+        "referenced_tweets": {
+            "id": 1429919665262759937,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1429919306456834048,
+        "text": "@CaderikWilson Umm.. help https://t.co/xwauhYABP4",
+        "created_at": "2021-08-23 21:31:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 753790850644180992,
+        "referenced_tweets": {
+            "id": 1428731887665639424,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1427846339006668802,
+        "text": "I absolutely LOVE where my life is heading! So why am I so bummed reaching a goal I've worked so long for??",
+        "created_at": "2021-08-18 04:14:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1425200778327707649,
+        "text": "@EmmaOlson27 Nooo I love you \ud83d\udc95",
+        "created_at": "2021-08-10 21:01:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 617642678,
+        "referenced_tweets": {
+            "id": 1425122615316815888,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1424763071386378241,
+        "text": "@ayyyychill Hey girl! \ud83d\udc4b I gotchu!!",
+        "created_at": "2021-08-09 16:02:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 911769188,
+        "referenced_tweets": {
+            "id": 1424232947285037061,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1421925964557127682,
+        "text": "FEELINGS\n\nThat is all.",
+        "created_at": "2021-08-01 20:09:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1420638780948574209,
+        "text": "RT @ThomasSanders: May you all remember to put your phones on the charger before going to bed. Amen.",
+        "created_at": "2021-07-29 06:54:14+00:00",
+        "public_metrics": {
+            "retweet_count": 426,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1420593395895095299,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1420168390182797316,
+        "text": "@emilyjane42097 Thank you so much \ud83e\udd23\ud83d\udc95",
+        "created_at": "2021-07-27 23:45:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2699429140,
+        "referenced_tweets": {
+            "id": 1420129852988919808,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1420116195328495618,
+        "text": "Thank goodness for profile pictures.. I don't recognize anyone's name anymore now that everyone is married \ud83d\ude05",
+        "created_at": "2021-07-27 20:17:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1419926262936608769,
+        "text": "What even is sleep?? I haven't met her....",
+        "created_at": "2021-07-27 07:42:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1416141001874419713,
+        "text": "@ayyyychill Umm... I second this!",
+        "created_at": "2021-07-16 21:01:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 911769188,
+        "referenced_tweets": {
+            "id": 1415902570359365634,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1416139885979734020,
+        "text": "@makayla_th Chillin by yourself but still vibing",
+        "created_at": "2021-07-16 20:57:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 854589601318543361,
+        "referenced_tweets": {
+            "id": 1414674620083445761,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1412974642352984065,
+        "text": "Me: Sorry I was zoned out.. I was thinking about Bucky Barnes..\nKaleigh: I just assumed when you are zoned out you are always thinking of Bucky Barnes.\n\nOh... you right \ud83d\ude05",
+        "created_at": "2021-07-08 03:19:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1412539074036912128,
+        "text": "@makayla_th Dang girl.. YES YOU ARE!",
+        "created_at": "2021-07-06 22:28:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 854589601318543361,
+        "referenced_tweets": {
+            "id": 1412088438841516032,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1411037583920963586,
+        "text": "\"Can you imagine if Mamma Mia was set in Greece?\" -H",
+        "created_at": "2021-07-02 19:02:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1369018803112185860,
+        "text": "RT @Valkyrae: U WILL GET SHIT ON FOR DOING ANYTHING IN LIFE\n\n(WE ALL DO)\n\nSO DO WHAT MAKES U HAPPY\n\nAS LONG AS UR NOT HURTING ANYBODY IT DO\u2026",
+        "created_at": "2021-03-08 20:14:52+00:00",
+        "public_metrics": {
+            "retweet_count": 9053,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1368793169056309251,
+            "type": "retweeted"
+        }
+    }
+]

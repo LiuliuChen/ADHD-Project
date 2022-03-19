@@ -1,0 +1,1421 @@
+[
+    {
+        "tweet_id": 1504279507024240643,
+        "text": "RT @anafigreen: Ottoline, my warlock I started drawing long-long time ago... https://t.co/Njza5Qy7mb",
+        "created_at": "2022-03-17 02:12:37+00:00",
+        "public_metrics": {
+            "retweet_count": 246,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504131354442805254,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504240146836692994,
+        "text": "\ud83d\ude2d i just want my package coming today",
+        "created_at": "2022-03-16 23:36:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504197153865969666,
+        "text": "@Slothpawss \ud83d\udc49\ud83d\udc48 beep boop",
+        "created_at": "2022-03-16 20:45:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1101999002923413504,
+        "referenced_tweets": {
+            "id": 1504196134968864769,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503762941249654785,
+        "text": "i really hope i don\u2019t need to go to an urgent care, i\u2019ve been sicky for a couple days now :(((",
+        "created_at": "2022-03-15 15:59:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503453750102396928,
+        "text": "RT @kemimarie: don\u2019t lay no flowers on my grave if you didn\u2019t give me my flowers while i was alive",
+        "created_at": "2022-03-14 19:31:21+00:00",
+        "public_metrics": {
+            "retweet_count": 2610,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503445362396200964,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503404665672658954,
+        "text": "i dont get why cis men care if a person got breast implants??? they\u2019re still boobs tf??????",
+        "created_at": "2022-03-14 16:16:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503176625336193024,
+        "text": "hmm i should get back into listening to podcasts\u2026 i miss doing that \ud83e\udd7a",
+        "created_at": "2022-03-14 01:10:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503165450254905345,
+        "text": "@Slothpawss b-barn cat\u2026\u2026\u2026\u2026..",
+        "created_at": "2022-03-14 00:25:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1101999002923413504,
+        "referenced_tweets": {
+            "id": 1503164346972532736,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503041576607510532,
+        "text": "sometimes i forget i have tits \n\nwild man",
+        "created_at": "2022-03-13 16:13:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502127896315383813,
+        "text": "floor comfy. can lay flat like pancake",
+        "created_at": "2022-03-11 03:42:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502127582635905024,
+        "text": "i\u2019m sleepy so my solution was to lay on the ground :|",
+        "created_at": "2022-03-11 03:41:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502127284928466949,
+        "text": "sometimes you gotta lay on the floor with your dog https://t.co/7Q6P5Mcf1Z",
+        "created_at": "2022-03-11 03:40:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501608927699427328,
+        "text": "RT @mayticks: \ud83d\udc90Courting a Wildflower \ud83d\udc90 https://t.co/FRwPHwyPme",
+        "created_at": "2022-03-09 17:20:41+00:00",
+        "public_metrics": {
+            "retweet_count": 1605,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501426673023332353,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500950931046764544,
+        "text": "spider milf oc i love her https://t.co/g7J3yqJY2P",
+        "created_at": "2022-03-07 21:46:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500517005962592256,
+        "text": "RT @ajfantasy_: Commission for @Seliburd \nThanks again! https://t.co/Ndj7EQbHOg",
+        "created_at": "2022-03-06 17:01:47+00:00",
+        "public_metrics": {
+            "retweet_count": 339,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500300127902261254,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498936868485795840,
+        "text": "finally get to start cymbalta and see if that helps my chronic pain \ud83e\udd1e",
+        "created_at": "2022-03-02 08:22:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498834349143166976,
+        "text": "miki bein cute \ud83d\ude18 https://t.co/8927sAGPpP",
+        "created_at": "2022-03-02 01:35:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498490583869837314,
+        "text": "RT @BIABIABIA8: Practice https://t.co/ECC64ZP44f",
+        "created_at": "2022-03-01 02:49:30+00:00",
+        "public_metrics": {
+            "retweet_count": 7342,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498378650059776006,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498365796497588224,
+        "text": "i came out to my brother this morning and i love him so much he\u2019s so kind and supportive and i wish he didn\u2019t live so far away so i could give him a big hug",
+        "created_at": "2022-02-28 18:33:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498076010465558530,
+        "text": "my fnaf sona, hydra! he\u2019s a komodo dragon and very sensitive to sounds and vibrations. likes to eat cash #fnaf https://t.co/Cw6AqeY5NQ",
+        "created_at": "2022-02-27 23:22:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497989690804162565,
+        "text": "NEW POK\u00c9MON GAMES COMING OUT\u2026. HHHHHH",
+        "created_at": "2022-02-27 17:39:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497983480390504448,
+        "text": "my half incubus half peacock angel, reivla! i\u2019ve had him since like, 2015? #sketchbook #furry https://t.co/IeFvCoWo1P",
+        "created_at": "2022-02-27 17:14:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497709672077291522,
+        "text": "scheming.. #kitsune #art #doodle https://t.co/OIxBnioTpL",
+        "created_at": "2022-02-26 23:06:26+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497705011161092097,
+        "text": "lovesick is back and ready to chew off some lips :) #demon #fursona #art https://t.co/0wYtPN5pKn",
+        "created_at": "2022-02-26 22:47:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497686311074861056,
+        "text": "i can actually focus on making some art and relaxing\u2026 i actually made a new oc, her stage name is censor and she\u2019s a very popular demonic pornstar &gt;:)",
+        "created_at": "2022-02-26 21:33:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497685906764886020,
+        "text": "GUYS I GOT MY ADHD MEDS AFTER A WHOLE DAMN WEEK\u2026 i fuckijg hate my new meds doctor he really doesn\u2019t care about my needs",
+        "created_at": "2022-02-26 21:32:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497443346796593153,
+        "text": "i dunno!!!!! i want another fursona but i\u2019m so indecisive &gt;:/",
+        "created_at": "2022-02-26 05:28:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497442953232412675,
+        "text": "i want to make another fursona but like. idk what. if i make a dog sona he\u2019d either be a german spitz or a xolo dog. i can\u2019t decide! lovesick is a boar and technicallyyyyyy german.",
+        "created_at": "2022-02-26 05:26:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497441936524804103,
+        "text": "RT @apoxon_arts: Prince with a Thousand Enemies https://t.co/WY3Bxubp9V",
+        "created_at": "2022-02-26 05:22:33+00:00",
+        "public_metrics": {
+            "retweet_count": 1834,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497351853754912773,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497326767337394178,
+        "text": "RT @KaijuQgle: This is has become relevant again. https://t.co/uecX9CKQmw",
+        "created_at": "2022-02-25 21:44:54+00:00",
+        "public_metrics": {
+            "retweet_count": 30740,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496856087777398785,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497302554723508224,
+        "text": "RT @Naomi_with_an_a: To my gamer friends - play how you want to play \ud83d\udc95 https://t.co/7JcLv47gKC",
+        "created_at": "2022-02-25 20:08:42+00:00",
+        "public_metrics": {
+            "retweet_count": 21922,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496832562886582274,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496255660815953920,
+        "text": "why is it i normally just huff or say something is funny but when i see a fucked up needle felted piglet i genuinely laugh out loud",
+        "created_at": "2022-02-22 22:48:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495641711846035456,
+        "text": "wish someone could just step on my skull",
+        "created_at": "2022-02-21 06:09:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495173504068509700,
+        "text": "RT @QueerlyAutistic: Can we all agree that a) trigger warnings are a valid and important part of helping people manage trauma, but also b)\u2026",
+        "created_at": "2022-02-19 23:08:37+00:00",
+        "public_metrics": {
+            "retweet_count": 9307,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495055728939343879,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494445380003512331,
+        "text": "HEEHEE IM LEGALLY CERTIFIED IN ARIZONA",
+        "created_at": "2022-02-17 22:55:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494381934490931203,
+        "text": "RT @Slothpawss: \ud83d\udc0c RAFFLE TIME \ud83c\udf89\n\nSince I\u2019m only about 100 away from 1k followers (TYSM!!!) I figured it\u2019s about time I hold a raffle! Here\u2026",
+        "created_at": "2022-02-17 18:43:12+00:00",
+        "public_metrics": {
+            "retweet_count": 83,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494369051262570499,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494381920108650503,
+        "text": "@Slothpawss this is my gal setsuko \ud83e\udd7a tysm for the opportunity https://t.co/oQkSTeUcrM",
+        "created_at": "2022-02-17 18:43:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1101999002923413504,
+        "referenced_tweets": {
+            "id": 1494369051262570499,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493341905110720513,
+        "text": "\u270c\ufe0f\ud83d\ude18 https://t.co/pVOOH27A3J",
+        "created_at": "2022-02-14 21:50:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493337426781106176,
+        "text": "i got some rub on stickers to decorate my work journal!!! :D i\u2019ll show it when it\u2019s all done",
+        "created_at": "2022-02-14 21:32:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492983867828891648,
+        "text": "me n my brother basically vented to each other the whole time and he said he was proud of me and that he loves me \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2022-02-13 22:07:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492983488634667011,
+        "text": ";__; me and my older brother facetimed wowowow he\u2019s so nice i appreciate him",
+        "created_at": "2022-02-13 22:06:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492964508356079621,
+        "text": "RT @Toiame: :) and :D are widely different energies in how i intend them https://t.co/zuovFVV9hS",
+        "created_at": "2022-02-13 20:50:51+00:00",
+        "public_metrics": {
+            "retweet_count": 29006,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492733855995891716,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1492914378684846082,
+        "text": "i\u2019m so excited ahhh!! my tattoo is gonna be on my forearm",
+        "created_at": "2022-02-13 17:31:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492914137579470849,
+        "text": "getting my first tattoo in april yall \ud83e\udd7a",
+        "created_at": "2022-02-13 17:30:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492601028855820290,
+        "text": "@kitsiyos hugs tight \ni\u2019m rlly sorry eden, im here for you however you need it",
+        "created_at": "2022-02-12 20:46:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4352035998,
+        "referenced_tweets": {
+            "id": 1492596378224115712,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492539899022479366,
+        "text": "turns out i\u2019m developing carpal tunnel in my left wrist, so now using the brace is gonna be pretty common when the pain flares up",
+        "created_at": "2022-02-12 16:43:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492340478313861121,
+        "text": "i am. so sleepy",
+        "created_at": "2022-02-12 03:31:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492217795186081793,
+        "text": "it\u2019s my birthday today! i get to spend the day with my amazing hubby! https://t.co/9XNt5xSqqG",
+        "created_at": "2022-02-11 19:23:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492201090246266883,
+        "text": "@olivialigons I AMMM i got a chocolate cake and the newest pok\u00e9mon game and i\u2019m getting sushi tonight \ud83e\udd7a\ud83d\ude2d miss you olls",
+        "created_at": "2022-02-11 18:17:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1222060080591278080,
+        "referenced_tweets": {
+            "id": 1492198464771428353,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492197993843281926,
+        "text": "YALL MY HUBBY GIFTED ME $450 FOR MY FIRST TATTOO LES GOOOOOO",
+        "created_at": "2022-02-11 18:05:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491450538504122368,
+        "text": "i am not even joking somehow i pulled my hamstrings in both legs so it\u2019s extremely hard to walk and i\u2019m like why. why must my body forsaken me",
+        "created_at": "2022-02-09 16:34:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491129997201113089,
+        "text": "sometimes i rlly eat like i care abt being healthy\u2026gots me a yogurt parfait, clif bar, cucumbers for lunch\u2026bitch they just taste good",
+        "created_at": "2022-02-08 19:21:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490880772680548354,
+        "text": "i added too much lime to my sopa and now my tummy hurts https://t.co/USf8GLkEBB",
+        "created_at": "2022-02-08 02:50:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490780891966164996,
+        "text": "my birthday is also on friday and i\u2019m getting sushi for dinner !! no friends to spend my bday with but thas okay",
+        "created_at": "2022-02-07 20:13:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490780707911700483,
+        "text": "getting certified in about 3 work training days \ud83d\ude33",
+        "created_at": "2022-02-07 20:13:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490633462910357506,
+        "text": "uhhhh here\u2019s my dude orias sometimes he dresses slutty ok it\u2019s because he\u2019s a [redacted zodiac sign] https://t.co/iEjwtyfBRb",
+        "created_at": "2022-02-07 10:28:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490628631374151681,
+        "text": "my hubby is like soft cloud. i will not elaborate",
+        "created_at": "2022-02-07 10:08:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490628490051293186,
+        "text": "as dumb as it may sound, rlly love listening to that SU song \u2018found\u2019 cuz it reminds me of my hubby and how gentle he was with getting to know me when we met",
+        "created_at": "2022-02-07 10:08:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490454646036439041,
+        "text": "@bughxgs \ud83d\ude4c thank you for always posting amazing art",
+        "created_at": "2022-02-06 22:37:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1025468675220955136,
+        "referenced_tweets": {
+            "id": 1490452465120120834,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489447626588102658,
+        "text": "RT @vicekillx: more porn? more porn. https://t.co/1UNUCTB7PH",
+        "created_at": "2022-02-04 03:56:01+00:00",
+        "public_metrics": {
+            "retweet_count": 520,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489268207227707395,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1486032447087079428,
+        "text": "bluhhh https://t.co/50k7BeyLt3",
+        "created_at": "2022-01-25 17:45:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485821056002625537,
+        "text": "RT @Noirekat_sketch: This world is cruel but I still love you https://t.co/hy26r9HngS",
+        "created_at": "2022-01-25 03:45:19+00:00",
+        "public_metrics": {
+            "retweet_count": 1860,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485712642375364615,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485738843214991360,
+        "text": "YAAA IT GOT HERE https://t.co/3xmARQqmBT",
+        "created_at": "2022-01-24 22:18:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485661951560585218,
+        "text": "my gal mentality, i\u2019ve owned her since 2014! she\u2019s come a long way design-wise and finally i can say i\u2019m proud of drawing her lol https://t.co/twtCVcb8JV",
+        "created_at": "2022-01-24 17:13:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485421621883981825,
+        "text": "my new country guy, gunslinger! he\u2019s a donkey &gt;:) https://t.co/PwxL13eMnh",
+        "created_at": "2022-01-24 01:18:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485117802931318788,
+        "text": "RT @SudiBearArt: https://t.co/OIQKXWVDS2",
+        "created_at": "2022-01-23 05:10:51+00:00",
+        "public_metrics": {
+            "retweet_count": 19116,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484829520406347778,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1484093727886823426,
+        "text": "@bughxgs BUUUUG HAPPY BIRTHDAY AND I APPRECIATE UR EXISTENCE U FUNKY LIL CRITTER. KEEP DOING THE THINGS YOU LOVE IN LIFE AND UR ART MAKES ME SO HAPPY WAAA",
+        "created_at": "2022-01-20 09:21:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1025468675220955136,
+        "referenced_tweets": {
+            "id": 1484086384423931908,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484093302831869953,
+        "text": "RT @_pocketss: gotta put self-care dog here #art #comics #selfcare #depression https://t.co/F15EE1jNIG",
+        "created_at": "2022-01-20 09:19:51+00:00",
+        "public_metrics": {
+            "retweet_count": 27012,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1074451341366493189,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483330910510411776,
+        "text": "RT @TheOracIeReadsU: Rest is not a reward. Rest is something you're inherently worthy of. It is as essential as food/water. It makes you be\u2026",
+        "created_at": "2022-01-18 06:50:22+00:00",
+        "public_metrics": {
+            "retweet_count": 15631,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1482893892668334086,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1482538486997549056,
+        "text": "hell yeAAAAA https://t.co/8gUbQPU11b",
+        "created_at": "2022-01-16 02:21:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481009139157401602,
+        "text": "RT @bughxgs: Changed her colour palette last night! :3 https://t.co/77EjtO5YBF",
+        "created_at": "2022-01-11 21:04:29+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1480990859340386305,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479648062410674178,
+        "text": "somehow fucked up my left hand and wrist :| https://t.co/2aIPNvHDQJ",
+        "created_at": "2022-01-08 02:56:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479613172730372096,
+        "text": "@bughxgs ty friend ily here\u2019s a doodle https://t.co/L6VPGFVvE3",
+        "created_at": "2022-01-08 00:37:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1025468675220955136,
+        "referenced_tweets": {
+            "id": 1479601344113750018,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479118861169414145,
+        "text": "RT @JordynMartinez_: a girl on tik tok just said \u201cI would rather adjust my life to your absence, than adjust my boundaries to accommodate y\u2026",
+        "created_at": "2022-01-06 15:53:11+00:00",
+        "public_metrics": {
+            "retweet_count": 164585,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478524498177523714,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478995704588603393,
+        "text": "RT @CitrusFoam: Mothers https://t.co/nlY99FUR2S",
+        "created_at": "2022-01-06 07:43:49+00:00",
+        "public_metrics": {
+            "retweet_count": 1108,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478833916299464705,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478564125995253763,
+        "text": "@bughxgs me when others say ppl with bpd are evil but i just need validation from friends that im loved and that i\u2019m not scary for having ocd intrusive thoughts 2 https://t.co/hhj6Lurlxb",
+        "created_at": "2022-01-05 03:08:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1025468675220955136,
+        "referenced_tweets": {
+            "id": 1478516248862511106,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478514910346694656,
+        "text": "@bughxgs \u00faw\u00f9 you can always vent/rant to me abt bpd problems, i get it sm. splitting mixed with paranoia HURTS",
+        "created_at": "2022-01-04 23:53:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1025468675220955136,
+        "referenced_tweets": {
+            "id": 1478511705772679172,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478500096933175297,
+        "text": "AUGH bpd is so misunderstood and demonized and it\u2019s refreshing to talk to someone who listens to know what bpd is like",
+        "created_at": "2022-01-04 22:54:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477533608747225088,
+        "text": "drew my alebrije fursona, his name is zodiac! i am Not Good at digital art at all im srry #fursona #furry #Furryartist https://t.co/FOPj81g4LY",
+        "created_at": "2022-01-02 06:53:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1474997954725310465,
+        "text": "some amoris wit her tits out ;3 https://t.co/YsyGuDgmnF",
+        "created_at": "2021-12-26 06:58:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1474426912378220546,
+        "text": "RT @MenasLG: https://t.co/3KVGqrf6az",
+        "created_at": "2021-12-24 17:09:04+00:00",
+        "public_metrics": {
+            "retweet_count": 15924,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474121973261295617,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1474153038180859905,
+        "text": "RT @cookywook: gordon ramsay tweets are the best genre of tweets https://t.co/pXRaJfFbWi",
+        "created_at": "2021-12-23 23:00:47+00:00",
+        "public_metrics": {
+            "retweet_count": 12016,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473606196728844292,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473476329240625152,
+        "text": "RT @heyfrancis: sorry if you followed me for my art and expected a professional page. i\u2019m not a brand, i\u2019m a person and this is a space of\u2026",
+        "created_at": "2021-12-22 02:11:47+00:00",
+        "public_metrics": {
+            "retweet_count": 10800,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473056726874218497,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473032445465300996,
+        "text": "RT @HydeNikolaev: \ud83d\udc7f\ud83c\udf1f\ud83d\udc10 https://t.co/huIHs1ODt3",
+        "created_at": "2021-12-20 20:47:57+00:00",
+        "public_metrics": {
+            "retweet_count": 1453,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1472888477897220098,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1471653372017004544,
+        "text": "RT @kitsiyos: These guys still exist but now they're furries so maybe I'll draw them more now lol https://t.co/U0uuRyfAId",
+        "created_at": "2021-12-17 01:28:00+00:00",
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1471642717004333057,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1471192220749340675,
+        "text": "RT @novalytra: WHY DOES MY MOBILE HOTSPOT HAVE AN ARCH NEMESIS?????????? https://t.co/EYScg6GDOd",
+        "created_at": "2021-12-15 18:55:33+00:00",
+        "public_metrics": {
+            "retweet_count": 13787,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1470729524312776706,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1471192137882427395,
+        "text": "RT @morteraphan: Design Commission for @cardialloyed! \ud83d\udc22 https://t.co/56dmGNFZzo",
+        "created_at": "2021-12-15 18:55:13+00:00",
+        "public_metrics": {
+            "retweet_count": 951,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1471179456765116417,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1470481333885579264,
+        "text": "RT @Ichigodawashi: https://t.co/XQ7wlYfSLR",
+        "created_at": "2021-12-13 19:50:44+00:00",
+        "public_metrics": {
+            "retweet_count": 1242,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1469917088278269955,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1470158824438841344,
+        "text": "dnd character commission i did today! he belongs to my friend on insta! https://t.co/uz6Bg0Anhk",
+        "created_at": "2021-12-12 22:29:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469770225528627204,
+        "text": "early morning https://t.co/kSY7mb02GX",
+        "created_at": "2021-12-11 20:45:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469770038378778625,
+        "text": "ummm a pic i took at the beach (i didn\u2019t go in it tho lmfao) https://t.co/V6wi2JC1oX",
+        "created_at": "2021-12-11 20:44:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467969449349332999,
+        "text": "RT @arts_of_indiego: Some tips :) https://t.co/QZpUt9z4y1",
+        "created_at": "2021-12-06 21:29:24+00:00",
+        "public_metrics": {
+            "retweet_count": 5185,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1467502251467935744,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1467196762918117378,
+        "text": "RT @mituniartist: I did this and I love these paws so much now!!!\ncommission for Greenguy212 (FA)\nMy FA: https://t.co/Wz9s6bBVwq\n#paws #fur\u2026",
+        "created_at": "2021-12-04 18:19:02+00:00",
+        "public_metrics": {
+            "retweet_count": 4314,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1466895120112967684,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1467014863553802240,
+        "text": "RT @birdmanbirdplan: Gray ace mood https://t.co/2RFXTItXDg",
+        "created_at": "2021-12-04 06:16:13+00:00",
+        "public_metrics": {
+            "retweet_count": 6315,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1466458187347890178,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1466160095725821954,
+        "text": "@olivialigons ayyyyy \ud83d\ude0e\ud83d\udd25",
+        "created_at": "2021-12-01 21:39:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1222060080591278080,
+        "referenced_tweets": {
+            "id": 1465910279066120194,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1465184516536881153,
+        "text": "RT @SolLune_: Just to make it very apparently clear if it wasn't already; \n\nZOOPHILES\nPEDOPHILES\nGROOMERS\nRACISTS \nHOMOPHOBES \nTRANSPHOBES\u2026",
+        "created_at": "2021-11-29 05:03:05+00:00",
+        "public_metrics": {
+            "retweet_count": 1088,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1465094127129960451,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1462496712262512643,
+        "text": "RT @UlitochkaArt: Bad girl for @Boltie_  \u2728\u00d9w\u00da\u2728 https://t.co/nZyTXHiviu",
+        "created_at": "2021-11-21 19:02:42+00:00",
+        "public_metrics": {
+            "retweet_count": 632,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1462483366805184515,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1461833189702258697,
+        "text": "RT @bdk1521: https://t.co/MT7VrPZHPW",
+        "created_at": "2021-11-19 23:06:06+00:00",
+        "public_metrics": {
+            "retweet_count": 20334,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1461373182808629251,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1461738031782633474,
+        "text": "hi, i\u2019m salem/bunny! i\u2019m an autistic adult that likes drawing and animating, pokemon, kirby, mlp, fnf, undertale, popee the performer, ENA, little nightmares, the walten files, animal crossing, and vocaloid. i am very shy and weird and i like to joke around. welcome!",
+        "created_at": "2021-11-19 16:47:59+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

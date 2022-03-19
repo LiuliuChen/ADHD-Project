@@ -1,0 +1,4466 @@
+[
+    {
+        "tweet_id": 1502751348558909445,
+        "text": "@BellularGaming The automas have the same dance animation as the Tauren. Therefore, they are the same race.",
+        "created_at": "2022-03-12 21:00:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1334950621,
+        "referenced_tweets": {
+            "id": 1502638971351977996,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501408946615164930,
+        "text": "@leekatv Just have someone in your guild make it and send them the mats",
+        "created_at": "2022-03-09 04:06:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 613866337,
+        "referenced_tweets": {
+            "id": 1501315345033752579,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496426379461775365,
+        "text": "@LukePercussion @Wowhead If all of a sudden one IP address is now logging in as several existing accounts, does the mage tower, and never logs in again, obvious",
+        "created_at": "2022-02-23 10:07:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 952549887412965377,
+        "referenced_tweets": {
+            "id": 1496303971497041920,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492987738781626380,
+        "text": "@TaliesinEvitel @elgato It could also be RBG- IJS",
+        "created_at": "2022-02-13 22:23:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1492985277865943040,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492983665739112459,
+        "text": "@TaliesinEvitel Can\u2019t you just install windshield wipers like a car has?",
+        "created_at": "2022-02-13 22:06:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1492953265214005253,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492983439812972544,
+        "text": "@auringon Bye random person that was in a recommended tweet to me. I wish you the best in whatever game you play!",
+        "created_at": "2022-02-13 22:06:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1300149496014348288,
+        "referenced_tweets": {
+            "id": 1492726445948477448,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492733501023608832,
+        "text": "Been playing so much Dead By Daylight that I feel like I\u2019m seeing red scratch marks in the open world. #dbd #DeadbyDaylgiht",
+        "created_at": "2022-02-13 05:32:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488259804497948678,
+        "text": "#PokemonLegendsArceus this game is not good for my ADHD.  I\u2019ve got Pok\u00e9mon in their 60\u2019s, and I\u2019m still on like the second quest, cause I\u2019m so easily sidetracked",
+        "created_at": "2022-01-31 21:16:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487797012422701060,
+        "text": "#PokemonLegendsArceus Chimchar!!!! On the hill by the first alpha! I saw him from a distance, his sway\u2026. I knew it was him\u2026 I had to have him!",
+        "created_at": "2022-01-30 14:37:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487188949927923714,
+        "text": "#PokemonLegendsArceus  I know I don\u2019t need to do all of these Pok\u00e9dex things in the first area. But y\u2019all know I\u2019m gonna do almost very single one of them. Except maybe ones like mime jr.",
+        "created_at": "2022-01-28 22:20:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487156531405676548,
+        "text": "Uhhhhh. Be careful starting battles if more than one aggressive Pok\u00e9mon is chasing you. Cause you might find yourself fighting off multiple level 22 Beautiflies with your level 15 Rowlet. #PokemonLegends",
+        "created_at": "2022-01-28 20:12:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487104373549408262,
+        "text": "#PokemonLegendsArceus  realizing the hashtag I was using was the incorrectly spelt one lmao.  Anywho, gotta catch em all. Every. Single. One.",
+        "created_at": "2022-01-28 16:44:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487101050528092169,
+        "text": "#PokemonLegendenArceus  don\u2019t forget about me, Daddy https://t.co/oGxKqTTqo7",
+        "created_at": "2022-01-28 16:31:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487092088667787265,
+        "text": "#PokemonLegendenArceus  ok, there is dodge rolls. I can spam and fulfill my ADHD needs. Thank you.",
+        "created_at": "2022-01-28 15:55:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487082914080772102,
+        "text": "#PokemonLegendenArceus  ok so battling is kinda nifty since you can move around. If only the hunky jokers from BDSP were in here\u2026.",
+        "created_at": "2022-01-28 15:19:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487081180931538946,
+        "text": "#PokemonLegendenArceus  of course I went with Rowlet. Just so I can make grass puns.",
+        "created_at": "2022-01-28 15:12:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487076316126064643,
+        "text": "#PokemonLegendenArceus  IM LIVING MY ISEKAI LIFE",
+        "created_at": "2022-01-28 14:53:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487074052577628160,
+        "text": "#PokemonLegendenArceus \u201cyou don\u2019t seem fearful of Pok\u00e9mon in the slightest\u201d\nHoney, I\u2019ve been at this for like 23 years now.",
+        "created_at": "2022-01-28 14:44:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487073152479989767,
+        "text": "#PokemonLegendenArceus  ok so 30 seconds in I have my first complaint. I can\u2019t spam jump or roll like my urge is for every open world game. Lol",
+        "created_at": "2022-01-28 14:40:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487071809094791175,
+        "text": "Playing #PokemonLegendsArceus and damn. This first song is amazing lol.",
+        "created_at": "2022-01-28 14:35:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485204197528248324,
+        "text": "@TheRedShirtGuy We find out that Genn, Zekhan, Valeera, Leeroy Jenkins and  ETC are all actually dragons. Also, introducing the new Race: Dragonborn. The racial is a frontal cone breath weapon, and a metamorph style CD. You also have wings and can fly. No shoulder/cloak xmog allowed.",
+        "created_at": "2022-01-23 10:54:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1347819145,
+        "referenced_tweets": {
+            "id": 1485005981570502663,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482975123674218497,
+        "text": "@Yunglea_ Usually for wow whispers you need a degree in child psychology to understand them.",
+        "created_at": "2022-01-17 07:16:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1365439214670782478,
+        "referenced_tweets": {
+            "id": 1482667268450488324,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480723585740201984,
+        "text": "@nickakaspike @zackmcilreavey If you want the dead server experience, new world is where it\u2019s at. Stopped playing the game cause so few on server we couldn\u2019t keep cities upgraded at all, assaults would destroy everything.",
+        "created_at": "2022-01-11 02:09:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 831918859,
+        "referenced_tweets": {
+            "id": 1480691300500672519,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475098477311021068,
+        "text": "@DGRMSP I don\u2019t have the thighs for that number of followers.",
+        "created_at": "2021-12-26 13:37:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1176332189023293440,
+        "referenced_tweets": {
+            "id": 1474439948271075334,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472355571814830088,
+        "text": "@SteveGamesPNW Hospitals here a literally overwhelmed where we cancel open heart surgeries because we don\u2019t have beds for them. But people don\u2019t care.",
+        "created_at": "2021-12-18 23:58:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17068636,
+        "referenced_tweets": {
+            "id": 1472015024285569024,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472351537951571970,
+        "text": "@stefanoznt @RyanFralich So\u2026. It\u2019s ok to say the N word as long as black people won\u2019t hear it? Wtf kind of logic is that.",
+        "created_at": "2021-12-18 23:42:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 436871240,
+        "referenced_tweets": {
+            "id": 1472337419659796491,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1471791696564441089,
+        "text": "@Diablo Oh god I thought this said \u201cseasons breedings\u201d and wondered what part of Twitter I ended up on.",
+        "created_at": "2021-12-17 10:37:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 61040833,
+        "referenced_tweets": {
+            "id": 1471608583410360331,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1471791525524914184,
+        "text": "@BDaveWalters Uh oh",
+        "created_at": "2021-12-17 10:36:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 62228907,
+        "referenced_tweets": {
+            "id": 1471397988337545216,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469023530268471299,
+        "text": "@trixiemattel Explaiiiiiiiiin!",
+        "created_at": "2021-12-09 19:17:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2644697608,
+        "referenced_tweets": {
+            "id": 1468809435308912641,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469023424802697221,
+        "text": "@Slootbag I\u2019m still waiting for them to nerf their problematic tendencies and nerf Bobby Kotick\u2019s employment.",
+        "created_at": "2021-12-09 19:17:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1289701836,
+        "referenced_tweets": {
+            "id": 1468685040867590150,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1467398406205329409,
+        "text": "Holy hell I\u2019m tired tonight.",
+        "created_at": "2021-12-05 07:40:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467380008725651460,
+        "text": "@doveskie @BlizzardCS This is why I never put the ttv on my name when I was in any online game, especially DBD. I found out early people would abuse that. Something you could do is increase your stream delay to make it harder for them to use it to their advantage. As well as covering the minimap.",
+        "created_at": "2021-12-05 06:27:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1316432236913266688,
+        "referenced_tweets": {
+            "id": 1467379444276989952,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1467379444276989952,
+        "text": "@doveskie @BlizzardCS If someone is messaging you to harass you, then blizzard should do something.  However if they are using your stream to camp you, I don\u2019t feel like that\u2019s their job to police, unless they put streamers on their own shard which would be weird for pvp.",
+        "created_at": "2021-12-05 06:24:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 859551982687735808,
+        "referenced_tweets": {
+            "id": 1467051193604075520,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1463717682755387401,
+        "text": "@TaliesinEvitel @Shadesogrey I\u2019m having flashbacks to when I have my Wii to my nieces and they decided to use it as a piggy bank by putting coins in the game slot.",
+        "created_at": "2021-11-25 03:54:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1463300712792735747,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1463716602436857859,
+        "text": "@celheals Do you accept us crazies below the border?",
+        "created_at": "2021-11-25 03:50:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1023207519060197383,
+        "referenced_tweets": {
+            "id": 1463236098755227651,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1463716368461799429,
+        "text": "@TaliesinEvitel Unfortunately the author goes into excruciating detail on every single dress and cloak that was ever worn in the books. The only time it mattered was when the dress was green \ud83d\udc57.  (Hehe)",
+        "created_at": "2021-11-25 03:49:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1463247502568833032,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1463715449456275461,
+        "text": "@TaliesinEvitel Wait. I thought you guys had an entire video about this long ago!",
+        "created_at": "2021-11-25 03:45:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1463465534297722880,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1462207343366660102,
+        "text": "@PatrikLiba1 @LeftKickM @doveskie @VitamiinP @BlizzardCS @Warcraft On classic, you can just make a new character and get right to spamming the person again. The account wide ignore is only on retail.",
+        "created_at": "2021-11-20 23:52:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2317930782,
+        "referenced_tweets": {
+            "id": 1462170311726612480,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1460911639633575936,
+        "text": "@gaymerquest Wait\u2026. You don\u2019t have a Metroid shirt for every day of the year yet? Are you even a gamer?!?!?!?!??",
+        "created_at": "2021-11-17 10:04:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2612648737,
+        "referenced_tweets": {
+            "id": 1460418618563313669,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1460911051919306755,
+        "text": "@DGRMSP It\u2019s the serious calf game you\u2019ve got going on.",
+        "created_at": "2021-11-17 10:01:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1176332189023293440,
+        "referenced_tweets": {
+            "id": 1460361170213289989,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1460910303613489162,
+        "text": "@ATVI_AB excuse me\u2026. But why is Bobby Kotick still working there? Creep needs to go! #blizzard #FireBobbyKotick",
+        "created_at": "2021-11-17 09:58:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 753670706311815169,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1457669198956699654,
+        "text": "@TaliesinEvitel Get gooder. Or\u2026 badder?",
+        "created_at": "2021-11-08 11:19:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1457647427520016392,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1448297016266723334,
+        "text": "@DGRfromMSP Hi! You're my most famous friend!!",
+        "created_at": "2021-10-13 14:38:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1176332189023293440,
+        "referenced_tweets": {
+            "id": 1448292548028649476,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1448291702087856133,
+        "text": "@afieldswow Wait... cis-exclusive? Like... do they not know what that means?",
+        "created_at": "2021-10-13 14:17:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1300153141959127043,
+        "referenced_tweets": {
+            "id": 1447776953088430081,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1448289083982290950,
+        "text": "@PPAREUS @playnewworld because iron is used in like everything, including crafting higher grade materials. Also, if you want cheaper iron, go to a low level city and check their market, more likely to be listed there for cheaper. Also, players control the market, not the devs.",
+        "created_at": "2021-10-13 14:06:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 278999735,
+        "referenced_tweets": {
+            "id": 1448232084758093832,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1441737338984583168,
+        "text": "@hjf317 @BlizzardCS Or is it because of gay frogs???",
+        "created_at": "2021-09-25 12:12:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 273499084,
+        "referenced_tweets": {
+            "id": 1441518850109935626,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1441452020758614018,
+        "text": "Nooooo got hit with the character already logged in bug on Diablo 2. Guess it\u2019s time to do something else today\u2026",
+        "created_at": "2021-09-24 17:18:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1441449467601989632,
+        "text": "@gaymerquest Also where the heck is John Leguizamo??",
+        "created_at": "2021-09-24 17:08:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2612648737,
+        "referenced_tweets": {
+            "id": 1441168751236313088,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1441094472851361794,
+        "text": "@gaymerquest What is this horror?!?!",
+        "created_at": "2021-09-23 17:37:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2612648737,
+        "referenced_tweets": {
+            "id": 1441092498043150337,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1441094114691338244,
+        "text": "@grokdan @BlizzardCS Just the maintenance, try again in a few mins &lt;3",
+        "created_at": "2021-09-23 17:36:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4747214536,
+        "referenced_tweets": {
+            "id": 1441088597159866372,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1441093886684721159,
+        "text": "@trucido614 @BlizzardCS The number of people that log on for beta vs the number of people that log on for launch are two very different numbers.",
+        "created_at": "2021-09-23 17:35:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 619364528,
+        "referenced_tweets": {
+            "id": 1441085696639340552,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1439753916158152705,
+        "text": "@TaliesinEvitel I want kultirans in speedos. Please and thank you.",
+        "created_at": "2021-09-20 00:50:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1439665908075614220,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1439275859068686347,
+        "text": "@NianticLabs @PokemonGoApp  got an idea for the coin shop: Poke Flags.  They would be like a small, temporary Pokestop. You could put it down and it would place a pokestop that people could spin for like an hour. Then people could place a lure in it or get their daily spin.",
+        "created_at": "2021-09-18 17:11:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 631577690,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1436641238049034240,
+        "text": "@TaliesinEvitel 10/10 second this. Or technically 3rd it.",
+        "created_at": "2021-09-11 10:42:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1436415814509416451,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1435871976447426566,
+        "text": "@DGRfromMSP She\u2019s also my favorite doctor who companion",
+        "created_at": "2021-09-09 07:45:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1176332189023293440,
+        "referenced_tweets": {
+            "id": 1435639099487047680,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1435871706338533377,
+        "text": "@laviejoem Congrats!",
+        "created_at": "2021-09-09 07:44:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 707468037880987650,
+        "referenced_tweets": {
+            "id": 1435839901329620993,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1435871589707431937,
+        "text": "@TaliesinEvitel But that dance magic tho\u2026.",
+        "created_at": "2021-09-09 07:43:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1435861934482628608,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1428610713120124928,
+        "text": "@DGRfromMSP Own that crop top!",
+        "created_at": "2021-08-20 06:51:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1176332189023293440,
+        "referenced_tweets": {
+            "id": 1428549326226305031,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1428610124764090368,
+        "text": "@j0hn_j0hnn I think I\u2019m still waiting until next year :(",
+        "created_at": "2021-08-20 06:49:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1103431380099309568,
+        "referenced_tweets": {
+            "id": 1428560647063695364,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1428608951512453123,
+        "text": "@laviejoem I mean. Where\u2019s the lie.",
+        "created_at": "2021-08-20 06:44:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 707468037880987650,
+        "referenced_tweets": {
+            "id": 1428414370585980929,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1428608729361027073,
+        "text": "@SenTedCruz Get the hell out of here with this misinformation bullshit, trying to work up your damn base and get them mad at immigrants instead of the views their own party has on masks and vaccines.",
+        "created_at": "2021-08-20 06:43:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1074480192,
+        "referenced_tweets": {
+            "id": 1426659943042662402,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1428607599465873409,
+        "text": "@TaliesinEvitel And the Corgi Soulshape please. I need it in my life. Even better if they will give me a dachshund soul shape!",
+        "created_at": "2021-08-20 06:39:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1428473308543078400,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1427677120956862468,
+        "text": "@TaliesinEvitel Is life a Gacha game now??",
+        "created_at": "2021-08-17 17:02:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1427607956833685515,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1425797824382447629,
+        "text": "@LadyJedi86 @Wowhead You can do unrated pvp and upgrade a weapon with honor",
+        "created_at": "2021-08-12 12:34:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3054636409,
+        "referenced_tweets": {
+            "id": 1425666483426930688,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1424692245769359361,
+        "text": "@Grimmgeta @TaliesinEvitel Too many years of disappointment? People reaching their breaking point? They could just do an adult thing like moving on and playing a different game if they are that dissatisfied.",
+        "created_at": "2021-08-09 11:21:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 735741963979235329,
+        "referenced_tweets": {
+            "id": 1424648720822513665,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1422339968710680576,
+        "text": "@NianticLabs why the nerf to the poke stop spinning? I know it\u2019s the way it used to be, but with covid ramping back up, would be cool to stay spread out a bit :)",
+        "created_at": "2021-08-02 23:34:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 631577690,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1419468871195676677,
+        "text": "Watching the skateboarding on the olympics and the commentator goes \u201cAlanna is non-binary and uses they/them pronouns\u201d - very next sentence says both she and her. /facepalm",
+        "created_at": "2021-07-26 01:25:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1419244926706110464,
+        "text": "@AstroloLobo Oh damn\u2026 right in the feels",
+        "created_at": "2021-07-25 10:35:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1216202406309978113,
+        "referenced_tweets": {
+            "id": 1419166986278375431,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1419228346018304004,
+        "text": "@TaliesinEvitel How dare you guys be good people. Shame. Shame. https://t.co/g8ZkX1be3Q",
+        "created_at": "2021-07-25 09:29:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1419017517939441668,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1419210871939768322,
+        "text": "@DrGRZLY I remember it being much cheaper when I was younger, which is a shame cause it was how my family did our vacation every year to Montana.",
+        "created_at": "2021-07-25 08:20:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1099751616398442498,
+        "referenced_tweets": {
+            "id": 1418395242852671497,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1419209657785241604,
+        "text": "@matthewmercer Have you tried turning them off and on again? Also, I wonder if Yugi used the heart of the cards when he was playing Dungeon Dice Monsters, or are dice heartless?",
+        "created_at": "2021-07-25 08:15:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 24630350,
+        "referenced_tweets": {
+            "id": 1418431323295817736,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1419209208222859265,
+        "text": "@DGRfromMSP Gossip girl is getting an onlyfans?",
+        "created_at": "2021-07-25 08:13:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1176332189023293440,
+        "referenced_tweets": {
+            "id": 1418305109080133633,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1419209033802817536,
+        "text": "@dagonmartv I\u2019m glad Crystal doesn\u2019t mean what I thought it meant on my first read of this post.  I guess I never thought about RP raiding before and what it was like.",
+        "created_at": "2021-07-25 08:12:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 857078053142487040,
+        "referenced_tweets": {
+            "id": 1418281092809953287,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1419207853051686913,
+        "text": "RT @CrevLMTV: Retweeting this again. Because well.. men exist",
+        "created_at": "2021-07-25 08:08:14+00:00",
+        "public_metrics": {
+            "retweet_count": 33,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1418714548954189827,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1419207192184492032,
+        "text": "@laviejoem I don\u2019t have that many lives\u2026",
+        "created_at": "2021-07-25 08:05:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 707468037880987650,
+        "referenced_tweets": {
+            "id": 1418732900556492800,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1419206532106014720,
+        "text": "@Pokemon we are waaaaaaay overdue for a new Eevee evolution. I would like to see one in my lifetime. That\u2019s anywhere from now to like 40 years from now. I\u2019m setting the bar low for you guys\u2026",
+        "created_at": "2021-07-25 08:02:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 96879107,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1419205829014720513,
+        "text": "@JenEricLive That\u2019s where they touch their arm with two fingers\u2026 right? \u2026. Right?! I legit don\u2019t know either cause I\u2019m too old\u2026",
+        "created_at": "2021-07-25 08:00:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 871474348820910080,
+        "referenced_tweets": {
+            "id": 1418995104782733314,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1419205557811089417,
+        "text": "@celheals What the hell is wrong with people?!",
+        "created_at": "2021-07-25 07:59:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1023207519060197383,
+        "referenced_tweets": {
+            "id": 1418914556340961280,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1419205367259598854,
+        "text": "@TaliesinEvitel WTAF- I can\u2019t believe them",
+        "created_at": "2021-07-25 07:58:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1418834877445812232,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1419203379381903361,
+        "text": "@daviepants Every time I hear \u201cInazuma\u201d I think of that Zuma game with the frog and balls.",
+        "created_at": "2021-07-25 07:50:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 390781912,
+        "referenced_tweets": {
+            "id": 1419154634250334208,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1419202951432790021,
+        "text": "@chekhovzgun I used to think about this all of the time\u2026",
+        "created_at": "2021-07-25 07:48:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071942901607907329,
+        "referenced_tweets": {
+            "id": 1419153573682851846,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1418534502520041474,
+        "text": "@StanislawGacki @TaliesinEvitel I imagine it would be more like \u201cyou can\u2019t speak about any of the inner workings of blizzard for X years\u201d. But again, that\u2019s wild speculation of a hypothetical on a topic I know next to nothing about.",
+        "created_at": "2021-07-23 11:32:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1015509349,
+        "referenced_tweets": {
+            "id": 1418497176674705410,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1418493258242592770,
+        "text": "@TaliesinEvitel There could be an NDA or some form of litigation keeping them silent? Or maybe working with a PR company to help them say the correct thing? But the longer the silence is, the worse it looks.",
+        "created_at": "2021-07-23 08:48:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1418492272484683776,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415638714555027458,
+        "text": "@erikfinman No apps are banned? So, like, child porn apps are ok then? What about apps that claim to be a free game, but are actually just malware? \ud83e\udd14",
+        "created_at": "2021-07-15 11:45:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 131868148,
+        "referenced_tweets": {
+            "id": 1415328529034715141,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415591071548157954,
+        "text": "@kittynouveau Crocodiles can be\u2026. Nice?!?!",
+        "created_at": "2021-07-15 08:36:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1139254483962257409,
+        "referenced_tweets": {
+            "id": 1415072140718714881,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415589261768802307,
+        "text": "@nintenmau5 Just wait till Mr. X stomps around after you. Even some safe rooms, aren\u2019t safe :)",
+        "created_at": "2021-07-15 08:29:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 821096374469017600,
+        "referenced_tweets": {
+            "id": 1415409613915238403,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415588890027626498,
+        "text": "@SarahCotner 10/10",
+        "created_at": "2021-07-15 08:27:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1289657503936966656,
+        "referenced_tweets": {
+            "id": 1415435090155368450,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415583603363287045,
+        "text": "@NadyChan But can we talk about how cute that sleeping one is?!",
+        "created_at": "2021-07-15 08:06:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 73245425,
+        "referenced_tweets": {
+            "id": 1415075088118861831,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415583185967198210,
+        "text": "@SirBrandood Those. Are. CUTE!",
+        "created_at": "2021-07-15 08:05:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1276264065048866816,
+        "referenced_tweets": {
+            "id": 1415492669279588356,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415582381407358982,
+        "text": "@musicstruggles1 @laviejoem I mean, my playlist is mostly 80\u2019s, 90\u2019s and 00\u2019s music that I grew up listening to. But every once in a while my friends will be surprised when I put on a 60\u2019s playlist and know all the words.",
+        "created_at": "2021-07-15 08:01:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1407627638273888258,
+        "referenced_tweets": {
+            "id": 1415001462858473475,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415582020634398720,
+        "text": "@cuppy This has been such an interesting thread to read! Wish I had popcorn!",
+        "created_at": "2021-07-15 08:00:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 9199472,
+        "referenced_tweets": {
+            "id": 1415140026451566594,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415580758685716481,
+        "text": "@ReadySetBen I know what I\u2019m having for lunch tomorrow!",
+        "created_at": "2021-07-15 07:55:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 953613101336850432,
+        "referenced_tweets": {
+            "id": 1415356678455840770,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415580455722696704,
+        "text": "@Finn_Twitch Congrats!!",
+        "created_at": "2021-07-15 07:54:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1288570686387224578,
+        "referenced_tweets": {
+            "id": 1415478892698157056,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415580257575448577,
+        "text": "@Gallowez What if\u2026. TikTok bought Twitch?!",
+        "created_at": "2021-07-15 07:53:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1172801894806241280,
+        "referenced_tweets": {
+            "id": 1415482643114647554,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415580118966276098,
+        "text": "@faevyn I know it seems scary, but the demand for WFH is so high that so many companies are creating these positions for their workforce. I\u2019m an ICU nurse and I was even noticing WFH ICU positions where I can watch patients on monitors for hospitals. Hope you find something you love!",
+        "created_at": "2021-07-15 07:52:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1213206002134212609,
+        "referenced_tweets": {
+            "id": 1415331711957733386,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415579309922820101,
+        "text": "@biggusbennus1 I already have mine ordered! So much nostalgia there.",
+        "created_at": "2021-07-15 07:49:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 797554658285916160,
+        "referenced_tweets": {
+            "id": 1415579000785838080,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415573951900684296,
+        "text": "Daydreaming about vacations \u2764\ufe0f",
+        "created_at": "2021-07-15 07:28:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1415573545544003584,
+        "text": "@biggusbennus1 Diabloooooooo 2",
+        "created_at": "2021-07-15 07:26:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 797554658285916160,
+        "referenced_tweets": {
+            "id": 1414908074247217156,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415572915974811648,
+        "text": "@Ken2pt0 6 and then 4 are my favorites!!",
+        "created_at": "2021-07-15 07:24:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 130396983,
+        "referenced_tweets": {
+            "id": 1415381663228571651,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415572290851454978,
+        "text": "@StopItWolfe I\u2019m either a plain black iced or cold brew, or one of them there tasty iced tea lemonades.",
+        "created_at": "2021-07-15 07:21:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1484907890,
+        "referenced_tweets": {
+            "id": 1415421044584861696,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415571550040907779,
+        "text": "@JesseCox Pie is great, but have you had burgers and fries? Much better",
+        "created_at": "2021-07-15 07:18:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 55793637,
+        "referenced_tweets": {
+            "id": 1415436740148350977,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415570525103996929,
+        "text": "@waflanagan I meaaaaaan. I don\u2019t believe in head cheese.",
+        "created_at": "2021-07-15 07:14:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 105560705,
+        "referenced_tweets": {
+            "id": 1415533670237151234,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415569902946115585,
+        "text": "@LukesLewis Umbreon!",
+        "created_at": "2021-07-15 07:12:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2304035530,
+        "referenced_tweets": {
+            "id": 1415340618038104064,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415160058326011910,
+        "text": "@TrU3Ta1ent I\u2019ve had them since I was like 12. Get well soon!",
+        "created_at": "2021-07-14 04:03:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 112323166,
+        "referenced_tweets": {
+            "id": 1414987271837786112,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1410793330661789699,
+        "text": "The lady in front of me at Wendy\u2019s drive through just tried to order Jalape\u00f1o popper. Ma\u2019am. This is a Wendy\u2019s.",
+        "created_at": "2021-07-02 02:51:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1410698564364341249,
+        "text": "I forgot to wish Haku and Zabuza a happy pride!!!",
+        "created_at": "2021-07-01 20:35:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1410193646373249026,
+        "text": "@TaliesinEvitel Wooooooooooo!!",
+        "created_at": "2021-06-30 11:09:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1409950713929732097,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1409147029721333761,
+        "text": "Definitely some cringe content from @Gygax_Jr and @TSR_games. If you\u2019re trying to recover by saying Table stop gaming is the \u201coriginal safe space\u201d and you refuse to say that trans people matter when people ask you to, you make it crystal clear what your opinion is.",
+        "created_at": "2021-06-27 13:50:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1409143739822612486,
+        "text": "RT @Abstruse: So in case you don't know what's going on in #TTRPGs the last couple of days, here's a summary of events. There are now two c\u2026",
+        "created_at": "2021-06-27 13:37:02+00:00",
+        "public_metrics": {
+            "retweet_count": 1529,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1408864843101360130,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1408867810890166281,
+        "text": "@chekhovzgun wearing jeans in 82 degree weather because I only own scrubs and PJ pants otherwise.",
+        "created_at": "2021-06-26 19:20:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071942901607907329,
+        "referenced_tweets": {
+            "id": 1408841437937086465,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1408741905198948355,
+        "text": "@HealzKiki @DeadByBHVR Oh lawd. He doth protest too much. You know MMR be some blank profile on a hopkup app somewhere.",
+        "created_at": "2021-06-26 11:00:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1194081103591686144,
+        "referenced_tweets": {
+            "id": 1408067821267865610,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1408741263868846082,
+        "text": "@Loop528 How do they even afford anything",
+        "created_at": "2021-06-26 10:57:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 95520483,
+        "referenced_tweets": {
+            "id": 1408413865382236176,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1408726747349192705,
+        "text": "@Sawfty_ I didn\u2019t like artifact power, azurite power, and I don\u2019t like anima. It has been my least favorite parts of the expansions.",
+        "created_at": "2021-06-26 10:00:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1062309592384880642,
+        "referenced_tweets": {
+            "id": 1408628878319493120,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1408726057977528323,
+        "text": "@MsAshRocks I am out of date on anime or getting old because I misunderstood this tweet and thought you meant that you get to watch anime because you are a house husband. Lack of thinking ability on my part.",
+        "created_at": "2021-06-26 09:57:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 315390137,
+        "referenced_tweets": {
+            "id": 1408571409765265408,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1408725496419000327,
+        "text": "@pluuno_ @OriLovesTea Everyone talking about light mode, but nobody talking about that battery life tho.",
+        "created_at": "2021-06-26 09:55:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1333559821908512771,
+        "referenced_tweets": {
+            "id": 1408583552493522945,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1408724487512678403,
+        "text": "@meg_emmy_james My favorite was killing Archimonde, and then getting killed by 2 mountain goats I accidentally walked into a few weeks later when legion came out.",
+        "created_at": "2021-06-26 09:51:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 225849233,
+        "referenced_tweets": {
+            "id": 1408504147779915784,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1408719597562368002,
+        "text": "@ladyonaquest1 @Wowhead \u201cMore difficult raid bosses and dungeons\u201d and \u201cno world buff in raids\u201d don\u2019t sound like options for making it easier. They are literally asking the community if they want a harder version of classic.",
+        "created_at": "2021-06-26 09:31:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1381983370121465861,
+        "referenced_tweets": {
+            "id": 1408246829016399881,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1408718894685163520,
+        "text": "@nexuality @EntropyOnline @barlow_buddy @Wowhead I mean, they do take feedback for retail. It just usually has to come from a bunch of voices to get it. However vanilla classic is at the end of its life cycle. The content is done. They would still have the current classic, but peeps could start a fresh server economy.",
+        "created_at": "2021-06-26 09:28:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 887544288007114752,
+        "referenced_tweets": {
+            "id": 1408357767442845700,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404346487744651264,
+        "text": "@PRock1990 Who told them how to use \u201calphabet mafia\u201d?!?!",
+        "created_at": "2021-06-14 07:54:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 973979099470467073,
+        "referenced_tweets": {
+            "id": 1404040753396043780,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404345428057935872,
+        "text": "@sarahschauer Hamlet https://t.co/RFXytEo0F9",
+        "created_at": "2021-06-14 07:50:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 250887629,
+        "referenced_tweets": {
+            "id": 1404221321924419589,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404345317764567040,
+        "text": "Will today be the day I actually put away my laundry and put the bedsheets back on my bed and stop being lazy?  \u2026. Don\u2019t hold your breath\u2026.",
+        "created_at": "2021-06-14 07:49:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1402493278906429445,
+        "text": "@stephneee_plz https://t.co/PjO5RGVjEF",
+        "created_at": "2021-06-09 05:10:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1095412495106232320,
+        "referenced_tweets": {
+            "id": 1402295840165662722,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1402489717426360321,
+        "text": "@dagonmartv Waaaaaaaaaaaaaaaaaaaaat",
+        "created_at": "2021-06-09 04:56:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 857078053142487040,
+        "referenced_tweets": {
+            "id": 1402276586368471063,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1402487913288511489,
+        "text": "We\u2019ve only got one year until Sword Art Online is supposed to happen. When do I get my fully immersive VMMO???",
+        "created_at": "2021-06-09 04:49:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1402473740970217472,
+        "text": "@QManning @gholson Uhhhh, Ein is the heart of the show.",
+        "created_at": "2021-06-09 03:52:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 8363232,
+        "referenced_tweets": {
+            "id": 1402443504975024140,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1401791839959650311,
+        "text": "@JrocTheGod While this does allow the others to just do gens for free, it totally sucks to be the person that waited in queue forever to get hooked once and die. 1.) borrowed time should proc on yourself if you jump off.  2.) a perk where you have increased luck when in terror radius.",
+        "created_at": "2021-06-07 06:43:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 595003830,
+        "referenced_tweets": {
+            "id": 1401557058521030664,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1401781393877876736,
+        "text": "@breadwitchery Napping in jeans means you\u2019re working too hard. Man needs a break and some nice PJs.",
+        "created_at": "2021-06-07 06:01:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 968279544619773952,
+        "referenced_tweets": {
+            "id": 1401331059695013888,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1401780635732226049,
+        "text": "@dagonmartv Social media in general. It\u2019s like people use the fact they are talking to a screen a decent excuse to be completely heartless.",
+        "created_at": "2021-06-07 05:58:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 857078053142487040,
+        "referenced_tweets": {
+            "id": 1401651455900127233,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1401779494776606720,
+        "text": "@TaliesinEvitel Even finding reasons to play lately has been tough. Luckily my guildies and I hang out in discord and play other games together to pass time until new content. I know covid caused major delays, but it\u2019s hard to stay interested with the content drought.",
+        "created_at": "2021-06-07 05:54:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1401483216591142916,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1401777805935906821,
+        "text": "@Skys___TheLimit @valarynn While I agree, there is another side to this. They could probably tell the graphics have been altered, but Not to what. Now imagine someone using this in pvp and making it so gnomes appear as ogres. Or something more visible. Or hunter traps easier to see. I dunno.",
+        "created_at": "2021-06-07 05:47:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 942478680579768320,
+        "referenced_tweets": {
+            "id": 1401711495000514563,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1398857146079477765,
+        "text": "@the_strix @Balmain I would love to be a Jedi!",
+        "created_at": "2021-05-30 04:21:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 31124217,
+        "referenced_tweets": {
+            "id": 1398679923988963329,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1398044825291735046,
+        "text": "@biggusbennus1 The first viewer on my first stream left me a comment of like \u201cyou\u2019re cute. You ever stream without a shirt? Cause you\u2019d look better without a shirt. And pants\u201d   My friends texted me to congratulate me on my first thirst creeper lol",
+        "created_at": "2021-05-27 22:33:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 797554658285916160,
+        "referenced_tweets": {
+            "id": 1398000997017034752,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1398044126277472258,
+        "text": "@ZacaryWITHnoH Nobody deserves a comment of \u201cI\u2019d fuck you, but only if I can\u2019t actually see you\u201d. People are messed up.",
+        "created_at": "2021-05-27 22:31:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1317321260687368192,
+        "referenced_tweets": {
+            "id": 1397970999539273729,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1398043557827600386,
+        "text": "@MonaGPiper 32 and represent! Only 10 more years until I reach the answer!",
+        "created_at": "2021-05-27 22:28:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1167222054938169346,
+        "referenced_tweets": {
+            "id": 1397684850308567050,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1396419619762671625,
+        "text": "@chekhovzgun Oh my god I\u2019m dying",
+        "created_at": "2021-05-23 10:55:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071942901607907329,
+        "referenced_tweets": {
+            "id": 1396293652423626757,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1394624525959061507,
+        "text": "@emekkaratas @Wowhead @ExorsusWoW I mean, people complain that blizzard tailors too much of the game to the less than 1% of the population that does mythic raiding. But blizzard also isn\u2019t doing enough for them.  Hmmm",
+        "created_at": "2021-05-18 12:02:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 111599610,
+        "referenced_tweets": {
+            "id": 1394561828424929282,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1391965999616991233,
+        "text": "@chekhovzgun Oooooooh fantastic!",
+        "created_at": "2021-05-11 03:58:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071942901607907329,
+        "referenced_tweets": {
+            "id": 1391687432937017347,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1391404354339549192,
+        "text": "Just some daily doggo! https://t.co/GcxGwj3zvl",
+        "created_at": "2021-05-09 14:47:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1391404053171683329,
+        "text": "@tuskhaus Which fanbase? Cause it\u2019s almost every one these days.",
+        "created_at": "2021-05-09 14:45:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 390572252,
+        "referenced_tweets": {
+            "id": 1390887105153277954,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1389568684193206284,
+        "text": "@PokeJohnTCG Hugs",
+        "created_at": "2021-05-04 13:12:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1367790424090435584,
+        "referenced_tweets": {
+            "id": 1389327433074085890,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387340939362983945,
+        "text": "@hayleyLlVE Howdy, Bantham here. That feeling you get when it\u2019s 3am and you\u2019re hungry, but there\u2019s nothing great in the fridge, and all the food apps are closed... so you make a can of questionably old dinty Moore beef stew in the cabinet -that\u2019s me. \u201cFiling\u201d \u201cfood\u201d https://t.co/IjdqaNP0HA",
+        "created_at": "2021-04-28 09:40:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1347935400216711179,
+        "referenced_tweets": {
+            "id": 1387034196552687617,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387337971477716993,
+        "text": "Tarzan had gone into the time vortex to pull them out and bring them here. This was the end of the movie. Everyone boo\u2019d .",
+        "created_at": "2021-04-28 09:28:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1316432236913266688,
+        "referenced_tweets": {
+            "id": 1387337970286534661,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387337970286534661,
+        "text": "Rory Williams from Doctor Who. Then she ripped off her face to reveal she was Amy pond. And Harry was actually the 11th Doctor in disguise setting this all up. His explanation on how he got the gang back together was that -",
+        "created_at": "2021-04-28 09:28:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1316432236913266688,
+        "referenced_tweets": {
+            "id": 1387337968885583874,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387337968885583874,
+        "text": "Caitlyn Jenner was the producer and she came out to try to stop him. Her big reveal was she used his vaccine as a lotion for her face to keep herself young all these years for him. That\u2019s when she said \u201cremember who you are\u201d and ripped off his face to show he was actually...",
+        "created_at": "2021-04-28 09:28:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1316432236913266688,
+        "referenced_tweets": {
+            "id": 1387337967631544320,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387337967631544320,
+        "text": "Try to get less people to hate her. Well, In this movie Harry was now a news anchor and was interviewing people working on vaccines. Well, the top researcher was Macaulay Culkin who came on the show to promote his new vaccine. Well...",
+        "created_at": "2021-04-28 09:28:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1316432236913266688,
+        "referenced_tweets": {
+            "id": 1387337964951310338,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387337964951310338,
+        "text": "I have the weirdest damn dreams. Tonight, I dreamed that I was watching a new Harry Potter movie that was out in theaters. And frequently J.K.R. Would put a controversial view in it and you\u2019d see a footnote pop up to read a hidden explanation in the book on that view to -",
+        "created_at": "2021-04-28 09:28:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1387333884765945856,
+        "text": "@TophGames I replay it every now and then, was so happy when it came to steam because I don\u2019t have my GameCube copy anymore.",
+        "created_at": "2021-04-28 09:12:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 562825328,
+        "referenced_tweets": {
+            "id": 1387285798488133633,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387108252576632833,
+        "text": "@LuxieGames Booty by Wendy\u2019s here!",
+        "created_at": "2021-04-27 18:15:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 971299742297804800,
+        "referenced_tweets": {
+            "id": 1387092234965864450,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387108148285222912,
+        "text": "@UT0PIANNA My goal is 100 followers on Twitch and 100 on Twitter. (Still super small)\nI enjoy playing retro games w/ challenges as well as some current goodies like WoW and DBD.  I provide \u201cquality\u201d \u201cengaging\u201d \u201ccontent\u201d.  (Content may or may not be quality, engaging, or real content).",
+        "created_at": "2021-04-27 18:15:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1333863936781934592,
+        "referenced_tweets": {
+            "id": 1387026366990802946,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387106793495666688,
+        "text": "@m1cromanag3r My favorite games are from back on the SNES (FFVI, FFIV, Chrono Trigger) so I\u2019m actually super partial to games done in similar art styles. I still enjoy a decent AAA when it comes out, but retro style games are my jam.",
+        "created_at": "2021-04-27 18:10:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 901934676507586561,
+        "referenced_tweets": {
+            "id": 1386910974217760769,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387106197157859333,
+        "text": "@TraveIG @EmpireJerkyUSA I live for beef jerky.",
+        "created_at": "2021-04-27 18:07:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 547573727,
+        "referenced_tweets": {
+            "id": 1386660427917049857,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386976615834525699,
+        "text": "@Kayla_Marie_Tea I was super fatigued for about 30 hours after my second shot. So I just slept a lot. After that I was fine.",
+        "created_at": "2021-04-27 09:32:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 33122038,
+        "referenced_tweets": {
+            "id": 1386767423777476609,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386976446757879811,
+        "text": "@TophGames I\u2019ve been playing Tales of Shmphonia, Disgaea 1 for switch, and I stream DBD in discord to some friends instead of on twitch.",
+        "created_at": "2021-04-27 09:32:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 562825328,
+        "referenced_tweets": {
+            "id": 1386753338398572546,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386976226989035526,
+        "text": "@TheOnlyDetox Millennial here and I know mine is terrible. I try to correct it when I notice.... but .... I default to bad when I\u2019m not paying attention.",
+        "created_at": "2021-04-27 09:31:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 40644000,
+        "referenced_tweets": {
+            "id": 1386957515641036803,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386956276937207814,
+        "text": "@SinWhoe I think the story and raid were ok so far, but that\u2019s because I had a notion in my head of what we would see (more prev characters) that we haven\u2019t seen yet.  My biggest complaint is the leggo craft grind. Torghast is ok, but the mat grind for LW was overkill and burned me out.",
+        "created_at": "2021-04-27 08:11:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1366491291547230212,
+        "referenced_tweets": {
+            "id": 1386572120914808832,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386955148279390209,
+        "text": "@tuskhaus Wait.... I\u2019m older than you?!",
+        "created_at": "2021-04-27 08:07:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 390572252,
+        "referenced_tweets": {
+            "id": 1386912869875286022,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386954943060402178,
+        "text": "@TaliesinEvitel And it\u2019s been a shit show, obviously..........     jk Congrats!! We love you guys!",
+        "created_at": "2021-04-27 08:06:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1386677575645270021,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386954666911715331,
+        "text": "@MrRobRoberts I am so screeeeeeeeewed. I probably had Wendy\u2019s / McDonald\u2019s for dinner 2-3 times a week from age 12-18.",
+        "created_at": "2021-04-27 08:05:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3301091,
+        "referenced_tweets": {
+            "id": 1386774151680040961,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386952363953594370,
+        "text": "@gayblackvet People like supporting the idea of it, but then don\u2019t like actually doing the work for it, it seems.",
+        "created_at": "2021-04-27 07:56:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1067753414,
+        "referenced_tweets": {
+            "id": 1386889824343261187,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386952234399895552,
+        "text": "@DGRfromMSP Oh my god. This hurts my everything.",
+        "created_at": "2021-04-27 07:55:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1176332189023293440,
+        "referenced_tweets": {
+            "id": 1386831071740846083,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386952039079497728,
+        "text": "@QuotationMarkBB People that treat service workers like garbage, are garbage themselves.",
+        "created_at": "2021-04-27 07:55:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 859507832793772032,
+        "referenced_tweets": {
+            "id": 1386810697816944640,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386951808954900480,
+        "text": "@xoGlitterTV Uwu powers activate!!",
+        "created_at": "2021-04-27 07:54:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 744609942552797184,
+        "referenced_tweets": {
+            "id": 1386733517405622273,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386951542373236738,
+        "text": "@stephneee_plz I\u2019ve thought about putting some gameplay up on YouTube before, even just clips. But I know next to nothing about video editing.",
+        "created_at": "2021-04-27 07:53:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1095412495106232320,
+        "referenced_tweets": {
+            "id": 1386777674333540353,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386951260021174272,
+        "text": "@samriegel I\u2019m not ready for this.",
+        "created_at": "2021-04-27 07:52:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 9083222,
+        "referenced_tweets": {
+            "id": 1386939257219022848,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386933659807199232,
+        "text": "Going to see a movie in the Theatre on Thursday. It feels weird to say that....",
+        "created_at": "2021-04-27 06:42:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1386933490411843586,
+        "text": "@spikepoint I did a paper on video game translators way back when. And it seemed like very much a situation of underpaid and overworked. Some people don\u2019t realize how much dialogue a game has, and how often word for word translation doesn\u2019t work.",
+        "created_at": "2021-04-27 06:41:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 28051036,
+        "referenced_tweets": {
+            "id": 1386385881146085376,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386933008129826818,
+        "text": "@MrRobRoberts Woo congrats!",
+        "created_at": "2021-04-27 06:39:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3301091,
+        "referenced_tweets": {
+            "id": 1386403520752996352,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386120070196305924,
+        "text": "Pokemon Radical Red- \"quality\" \"engaging\" \"content\" https://t.co/1gF9jmlCuw\n#ttv #twitch #LGBTQIA #smallstreamersconnect #Ppokemon #nuzlocke",
+        "created_at": "2021-04-25 00:49:12+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1385730309791043595,
+        "text": "Pokemon Radical Red- Nuzlocke of Dooooooooom! https://t.co/1gF9jmlCuw\n#ttv #pokemon #lgbtqia #nuzlocke #smallstreamersconnect",
+        "created_at": "2021-04-23 23:00:26+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1383676914989080585,
+        "text": "@waflanagan Ok I burst out laughing at work",
+        "created_at": "2021-04-18 07:00:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 105560705,
+        "referenced_tweets": {
+            "id": 1383595260958285825,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1383670611063439360,
+        "text": "@DGRfromMSP It bumped the rest of it into action",
+        "created_at": "2021-04-18 06:35:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1176332189023293440,
+        "referenced_tweets": {
+            "id": 1383670500182790149,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1383669366227496964,
+        "text": "@GlitterOnTrovo @trovolive Congrats!!!",
+        "created_at": "2021-04-18 06:30:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1277319749777702914,
+        "referenced_tweets": {
+            "id": 1383654495574401033,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1383669190008082440,
+        "text": "@dagonmartv I still remember someone I considered a friend at the time having a pointed response when I was talking about streaming. He said \u201cbut why would anyone even want to watch you? You aren\u2019t even that good at the game\u201d.",
+        "created_at": "2021-04-18 06:30:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 857078053142487040,
+        "referenced_tweets": {
+            "id": 1383445734314319874,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1383667046274142211,
+        "text": "@Kaiju_Stew Do they ever resend??",
+        "created_at": "2021-04-18 06:21:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2576198362,
+        "referenced_tweets": {
+            "id": 1383583453166243844,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1383666720208932869,
+        "text": "@DGRfromMSP Lol hopefully you didn\u2019t eat extra",
+        "created_at": "2021-04-18 06:20:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1176332189023293440,
+        "referenced_tweets": {
+            "id": 1383561186432540672,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1383565721884528644,
+        "text": "Pokemon Radical Red .... again... Join me for some \"quality\" \"engaging\" \"content\" - Will need help with names ;-)\nhttps://t.co/1gF9jmDdm4\n#smallstreamersconnect #ttv #pokemon #nuzlocke #lgbtqia",
+        "created_at": "2021-04-17 23:39:08+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1382584208204427269,
+        "text": "@manbearkitten They are so 10 years ago. One of my coworkers had one that was just the golden girls and swear words.",
+        "created_at": "2021-04-15 06:38:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 896433254076620800,
+        "referenced_tweets": {
+            "id": 1382524898099089412,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1382584006458404867,
+        "text": "Today I used the crate pushing skills I learned from Resident Evil games to get an elliptical into my basement. Resident Evil 1,2 and 3, you were educational. (Outbreak not included)",
+        "created_at": "2021-04-15 06:38:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1382195247296483329,
+        "text": "@DGRfromMSP What in the unholy is this monstrosity.",
+        "created_at": "2021-04-14 04:53:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1176332189023293440,
+        "referenced_tweets": {
+            "id": 1382015084935831553,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1382193758511497218,
+        "text": "So I downloaded the Disgaea Gacha game for mobile. Not what I was expecting, but kind of addicting. Biggest complaint so far is that most of the pulls require paid currency and cannot be obtained with in game currency. #disgaearpg #Gachalife #NISamerica #disgaea",
+        "created_at": "2021-04-14 04:47:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1381750988558766080,
+        "text": "Radical red part 5- reset 10! https://t.co/1gF9jmlCuw\n#smallstreamersconnect #ttv #pokemon #lgbtqia",
+        "created_at": "2021-04-12 23:28:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1381244324042670083,
+        "text": "@B4DS1GN4L I will literally be 1-2 hours into my shift at work and just be thinking about how I miss my Hamlet.",
+        "created_at": "2021-04-11 13:54:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 276894581,
+        "referenced_tweets": {
+            "id": 1381222778653839369,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1381021103083098112,
+        "text": "Pokemon Radical Red Nuzlocke Part 4 - Reset 10!  (so. sooo many failures) https://t.co/1gF9jmlCuw\n\n#smallstreamersconnect #nuzlocke #pokemon #radicalred #nohope",
+        "created_at": "2021-04-10 23:07:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1379939559396548613,
+        "text": "Pokemon Radical Red Nuzlocke Part 4 - Reset 7 https://t.co/1gF9jmlCuw",
+        "created_at": "2021-04-07 23:30:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1373776000790716417,
+        "text": "Pokemon Radical Red Nuzlocke Part 3 - Reset 7 https://t.co/1gF9jmlCuw\n#twitch #smallstreamersconnect #lgbtqia+ #ttv",
+        "created_at": "2021-03-21 23:18:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1373265406882934787,
+        "text": "@DGRfromMSP @Chubbies I want you to work in those 80\u2019s gym shorts. The ones where the side cut goes all the way up to the waist band lol",
+        "created_at": "2021-03-20 13:29:21+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1176332189023293440,
+        "referenced_tweets": {
+            "id": 1373265006456868866,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1373264808120836097,
+        "text": "@KharloKong This was an amazing game and I loved it!",
+        "created_at": "2021-03-20 13:26:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1069571240,
+        "referenced_tweets": {
+            "id": 1373014131184443398,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1373036536619544588,
+        "text": "Pokemon Radical Red Nuzlocke Part 2 - reset 6- get sixening! https://t.co/1gF9jmlCuw",
+        "created_at": "2021-03-19 22:19:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1373036081482981377,
+        "text": "Gonna play some more Pokemon Radical Red here- come hang out! We are on reset #6- Get Sixening! https://t.co/QZ0ssKVmmg #SmallStreamersConnect #SmallStreamersConnectRT #twitch #TTV",
+        "created_at": "2021-03-19 22:18:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1372721123234811905,
+        "text": "Pokemon Radical Red Nuzlocke Part 1 https://t.co/1gF9jmlCuw",
+        "created_at": "2021-03-19 01:26:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1372720462984318977,
+        "text": "Gonna be playing some Pokemon Radical Red as a nuzlocke in a few mins if anyone wants to join in and watch! Come vibe with me :-) https://t.co/QZ0ssKVmmg",
+        "created_at": "2021-03-19 01:23:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1372630521549885460,
+        "text": "Dear @FUNimation - you have great shows on your app. I would like to finish watching them, but unfortunately every series I start eventually gets to a point where the episodes won\u2019t load anymore. The 2.5 star rating should\u2019ve been a red flag. \ud83d\udea9 Please fix.",
+        "created_at": "2021-03-18 19:26:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1371730816024338433,
+        "text": "@Diablo \ud83e\uddd9\u200d\u2640\ufe0f",
+        "created_at": "2021-03-16 07:51:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 61040833,
+        "referenced_tweets": {
+            "id": 1371506485835005955,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1371171773492949000,
+        "text": "Pokemon Emerald Rando / Nuzlocke! Part 1! (for real this time) https://t.co/1gF9jmlCuw",
+        "created_at": "2021-03-14 18:50:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1370949324742533123,
+        "text": "I have an irrational fear that anything I put in the microwave will cause it to explode.",
+        "created_at": "2021-03-14 04:06:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1370923210410229762,
+        "text": "Pokemon Emerald Rando / Nuzlocke! (Test)  (Don't have to tune in, working out some kinks!) https://t.co/1gF9jmlCuw",
+        "created_at": "2021-03-14 02:22:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1370813046445240322,
+        "text": "@danyell_cloot This sounds horrifying, but also more than I made when I worked at Target so I probably would have jumped at that back in \u201807",
+        "created_at": "2021-03-13 19:04:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1357967522981625856,
+        "referenced_tweets": {
+            "id": 1370633987379564544,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1370811653911117828,
+        "text": "@extravapanda I mean, the only reason he kidnaps the princess is so he can see Mario again.",
+        "created_at": "2021-03-13 18:59:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3524007672,
+        "referenced_tweets": {
+            "id": 1370662082543120384,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1370811287484170254,
+        "text": "Scalpers must be getting nervous with the amount of PS5s being released lately. I went from seeing a release warning every few days to seeing 7-8 warnings of releases per day. Thank goodness!",
+        "created_at": "2021-03-13 18:57:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1370246598446485506,
+        "text": "Pok\u00e9mon Pearl Nuzlocke Part 32! An error has occurred. Laughed so hard at friends using the no beard filter that I dropped my DS and the game froze. Had to re-hatch my Happiny and do the lost tower again, and grind a few levels. But worth it.",
+        "created_at": "2021-03-12 05:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1369502689650966528,
+        "text": "Pok\u00e9mon Pearl Nuzlocke Part 31! Xena took part in a Beauty contest. She took second place. They just couldn\u2019t see the Beauty of Shellos. Real beauty has slime!!",
+        "created_at": "2021-03-10 04:17:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1368995014261563392,
+        "text": "Pretty sure I accidentally time traveled today. Woke up and my Phone said 1:45 PM. Took out the dogs, laid on the couch and it was magically 11:50 AM.   ....or maybe I was tired and looked at my phone wrong.",
+        "created_at": "2021-03-08 18:40:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1368857912798543872,
+        "text": "RT @Wowhead: Some Castle Nathria and Mythic+ Dungeon trinkets have been buffed on the Patch 9.0.5 PTR! #Shadowlands #Warcraft https://t.co/\u2026",
+        "created_at": "2021-03-08 09:35:33+00:00",
+        "public_metrics": {
+            "retweet_count": 19,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1368849663919587329,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1368855538889547779,
+        "text": "@PlayItJason Does he play other music with it? I used to have friends do that on Xbox. Still shocking but.... maybe?",
+        "created_at": "2021-03-08 09:26:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1259609731246718977,
+        "referenced_tweets": {
+            "id": 1368306925985792005,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1368700710859202566,
+        "text": "Pok\u00e9mon Pearl Nuzlocke Part 30! Banned from Eterna city for setting their gym on FIRE! \ud83d\udd25 Then got a bike for 10 minutes of work. Great day! Also caught a Dustox we shall call Morgana. Bugs... survive... right?",
+        "created_at": "2021-03-07 23:10:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1368277530956947458,
+        "text": "@danyell_cloot My brother is 4 years older than me and growing up he used to pay me to write his papers for him lol",
+        "created_at": "2021-03-06 19:09:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1357967522981625856,
+        "referenced_tweets": {
+            "id": 1368256299222376449,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1366376693846450181,
+        "text": "PPN part 29! Makin\u2019 my way to Eterna town. Walk-in\u2019 fast, faces pass and I\u2019m homeboubd.... JK ran into the obligatory fisherman with 6 Magikarp. They waste not only our time but their own.",
+        "created_at": "2021-03-01 13:16:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366297250389983233,
+        "text": "PPN Part 28! Volvo, then Kota, and now Gannondoof. And only one badge in. I don\u2019t think my Pok\u00e9mon faint this much during a normal playthrough. But I guess I usually just use the starter for everything and they become way over leveled. /sigh",
+        "created_at": "2021-03-01 08:00:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366295314286735362,
+        "text": "PPN part 27! Back to the forest. Double Battles with Chansey seems cheese. Gannondoof knows rollout so she\u2019s getting levels here. Until a trainer battle vs Pachirisu and Beautifully. Spark crit and Drain take her out. You were supposed to be the chosen one!!!!! RIP Girl....",
+        "created_at": "2021-03-01 07:52:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366294186463539208,
+        "text": "PPN part 26! Took a nap. Back at it. Walked into forest and caught a Dustox- remembered the honey I put on a tree in the flower town so went back to check and found a cascoon that turned into a dustox... will re-honey this later and try again. Cant remember where to buy honey.",
+        "created_at": "2021-03-01 07:48:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366138013411995648,
+        "text": "PPN Part 25! Route 204- I catch a Buizel and name it Tails. However I already have two water types so he\u2019s joining the squirtle squad of community service unless I lose a water type. But with how this run is going....",
+        "created_at": "2021-02-28 21:27:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366135737146626050,
+        "text": "PPN part 24!    ....and then there\u2019s Commander Mars... Kota the Zubat vs her Zubat both level 14. Her first bite hit for 11 damage bringing me to 26 hp. Her second bite crit Kota and killed him.... Starlord avenged his brother. Purugly almost took out Swisschar. Ugh.... RIP Kota.",
+        "created_at": "2021-02-28 21:18:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366134231328505857,
+        "text": "PPN Part 23! Took a break for a few hours to play Valheim. Came back to clear out the windmill. Had leveled my team some but didn\u2019t want to over level to cheese it. The Grunts are just free experience for Kota the Zubat. Who commits crimes with a Wurmple? I mean cmon....",
+        "created_at": "2021-02-28 21:12:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366090181548335114,
+        "text": "PPN part 22! Swisschar was kinda carrying the team so I leveled up a bit. Starlord is now a staravia, and Gannondoof is now a Bibarrel. I never knew he was a water type... after all these years, just used him for HMs last time.",
+        "created_at": "2021-02-28 18:17:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366081726087372806,
+        "text": "PPN part 21!  Excuuuuuuse me?!?! A shiny?!?! He won\u2019t be joining the team, but he will be going in the PC to transfer up to current gen!! https://t.co/Xh4uMmjzMp",
+        "created_at": "2021-02-28 17:43:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366074566926303237,
+        "text": "PPN part 20! While leveling, Geodude crits the doof. Girl you in danger!!!! https://t.co/3yR93h6eDR",
+        "created_at": "2021-02-28 17:15:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366060242912636928,
+        "text": "PPN Part 19! Taking Xena the Warrior Shellos to the mine to gain a few levels. I\u2019m now thinking Joxer would have been a better name for Psyduck. However Golduck would definitely be Jett. I\u2019m suddenly feeling old.",
+        "created_at": "2021-02-28 16:18:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366057824556617730,
+        "text": "PPN part 18! The grunt runs inside and locks himself in. Kazza evolves into Kadabra during the fight and I wonder why he can\u2019t just unlock the door for me...  Time to tromp through some flowers to get another key he conveniently told me about. Thanks bad guy?",
+        "created_at": "2021-02-28 16:09:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366054456908009475,
+        "text": "PPN part 17! Since I realized it\u2019s no longer 2003, I put Yellowcard in the PC. Xena however is timeless. Lucy Lawless forever. Oh right, that little girls dad needs saving... on it!",
+        "created_at": "2021-02-28 15:55:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366053745667227648,
+        "text": "PPN part 16! Leaving the Flower town a little girl asks for help saving her dad from Galactic, I go to the windmills to help but see grass so obvs I jump in to see what Pok\u00e9mon I get. Shellos appears and breaks many balls. She appears a mighty warrior princess. I name her Xena.",
+        "created_at": "2021-02-28 15:52:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366051867940257792,
+        "text": "PPN Part 15! I arrive in the Flower Town. This is amazing cause a little girl teaches Kota the move pluck, and he is finally useful and can contribute. Also the first Berry bushes. Things got a little less scary now that I have an Oran Berry. #falseconfidence",
+        "created_at": "2021-02-28 15:45:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366049475970621441,
+        "text": "PPN part 14! A double battle goes awry. The Pachirisu gang up on Gannondoof and crit him. And I just realize Gannon is a she. I still think the name fits, she\u2019s a tank and pull through. Also, Kazza hits level 15 and I realize I don\u2019t know what level they obey me until....",
+        "created_at": "2021-02-28 15:35:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366047442286870528,
+        "text": "Pok\u00e9mon Pearl Nuzlocke Part 13! (Will now be called PPN to shorten character count) in the cave I find a psyduck. In a town someone said Yellow was a bad name for a psyduck. So I name him Yellowcard. I now imagine him in the Ocean Avenue video. #ificouldfindyounow",
+        "created_at": "2021-02-28 15:27:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366046443971227648,
+        "text": "Pok\u00e9mon Pearl Nuzlocke Part 12! The team is shaken and we heal. Now that I can use rock smash, I move out and fight some grunts. Starlord eats their Wurmple. Before I go north, I go west and find a good rod. I try fishing for 10 minutes but no bites. Will try again later.",
+        "created_at": "2021-02-28 15:23:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366045870186201091,
+        "text": "Pok\u00e9mon Pearl Nuzlocke Part 11! I decide to trust in Swisschar and go for a Mach Punch. If he goes down, maybe Gannondoof can finish him off and keep my losses to a minimum. I drop my DS lite as Swiss pulls of a critical hit, one-shotting Cranidos. Everyone makes it out alive.",
+        "created_at": "2021-02-28 15:21:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366044906863616005,
+        "text": "Pok\u00e9mon Pearl Nuzlocke Part 10! I debate switching in my weaker friends to chip away at Cranidos\u2019 life. But I\u2019m uncertain if Swisschar would survive being swapped back in because of stealth rock. One of my rules was no man made healing items in battles.",
+        "created_at": "2021-02-28 15:17:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366044347175608321,
+        "text": "Pok\u00e9mon Pearl Nuzlocke Part 9! I stick it out cause stealth rocks are up. Swiss gains a level after the 2nd Pok\u00e9mon in gym leader fight, bringing his HP out of red. But now we have Cranidos to take out. Worried about losing my starter, I consider making a hard choice.",
+        "created_at": "2021-02-28 15:15:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366043446537056262,
+        "text": "Pok\u00e9mon Pearl Nuzlocke Part 8! I prep for gym #1. I still start with Kota in slot one so his happiness will go up. Swisschar takes a hard crit.  Forgot to give him the berry Kazza has. Gannondoof is my only other choice for fighting moves with rock smash, but he lvl 9...",
+        "created_at": "2021-02-28 15:11:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366042893195051013,
+        "text": "Pok\u00e9mon Pearl Nuzlocke Part 7! In the Oreburgh mine, Onyxia the Onyx joins. I quickly realize how frustrating it is to level Kota and Kazza by swapping to Swisschar. Luckily he evolves and learns Mach punch which makes life much, much easier. Forgot he becomes a fighting type!",
+        "created_at": "2021-02-28 15:09:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366042447780937732,
+        "text": "Pok\u00e9mon Pearl Nuzlocke Part 6! A Machop named Suey, and a Geodude named Golite have come along now. Too afraid to crit catchable Mons so I just throw the balls and hope. Oreburgh offers me a trade of Machop for Abra. After a half hour of internal debate, Kazaa the Abra joins.",
+        "created_at": "2021-02-28 15:07:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366041648950620162,
+        "text": "Pok\u00e9mon Pearl Nuzlocke Part 5!  An error has been made. Was watching anime while grinding and failed to notice a Kricketot using Bide. Volvo was taken out by his own strength. RIP little guy. I\u2019ll have to pay more attention during this it seems.",
+        "created_at": "2021-02-28 15:04:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366040937718243332,
+        "text": "Pok\u00e9mon Pearl Nuzlocke Part 4! A Zubat has joined me, he was named Kota. However he severely struggles to kill things so I was swapping in Volvo to level them both up. Slaying all of the Kirckets and Birds and Beavers around!",
+        "created_at": "2021-02-28 15:01:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366040449279004672,
+        "text": "Pok\u00e9mon Pearl Nuzlocke Part 3! Restarted, game now saves. Just learning I had to save frequently in case this issue persists. Caught a Starly named Starlord, Bidoof named Gannondoof, and a Shinx named Volvo. We are unstoppable.",
+        "created_at": "2021-02-28 14:59:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366039856326078466,
+        "text": "Pok\u00e9mon Pearl Nuzlocke part 2!\nThis was of course done in honor of the remakes being announced. Started my journey and caught my first three friends. Only when I went to save my game, it actually failed to save, telling me to take out the game. So unfortunately restart time!",
+        "created_at": "2021-02-28 14:57:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1366039343861817344,
+        "text": "Pok\u00e9mon Pearl Nuzlocke Part 1!\nStrarted a play through on a version of Pearl I bought from GameStop to fill out my collection. I played Diamond like 10+ years ago with my ex. Let me fill you in on the journey so far... I picked a Chimchar and named him Swisschar!",
+        "created_at": "2021-02-28 14:55:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1365164631740866560,
+        "text": "People get married and change their last name from Smith to Jones. Rich could go by Dick. Someone might have a nickname they go by, or maybe they legally change Andy to Allen. But if Bob is now Brenda, it\u2019s too much? You can learn a new name or pronoun. #TransRightsAreHumanRights",
+        "created_at": "2021-02-26 04:59:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1365161116448550913,
+        "text": "@manbearkitten Too familiar with that pain",
+        "created_at": "2021-02-26 04:45:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 896433254076620800,
+        "referenced_tweets": {
+            "id": 1365145622437711876,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1362896928246140929,
+        "text": "Wait.... is diablo 2 going to be the first blizzard game with cross console play?!",
+        "created_at": "2021-02-19 22:48:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1362893151522979840,
+        "text": "What\u2019s gonna be announced next, Heroes of the Storm classic and Overwatch Classic?! Lol",
+        "created_at": "2021-02-19 22:33:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1361599781953486848,
+        "text": "After several attempts at failing to beat the Queue boss on https://t.co/HcHGDiRqXO I decided to do some retail therapy on Amazon. I may have accidentally bought too many switch games.....",
+        "created_at": "2021-02-16 08:54:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1360638591781785603,
+        "text": "@OishiiSugoi Oh damn..... yeah I don\u2019t miss loot councils lol",
+        "created_at": "2021-02-13 17:14:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1294084225763667968,
+        "referenced_tweets": {
+            "id": 1360627469888364548,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1360427554738491393,
+        "text": "Thank god they are increasing the Castle Nathria loot. Like 30 boss kills on bosses that could drop a weapon token, and I saw it drop once, for another person lol. And even with the vault still no luck ;) good loot luck to everyone next week!",
+        "created_at": "2021-02-13 03:16:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1358879935251759110,
+        "text": "Got a notification that PS5s were in stock at Best Buy, instantly went there and they were sold out lol. Someday!",
+        "created_at": "2021-02-08 20:46:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1356465415791214593,
+        "text": "@TaliesinEvitel I know you guys probably don\u2019t have the power, but if you secretly do, please get blizz to make the Corgi soul shape a thing. The one in ardenweald taunts me every time I\u2019m there... @Warcraft @WarcraftDevs",
+        "created_at": "2021-02-02 04:52:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1356464720694378500,
+        "text": "When you see a heads up penny on the floor and you wanna pick it up for good luck, but the floor is in a hospital.....",
+        "created_at": "2021-02-02 04:49:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1354680402565332992,
+        "text": "So I decided to try and get my hands on a PS5 (and I\u2019m not gonna pay a scalper) so I put home screen shortcuts to target, Amazon, Walmart, GameStop, Costco, PlayStation, and Newegg sites. I check every hour pretty much on the hour, and so far no luck. (Been about a week so far).",
+        "created_at": "2021-01-28 06:39:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1349532229819650051,
+        "text": "@TaliesinEvitel Still the best guild with a name a bit like Immortalis.  But also pretty much the only WoW show I watch now.",
+        "created_at": "2021-01-14 01:42:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1349275688013094912,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1346973344302731264,
+        "text": "Dear @BlizzardCS @Blizzard_Ent please add a Corgi spirit for the night fae. Seeing the one in our tree but not being able to be one is simply torture...",
+        "created_at": "2021-01-07 00:14:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1338494966860046342,
+        "text": "@sarahcpr https://t.co/XFDB619gM9",
+        "created_at": "2020-12-14 14:44:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14642495,
+        "referenced_tweets": {
+            "id": 1338284142463754240,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1335559897291821058,
+        "text": "@MsMiggi At first I thought this was some post about homeopathic healing, then I was like \u201cint vs agility would be putting an IV in the right spot vs putting it in quickly\u201d. Then I realized that it\u2019s about weapons on WoW. Sorry, my brain has woken up yet today.",
+        "created_at": "2020-12-06 12:21:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2186796817,
+        "referenced_tweets": {
+            "id": 1335480047591772160,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1335557809660977153,
+        "text": "Anyone ever do something in a dream (like respond to a text) and then you believe you\u2019ve done it in real life, only to find out much later you never did? \ud83e\udd14",
+        "created_at": "2020-12-06 12:12:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1335344588173799426,
+        "text": "@Warcraft @WarcraftDevs 1000 anima and 3 days, and from the reward from the seed in the adrenweald .... and you get .... 4 meat? ok.....",
+        "created_at": "2020-12-05 22:05:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 61033129,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1334681767224152064,
+        "text": "Also @Warcraft @WarcraftDevs why do the herb caches from the mission table always only have 6 rising glory, when the chanting ones can have purple crystals? /thinking",
+        "created_at": "2020-12-04 02:11:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1334640589082660866,
+        "text": "@Warcraft alchemy seems oddly balanced this expac. Armor potion gives tanks about 3% physical damage reduction, we can craft a 165 trinket, and if we use CM2, we can upgrade it to .... 168? 3 whole ilvl? seems odd.",
+        "created_at": "2020-12-03 23:28:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 61033129,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1333783594154790912,
+        "text": "@gaymerquest Too fer cutes!",
+        "created_at": "2020-12-01 14:42:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2612648737,
+        "referenced_tweets": {
+            "id": 1333778745124032512,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1331866649352306690,
+        "text": "lol https://t.co/8ejMeotU6L",
+        "created_at": "2020-11-26 07:45:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1330976763300769793,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1330703085161865218,
+        "text": "Great stream tonight! SO happy we didn't have network issues!! Donation total for the charity is up to $75, towards the goal of $100. Will be streaming the Shadowlands launch tomorrow to help reach that goal! #twitch #twitchgaming #charitystream #Shadowlands",
+        "created_at": "2020-11-23 02:41:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1330663272220127239,
+        "text": "Howdy all- I am LIVE with my WoW charity stream at https://t.co/Kdbms3rhss come hang out and help me raise money for @HealthWellOrg, my goal is $100 this month! #charitystream #twitch #SmallStreamersConnectRT #LGBTQIA",
+        "created_at": "2020-11-23 00:03:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1330624852915589122,
+        "text": "@bearosapien Same, I LOVE seeing people interacting with each other in chat.",
+        "created_at": "2020-11-22 21:31:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1016005394794274817,
+        "referenced_tweets": {
+            "id": 1330619536098418688,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1330522671965155330,
+        "text": "Getting things ready for the shadowlands launch tomorrow! This morning will be cleaning and housework, this evening will be bag/bank cleanup on the Alts and getting everyone to a safe login spot. #worldofwarcraft #Shadowlands",
+        "created_at": "2020-11-22 14:44:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1330135371028582400,
+        "text": "Everyone has skills in life. Mine is that I can watch YouTube/Facebook videos in bed for 7 hours straight. If I could find a way to turn a profit doing that I\u2019d be golden.",
+        "created_at": "2020-11-21 13:05:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1330133247838314496,
+        "text": "@WaltDeWalt Next up, Kwik trip jockstraps?",
+        "created_at": "2020-11-21 12:57:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 23916218,
+        "referenced_tweets": {
+            "id": 1329988466185211906,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1330119385424465929,
+        "text": "https://t.co/s5Ox0Hu1Am my friend makes awesome nerdy wood art. He decided to make a commemorative 2020 ornament... a must have for every tree this year.",
+        "created_at": "2020-11-21 12:02:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1330118640293863425,
+        "text": "@TaliesinEvitel It took me probably 30 kills over my characters but I finally have my first bag. One Guildie has one on three diff toons, my roommate woke up yesterday and decided to try it once and got it. I had dreams about a bag for each alt but I don\u2019t think that\u2019s happening...",
+        "created_at": "2020-11-21 11:59:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1329756408104050688,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1329955191496601605,
+        "text": "Wow would be a lot less fun without my guild. Yeah, you can pug everything, but I\u2019ve tried so many different things with guildies. And we too go on vacations together, meeting up in different locations. https://t.co/SCFUE60Y8v",
+        "created_at": "2020-11-21 01:10:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1329760765478375424,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1329953341888204804,
+        "text": "@MaykoGames I literally had to borrow a scrub top at work last night because I hadn\u2019t noticed this was happening to me until I was already on the unit.",
+        "created_at": "2020-11-21 01:02:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1288570686387224578,
+        "referenced_tweets": {
+            "id": 1329657993164709891,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1329577171778752515,
+        "text": "Haven\u2019t been streaming lately because I\u2019ve been having bad internet issues. Charter is in the area working on it and upgrading the lines so hopefully it will be back up!",
+        "created_at": "2020-11-20 00:07:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1329556889911373825,
+        "text": "Ordered food from the Apple Valley, MN @noodlescompany and the wontons and chicken are all covered  in charred grease of some sort? Not often I throw food away but tried eating one and whatever it was just coats the mouth. Ugh https://t.co/bQtrtHdgN4",
+        "created_at": "2020-11-19 22:47:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1328813553491578880,
+        "text": "I had to google why everyone was tweeting about fleets ./facepalm",
+        "created_at": "2020-11-17 21:33:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1328812649270964228,
+        "text": "@jakebradley isnt.... that an enema??",
+        "created_at": "2020-11-17 21:29:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 16622032,
+        "referenced_tweets": {
+            "id": 1328749704734076929,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1327424377529528323,
+        "text": "@sealburn This is both dangerous and entertaining.",
+        "created_at": "2020-11-14 01:33:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 223750202,
+        "referenced_tweets": {
+            "id": 1327268191878275073,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1327424220981288961,
+        "text": "@badandytweets A gentle thunderstorm",
+        "created_at": "2020-11-14 01:32:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3973937112,
+        "referenced_tweets": {
+            "id": 1327193805506809859,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1327423615164436484,
+        "text": "North Dakota has reached the level of screwed that they are having nurses that are covid + keep working in order to keep up with their 100% full hospitals. If you\u2019re doing anything elective in the North Dakota system, maybe postpone...",
+        "created_at": "2020-11-14 01:30:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1327261941392412672,
+        "text": "@bearosapien When I follow people and they take a break, whether a few weeks or longer, they seem to always struggle when they come back. The ones that don\u2019t give up seem to eventually get back to where they were.",
+        "created_at": "2020-11-13 14:48:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1316432236913266688,
+        "referenced_tweets": {
+            "id": 1327261527209091073,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1327261527209091073,
+        "text": "@bearosapien I know my channel is much smaller than yours, but my advice would be to just keep at it. If you stopped for awhile and some regulars moved on to other channels, some may come back, some wont, but eventually you will have new Regulars.",
+        "created_at": "2020-11-13 14:46:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1016005394794274817,
+        "referenced_tweets": {
+            "id": 1327177176446332928,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1327259804591681538,
+        "text": "@TVCTwitch Ok. That violin looks amazing. Also, you have a C string?! Are you trying to put us violists out of work?!?! (Not actually hard since violists are on time for exactly nothing. Tempo included)",
+        "created_at": "2020-11-13 14:39:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 828307658218274816,
+        "referenced_tweets": {
+            "id": 1326977980984221697,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1327258939751329793,
+        "text": "@Sorcerer_Blob 4e was the first edition I really got to play. I had always watched my brother play with his friends and secretly read his books.  But it wasn\u2019t until a friend invited me to a roll20 game using 4e that I actually got to play. I was a Dragonborn fighter and I was magestic!",
+        "created_at": "2020-11-13 14:36:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 475262537,
+        "referenced_tweets": {
+            "id": 1326972063316316161,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1327258139201331200,
+        "text": "@MerQueenJude Zoom speed dating?",
+        "created_at": "2020-11-13 14:32:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 28840211,
+        "referenced_tweets": {
+            "id": 1327137060566822914,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1327104237495586824,
+        "text": "@CanYouPetTheDog @nerdist That is the most accurate cat petting I\u2019ve ever seen.",
+        "created_at": "2020-11-13 04:21:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1102974090581864448,
+        "referenced_tweets": {
+            "id": 1327059983113056257,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1327091152655425537,
+        "text": "Alright, so I'm super proud of myself. Took me several hours of trial and error but I finally got a discord set up. Was trying to get some webhooks created to auto send news to text channels about those games. Thank goodness for Youtube tutorials! #smallstreamersupport",
+        "created_at": "2020-11-13 03:29:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1327090569227743234,
+        "text": "@OPEitsDGR every time I go to the one on (Randolph?) it feels like a BATTLE to get outta there. Last time I was waiting for someone that was backing out and some crazy lady in an SUV was holding her horn at me to leave my spot. Moms in St Paul = vicious.",
+        "created_at": "2020-11-13 03:27:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1176332189023293440,
+        "referenced_tweets": {
+            "id": 1327089785224241153,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1327089510774165506,
+        "text": "@OPEitsDGR is it to keep people in so they buy more orange chicken while they wait for it to calm down outside?",
+        "created_at": "2020-11-13 03:22:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1176332189023293440,
+        "referenced_tweets": {
+            "id": 1327089056983998464,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1327086202323947521,
+        "text": "@XaphPlays after you watch a few, check out Cabin in the Woods, its great! If you want a \"horror thats actually comedy\" Tucker and Dale vs Evil.",
+        "created_at": "2020-11-13 03:09:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 947063042,
+        "referenced_tweets": {
+            "id": 1326932239268147202,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1327036267645841416,
+        "text": "@dragumagu @Warcraft This is awesome, love me some Pixel Art!",
+        "created_at": "2020-11-12 23:51:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2955149693,
+        "referenced_tweets": {
+            "id": 1326979775345332226,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1327032159471857664,
+        "text": "@WaltDeWalt Are we not talking about the sorting hat of kinks?",
+        "created_at": "2020-11-12 23:34:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 23916218,
+        "referenced_tweets": {
+            "id": 1327031484306362369,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1327031623926345734,
+        "text": "11 days till Shadowlands comes out! Wooooooooooooo I'm excited!!",
+        "created_at": "2020-11-12 23:32:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1327031387329880066,
+        "text": "@EntEarth Chrono Trigger",
+        "created_at": "2020-11-12 23:31:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 9113072,
+        "referenced_tweets": {
+            "id": 1327015840395517954,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1325707664232501248,
+        "text": "Shadowlands is just a few weeks away! I find myself watching the pre animations for the expansions, Jaina\u2019s warbringer will always be my favorite. https://t.co/kfNrnHclR9",
+        "created_at": "2020-11-09 07:51:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1325600444043943936,
+        "text": "Made this Twitter a few months ago and following the people in @CriticalRole has been great for mental health.  Always a joy to see @samriegel , @VoiceOfOBrien and @matthewmercer supporting the good fight. (I follow more of them, these three just tend to show up the most) :)",
+        "created_at": "2020-11-09 00:45:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1324861688382976008,
+        "text": "Project Diablo 2!  Come watch and hang! https://t.co/1gF9jmlCuw",
+        "created_at": "2020-11-06 23:50:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1324845148669444096,
+        "text": "Gonna be trying out some Project Diablo 2 tonight since season 1 is live today! will be streaming at 6pm central. Come watch and hang out in chat while we figure it out! https://t.co/Yhnd3JOqnb\n#lgbtqia #SmallStreamersConnect #twitch #charity",
+        "created_at": "2020-11-06 22:44:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1324843546659225600,
+        "text": "@bearosapien Is that AHS?",
+        "created_at": "2020-11-06 22:38:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1016005394794274817,
+        "referenced_tweets": {
+            "id": 1324764972270891009,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1324637319207538690,
+        "text": "Lol! After refreshing my election map for the 1000th time today https://t.co/2d4eDWUUHD",
+        "created_at": "2020-11-06 08:58:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1324381819094138884,
+        "text": "@Nervous_Donut That\u2019s his \u201cProfessor Hamlet\u201d outfit :)",
+        "created_at": "2020-11-05 16:03:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1681998703,
+        "referenced_tweets": {
+            "id": 1324381636406972416,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1324373374618030080,
+        "text": "I\u2019m accomplishing very little these days... https://t.co/GUoMD1jrJS",
+        "created_at": "2020-11-05 15:29:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1324002646240485378,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1324372325589012480,
+        "text": "@RandyRainbow I hereby claim Stanley Tucci.",
+        "created_at": "2020-11-05 15:25:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 7786612,
+        "referenced_tweets": {
+            "id": 1324110791944118279,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1324372068905947138,
+        "text": "@OPEitsDGR @rachel_ventures Those are good shit",
+        "created_at": "2020-11-05 15:24:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1176332189023293440,
+        "referenced_tweets": {
+            "id": 1324112781759664135,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1324371650528354304,
+        "text": "Here\u2019s some photos of Hamlet to keep myself from refreshing the election screen every 2 minutes. He enjoys cuddles, barks and bites. His favorite food is everything the other dogs want. His favorite drink is Mountain Dew, he will jump up on tables to get that. https://t.co/83XjFH2WkA",
+        "created_at": "2020-11-05 15:23:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1324105917235953666,
+        "text": "@TaliesinEvitel As you would say- \u201cit\u2019s a shit show, obviously\u201d",
+        "created_at": "2020-11-04 21:47:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743742497331961856,
+        "referenced_tweets": {
+            "id": 1323993120103649280,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1324104731229343746,
+        "text": "@j0hn_j0hnn He\u2019s got a good chunk of viewers at once! He will be partner in no time!",
+        "created_at": "2020-11-04 21:42:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1103431380099309568,
+        "referenced_tweets": {
+            "id": 1324098756816633863,
+            "type": "replied_to"
+        }
+    }
+]

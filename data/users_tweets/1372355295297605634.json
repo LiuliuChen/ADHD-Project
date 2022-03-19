@@ -1,0 +1,2820 @@
+[
+    {
+        "tweet_id": 1501937750349516807,
+        "text": "RT @atydbot89: \u201cHAPPY BIRTHDAY REMU!\u201d",
+        "created_at": "2022-03-10 15:07:18+00:00",
+        "public_metrics": {
+            "retweet_count": 349,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501918437798518787,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499788386693001218,
+        "text": "RT @faheychronicles: defending ron weasley on the internet isn\u2019t enough i need harry potter",
+        "created_at": "2022-03-04 16:46:30+00:00",
+        "public_metrics": {
+            "retweet_count": 34,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499251885898883075,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498512227095228418,
+        "text": "RT @piercespears: Euphoria is ableist cause Elliot singing is boring and triggering my ADHD actually",
+        "created_at": "2022-03-01 04:15:30+00:00",
+        "public_metrics": {
+            "retweet_count": 13167,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498121023992049664,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497263149531213834,
+        "text": "@emily_strom5 girl r u already on the last book \ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2022-02-25 17:32:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1497230214002352134,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495539421294309376,
+        "text": "RT @moonenrose: happy euphoria day, may nate jacobs get arrested and ashtray stay alive, AMEN",
+        "created_at": "2022-02-20 23:22:38+00:00",
+        "public_metrics": {
+            "retweet_count": 28578,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495357077174247425,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495180479099715585,
+        "text": "RT @kaeleymorgann: i do not miss the sunday night walks back from siberia after being able to park in tayloe all weekend",
+        "created_at": "2022-02-19 23:36:19+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495139492927315969,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495180468509196290,
+        "text": "@kaeleymorgann it\u2019s literally the worst part of my week\ud83d\ude14",
+        "created_at": "2022-02-19 23:36:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2920082557,
+        "referenced_tweets": {
+            "id": 1495139492927315969,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493374673333239813,
+        "text": "RT @koralinadean: if nate jacobs has a million haters im one of them.  if he has a 1000 haters im still one of them.  If he has 1 hater it\u2019\u2026",
+        "created_at": "2022-02-15 00:00:42+00:00",
+        "public_metrics": {
+            "retweet_count": 22018,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493052077806915588,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1492726879211696128,
+        "text": "RT @taydaisies: I'm probably gonna get hate for this, but it has to be said. I hate when people don\u2019t stand for the national anthem. Show s\u2026",
+        "created_at": "2022-02-13 05:06:36+00:00",
+        "public_metrics": {
+            "retweet_count": 5184,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492598468673957888,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1492290459363856388,
+        "text": "the pure serotonin and joy screaming long live while driving with the windows down and drinking an overpriced refresher is unmatched",
+        "created_at": "2022-02-12 00:12:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491104272469348353,
+        "text": "my adhd meds have completely ruined my appetite lol love that",
+        "created_at": "2022-02-08 17:38:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489399380415238146,
+        "text": "RT @phaithfuI: they make u look like the bad person but won\u2019t tell anyone what they did to u\u2026",
+        "created_at": "2022-02-04 00:44:18+00:00",
+        "public_metrics": {
+            "retweet_count": 138,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1477524448609816576,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489245616140083204,
+        "text": "RT @lillyswiftt13: comfort person:                    comfort show: https://t.co/GqQXg5q0XQ",
+        "created_at": "2022-02-03 14:33:18+00:00",
+        "public_metrics": {
+            "retweet_count": 273,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487496552126033922,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489245588407439363,
+        "text": "RT @Evettexo: Dear me, I will make you fucking proud.",
+        "created_at": "2022-02-03 14:33:11+00:00",
+        "public_metrics": {
+            "retweet_count": 22235,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488699457063428097,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485654701412605957,
+        "text": "RT @parkersimpx: i cant explain it but remus lupin and i are connected .",
+        "created_at": "2022-01-24 16:44:17+00:00",
+        "public_metrics": {
+            "retweet_count": 69,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485542994514219008,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483956027045425153,
+        "text": "screaming, crying\ud83e\udd72\u2764\ufe0f https://t.co/KEIqoLaoSg",
+        "created_at": "2022-01-20 00:14:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483861492755841027,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1483604240874541056,
+        "text": "RT @playboixcarson: Apologizing when I did nothing wrong????? That\u2019s a big word for elmo idk.",
+        "created_at": "2022-01-19 00:56:29+00:00",
+        "public_metrics": {
+            "retweet_count": 39549,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1482362900136271872,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1480199409627537408,
+        "text": "RT @bbryttni: i owe this year to myself.",
+        "created_at": "2022-01-09 15:26:54+00:00",
+        "public_metrics": {
+            "retweet_count": 49065,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479990716009009152,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478071501379321861,
+        "text": "andrew is the best spider man but tom has the best movies and that\u2019s the hill i\u2019ll die on.",
+        "created_at": "2022-01-03 18:31:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477725696315305986,
+        "text": "being a hollins student for the last 48 hours has been ride man. the emails are just getting wilder and wilder. also rip tinker\ud83d\ude2a\u270b\ud83c\udffc",
+        "created_at": "2022-01-02 19:37:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476221369654431751,
+        "text": "RT @folklaura_: gorgeous gorgeous girls relate to this is me trying &amp; my tears ricochet a little too much \u2728",
+        "created_at": "2021-12-29 15:59:36+00:00",
+        "public_metrics": {
+            "retweet_count": 895,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1475986230789685251,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1472282149365637122,
+        "text": "\u201cgo little rockstar\u201d but it\u2019s my old lease mare that got taken away from me clean sweeping and winning the beginner w/t division at the show when i never got to show her.",
+        "created_at": "2021-12-18 19:06:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469464680104140801,
+        "text": "RT @Flashyasf: I watched people cross me then act like I did something to them",
+        "created_at": "2021-12-11 00:30:55+00:00",
+        "public_metrics": {
+            "retweet_count": 9599,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1449929953429053447,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1469464271096631302,
+        "text": "this week has been absolute hell, but it really made me realize how amazing my support system is and how lucky i am to have these people in my life.",
+        "created_at": "2021-12-11 00:29:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468662940727451651,
+        "text": "ah yes, what a horrific way to end a terrible semester, seems fitting though\ud83e\udd70. but in others words, officially done with classes for the semester !!",
+        "created_at": "2021-12-08 19:25:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468382792304181249,
+        "text": "i\u2019m not mad it happened, i\u2019m mad at myself for letting it go on for so long.",
+        "created_at": "2021-12-08 00:51:53+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468259954616373251,
+        "text": "@emily_strom5 we love to see it",
+        "created_at": "2021-12-07 16:43:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1468219871158751237,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1467216551178866691,
+        "text": "RT @Gsus979: Getting close to people really ain\u2019t my thing nomo",
+        "created_at": "2021-12-04 19:37:40+00:00",
+        "public_metrics": {
+            "retweet_count": 8638,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1466897370310840320,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1466908715102228483,
+        "text": "RT @ames203_: i do not find harry styles attractive https://t.co/U3ON5NHDZ1",
+        "created_at": "2021-12-03 23:14:26+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1466835555992354829,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1466439477233164296,
+        "text": "@emily_strom5 @bxngsoul bc i have better things to do with my life ig?\u00bf",
+        "created_at": "2021-12-02 16:09:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1466438328220368897,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466437739679817735,
+        "text": "@bxngsoul @emily_strom5 what the hell is the nfr",
+        "created_at": "2021-12-02 16:02:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1128811301046804480,
+        "referenced_tweets": {
+            "id": 1466397391192530944,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466160855670788097,
+        "text": "we\u2019re not talking about my spotify wrapped and leaving it at that",
+        "created_at": "2021-12-01 21:42:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466006332696367106,
+        "text": "@kaeleymorgann people aren\u2019t using PEMDAS and adding and then multiplying by the parentheses getting 7x3 i believe.",
+        "created_at": "2021-12-01 11:28:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2920082557,
+        "referenced_tweets": {
+            "id": 1465893065453883402,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1465885970532904963,
+        "text": "i just want someone to look at me the way ben looks at jessie",
+        "created_at": "2021-12-01 03:30:24+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465854231089451016,
+        "text": "i have a Severe math based and processing learning disability and i\u2019m gay, but i know the answer is 17. https://t.co/xxZd1RkeQy",
+        "created_at": "2021-12-01 01:24:17+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1465052370862288900,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1465486789490233348,
+        "text": "RT @mywisegays: the marauders to dumbledore: we\u2019ll get older but your soldiers stay our age",
+        "created_at": "2021-11-30 01:04:12+00:00",
+        "public_metrics": {
+            "retweet_count": 288,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1465460231668785154,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1464653451363860485,
+        "text": "RT @nocontextgrisha: \u24d8 this user is impatiently waiting for the wylan &amp; nikolai casting announcements for shadow and bone season 2",
+        "created_at": "2021-11-27 17:52:49+00:00",
+        "public_metrics": {
+            "retweet_count": 488,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1464576726663503877,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1464316330702745609,
+        "text": "RT @savcisneros: everyone is replaceable, not me tho y\u2019all stay safe.",
+        "created_at": "2021-11-26 19:33:13+00:00",
+        "public_metrics": {
+            "retweet_count": 28554,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1463984708421754881,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1462966598382366732,
+        "text": "@hoaxmitski @emily_strom5",
+        "created_at": "2021-11-23 02:09:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1239931324800040962,
+        "referenced_tweets": {
+            "id": 1462803882606837764,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1460742075050340362,
+        "text": "RT @PopCulture2000s: the first harry potter movie was released 20 years ago today https://t.co/QyU1z24me3",
+        "created_at": "2021-11-16 22:50:24+00:00",
+        "public_metrics": {
+            "retweet_count": 9294,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1460604944675917833,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1459585396791291904,
+        "text": "if blondie had all this to for jake, john mayer best be fleeing the country for speak now tv",
+        "created_at": "2021-11-13 18:14:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1459578543487205379,
+        "text": "@emily_strom5 girl i\u2019ve shown that to you before",
+        "created_at": "2021-11-13 17:46:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1459574655807893507,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1459574535032877066,
+        "text": "@emily_strom5 i didn\u2019t even see that \u2026",
+        "created_at": "2021-11-13 17:31:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1459573909192384516,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1459352876040560643,
+        "text": "@kaeleymorgann I DIDNT RELIZE IT WAS YOU I JUST SAW IT IN ON MY TL AND THOUGHT IT WAS HILARIOUS RIP AOFJKDND",
+        "created_at": "2021-11-13 02:50:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2920082557,
+        "referenced_tweets": {
+            "id": 1459352068976689152,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1459344024729489413,
+        "text": "actual conversation i had with my mother https://t.co/1kZ0qZAjzX",
+        "created_at": "2021-11-13 02:15:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1459337831248183308,
+        "text": "also fuck jake gyllenhaal",
+        "created_at": "2021-11-13 01:50:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1372355295297605634,
+        "referenced_tweets": {
+            "id": 1459337496261713926,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1459337496261713926,
+        "text": "red tv has made me all to \u2728unwell\u2728",
+        "created_at": "2021-11-13 01:49:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1459258070731788296,
+        "text": "i\u2019ve already seen a wolfstar edit to red tv on tiktok and i physically can not",
+        "created_at": "2021-11-12 20:33:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1459257509324152837,
+        "text": "RT @milfloverem: https://t.co/iEp6fpHPgG",
+        "created_at": "2021-11-12 20:31:16+00:00",
+        "public_metrics": {
+            "retweet_count": 20,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1459074927416557569,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1459255475665612803,
+        "text": "RT @sdequus: When Taylor Swift said \u201cfuck the patriarchy\u201d, I felt that.",
+        "created_at": "2021-11-12 20:23:11+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1459247039108173825,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1459220492448116747,
+        "text": "RT @ashleeyy__7: BRO i hit the curb ONE time and mfs swear i can\u2019t drive \ud83d\ude12",
+        "created_at": "2021-11-12 18:04:11+00:00",
+        "public_metrics": {
+            "retweet_count": 1705,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1458702388622069761,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1459170692084154379,
+        "text": "speak now tv is next i said what i said",
+        "created_at": "2021-11-12 14:46:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1458931032997126151,
+        "text": "\u201csorry professor i can\u2019t come to class tomorrow, red TV drops tomorrow\u201d",
+        "created_at": "2021-11-11 22:53:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1458452040741531649,
+        "text": "@emily_strom5 bestie\u2026",
+        "created_at": "2021-11-10 15:10:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1458451131236036608,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1457720218390831106,
+        "text": "@emily_strom5 not the soggy side salad\ud83d\ude10",
+        "created_at": "2021-11-08 14:42:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1457707388270690309,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1457548863733178376,
+        "text": "miss bridgers we\u2019ve been doing a whole lot of living and not a whole lot of getting to that moment\u2026",
+        "created_at": "2021-11-08 03:21:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1455970569166508032,
+        "text": "RT @itsdeeptexts: i hate being so sensitive",
+        "created_at": "2021-11-03 18:50:08+00:00",
+        "public_metrics": {
+            "retweet_count": 13936,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1449636910251458563,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1455970483288125446,
+        "text": "RT @re_moony: are we ready to talk about how remus getting a job at hogwarts was probably used to manipulate him into re-joining the order\u2026",
+        "created_at": "2021-11-03 18:49:48+00:00",
+        "public_metrics": {
+            "retweet_count": 102,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1446687787932082182,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1455970453139427337,
+        "text": "RT @wlwprongs: i strongly believe that the epilogue for the last harry potter book should have just been 30 year old harry forwarding a bun\u2026",
+        "created_at": "2021-11-03 18:49:41+00:00",
+        "public_metrics": {
+            "retweet_count": 168,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1447366314201423873,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1455970428602695681,
+        "text": "RT @beachreadsbree: why am i a college student and not the lead character in an enemies to lovers romance book???",
+        "created_at": "2021-11-03 18:49:35+00:00",
+        "public_metrics": {
+            "retweet_count": 3100,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1447617279747891202,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1455321465801383940,
+        "text": "RT @diorkenn: November please be good to me. \ud83e\uddff\ud83e\udd0d",
+        "created_at": "2021-11-01 23:50:50+00:00",
+        "public_metrics": {
+            "retweet_count": 17728,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1455108566210256900,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1453861210231906306,
+        "text": "RT @Inspireworld_: There is only one person who could ever make you happy, and that person is you.",
+        "created_at": "2021-10-28 23:08:18+00:00",
+        "public_metrics": {
+            "retweet_count": 360,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1451583271763066889,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1453738637019992064,
+        "text": "RT @wildflowerdaysi: friendship soulmates are truly something else. what a beautiful experience",
+        "created_at": "2021-10-28 15:01:14+00:00",
+        "public_metrics": {
+            "retweet_count": 36243,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1453463812481290241,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1453490106980093959,
+        "text": "not to gate keep or anything-actually i do- but straight people using girl in red \u2018fell in love in october\u2019 on their stories with fall pictures just does not sit right with me.",
+        "created_at": "2021-10-27 22:33:40+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1453469943157112834,
+        "text": "climbs up mountain : \u2705\ntrips and stubs toe going to take pictures : \u2705",
+        "created_at": "2021-10-27 21:13:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1452059417768255492,
+        "text": "the black widow movie did in fact  make me gayer",
+        "created_at": "2021-10-23 23:48:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1452058876380069890,
+        "text": "RT @sdequus: Holding your own friends accountable for their mean spirited behaviour is just as important, if not more,  than accountability\u2026",
+        "created_at": "2021-10-23 23:46:28+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1451933069586407427,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1452025755429449731,
+        "text": "@emily_strom5 i\u2019m crying i miss you sm\ud83e\udd7a\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+        "created_at": "2021-10-23 21:34:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1451737664617652230,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1451609353673379841,
+        "text": "this is a dumbledore and snape hate account",
+        "created_at": "2021-10-22 18:00:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1451206890822803460,
+        "text": "RT @hashjenni: \"Yk what hurts the most?\" Bro my back.",
+        "created_at": "2021-10-21 15:20:59+00:00",
+        "public_metrics": {
+            "retweet_count": 40932,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1450794554102267911,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1450986919068844036,
+        "text": "@emily_strom5 i love you both sm and y\u2019all have done such amazing things\u2764\ufe0f",
+        "created_at": "2021-10-21 00:46:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1450985527730126849,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1450980946023440387,
+        "text": "RT @_thereallnii: My gut literally be right EVERYTIME.",
+        "created_at": "2021-10-21 00:23:10+00:00",
+        "public_metrics": {
+            "retweet_count": 9550,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1450656285515452416,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1450624264508481537,
+        "text": "@emily_strom5 it\u2019s true",
+        "created_at": "2021-10-20 00:45:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1450288437676937223,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1450507210535194630,
+        "text": "the most gen z thing about gen z is how we collectively decided a 13 year old pug is telling us how our day is gonna be.",
+        "created_at": "2021-10-19 17:00:42+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1449926812235091974,
+        "text": "@emily_strom5 she really does man, and we can we talk about her new song\ud83d\ude13\ud83e\udd1a\ud83c\udffc",
+        "created_at": "2021-10-18 02:34:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1449925977879060480,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1449926582336958468,
+        "text": "i\u2019m just blaming the fact that my life is literally falling apart on mercury retrograde and moving on lol",
+        "created_at": "2021-10-18 02:33:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1449562295005286400,
+        "text": "@emily_strom5 \ud83e\udd70\ud83e\udd70",
+        "created_at": "2021-10-17 02:25:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1449560763086118916,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1448805091692224514,
+        "text": "i just want someone to gift me my favorite book with their annotations man",
+        "created_at": "2021-10-15 00:17:06+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1448437908243890178,
+        "text": "for once in my god damn life i just want to be appreciated, that\u2019s all.",
+        "created_at": "2021-10-13 23:58:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1447627100727427073,
+        "text": "@lesbianlilypads as a remus kinnie i refuse to accept this slander",
+        "created_at": "2021-10-11 18:16:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1394381335075172355,
+        "referenced_tweets": {
+            "id": 1447313219777859584,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1446506934920679438,
+        "text": "@kaeleymorgann i love you\ud83e\udd7a\u2764\ufe0f",
+        "created_at": "2021-10-08 16:05:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2920082557,
+        "referenced_tweets": {
+            "id": 1446506492245458944,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1446500502993260544,
+        "text": "i literally had one of the best rides i\u2019ve ever had this morning and god i love my horse and i swear everything finally falling into place is one of the best feelings.",
+        "created_at": "2021-10-08 15:39:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446138600010174466,
+        "text": "@bxngsoul @emily_strom5 so much",
+        "created_at": "2021-10-07 15:41:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1128811301046804480,
+        "referenced_tweets": {
+            "id": 1446127914508959758,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1446126463669784583,
+        "text": "i feel like 99% of our conversations go like this @emily_strom5 https://t.co/GeLZiUa15h",
+        "created_at": "2021-10-07 14:53:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1445910376911097860,
+        "text": "\u201care you good?\u201d \nno, my number one song on spotify rn is least favorite only child by leanna firestone",
+        "created_at": "2021-10-07 00:34:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1445795132524085250,
+        "text": "RT @sdequus: Sometimes I\u2019ll get this inexplicably uncomfortable feeling about a person and then I feel like I\u2019m being judgmental but it nev\u2026",
+        "created_at": "2021-10-06 16:56:35+00:00",
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1445765602073735175,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1445537510747254784,
+        "text": "i hate emoting man it sucks",
+        "created_at": "2021-10-05 23:52:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1443767528828899336,
+        "text": "i\u2019m feel like im having an identity crisis about turning 20",
+        "created_at": "2021-10-01 02:39:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1443388855592361985,
+        "text": "@hans_arth i really don\u2019t either",
+        "created_at": "2021-09-30 01:34:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 754849134335651841,
+        "referenced_tweets": {
+            "id": 1443388564532776967,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1443388444038860803,
+        "text": "@hans_arth i understand the second floor but the first floor has all the side corridors and i can never actually picture how they all fit together in my head. i just have no spacial awareness and i\u2019m stupid.",
+        "created_at": "2021-09-30 01:33:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 754849134335651841,
+        "referenced_tweets": {
+            "id": 1443384125986070531,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1442922038146965506,
+        "text": "@emily_strom5 you\u2019re too good for them anyways",
+        "created_at": "2021-09-28 18:39:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1442903594596855811,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1442245020271235076,
+        "text": "@hans_arth i fully believe people only like snape bc of alan rickman. though i will say, he does an amazing job with the character.",
+        "created_at": "2021-09-26 21:49:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 754849134335651841,
+        "referenced_tweets": {
+            "id": 1442232887454179331,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1441192399250739205,
+        "text": "so everyone is just collectively losing it now, huh?",
+        "created_at": "2021-09-24 00:06:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1441160817966141446,
+        "text": "i feel like i\u2019m going through a mid life crisis so i\u2019m dying my hair lolll",
+        "created_at": "2021-09-23 22:01:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1440666528517550085,
+        "text": "my mental state recently has been about as stable as emily\u2019s blood sugar",
+        "created_at": "2021-09-22 13:17:21+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1439974979395891203,
+        "text": "@emily_strom5 what is it with you and trying to dye ur hair blank?",
+        "created_at": "2021-09-20 15:29:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1439919561915211776,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1439974706975842306,
+        "text": "it breaks my soul a little bit everyday that my mom is a dumbledore and snape stan and hates james potter.",
+        "created_at": "2021-09-20 15:28:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1438307102359949313,
+        "text": "i ft my parents just to see my cat tbh https://t.co/HGBiTlezDr",
+        "created_at": "2021-09-16 01:01:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1437482863033819142,
+        "text": "@emily_strom5 you really have been",
+        "created_at": "2021-09-13 18:26:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1437236314143870979,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1435793750488399875,
+        "text": "i really don\u2019t think i can mentally comprehend this past week and all the shit that\u2019s happened.",
+        "created_at": "2021-09-09 02:34:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1435004155358240768,
+        "text": "RT @jolexsdaughter: did it hurt? when alex karev\u2019s 15 years worth of development went down the drain in one (1) episode?",
+        "created_at": "2021-09-06 22:17:06+00:00",
+        "public_metrics": {
+            "retweet_count": 912,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1434710734106157059,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1434187234522058759,
+        "text": "RT @jackofspaades: remus lupin and sirius black have never done anything wrong in their entire life i stand by that\ud83c\udfc3\ud83c\udfc3",
+        "created_at": "2021-09-04 16:10:57+00:00",
+        "public_metrics": {
+            "retweet_count": 102,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1433989979970039811,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1430916569379573769,
+        "text": "RT @unfortunateeq: Y\u2019all remember the clowns in 2017?? Like what was that??",
+        "created_at": "2021-08-26 15:34:29+00:00",
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1430710051153629185,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1427447872694403073,
+        "text": "the entire outer banks series is just rafe cameron showing up at the most inconvenient of times and fucking everything up.",
+        "created_at": "2021-08-17 01:51:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1427391195760762883,
+        "text": "@emily_strom5 no black would not a vibe. i like the brunette",
+        "created_at": "2021-08-16 22:05:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1427370120427495426,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1426321670202089472,
+        "text": "the christmas prince movies on netflix make me so happy",
+        "created_at": "2021-08-13 23:16:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1426321329322700805,
+        "text": "@emily_strom5 i would have laughed so hard if he actually had jumped out of the arena",
+        "created_at": "2021-08-13 23:14:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1426306295670448129,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1420416716169953281,
+        "text": "RT @witti_indi: \u201cMy child is fine\u201d \n\nUr child is a Pisces moon.",
+        "created_at": "2021-07-28 16:11:49+00:00",
+        "public_metrics": {
+            "retweet_count": 2782,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1420079593709572102,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1419412291276222464,
+        "text": "@emily_strom5 of what, the trashy wattpad story that is your life ???",
+        "created_at": "2021-07-25 21:40:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1419393874175406080,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1418973060145852422,
+        "text": "@emily_strom5 brah what fans??",
+        "created_at": "2021-07-24 16:35:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1418972809276149780,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1418972479373074439,
+        "text": "@emily_strom5 you know some things you don\u2019t actually have to say\ud83d\ude03",
+        "created_at": "2021-07-24 16:32:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1418971942862852105,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1418971796120944641,
+        "text": "@emily_strom5 i sincerely hope you do",
+        "created_at": "2021-07-24 16:30:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1418971403085393935,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1418971184184668173,
+        "text": "@emily_strom5 *dislike*",
+        "created_at": "2021-07-24 16:27:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1418942713072869377,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1417510645210222594,
+        "text": "@emily_strom5 https://t.co/xUZcLGYPbh",
+        "created_at": "2021-07-20 15:44:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1412794464733700098,
+        "text": "@emily_strom5 why did you just describe me??",
+        "created_at": "2021-07-07 15:23:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1412639839401529351,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1412182749092499457,
+        "text": "RT @valand_rakesh: Dear You,\n\nyou are good enough. \n\nyou are smart enough. \n\nYou are strong enough. \n\nYou are beautiful enough. \n\nYou are k\u2026",
+        "created_at": "2021-07-05 22:52:59+00:00",
+        "public_metrics": {
+            "retweet_count": 1055,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1412115553943056384,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1410295081794482181,
+        "text": "fuck west store for not having cheetos man\ud83d\ude13\ud83e\udd1a\ud83c\udffc",
+        "created_at": "2021-06-30 17:52:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1410294771684417537,
+        "text": "my life is currently being held together by one v thin piece of bailing twine",
+        "created_at": "2021-06-30 17:50:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1410243655642796040,
+        "text": "if my life could literally stop falling apart for 10 minutes that would be great.",
+        "created_at": "2021-06-30 14:27:43+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1409579823610089475,
+        "text": "RT @atydbot89: \u201cTell me a secret? A nice one?\u201d",
+        "created_at": "2021-06-28 18:29:53+00:00",
+        "public_metrics": {
+            "retweet_count": 30,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1409562658530119683,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1409579679028285441,
+        "text": "i\u2019ve officially finished reading all the young dudes and now i don\u2019t know what to do with my life.",
+        "created_at": "2021-06-28 18:29:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1408861042051010562,
+        "text": "RT @vibedblunts: I'd rather lose you than the argument \u2764\ufe0f",
+        "created_at": "2021-06-26 18:53:42+00:00",
+        "public_metrics": {
+            "retweet_count": 813,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1407345812930240533,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1408159487664562178,
+        "text": "@emily_strom5 we talked about this \u2026..",
+        "created_at": "2021-06-24 20:25:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1408158247618555905,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1407529076382961669,
+        "text": "@emily_strom5 also i need those books back btw",
+        "created_at": "2021-06-23 02:40:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1407524314094657536,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1407529011148886020,
+        "text": "@emily_strom5 i think about that a lot too\u2026",
+        "created_at": "2021-06-23 02:40:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1407524314094657536,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1407522636784099328,
+        "text": "one like and i\u2019ll do it \u2026. https://t.co/InFnGfDLVi",
+        "created_at": "2021-06-23 02:15:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1407015669242138635,
+        "text": "i\u2019d sell my soul be driving around roanoke at 11pm blasting music eating cookout rn\u2026.",
+        "created_at": "2021-06-21 16:40:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1406826888463536129,
+        "text": "like yes i\u2019ve been here since 8am yes ik it\u2019s hot and what do u want me to do about it???",
+        "created_at": "2021-06-21 04:10:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1372355295297605634,
+        "referenced_tweets": {
+            "id": 1406826664152244228,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1406826664152244228,
+        "text": "the AC wasn\u2019t working at work yesterday and costumers kept complaining about it to me. \nbitch do i look like an HVAC person\ud83d\ude2a",
+        "created_at": "2021-06-21 04:09:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1406825901472550917,
+        "text": "@emily_strom5 plEASE let me at him\ud83e\udd27",
+        "created_at": "2021-06-21 04:06:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1406733997082873859,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1406825518226345987,
+        "text": "@emily_strom5 i\u2019m *this* close to unfollowing you",
+        "created_at": "2021-06-21 04:05:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1406714910441103360,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1406027015711563782,
+        "text": "RT @boojieshay: Sometimes I speak so aggressively you just have to know me to know I mean no harm\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2021-06-18 23:12:17+00:00",
+        "public_metrics": {
+            "retweet_count": 28747,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1405857061804576770,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1405332790154084363,
+        "text": "@emily_strom5 as you should",
+        "created_at": "2021-06-17 01:13:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1405321289062096897,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1405316196669562884,
+        "text": "so, today was fun\u2026\ud83d\ude03 https://t.co/Yc2Q2oMLWA",
+        "created_at": "2021-06-17 00:07:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1404601227426635779,
+        "text": "@emily_strom5 bitch quESO IS LITERALLY SPANISH FOR CHESSE",
+        "created_at": "2021-06-15 00:46:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1404598686164865024,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404593466030575622,
+        "text": "@emily_strom5 bc they\u2019re 2 different things so they\u2019re named different things\ud83d\ude2d",
+        "created_at": "2021-06-15 00:15:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1404590814337060865,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404590533662683137,
+        "text": "@emily_strom5 you mean the white dip not queso you hate queso, we\u2019ve been over this\ud83d\ude2d",
+        "created_at": "2021-06-15 00:04:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1404529496154386434,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404205826202607616,
+        "text": "@emily_strom5 of course i am",
+        "created_at": "2021-06-13 22:35:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1404169046099120128,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404165576298270722,
+        "text": "@notyourwaif @emily_strom5",
+        "created_at": "2021-06-13 19:55:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1268655087754391552,
+        "referenced_tweets": {
+            "id": 1403878325198671876,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404162821290614784,
+        "text": "@emily_strom5 i\u2019m right though",
+        "created_at": "2021-06-13 19:44:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1404128934162219012,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1403471302212698117,
+        "text": "RT @ubevert: \u201cthe customer is always right\u201d not on my shift they aren\u2019t LMFAOO",
+        "created_at": "2021-06-11 21:56:48+00:00",
+        "public_metrics": {
+            "retweet_count": 30120,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1403107698221092865,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1403471119949127681,
+        "text": "@emily_strom5 ^^^^",
+        "created_at": "2021-06-11 21:56:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1403447011018477570,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1402641088217849863,
+        "text": "@emily_strom5 poor robert always having to be the middle man\ud83d\ude13\ud83e\udd1a\ud83c\udffc",
+        "created_at": "2021-06-09 14:57:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1402640454093529089,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1402640443393839104,
+        "text": "@emily_strom5 bring in trainers without telling you must be a genetic trait for that family",
+        "created_at": "2021-06-09 14:55:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1402630948139769868,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1402640218948345856,
+        "text": "@emily_strom5 CAROL DID WHAT NOW",
+        "created_at": "2021-06-09 14:54:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1402630948139769868,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1402449045801648138,
+        "text": "@emily_strom5 same\ud83e\udd20",
+        "created_at": "2021-06-09 02:14:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1402399665681801218,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1402099450634514434,
+        "text": "@emily_strom5 eww thought she went away when you died the hair\ud83e\udd2e",
+        "created_at": "2021-06-08 03:05:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1402078939674198021,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1401931280330199041,
+        "text": "@emily_strom5 what\u2019s the addy i\u2019ll dispose of him",
+        "created_at": "2021-06-07 15:57:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1401878166923264007,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1401930930168729602,
+        "text": "@emily_strom5 imagine my reaction when susan told me she said this\ud83e\udd20",
+        "created_at": "2021-06-07 15:55:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1401930476890345481,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1401930307482394625,
+        "text": "my fathers sister told him that to fight the corona virus, every day she takes her blow dryer and blows hot air up her nose bc that kills the virus and advised him to do that same-\ni swear you can\u2019t make this shit up.",
+        "created_at": "2021-06-07 15:53:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1400973079145336833,
+        "text": "@emily_strom5 https://t.co/BvK35htETX",
+        "created_at": "2021-06-05 00:29:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1400564723968524288,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1400543743095316482,
+        "text": "RT @MAGICALM00NY: prisoner of azkaban",
+        "created_at": "2021-06-03 20:03:43+00:00",
+        "public_metrics": {
+            "retweet_count": 124,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1400239048032149507,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1398831891114045448,
+        "text": "@emily_strom5 \u201clibra: amazing, beautiful, talented, always right\u201d",
+        "created_at": "2021-05-30 02:41:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1398827753844232192,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1398827678720040963,
+        "text": "@emily_strom5 no\u2764\ufe0f",
+        "created_at": "2021-05-30 02:24:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1398827242642460672,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1398825520947777541,
+        "text": "@emily_strom5 \u2018they change their personalities depending on who they are with\u2019 \u2018have multiple personalities\u2019 \u2018psycho bitch\u2019 i and keep going ...",
+        "created_at": "2021-05-30 02:16:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1398823271831855104,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1398804515877539843,
+        "text": "sharing a birthday with julie andrews is the biggest flex of my life",
+        "created_at": "2021-05-30 00:52:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1398378797746077703,
+        "text": "rip my oneK\ud83d\ude2a\ud83e\udd1a\ud83c\udffc #mindyourmelon https://t.co/xmoQ4wS6gs",
+        "created_at": "2021-05-28 20:41:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1398055082189524996,
+        "text": "update: it gets worse- we\u2019re both libra suns with a pisces moon\ud83e\udd72",
+        "created_at": "2021-05-27 23:14:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1372355295297605634,
+        "referenced_tweets": {
+            "id": 1396223043735855105,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1398052026454528000,
+        "text": "a couple that gives me bi panic??? tea leoni and tim daly from madam secretary\ud83d\ude2b\ud83d\ude2a https://t.co/aM3aWHes6r",
+        "created_at": "2021-05-27 23:02:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1396603009816305666,
+        "text": "RT @esmquestrian: republicans will claim that a \u201cmedical condition\u201d exempts them from wearing a mask in public but take away abortion right\u2026",
+        "created_at": "2021-05-23 23:04:39+00:00",
+        "public_metrics": {
+            "retweet_count": 25,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1396515332186071048,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1396602758053179392,
+        "text": "@emily_strom5 girl why\ud83d\ude29",
+        "created_at": "2021-05-23 23:03:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1396551944148295688,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1396474072163303424,
+        "text": "RT @atydbot89: \u201cI\u2019m mental about you, too.\u201d",
+        "created_at": "2021-05-23 14:32:18+00:00",
+        "public_metrics": {
+            "retweet_count": 57,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1396342774455312384,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1396223043735855105,
+        "text": "when we\u2019re both libras\ud83e\udd72 https://t.co/JDCm5BcC3W",
+        "created_at": "2021-05-22 21:54:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1396222719868514309,
+        "text": "@emily_strom5 girl i haven\u2019t even told you the real tea yet. but yes you rite.",
+        "created_at": "2021-05-22 21:53:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1396222496408473607,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1396222405882810368,
+        "text": "if i\u2019ve learned anything these past few weeks, it\u2019s that i have amazing intuition on people and how they\u2019ll turn out, just saying.",
+        "created_at": "2021-05-22 21:52:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1396194390813642760,
+        "text": "@emily_strom5 it really is",
+        "created_at": "2021-05-22 20:00:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1396190207893024768,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1395039871086075909,
+        "text": "@emily_strom5 are y\u2019all ok at nk??",
+        "created_at": "2021-05-19 15:33:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1395021233348124677,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1394757592031899651,
+        "text": "@emily_strom5 \u201cwhich pad should i get\u201d \u201clol i got this one anyway\u201d",
+        "created_at": "2021-05-18 20:51:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1394706673865052160,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1394695757198995458,
+        "text": "hollins culture is coming home and forgetting squirrels have an actual spaz attack whenever they see people instead of them just staring at you like campus squirrels do.",
+        "created_at": "2021-05-18 16:45:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1394373742827085829,
+        "text": "RT @flowerqweer: Me describing Hollins to anyone who hasn\u2019t experienced it: imagine if all the weirdest people you know lived in a haunted\u2026",
+        "created_at": "2021-05-17 19:26:21+00:00",
+        "public_metrics": {
+            "retweet_count": 31,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1394067205248241664,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1393673950211813376,
+        "text": "@emily_strom5 occasionally, sometimes you are",
+        "created_at": "2021-05-15 21:05:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1393673804929503237,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1393673497516314627,
+        "text": "@emily_strom5 honestly me too",
+        "created_at": "2021-05-15 21:03:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1393664057882943488,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1393022285049651201,
+        "text": "@RileyWi11468533 you\u2019re*",
+        "created_at": "2021-05-14 01:56:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1325186455946321920,
+        "referenced_tweets": {
+            "id": 1393015651237834756,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1393004844135469060,
+        "text": "@emily_strom5 new car new rules\ud83d\ude0c",
+        "created_at": "2021-05-14 00:46:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1393004389586116609,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1392989748558454791,
+        "text": "RT @canislantsov: my first heartbreak was suzanne collins killing off finnick like pls name me one good reason for it?? him being the sexie\u2026",
+        "created_at": "2021-05-13 23:46:51+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1392938278576398339,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1392905708996280323,
+        "text": "also aunt may is\ud83e\udd75\ud83e\udd24",
+        "created_at": "2021-05-13 18:12:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1372355295297605634,
+        "referenced_tweets": {
+            "id": 1392905614221889547,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1392905614221889547,
+        "text": "peter parker is the most adorable thing, i love him so much.",
+        "created_at": "2021-05-13 18:12:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1392662456938516481,
+        "text": "@emily_strom5 you fucking love me and you have to admit that was a good one.",
+        "created_at": "2021-05-13 02:06:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1392649748952326145,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1392162949477937153,
+        "text": "cajun fries from cookout : 1\nriley : 0",
+        "created_at": "2021-05-11 17:01:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1391791958784450563,
+        "text": "the fact that ultron from marvel is voiced my the same guy who plays robert california really geeks me for some reason",
+        "created_at": "2021-05-10 16:27:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1391253012212076544,
+        "text": "@emily_strom5 \u201csiri how do you dislike a tweet\u201d",
+        "created_at": "2021-05-09 04:45:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1391227927023570948,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1390787315790983177,
+        "text": "@emily_strom5 i fucking hate you",
+        "created_at": "2021-05-07 21:55:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1390786836893679617,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1390490506908602371,
+        "text": "@emily_strom5 sit down miss incorrect grammar",
+        "created_at": "2021-05-07 02:15:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1390484730764746756,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1390471130335563776,
+        "text": "@emily_strom5 you\u2019re*",
+        "created_at": "2021-05-07 00:58:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1390467601826992136,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1390341745515368456,
+        "text": "@hans_arth no it\u2019s the fact that it was mostly grown ass adults on fb and not even college students\ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2021-05-06 16:24:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 754849134335651841,
+        "referenced_tweets": {
+            "id": 1390287929138991106,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1390132897831608320,
+        "text": "the sheer amount of times that i\u2019ve seen people use the wrong your and you\u2019re today is enough to drive my absolutely crazy and beware the next person i see doing will be corrected.",
+        "created_at": "2021-05-06 02:34:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1389710502935285763,
+        "text": "@emily_strom5 you\u2019re not sit tf down\ud83d\udc80",
+        "created_at": "2021-05-04 22:36:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071573814952243200,
+        "referenced_tweets": {
+            "id": 1389406571550158848,
+            "type": "replied_to"
+        }
+    }
+]

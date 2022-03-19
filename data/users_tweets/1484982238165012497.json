@@ -1,0 +1,4567 @@
+[
+    {
+        "tweet_id": 1504648881098960908,
+        "text": "Robert Thompson, Mr. Miller's Algebra, 1998. https://t.co/0BuK2lnEoC",
+        "created_at": "2022-03-18 02:40:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504434355992682497,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1504634428559081475,
+        "text": "https://t.co/rjQ006qaxZ",
+        "created_at": "2022-03-18 01:42:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504568802033676288,
+        "text": "On Thursdays we wear black. Let's end gender based violence in our homes, workplaces, academies,churches, institutions and communities. I learned about the initiative today- fully support the reduction  of harm that sexual and gender based  violence creates. https://t.co/e6ETMG7DGs",
+        "created_at": "2022-03-17 21:22:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504555082548920320,
+        "text": "On Thursdays we wear black. Let's end gender based violence in our homes, workplaces, academies,churches, institutions and communities. I learned about the initiative today- fully support the reduction  of harm that sexual and gender based  violence creates. https://t.co/xpYsfGkpQG",
+        "created_at": "2022-03-17 20:27:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504552895131361288,
+        "text": "RT @cmangale: Patriarchal policies failed me as a girl,and continue to fail me. Put women and girls in decision making bodies - Joy Eva Boh\u2026",
+        "created_at": "2022-03-17 20:18:58+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504534701255573510,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504509857269006336,
+        "text": "RT @IFAIUArk: \ud83d\udce3 Youth, build impactful agriculture experience this summer!\nIFAI is hosting the Native Youth in Food and Agriculture Leaders\u2026",
+        "created_at": "2022-03-17 17:27:57+00:00",
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504456928390533124,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504251798239989764,
+        "text": "RT @weRnative: https://t.co/hOelYf3fug",
+        "created_at": "2022-03-17 00:22:31+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503884247081242625,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504251508187185152,
+        "text": "RT @urban_ne: Mathilda \u201cTillie\u201d Black Bear dedicated her life to raising awareness of the abuse Native women face. She established the firs\u2026",
+        "created_at": "2022-03-17 00:21:21+00:00",
+        "public_metrics": {
+            "retweet_count": 39,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504128600211140612,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504251194180612100,
+        "text": "RT @LIVEpositivity: No one is too busy. It\u2019s not about finding time. It\u2019s about making time. If it really matters, you will make time.",
+        "created_at": "2022-03-17 00:20:06+00:00",
+        "public_metrics": {
+            "retweet_count": 256,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504236125396819978,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504204850636201986,
+        "text": "RT @MichaelFulwiler: $5.1 billion was invested into mental health startups in 2021.\n\nSolving the mental health crisis is not a money proble\u2026",
+        "created_at": "2022-03-16 21:15:57+00:00",
+        "public_metrics": {
+            "retweet_count": 42,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504087717726011394,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504192945750224900,
+        "text": "RT @IACupdate: Lexie Holden, Intertribal Agriculture Council Associate Director of Policy and Government Relations testifying today at 4 pm\u2026",
+        "created_at": "2022-03-16 20:28:39+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504182126220034049,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504104715059093508,
+        "text": "@Indigenia You too. You are so loved! So smart. So brave! Get it girl.",
+        "created_at": "2022-03-16 14:38:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 323346108,
+        "referenced_tweets": {
+            "id": 1504104241568354306,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504104042779324424,
+        "text": "@Indigenia I love it. Prayers and smoke your way and I am also thinking about miss frizzle and her school children really looking for your gum. Lolz",
+        "created_at": "2022-03-16 14:35:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 323346108,
+        "referenced_tweets": {
+            "id": 1504103365743104005,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504103764797624329,
+        "text": "@lokosh_saya \u2764\ufe0f",
+        "created_at": "2022-03-16 14:34:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3317076030,
+        "referenced_tweets": {
+            "id": 1504061801159446534,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504059938695393280,
+        "text": "@lokosh_saya That's right! Thanks for the correction. And i believe it. Those rolls are incredible.",
+        "created_at": "2022-03-16 11:40:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3317076030,
+        "referenced_tweets": {
+            "id": 1504058998684848130,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503931119112183808,
+        "text": "I wonder how Landry's fared during the pandemic? The place that throws rolls at you in Missouri. And the peanut on the floor places.",
+        "created_at": "2022-03-16 03:08:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503900962938929152,
+        "text": "RT @EqualRightsAdv: Why is #EqualPayDay March 15? Because tomorrow the average U.S. woman finally catches up to what the average man earned\u2026",
+        "created_at": "2022-03-16 01:08:25+00:00",
+        "public_metrics": {
+            "retweet_count": 59,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503431177574793216,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503892969312632834,
+        "text": "https://t.co/MuyEG6Imos",
+        "created_at": "2022-03-16 00:36:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503870692936359940,
+        "text": "@AuntyCarpetWeed I love your recall. The deadpan. I love it. I need more.",
+        "created_at": "2022-03-15 23:08:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 886008505,
+        "referenced_tweets": {
+            "id": 1503852082868150277,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503865889837486087,
+        "text": "@katiestonemakes Cheese cube me too! That is gorgeous @katiestonemakes",
+        "created_at": "2022-03-15 22:49:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 160275327,
+        "referenced_tweets": {
+            "id": 1503815435505967106,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503862822815608838,
+        "text": "https://t.co/wpyzNikC4K",
+        "created_at": "2022-03-15 22:36:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503862229577437188,
+        "text": "I'm excited about this read. The Author Connie was my friend when she led hunger relief for Iron Gate in Tulsa. Feeding people's souls with wit and authenticity. Let me know if you want next. https://t.co/pVJwJA4Zfs",
+        "created_at": "2022-03-15 22:34:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503741548189605892,
+        "text": "RT @MaraDicenta: Teaching is a lot of work. But what a joy when you get to discuss such beautiful gifts.\n\nLook how good next weeks's readin\u2026",
+        "created_at": "2022-03-15 14:34:57+00:00",
+        "public_metrics": {
+            "retweet_count": 29,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503418544167473162,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503728767054794759,
+        "text": "RT @themermacorn: Sorry, not everyone wants to be an academic or climb the corporate ladder to be a model minority. Some of us just wanna w\u2026",
+        "created_at": "2022-03-15 13:44:10+00:00",
+        "public_metrics": {
+            "retweet_count": 1779,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503382857166819330,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503728680148819971,
+        "text": "Rez Girls can do anything! @native4data @Indigenia @you!",
+        "created_at": "2022-03-15 13:43:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503721754077843460,
+        "text": "@AQUAKTTY Are you a Gemini?",
+        "created_at": "2022-03-15 13:16:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1465880391009673227,
+        "referenced_tweets": {
+            "id": 1503131380527640578,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503562060613005314,
+        "text": "Chi-Chi Rodriguez\u00a0:\u00a0I didn't ask to come on this trip, did I? No, I don't think so! So as soon as we get to the next town I am jumping on the first man and riding him all the way to New York City and away from you two puckered up, stuck up putas 'cause this trip sucks! Sucks! https://t.co/U32Z5BOtAg",
+        "created_at": "2022-03-15 02:41:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503554633452687360,
+        "text": "@amandaswilliams https://t.co/HjDFvrCQ8R",
+        "created_at": "2022-03-15 02:12:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1305938158337564672,
+        "referenced_tweets": {
+            "id": 1503554106291634180,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503548997423742978,
+        "text": "RT @JMYaLes: My partner told me I looked \u201cvery accomplished.\u201d Reader, I was sitting on the couch without pants on drinking whiskey.",
+        "created_at": "2022-03-15 01:49:50+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496634520531046410,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503548537556119556,
+        "text": "RT @cabel: I mean\u2026 surely this seller has a table somewhere? A car dashboard? A couch or chair? A spare plank of wood? A kitchen counter? P\u2026",
+        "created_at": "2022-03-15 01:48:00+00:00",
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488196428455313412,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503546366097825796,
+        "text": "https://t.co/UL34647tYy",
+        "created_at": "2022-03-15 01:39:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503545908184629248,
+        "text": "JAZZ HANDDDSSSSS https://t.co/ZrQfDG6BQZ",
+        "created_at": "2022-03-15 01:37:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503480022086135808,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1503541911956733955,
+        "text": "Found this ring in my brother's flowerbed this weekend. My most  chillaxed first thought? I've stumbled onto a freemason's ring. There's a story here... KCMO Urban Legends what is up? https://t.co/Pa1weKbmS7",
+        "created_at": "2022-03-15 01:21:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503540003472818178,
+        "text": "@craigspoplife She is beautiful. Makes me miss my gramma a bunch!",
+        "created_at": "2022-03-15 01:14:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15443085,
+        "referenced_tweets": {
+            "id": 1503434820151660552,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503538319178838024,
+        "text": "@LakotaMan69 Pickle Couture' https://t.co/pU8Imzki0c",
+        "created_at": "2022-03-15 01:07:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 955530223122046976,
+        "referenced_tweets": {
+            "id": 1503358353837285382,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503537607183056898,
+        "text": "@lokosh_saya I went straight for a pickle juice martini, hold the vodka.",
+        "created_at": "2022-03-15 01:04:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3317076030,
+        "referenced_tweets": {
+            "id": 1503537289816911873,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503536793232474115,
+        "text": "\ud83e\uddc0 Cheese \ud83e\uddc0 \n\nBring Cheese \ud83e\uddc0 \n\n\ud83e\uddc0 \ud83e\uddc0 \ud83e\uddc0",
+        "created_at": "2022-03-15 01:01:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503508644821757953,
+        "text": "https://t.co/gvL6igxjGc",
+        "created_at": "2022-03-14 23:09:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503507413818912770,
+        "text": "RT @katiestonemakes: I've been a NYT Crossword bitch for years now so I've finally been giving this \"Wordle\" a try. It's cute. Y'all are cu\u2026",
+        "created_at": "2022-03-14 23:04:35+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503505926073978880,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503495512426692614,
+        "text": "RT @TankaBar: Happy Motivational Monday! \u201cLearn to embrace your own unique beauty, celebrate your unique gifts with confidence. Your imperf\u2026",
+        "created_at": "2022-03-14 22:17:18+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503362872692428801,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503495484975067136,
+        "text": "@lorenkwaters Ryan and Sig doooooo",
+        "created_at": "2022-03-14 22:17:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1239340997827612677,
+        "referenced_tweets": {
+            "id": 1503224878798880768,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503495221681733633,
+        "text": "Nearly done reading \"Running With Scissors\" I'm diving into a historical analyses of Ft. Sill, but after that I need a psychoological thriller, mystery, drama or historical fiction. Sling me something good.",
+        "created_at": "2022-03-14 22:16:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503467252741402626,
+        "text": "This is one of the best exposures and adventures in Food Sovereignty I have visited. Join if you can! https://t.co/ncfqudBg3t",
+        "created_at": "2022-03-14 20:25:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503463663218343937,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1503451281909764096,
+        "text": "RT @guardian: We\u2019re on the hunt for young nature lovers \u2013 do you know any? https://t.co/tdJ08tjz55",
+        "created_at": "2022-03-14 19:21:33+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503449131041366023,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503011585622695938,
+        "text": "RT @iateoklahoma: At least let us pick the hour to lose. If someone starts an uncomfortable conversation today you should be able to reach\u2026",
+        "created_at": "2022-03-13 14:14:21+00:00",
+        "public_metrics": {
+            "retweet_count": 24,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502980986904141827,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502986354740899843,
+        "text": "@marekcornett Is it your parents?",
+        "created_at": "2022-03-13 12:34:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14401314,
+        "referenced_tweets": {
+            "id": 1502738081425858563,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502782208200921088,
+        "text": "RT @Maryamhasnaa: Overgivers and people pleasers have such a difficult time realizing that if you walk your own authentic path, certain peo\u2026",
+        "created_at": "2022-03-12 23:02:53+00:00",
+        "public_metrics": {
+            "retweet_count": 1596,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502714044817367042,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502698496398434305,
+        "text": "RT @misterfulmer: It\u2019s got to be the most considerate snow ever. Deep and beautiful in the morning just enough to cancel everything so you\u2026",
+        "created_at": "2022-03-12 17:30:14+00:00",
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502407207194927107,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502698416874434560,
+        "text": "@LIVEpositivity Cheeks",
+        "created_at": "2022-03-12 17:29:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 111166747,
+        "referenced_tweets": {
+            "id": 1502693319117352963,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502681483210903553,
+        "text": "@Vibez__Are_Us Happy Birthday Sweet Gift from Creator!",
+        "created_at": "2022-03-12 16:22:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 2223358759,
+        "referenced_tweets": {
+            "id": 1502659854841917440,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502676089717596166,
+        "text": "@LIVEpositivity A Gentleman in Moscow. I fell in love with reading all over again. \u2764\ufe0f",
+        "created_at": "2022-03-12 16:01:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 111166747,
+        "referenced_tweets": {
+            "id": 1502650700320456707,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502636329968013314,
+        "text": "Rationality, Irrationality and Strategies of Preemption\n\nAll strategic policies have been founded upon some underlying assumption of\u00a0rationality. We humans have always presumed that our enemies, states and terrorists, will inevitably value their own survival. \nThe Jurist, 2022.",
+        "created_at": "2022-03-12 13:23:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502491258383654913,
+        "text": "Doing woman things. https://t.co/nxwnGANHy0",
+        "created_at": "2022-03-12 03:46:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502399858237493248,
+        "text": "+zima https://t.co/aUCzUNf2RS https://t.co/OgfYiBbphQ",
+        "created_at": "2022-03-11 21:43:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502279235599228935,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1502393059950141441,
+        "text": "@AuntyCarpetWeed After a surgery on my achilles I am definitely more flat footed. I can't sneak up on nobody in my boots.",
+        "created_at": "2022-03-11 21:16:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 886008505,
+        "referenced_tweets": {
+            "id": 1502318677366030348,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502352703330168837,
+        "text": "For all my cat folk https://t.co/yfN8tnHuQT",
+        "created_at": "2022-03-11 18:36:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502315064761671680,
+        "text": "God is so good. https://t.co/mQJZH0VGwM",
+        "created_at": "2022-03-11 16:06:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502286603313688577,
+        "text": "I read a term today \"bump the base\". It wasn't talking about a sound system like my late 90's early 2000s college experience had me tracking- it meant bump the base pay, ask for your worth. I dig.",
+        "created_at": "2022-03-11 14:13:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502278972385763329,
+        "text": "Wanted to share some joy today. Our nephew's mother has built up a really beautiful business in KCMO photography. Weddings. Engagements. Births. Wildings.\n Check Rita out at https://t.co/y7KRjoZNec  https://t.co/48UQHbOzPk https://t.co/MNdKvbS7PS",
+        "created_at": "2022-03-11 13:43:12+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502270188754022402,
+        "text": "RT @MKNAGLE: VAWA just passed the Senate! This VAWA reauthorization takes historic steps to restore tribal sovereignty and safety for Nativ\u2026",
+        "created_at": "2022-03-11 13:08:18+00:00",
+        "public_metrics": {
+            "retweet_count": 228,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502122367165816845,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502128862183972865,
+        "text": "Just a humble observation but social workers are sexy folk. \ud83d\ude09",
+        "created_at": "2022-03-11 03:46:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502125490878001153,
+        "text": "@blackcapitol I think you are my people.",
+        "created_at": "2022-03-11 03:33:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 205399807,
+        "referenced_tweets": {
+            "id": 1501973438914834432,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502125239966343170,
+        "text": "RT @blackcapitol: I spent $250 on therapy so that my therapist could tell me \u201cJames just go to Costco, you\u2019ve mentioned wanting to go 7 tim\u2026",
+        "created_at": "2022-03-11 03:32:20+00:00",
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502026321844711426,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502013986694328323,
+        "text": "RT @Ruth4Nd: \u201cIf there\u2019s anyone who should have the right to vote, it\u2019s our First Nation\u2019s people.\u201d -Senator Tammy Duckworth #votersuppress\u2026",
+        "created_at": "2022-03-10 20:10:15+00:00",
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502004944811040772,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502013917064687632,
+        "text": "RT @NativeFarmBill: Join Joseph Damaso of IFAI &amp; Lexie Holden of IAC for a webinar covering Farm Bill's Title III \u2013 Trade.  \nWebinar will b\u2026",
+        "created_at": "2022-03-10 20:09:58+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502011891073363975,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501979467618693123,
+        "text": "I just stumbled upon some in your face idiocracy right here in Oklahoma City. Land Rush Street. Imagine That. https://t.co/iMuBKQBuxa",
+        "created_at": "2022-03-10 17:53:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501969794819624960,
+        "text": "Yasssss! Donate if you can! https://t.co/3AhTNRbh9H",
+        "created_at": "2022-03-10 17:14:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501948152554811400,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1501937173855019014,
+        "text": "@AuntyCarpetWeed Indigenous Seed Keepers Network\nBraiding the Sacred\nDreams of Wild Health all have resource networks and bartering capabilities, too.",
+        "created_at": "2022-03-10 15:05:01+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 13,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 886008505,
+        "referenced_tweets": {
+            "id": 1501936538979999745,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501936861358407688,
+        "text": "RT @IACupdate: In recognition of Women's History Month Kelsey Scott, IAC Director of Programs, will be presenting at \"Women Providing Healt\u2026",
+        "created_at": "2022-03-10 15:03:47+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501935804473438208,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501933261601206274,
+        "text": "RT @CJAOurPower: \"We had to push the [Big Greens] to be more accountable... they were starting to ignore #EnvironmentalRacism ...and downpl\u2026",
+        "created_at": "2022-03-10 14:49:28+00:00",
+        "public_metrics": {
+            "retweet_count": 23,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501931756517167112,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501927816081944576,
+        "text": "@LIVEpositivity https://t.co/RLnFJ9fOXC",
+        "created_at": "2022-03-10 14:27:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 111166747,
+        "referenced_tweets": {
+            "id": 1501920685375074310,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501764299601158145,
+        "text": "RT @jdgateley: OK's Clean Slate law (HB 3316) just passed the House floor. This would create an automatic expungement system for the state.\u2026",
+        "created_at": "2022-03-10 03:38:05+00:00",
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501600270165454854,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501670275267670016,
+        "text": "RT @NativeChildren: Congratulate our 2022 Champion for Native Children! Cristi Heath is a member of the Choctaw Nation &amp; has worked for the\u2026",
+        "created_at": "2022-03-09 21:24:27+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501317064056872961,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501661893638995970,
+        "text": "RT @AkiptanInc: ATTENTION. There are 3 weeks remaining to apply. Please share this $5000.00 scholarship opportunity with Native American Hi\u2026",
+        "created_at": "2022-03-09 20:51:09+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501652958123118600,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501661836147666954,
+        "text": "RT @NativeFarmBill: The NFBC welcomes our newest member, @CherokeeNation, to our coalition. To find out how your Tribal Nation or Native/In\u2026",
+        "created_at": "2022-03-09 20:50:55+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501649641552629768,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501603747977252866,
+        "text": "RT @NoahVerrier: My oil painting of a PB&amp;J https://t.co/AopH1LxzJA",
+        "created_at": "2022-03-09 17:00:06+00:00",
+        "public_metrics": {
+            "retweet_count": 24373,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501183321140781056,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501598951685902336,
+        "text": "https://t.co/mYLxYUgIQW",
+        "created_at": "2022-03-09 16:41:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501594620521766913,
+        "text": "RT @janna_e_haider: every quarter i give my students an extra credit assignment to make a meme about something we covered in class. this qu\u2026",
+        "created_at": "2022-03-09 16:23:50+00:00",
+        "public_metrics": {
+            "retweet_count": 27482,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501346702350950400,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501560080382238728,
+        "text": "RT @kwalixwa: \ud83d\ude05\ud83e\udd23\ud83d\ude02\ud83e\udd23\ud83d\ude05\ud83e\udd23\ud83d\ude02\ud83e\udd23\ud83d\ude05\n\nNon Tribal: This is my uncle, he's 80 years old. \n\nTribal: This is my uncle, he's 8 years old.",
+        "created_at": "2022-03-09 14:06:35+00:00",
+        "public_metrics": {
+            "retweet_count": 39,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501369317392150528,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501559964871110666,
+        "text": "@Inmy_Moment_ https://t.co/W6yKGjmQ21",
+        "created_at": "2022-03-09 14:06:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1440676141489016835,
+        "referenced_tweets": {
+            "id": 1501336597186461698,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501350072470192131,
+        "text": "@saintorochimaru https://t.co/wuMbqdxVQN",
+        "created_at": "2022-03-09 00:12:05+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 208744448,
+        "referenced_tweets": {
+            "id": 1501205333615779847,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501339880563130375,
+        "text": "@dvnpete April Fools!",
+        "created_at": "2022-03-08 23:31:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 12797382,
+        "referenced_tweets": {
+            "id": 1501324933867065347,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501326701179011072,
+        "text": "RT @CobellScholars: Today, we honor and remember Elouise Pepion Cobell, also known as Yellow Bird Woman, an enrolled member of the Blackfee\u2026",
+        "created_at": "2022-03-08 22:39:13+00:00",
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501245680500805634,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501294393189453827,
+        "text": "RT @NativeFarmBill: Join Joseph Damaso of IFAI &amp; Lexie Holden of IAC for a webinar covering Farm Bill's Title III \u2013 Trade.  \nWebinar will b\u2026",
+        "created_at": "2022-03-08 20:30:50+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501291827206500353,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501279259989450752,
+        "text": "The Queen has spoken. https://t.co/k3VFhU3T3K",
+        "created_at": "2022-03-08 19:30:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501227101713747976,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1501205431363985409,
+        "text": "RT @LIVEpositivity: Did where you grew up shape you as a person? How?",
+        "created_at": "2022-03-08 14:37:20+00:00",
+        "public_metrics": {
+            "retweet_count": 66,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501195849870848000,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501204293952671758,
+        "text": "RT @TherapywithC: I just don\u2019t feel like we are talking about 7th graders enough. The pandemic caused them to miss such a fundamental trans\u2026",
+        "created_at": "2022-03-08 14:32:49+00:00",
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501003632866734085,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501182412780363781,
+        "text": "Extraordinary Machine, Fiona Apple. Lol https://t.co/SOmnAhhpyr",
+        "created_at": "2022-03-08 13:05:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500994250300870656,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1501177734474735618,
+        "text": "The Great Dissenter was born on this day in 1841. Who were they and what are they known for?",
+        "created_at": "2022-03-08 12:47:17+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501018234568466435,
+        "text": "RT @UARKLaw: Since #UARKLaw\u2019s founding in 1924, we have had 14 incredible deans. From 2006, we have had 4 consecutive female deans (@Nancec\u2026",
+        "created_at": "2022-03-08 02:13:29+00:00",
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500848931672141830,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500872697013846019,
+        "text": "@chakenbake Go offff",
+        "created_at": "2022-03-07 16:35:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 299385500,
+        "referenced_tweets": {
+            "id": 1500856224228823041,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500872630307631112,
+        "text": "RT @CharleyFlyte: Someone in the industry recently said to me that if a show had only Native writers and only Native actors, no one would w\u2026",
+        "created_at": "2022-03-07 16:34:54+00:00",
+        "public_metrics": {
+            "retweet_count": 265,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500642624117506053,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500869622639251469,
+        "text": "Back on my BS! 10.5 week program aka \"I don't even know where you go in the mornings.\" https://t.co/HJ8c29n5y3",
+        "created_at": "2022-03-07 16:22:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500850314299293702,
+        "text": "Seen https://t.co/q7gkyZzdCx",
+        "created_at": "2022-03-07 15:06:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500663247426387972,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1500825914246144002,
+        "text": "Monday morning treat https://t.co/iBndftPE1b",
+        "created_at": "2022-03-07 13:29:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500694629485883393,
+        "text": "RT @evanbmontgomery: My Ukrainian-American mom explaining why people underestimated Ukrainian military effectiveness: \u201cIf you put two Ukrai\u2026",
+        "created_at": "2022-03-07 04:47:35+00:00",
+        "public_metrics": {
+            "retweet_count": 10481,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500280931067781121,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500692754317336577,
+        "text": "RT @lorenkwaters: Access denied @LindyWatersIII",
+        "created_at": "2022-03-07 04:40:08+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500689423939297283,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500682587970412544,
+        "text": "@TerroristSweet Number 7, DP, a little prayer for my guardian angels who both enjoyed this little number!",
+        "created_at": "2022-03-07 03:59:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1178031673528737792,
+        "referenced_tweets": {
+            "id": 1500627110251089923,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500681092088672256,
+        "text": "RT @IFC: Congrats to @RezDogsFXonHulu for winning the #SpiritAward for Best Ensemble Cast In A New Scripted Series. https://t.co/Sb6HGIgFup",
+        "created_at": "2022-03-07 03:53:48+00:00",
+        "public_metrics": {
+            "retweet_count": 272,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500626073205153792,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500678895636516869,
+        "text": "Pawnee lake is located about 2 miles north of the \"main square\"\u00a0 The 250-acre lake has about 5 miles of shoreline which is dotted with developed and partially developed areas 5 sites with camping hookups.",
+        "created_at": "2022-03-07 03:45:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1484982238165012497,
+        "referenced_tweets": {
+            "id": 1500676983704928259,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500677968070418437,
+        "text": "The Pawnee watersource is Pawnee Lake. Countywise today.  With 594.87 square miles of land and water, the county is drained by the Cimarron and Arkansas rivers as well as tributaries.",
+        "created_at": "2022-03-07 03:41:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1484982238165012497,
+        "referenced_tweets": {
+            "id": 1500676983704928259,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500676983704928259,
+        "text": "This is water from my parent's tap in Pawnee, OK. They tell us because the \"lake turned over\" let's unpack this... https://t.co/hJZAgdxdoB",
+        "created_at": "2022-03-07 03:37:28+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 2,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500669551524077575,
+        "text": "Justice-when you get what you deserve\nMercy-when you don't get what you deserve\nGrace- when you get what you don't deserve. \nToday's message from the bench.\n\nAlso, when we empty our expectations, we leave room for grace.",
+        "created_at": "2022-03-07 03:07:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500466333871394817,
+        "text": "Meanwhile, up in the TallGrass https://t.co/4mWDtLvQy5",
+        "created_at": "2022-03-06 13:40:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500464253525975043,
+        "text": "RT @bessbell: I would never say I have a favorite child but one of mine is 8 pounds and just sleeps and drinks milk from my body letting me\u2026",
+        "created_at": "2022-03-06 13:32:09+00:00",
+        "public_metrics": {
+            "retweet_count": 1927,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500189461941932033,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500225091094863873,
+        "text": "@MarcJStDennis Sending you so much support and love. We are here for you!",
+        "created_at": "2022-03-05 21:41:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2873811197,
+        "referenced_tweets": {
+            "id": 1500189606662316047,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500109550132809729,
+        "text": "@lokosh_saya Yes! Bear Grease it is! You rock.",
+        "created_at": "2022-03-05 14:02:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3317076030,
+        "referenced_tweets": {
+            "id": 1500097641899827203,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500093466822459392,
+        "text": "RT @samlymatters: Being in love is humiliating and\u2014if elected\u2014I will put an end to it.",
+        "created_at": "2022-03-05 12:58:47+00:00",
+        "public_metrics": {
+            "retweet_count": 3841,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499795094345560072,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500079751175852033,
+        "text": "Pitch me a podcast. I love learning and have some windshield time today.",
+        "created_at": "2022-03-05 12:04:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499917293827985413,
+        "text": "RT @AsherBlackdeer: tbh, this new generation of social workers is not really interested in the platitudes and status quo and keeping things\u2026",
+        "created_at": "2022-03-05 01:18:44+00:00",
+        "public_metrics": {
+            "retweet_count": 185,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499785466899533824,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499905506437177344,
+        "text": "@marekcornett Me today! With prairie fires to the left and right.",
+        "created_at": "2022-03-05 00:31:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14401314,
+        "referenced_tweets": {
+            "id": 1499877546145505285,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499833491344691201,
+        "text": "RT @AkiptanInc: Did you miss our webinar on General Tax Information for Native Agriculture producers presented by Mr. Robert Holcomb?  You\u2026",
+        "created_at": "2022-03-04 19:45:44+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499824260940025858,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499789227248472064,
+        "text": "RT @drgdpstarr: What I love about the creation of Indigenous based doctoral cohorts is that there is an option that the dissertation commit\u2026",
+        "created_at": "2022-03-04 16:49:51+00:00",
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499786779628486657,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499541785663574016,
+        "text": "RT @4colesJami: My niece who has voted for @GovStitt and had planned on it again, told me yesterday after she has watched the attacks  on m\u2026",
+        "created_at": "2022-03-04 00:26:36+00:00",
+        "public_metrics": {
+            "retweet_count": 82,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499507293368508424,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499470918430695427,
+        "text": "@AntoniaBelindo Lord's bologna",
+        "created_at": "2022-03-03 19:45:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1241258595758596096,
+        "referenced_tweets": {
+            "id": 1499466989831536657,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499466923696074753,
+        "text": "RT @piejunkieokc: check on your friends with dogs and muddy backyards. we are not okay.",
+        "created_at": "2022-03-03 19:29:08+00:00",
+        "public_metrics": {
+            "retweet_count": 23,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499163981398913027,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499456535273127943,
+        "text": "One of my former students is in graduate school now had shared their textbooks JUST CAME IN for a required course. I remember the long wait for school funds to process, too. Not getting necessary equipment until March or so. Might need to spend  book money on a trip home, pivot.",
+        "created_at": "2022-03-03 18:47:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499449285133352970,
+        "text": "RT @msprairierose: Thankful for the goodness. When our hearts &amp; minds align, Healing happens. \n\n\"I know that when I pray, something wonderf\u2026",
+        "created_at": "2022-03-03 18:19:02+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499436199106301956,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499449161376321549,
+        "text": "RT @NativeAgFund: Need funding for your educational degree or technical certification? The @TAFfellows is accepting applications for Native\u2026",
+        "created_at": "2022-03-03 18:18:33+00:00",
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499146657023373312,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499201490237407233,
+        "text": "https://t.co/BEB6ChiQFx",
+        "created_at": "2022-03-03 01:54:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499106994829021188,
+        "text": "RT @AkiptanInc: Native Agriculture producers, don't miss our webinar on visioning &amp; planning for a successful Native Agriculture Operation.\u2026",
+        "created_at": "2022-03-02 19:38:54+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499051913698066441,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499027113860550661,
+        "text": "RT @CyndiMunson85: A few bills to be heard:\n-end possibility for commutation for someone sentenced to death &amp; restricts seeking clemency on\u2026",
+        "created_at": "2022-03-02 14:21:29+00:00",
+        "public_metrics": {
+            "retweet_count": 38,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498988421351682051,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498764001295089668,
+        "text": "@KatieStone42 I'm stoned, take my devices, hand me a pen, a blanket, an old friend.",
+        "created_at": "2022-03-01 20:55:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 160275327,
+        "referenced_tweets": {
+            "id": 1137577992245239809,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498739753105117192,
+        "text": "Those young leaders, though! https://t.co/lz8owvLM6G",
+        "created_at": "2022-03-01 19:19:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498425780954615813,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1498715022008147968,
+        "text": "Rights of Way in Indian Land Tenure\nEducate your tribal leaders and citizens, or you will be giving away your rights.\nhttps://t.co/FpzLCF1MEX",
+        "created_at": "2022-03-01 17:41:20+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498682068980707332,
+        "text": "@billykeene22 For me, if it is the author reading their book in their specific dialect, then it enriches that connection between myself and the author's voice. A story from North Dakota, like the Farmer's Lawyer, by Sarah Vogel, delivered in her own accent is an example. Read it first print.",
+        "created_at": "2022-03-01 15:30:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 29148268,
+        "referenced_tweets": {
+            "id": 1498672988106993668,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498674305068154880,
+        "text": "RT @CherokeeNation: We must #ProtectICWA.\n \n#ICWA #ProtectNativeChildren #SCOTUS https://t.co/Rset4nn8Ve",
+        "created_at": "2022-03-01 14:59:33+00:00",
+        "public_metrics": {
+            "retweet_count": 103,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498368683877543938,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498668190100070406,
+        "text": "RT @strategywoman: 11:42 pm in #Kyiv. I do need to have my war coffee. It\u2019s the 6th night we should survive. \n\nI do know that it\u2019s not fine\u2026",
+        "created_at": "2022-03-01 14:35:15+00:00",
+        "public_metrics": {
+            "retweet_count": 6269,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498414048353918976,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498661608532418562,
+        "text": "RT @kstsosie: First Qs I ask when reading any work related to Indigenous peoples: \u201cWho are you? What\u2019s your positionality?\u201d\n\nToo many non-I\u2026",
+        "created_at": "2022-03-01 14:09:05+00:00",
+        "public_metrics": {
+            "retweet_count": 70,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498427152944951298,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498646531406282753,
+        "text": "Oh Minka Kelly brings it. \"She's knuck. She's knuck if she bucks.\" https://t.co/WkUmCjf69v",
+        "created_at": "2022-03-01 13:09:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1242282488099147776,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1498646035568152577,
+        "text": "@osage25 Dang it.",
+        "created_at": "2022-03-01 13:07:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 33147748,
+        "referenced_tweets": {
+            "id": 1498642174333927431,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498645933277519872,
+        "text": "RT @GrandmaSaidNo: As more and more abusers are named within Indian Country, survivors, please give yourself the space to grieve, heal, wha\u2026",
+        "created_at": "2022-03-01 13:06:48+00:00",
+        "public_metrics": {
+            "retweet_count": 37,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498418024063266817,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498645893494542336,
+        "text": "@migizikwe_ This is everything!",
+        "created_at": "2022-03-01 13:06:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 159383070,
+        "referenced_tweets": {
+            "id": 1498403633578266633,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498645796320948230,
+        "text": "That moment when you are fumbling for your cell phone flashlight in the dark. And Parliament shows up, telling you Tuesdays gonna bring the funk. https://t.co/jmLvwb9OqY",
+        "created_at": "2022-03-01 13:06:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498489494789660678,
+        "text": "RT @TankaBar: Monday Motivation! \u201cDo not judge me by my success, judge me by how many times I fell down and got back up again.\u201d -Nelson Man\u2026",
+        "created_at": "2022-03-01 02:45:10+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498289434248237065,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498474335518007298,
+        "text": "When little nuggets of brilliance shine through from years of great mentoring, that's when youth development/policy work matters on a real level.",
+        "created_at": "2022-03-01 01:44:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498390416122695684,
+        "text": "RT @AspenFSP: We have partnered with @Center4Native and the Oklahoma Native Assets Coalition, Inc. to bring together #Native leaders in the\u2026",
+        "created_at": "2022-02-28 20:11:28+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498387656878792704,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498362585980227589,
+        "text": "Currently drafting out a list of innocent pleasants: today's leader board includes: that feeling when all the wood stacked up. The sweat is packed, the fire has been lit. Coming in right behind that one is lighting a candle or 2.",
+        "created_at": "2022-02-28 18:20:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498308367693103114,
+        "text": "RT @MrAhmednurAli: Are they \"developing\" countries or are they healing from your exploitation?",
+        "created_at": "2022-02-28 14:45:26+00:00",
+        "public_metrics": {
+            "retweet_count": 9172,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498013415650074626,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498028441345613831,
+        "text": "RT @holy_schnitt: my greatest talent is that I always know when it\u2019s time to go home. I can sense the exact second the evening enters the \u201c\u2026",
+        "created_at": "2022-02-27 20:13:07+00:00",
+        "public_metrics": {
+            "retweet_count": 834,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498009332067274752,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498028196800999425,
+        "text": "RT @strongheartsdv: What's your biggest concern about chatting with an advocate?\n\nChat and text advocacy is a safe, confidential and privat\u2026",
+        "created_at": "2022-02-27 20:12:08+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498025369106104320,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498017699024326656,
+        "text": "RT @hragv: Everyone should have lunch with someone they adore that they haven\u2019t seen all pandemic. Just did and it fills me with happiness.",
+        "created_at": "2022-02-27 19:30:25+00:00",
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498011596446175237,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497946466375012352,
+        "text": "@Indigenia You got this! Both are inspirational.",
+        "created_at": "2022-02-27 14:47:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 323346108,
+        "referenced_tweets": {
+            "id": 1497946194391273479,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497693705695895552,
+        "text": "It me. I'm daddy. https://t.co/6wqlzEPcl0",
+        "created_at": "2022-02-26 22:02:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497494469331070976,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1497595987577262081,
+        "text": "Strong Hearts to the Front. https://t.co/RagCyKysm1",
+        "created_at": "2022-02-26 15:34:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497579369069379587,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1497376125441478661,
+        "text": "RT @TheOklaProject: Yet again, #CorruptKevin helps his rich friends and allies instead of putting Oklahomans first.\n\nThis time, he's appoin\u2026",
+        "created_at": "2022-02-26 01:01:02+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497347173779861506,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497359756763226112,
+        "text": "RT @LIVEpositivity: Slow down and enjoy the journey right now. Take time for the people in your life. They won\u2019t always be there.",
+        "created_at": "2022-02-25 23:56:00+00:00",
+        "public_metrics": {
+            "retweet_count": 772,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497108906564374528,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497336399510609930,
+        "text": "Some warm fuzzy content. We love our farmer friends. https://t.co/wMA6zzWutb",
+        "created_at": "2022-02-25 22:23:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 11,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497303666000285698,
+        "text": "RT @NativeFarmBill: Native Farm Bill Coalition Webinar - Feb. 25 - Title II https://t.co/O0ezKqm1re",
+        "created_at": "2022-02-25 20:13:07+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497300312939397121,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497287888270151686,
+        "text": "RT @HopkoHanna: \ud83c\uddfa\ud83c\udde6 Mia was born in shelter this night in stressful environment- bombing of Kyiv. Her mom is happy after this challenging bi\u2026",
+        "created_at": "2022-02-25 19:10:25+00:00",
+        "public_metrics": {
+            "retweet_count": 7663,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497277039686131717,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497271211956617220,
+        "text": "RT @USDA_ERS: ERS Research Agricultural Economist Maria Bowman is presenting on the trends in adoption of conservation practices in the U.S\u2026",
+        "created_at": "2022-02-25 18:04:09+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497270177301352450,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497255802737987590,
+        "text": "@LIVEpositivity https://t.co/gDpWgFfZlY",
+        "created_at": "2022-02-25 17:02:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 111166747,
+        "referenced_tweets": {
+            "id": 1497209685555957761,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497224573611294726,
+        "text": "I see some posts today about Twitter being bad for mental health. \ud83d\ude43  I am grateful that my list I follow is small, kind, loving, just enough funny and empathically intelligent enough to share meaningful, gritty, hopeful tweets. Joy starts with the smallest connections for me.",
+        "created_at": "2022-02-25 14:58:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496978264241303556,
+        "text": "RT @ceren__kaynak: \ud83d\udd34 If you are wondering where to find your news today on #Ukraine. Follow this @CFWIJ list of fearless #women #journalist\u2026",
+        "created_at": "2022-02-24 22:40:05+00:00",
+        "public_metrics": {
+            "retweet_count": 78,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496883175108366342,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496975477801693184,
+        "text": "RT @alisonaher: #Kokumscarves a connection Ukrainian and Indigenous women share https://t.co/Kn2SnvX7dg",
+        "created_at": "2022-02-24 22:29:01+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496949152416243722,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496938720771158019,
+        "text": "RT @AkiptanInc: We're hiring a Loan Officer. The career opportunity is open until filled. The location is Remote and/or in Eagle Butte, SD.\u2026",
+        "created_at": "2022-02-24 20:02:57+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496937982149935111,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496883021903020038,
+        "text": "RT @IACupdate: Tribal Government update:  Local Food Purchase Assistance Cooperative Agreement Program (LFPA) Tribal office hours have been\u2026",
+        "created_at": "2022-02-24 16:21:37+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496876494492160003,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496861172343189505,
+        "text": "RT @but_im_kim_tran: To a lot of Americans, war is abstract, unfathomable. You've never seen a city in pieces. You've never feared war plan\u2026",
+        "created_at": "2022-02-24 14:54:48+00:00",
+        "public_metrics": {
+            "retweet_count": 42451,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496740002050371584,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496665381041278977,
+        "text": "RT @Prof_HeidiAllen: Somebody needs to call CPS on Texas.",
+        "created_at": "2022-02-24 01:56:48+00:00",
+        "public_metrics": {
+            "retweet_count": 63,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496659467659845634,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496663855920996352,
+        "text": "RT @armp71: Are you interested in Indigenous research? Please look at these FREE courses about conducting Indigenous research! If this isn'\u2026",
+        "created_at": "2022-02-24 01:50:44+00:00",
+        "public_metrics": {
+            "retweet_count": 148,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496332712310943745,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496564291016794115,
+        "text": "RT @AkiptanInc: Native American High School Senior's don't miss out on the Okh\u00ed\u010dha\u014bye Scholarship! 11 scholarships in the amount of $5000.0\u2026",
+        "created_at": "2022-02-23 19:15:06+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496556887113883654,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496558098412195858,
+        "text": "RT @1NativeSoilNerd: In April, I am running the Boston Marathon (!) on behalf of Wings of America, and their \"Pursuit Program,\" which bring\u2026",
+        "created_at": "2022-02-23 18:50:30+00:00",
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495871756501925888,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496541992347701256,
+        "text": "Emerald Power https://t.co/7yQmSOZ9SR",
+        "created_at": "2022-02-23 17:46:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496504322645012481,
+        "text": "RT @EmmaFeltes: Issue drop day! So excited to share this special issue of \n@BCstudies. A 40 year retrospective on the Constitution Express,\u2026",
+        "created_at": "2022-02-23 15:16:48+00:00",
+        "public_metrics": {
+            "retweet_count": 30,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496493641912700931,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496500394326908930,
+        "text": "RT @NativeChildren: 40 days remain until our 40th Annual Protecting Our Children conference this year being held virtually on April 4\u20136, 20\u2026",
+        "created_at": "2022-02-23 15:01:12+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496213502893211651,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496264501766897671,
+        "text": "RT @antalalakam: I wonder if indoor plants are so weak and high maintenance because they're not connected to the mycelium network",
+        "created_at": "2022-02-22 23:23:51+00:00",
+        "public_metrics": {
+            "retweet_count": 68,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495949494231445507,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496250399279521793,
+        "text": "RT @clairewillett: my sister just told me \u201cwhen we\u2019re in a situation where someone makes us uncomfortable and we choose to be polite instea\u2026",
+        "created_at": "2022-02-22 22:27:48+00:00",
+        "public_metrics": {
+            "retweet_count": 24174,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495974713101012992,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496186172250415105,
+        "text": "RT @ashleyn1cole: \ud83d\ude0d Women telling me I\u2019m beautiful will have my head in the clouds all day! It\u2019s all for you sis! This bold lip, I know men\u2026",
+        "created_at": "2022-02-22 18:12:35+00:00",
+        "public_metrics": {
+            "retweet_count": 272,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495950995179900928,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496184087148650508,
+        "text": "RT @TankaBar: Today I will love myself enough to exercise! Tanka is always with me on the trails! #healthyheartmonth #hikingsnack #livelife\u2026",
+        "created_at": "2022-02-22 18:04:18+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496113241289863173,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496183733854126080,
+        "text": "RT @NativeFarmBill: Carly Hotvedt &amp; Lexie Holden of the NFBC's Advisory Council testified to the House Rules &amp; Natural Resources Committees\u2026",
+        "created_at": "2022-02-22 18:02:54+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496183602928836608,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495897388564852738,
+        "text": "One of Sig's sweetest caregivers, Alissa, passed tragically this morning. Oh her smile, her helpfulness around the dances, her sweet sense of humor, her expressions!  I pray for her loved ones in the days to come.",
+        "created_at": "2022-02-21 23:05:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495797270230487045,
+        "text": "Missing my favorite Ethiopian place from living off the Loop in STL.",
+        "created_at": "2022-02-21 16:27:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495734911201853441,
+        "text": "RT @IndigenousBeads: It took longer than expected to finish the edging on the second earring, but the dopamine earrings are finally done!\u2026",
+        "created_at": "2022-02-21 12:19:26+00:00",
+        "public_metrics": {
+            "retweet_count": 84,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495718325069910023,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495610521776758788,
+        "text": "RT @hicks4ok: Oof, received the agenda for tomorrow's Health and Human Services committee meeting and there are 5 items on the agenda. 4/5\u2026",
+        "created_at": "2022-02-21 04:05:10+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495516673247432705,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495594007191240705,
+        "text": "@AprilHolderArt Just jelly on a toast. Just butter on a biscuit. Butter and pb on a pancake. And i love cafe toast with butter already on it from the grill. Then I add fruit spread.",
+        "created_at": "2022-02-21 02:59:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 914273748907429888,
+        "referenced_tweets": {
+            "id": 1495477499337351177,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495407625416159238,
+        "text": "RT @b4duism: feminine urge to let in as much natural light as possible as ur starting ur day",
+        "created_at": "2022-02-20 14:38:55+00:00",
+        "public_metrics": {
+            "retweet_count": 17938,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494743334568574982,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495374992061648902,
+        "text": "My passionate and gritty sister is Democracy in Action- tune in and catch her energy at 10:30 central time! https://t.co/f52A2GyJgb",
+        "created_at": "2022-02-20 12:29:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495186441328021510,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1495374508038971395,
+        "text": "RT @lolennui: irl friends reading your tweets https://t.co/K3bhNmcTOP",
+        "created_at": "2022-02-20 12:27:20+00:00",
+        "public_metrics": {
+            "retweet_count": 9368,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494733803532738562,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495234655037149190,
+        "text": "RT @fdana_bear: Why is my home state so fucking backward? If you see this, retweet and contact your fucking reps to let them know they are\u2026",
+        "created_at": "2022-02-20 03:11:36+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495061202178920448,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495210311238012939,
+        "text": "RT @overlyxclusive: the sex appeal of an enriching conversation is undefeated.",
+        "created_at": "2022-02-20 01:34:52+00:00",
+        "public_metrics": {
+            "retweet_count": 467,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494397734530465792,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495073914489344003,
+        "text": "RT @IndigenousBeads: Just finished the first earring! Who knew Serotonin was so pretty \ud83d\ude0d https://t.co/CVqLeuQ5a3",
+        "created_at": "2022-02-19 16:32:53+00:00",
+        "public_metrics": {
+            "retweet_count": 473,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494881302494912514,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494800308647735301,
+        "text": "RT @FNDI303: .@FNDI303's new report on best practices, strategies, and key lessons learned by tribes and Native-led organizations in the No\u2026",
+        "created_at": "2022-02-18 22:25:40+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494713337229291530,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494796804914884608,
+        "text": "RT @oppresseddingy: i talk to my ancestors because if their trauma has been passed down in me i can reach out to them through me. and i can\u2026",
+        "created_at": "2022-02-18 22:11:44+00:00",
+        "public_metrics": {
+            "retweet_count": 27,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494223331465199621,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494796750221160448,
+        "text": "RT @IFAIUArk: Indigenous Food and Agriculture Initiative's Associate Director, Carly Hotvedt, testified to the House Rules and Natural Reso\u2026",
+        "created_at": "2022-02-18 22:11:31+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494745417313136641,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494782101790629891,
+        "text": "RT @haymarketbooks: Audre Lorde was born February 18, 1934 in Harlem. https://t.co/qMQEwf0BBq",
+        "created_at": "2022-02-18 21:13:19+00:00",
+        "public_metrics": {
+            "retweet_count": 1296,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494537158480257025,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494750780561178632,
+        "text": "@notsarahgray Yes!",
+        "created_at": "2022-02-18 19:08:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 753304884754001922,
+        "referenced_tweets": {
+            "id": 1494541147565350945,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494733926061035520,
+        "text": "What I was feeling, perfectly articulated by experienced voices of advocacy. \n https://t.co/KGn6Yjj4dO",
+        "created_at": "2022-02-18 18:01:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494729690728255500,
+        "text": "RT @NativeFarmBill: The NFBC welcomes our newest ally organization, Feeding America, to our coalition. To find out how your Tribal Nation o\u2026",
+        "created_at": "2022-02-18 17:45:03+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494039384815030272,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494729637167083523,
+        "text": "@carlyforOK Powerful delivery, I felt it and appreciate you v much! \u2764\ufe0f",
+        "created_at": "2022-02-18 17:44:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 954390978663731200,
+        "referenced_tweets": {
+            "id": 1494682743573299200,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494729379448070144,
+        "text": "House Committee on Natural Resources Meeting Link! Oklahomies @carlyforOK Tune in right now, today. Witiwatsit, Pawnee langauge.  https://t.co/1EcEyzcfug",
+        "created_at": "2022-02-18 17:43:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494429878237765632,
+        "text": "RT @keatonbaker47: Y\u2019all know what Firefalls is? https://t.co/CbPTaDK43h",
+        "created_at": "2022-02-17 21:53:42+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493766599928541194,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494420093119385603,
+        "text": "RT @RezDogsCasting: Want to be a part of the Rez Dogs family? We are now looking for all different ages, shapes, and sizes to cast as extra\u2026",
+        "created_at": "2022-02-17 21:14:49+00:00",
+        "public_metrics": {
+            "retweet_count": 279,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494330242147647495,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494419817234894850,
+        "text": "RT @QueensCTL: Special Event: Meaning-Making with Youth and Communities with Eve Tuck! \nWednesday, March 9, 2022, 11:00 - 12:30pm\n\nLearn Mo\u2026",
+        "created_at": "2022-02-17 21:13:44+00:00",
+        "public_metrics": {
+            "retweet_count": 31,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493580595322142726,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494356927178059777,
+        "text": "@tuckeve @alexispauline @AnahuyMentoring @wtgrantfdn How beautiful does that sound? Delighted for you, already loved your writing, @tuckeve",
+        "created_at": "2022-02-17 17:03:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 720951847,
+        "referenced_tweets": {
+            "id": 1494058637345660932,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494355176060334083,
+        "text": "RT @AnahuyMentoring: Universities w/ a land acknowledgement:\nI look forward to the day when any new program proposed at your university mus\u2026",
+        "created_at": "2022-02-17 16:56:52+00:00",
+        "public_metrics": {
+            "retweet_count": 134,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494023478408003585,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494141680399929346,
+        "text": "https://t.co/qxF9BSNLVu",
+        "created_at": "2022-02-17 02:48:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494125455091326978,
+        "text": "RT @KatieStone42: I don't know what single man needs to hear this, but you can throw away your empty weed containers. I promise you will no\u2026",
+        "created_at": "2022-02-17 01:44:02+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494104503905226754,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494125353660465152,
+        "text": "@KatieStone42 It me, i'm single man",
+        "created_at": "2022-02-17 01:43:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 160275327,
+        "referenced_tweets": {
+            "id": 1494104503905226754,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494125266024730628,
+        "text": "And I wanna love a girl who, doesn't worry about the pictures when we kissssssss. Doesn't wake up so hit or misssssss. *lyricalswoon, @zachlanebryan Got me right in the old hurt zone.",
+        "created_at": "2022-02-17 01:43:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494069978294857730,
+        "text": "RT @IFAIUArk: \ud83d\udce3 \ud83d\udce3 Attention students! Applications for IFAI's summer youth programs are officially open for the Native Youth in Food and Ag\u2026",
+        "created_at": "2022-02-16 22:03:35+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493710211055558672,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494068162857508869,
+        "text": "@sieya_revis Let me pull for you",
+        "created_at": "2022-02-16 21:56:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 60183591,
+        "referenced_tweets": {
+            "id": 1494024775961915401,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494068117944868869,
+        "text": "@carlyforOK Scat. I know that stuff!",
+        "created_at": "2022-02-16 21:56:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 954390978663731200,
+        "referenced_tweets": {
+            "id": 1493998989133459460,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493988939287482382,
+        "text": "Thinking back to my fave time of year! Canning season. This was a gift from @knitpurlc's mamma! https://t.co/1XmWUA57tB",
+        "created_at": "2022-02-16 16:41:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493799712868212739,
+        "text": "RT @eve_kenneally: it's really cute when pets sigh. like what ails u lil buddy",
+        "created_at": "2022-02-16 04:09:39+00:00",
+        "public_metrics": {
+            "retweet_count": 64435,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493644984561586177,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493681856587436040,
+        "text": "@carlyforOK Oh. Sending you tons of love and my condolences, Carly. Grannies are so special.",
+        "created_at": "2022-02-15 20:21:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 954390978663731200,
+        "referenced_tweets": {
+            "id": 1493647216443023371,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493615587293024262,
+        "text": "@msprairierose I wanna get to know ya so I can show ya... aye I think that's Missy E!",
+        "created_at": "2022-02-15 15:58:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 64223295,
+        "referenced_tweets": {
+            "id": 1493440189888348161,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493381688658956288,
+        "text": "Bear Society https://t.co/wP1JVA9rzz",
+        "created_at": "2022-02-15 00:28:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493378104508698625,
+        "text": "RT @jpalmerOKC: .@GovStitt appointed Sarah Lepak to the @oksde board of education. Lepak is a project manager at QuikTrip in Tulsa. She's a\u2026",
+        "created_at": "2022-02-15 00:14:20+00:00",
+        "public_metrics": {
+            "retweet_count": 77,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493343212227989508,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493272397662892039,
+        "text": "RT @Faith_Salie: Andrew Whitworth was named NFL man of the Year, but in my book, his daughter is a hero because she\u2019s reading a book at the\u2026",
+        "created_at": "2022-02-14 17:14:17+00:00",
+        "public_metrics": {
+            "retweet_count": 2037,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493025527208239105,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493252222087532549,
+        "text": "RT @svershbow: Sarah Jessica Parker knows never to leave the house without a book. https://t.co/d5YR8S96bI",
+        "created_at": "2022-02-14 15:54:07+00:00",
+        "public_metrics": {
+            "retweet_count": 447,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493027491136557056,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493252002830299137,
+        "text": "https://t.co/ymGTyiUE5r",
+        "created_at": "2022-02-14 15:53:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493192901358141440,
+        "text": "The most beautiful and common sense end of life care reflections. https://t.co/FA294ntMIb",
+        "created_at": "2022-02-14 11:58:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492945653672005634,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1493034283472199688,
+        "text": "Nobody knows what it's like, to be a meat pieeeeeeee. Be a bad guyyyyy. https://t.co/DxTJHnMeBA",
+        "created_at": "2022-02-14 01:28:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492891560182169608,
+        "text": "@TKissee13 Teach me the ways! Mine always get slimey and slippery!",
+        "created_at": "2022-02-13 16:00:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 275092602,
+        "referenced_tweets": {
+            "id": 1492723040714641408,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492719476093202435,
+        "text": "How I sleep these days. https://t.co/cZQHV5Ld9G",
+        "created_at": "2022-02-13 04:37:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492698494028726274,
+        "text": "RT @nerdette: The only con-artist film I want to see is about heistmaster Doris Payne, who is quoted as saying \u2018I never want to be under th\u2026",
+        "created_at": "2022-02-13 03:13:48+00:00",
+        "public_metrics": {
+            "retweet_count": 43,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492665840990310402,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1492698293524213763,
+        "text": "RT @KatieStone42: \u201cYou think there\u2019s a group chat dedicated to hating you? Good. That means you\u2019ve stood up for something, sometime in your\u2026",
+        "created_at": "2022-02-13 03:13:00+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492637676360458240,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1492212942846279685,
+        "text": "I feel like I am at an age where yes, i can now, handle The Hobbit. I'd like to thank my ADHD medication and a renewed curiosity in fantastic adventure sagas.",
+        "created_at": "2022-02-11 19:04:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492202977796444161,
+        "text": "We need protections against violence, including sexual violence for Native and BIPOC women. https://t.co/xamLQCFvug",
+        "created_at": "2022-02-11 18:24:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492199578443132931,
+        "text": "RT @NativeFarmBill: Join Spencer Torbett of @IFAIUArk for an informational webinar covering Farm Bill's Title I \u2013 Commodities.  \nWebinar wi\u2026",
+        "created_at": "2022-02-11 18:11:17+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492197265427116035,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1492182727344504835,
+        "text": "RT @SpellmanEllie: London has a floating bookshop on a 1920s barge and I must go now. https://t.co/5uPRhwUKGZ",
+        "created_at": "2022-02-11 17:04:20+00:00",
+        "public_metrics": {
+            "retweet_count": 367,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491872008556232712,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1492182410938789888,
+        "text": "When your https://t.co/EYp3a3JEFr requests a lb of suet so she can whip  up a batch of do.zhu. (tsi ekon) for her Valentines Party. \ud83d\udc9d",
+        "created_at": "2022-02-11 17:03:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491942004049293317,
+        "text": "RT @stacyleeds: Tax for Native ag producers . . .  courtesy of @AkiptanInc.",
+        "created_at": "2022-02-11 01:07:47+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491849916880023554,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491941927842897922,
+        "text": "RT @NativeFarmBill: The NFBC welcomes the Central Council of Tlingit &amp; Haida Indian Tribes to our coalition. To find out how your Tribal Na\u2026",
+        "created_at": "2022-02-11 01:07:29+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491865059131338754,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491841835790180362,
+        "text": "RT @stacyleeds: \u201cIn truth, it overturned less than 1%. . . [and] at least 71% had charges re-filed in U.S. or tribal courts.\u201d  https://t.co\u2026",
+        "created_at": "2022-02-10 18:29:45+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491832767960662016,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491841693745876997,
+        "text": "Oh Teegs\n\nhttps://t.co/5NWbHtBdoS",
+        "created_at": "2022-02-10 18:29:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491816353111719936,
+        "text": "@sustainableag @YoungFarmers @yatiekates_free",
+        "created_at": "2022-02-10 16:48:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 48149896,
+        "referenced_tweets": {
+            "id": 1490702564391890952,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491816309088264192,
+        "text": "RT @sustainableag: @youngfarmers is joining other agricultural justice organizations in launching the largest survey of BIPOC and #youngfar\u2026",
+        "created_at": "2022-02-10 16:48:19+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490702564391890952,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491778857548107777,
+        "text": "@drgdpstarr Definitely shared you and Heather's book with our InterInstitutional Food and Ag Systems Fellows!",
+        "created_at": "2022-02-10 14:19:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 435171542,
+        "referenced_tweets": {
+            "id": 1491615130286649344,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491756077280550912,
+        "text": "Walks out the door of the Osage Nation fitness center. Smells strong wafts of Skunk. Is it me? No, not me. It's that morning medicine. \ud83c\udf04 \nMa.ka",
+        "created_at": "2022-02-10 12:48:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491539836917858306,
+        "text": "RT @EVAWintl: The Violence Against Women Act is a bipartisan bill that will benefit survivors. #VAWA4ALL TY @SenFeinstein @SenJoniErnst @Se\u2026",
+        "created_at": "2022-02-09 22:29:43+00:00",
+        "public_metrics": {
+            "retweet_count": 20,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491531330177306625,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491539674661224448,
+        "text": "RT @NativeFarmBill: Join Spencer Torbett of @IFAIUArk for an informational webinar covering Farm Bill's Title I \u2013 Commodities.  \nWebinar wi\u2026",
+        "created_at": "2022-02-09 22:29:04+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491502696137900034,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491447005595725825,
+        "text": "Even So\n\nLove, if it is love, never goes away.\nIt is embedded in us,\nlike seams of gold in the Earth,\nwaiting for light,\nwaiting to be struck.\n-Alice\n\nOk. But then there is the mindfuck. Fool's Gold\n\nWe can differentiate between healthy and unhealthy bonds, in our higher self.",
+        "created_at": "2022-02-09 16:20:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491437312932446208,
+        "text": "@AuntyCarpetWeed Bringing Justice Against Jehovah\u2019s Witness Child Abusers\nCriminal investigations We understand how difficult it may be to come forward, but justice can only be served when you take action. Contact AMA Law today.",
+        "created_at": "2022-02-09 15:42:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 886008505,
+        "referenced_tweets": {
+            "id": 1491436660609155073,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491437014251892736,
+        "text": "@AuntyCarpetWeed Their AMA attorney website, it actually has like a class action lawsuit against child sexual abusers/molestation on THEIR WEBPAGE.",
+        "created_at": "2022-02-09 15:41:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 886008505,
+        "referenced_tweets": {
+            "id": 1491436660609155073,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491432485108215815,
+        "text": "@ProfEagleWoman @NALS_Institute Thank you for sharing this important resource.",
+        "created_at": "2022-02-09 15:23:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2868781582,
+        "referenced_tweets": {
+            "id": 1491425272914378757,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491432285618720769,
+        "text": "RT @ProfEagleWoman: Apply to law school online session on Thurs Feb 24 at 6 pm CST, register at https://t.co/smTYeXVxiL #NativeLaw @NALS_In\u2026",
+        "created_at": "2022-02-09 15:22:21+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491425272914378757,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491432197462855681,
+        "text": "A narcissist does deserve compassion as a human being, but they don\u2019t deserve leniency for their actions because of it! One has NOTHING to do with the other. https://t.co/H8LBe2xley",
+        "created_at": "2022-02-09 15:22:00+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491274812349562882,
+        "text": "@sieya_revis My heart rate is crazy up. I feel you.",
+        "created_at": "2022-02-09 04:56:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 60183591,
+        "referenced_tweets": {
+            "id": 1491132400361177088,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491272328600494082,
+        "text": "RT @Ruth4Nd: News flash \u26a1\ufe0f Tribal consultation is not telling tribal nations what to do. Or telling tribal nations, this (policy) has been\u2026",
+        "created_at": "2022-02-09 04:46:44+00:00",
+        "public_metrics": {
+            "retweet_count": 99,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491251723176124416,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491209877137784833,
+        "text": "@strongheartsdv",
+        "created_at": "2022-02-09 00:38:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 813967214479114242,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491209660606861315,
+        "text": "RT @IACupdate: Join the IAC and the USDA-Agricultural Marketing Service (AMS) to learn more about the Local Food Purchase Assistance Cooper\u2026",
+        "created_at": "2022-02-09 00:37:43+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491196569026273283,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491209638871986178,
+        "text": "@carlyforOK Fuck it upppppp",
+        "created_at": "2022-02-09 00:37:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 954390978663731200,
+        "referenced_tweets": {
+            "id": 1491198018485305344,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491141688165044226,
+        "text": "When you are a victim of childhood sexual abuse, disassociation occurs. There can be entire seasons of life \"lost\" to this coping mechanism as a means of survival. To heal, we must intentionally re-connect with our nervous systems. Talk gently to our childhood self, seek support. https://t.co/MPc7EXrfRw",
+        "created_at": "2022-02-08 20:07:37+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491114690663301120,
+        "text": "National Helpline: 866.FOR.LIGHT\nIf you are aware of a grooming situation that has occurred, is ongoing, or maybe you are stuck in that toxic cycle. From Dark to Light is a national resource to end predatory sexual grooming. \n 1.866.FOR.LIGHT",
+        "created_at": "2022-02-08 18:20:20+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491089911864123392,
+        "text": "RT @TankaBar: It\u2019s almost here!! Instead of chocolates get your love the gift of Tanka for Valentine\u2019s Day!! To purchase link in IG bio!! #\u2026",
+        "created_at": "2022-02-08 16:41:52+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491088360944934922,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491082217388670977,
+        "text": "RT @RobynKRowe: Hey, society\u2014 How close are we to offering fully-remote full professor positions to highly trained and experienced Indigeno\u2026",
+        "created_at": "2022-02-08 16:11:18+00:00",
+        "public_metrics": {
+            "retweet_count": 426,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491064646962642946,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491075448973176833,
+        "text": "Heads Will Roll\nhttps://t.co/L4VQMVepgt",
+        "created_at": "2022-02-08 15:44:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490813065658605574,
+        "text": "Love you too, @Indigenia",
+        "created_at": "2022-02-07 22:21:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1484982238165012497,
+        "referenced_tweets": {
+            "id": 1490791933089923075,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490791933089923075,
+        "text": "After a weekend of processing charges against Bunky-  a reflection on accountability and social change, reading up on a SA victim's advocate's perspective, and being open to check-ins from other amazing women who know my history with sexual perpetrators. \u2764\ufe0f  Gotta feel to heal. https://t.co/3Eg1Ei63yi",
+        "created_at": "2022-02-07 20:57:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 22,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490790651683872773,
+        "text": "RT @Indigenia: Flowers and chocolates are lovely; but y\u2019know 300 lbs. of bison . . . \ud83d\ude0d #ValentinesDay",
+        "created_at": "2022-02-07 20:52:43+00:00",
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490384547510370310,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490473346420686848,
+        "text": "@CaseyJPod https://t.co/LjyWIT4rP0",
+        "created_at": "2022-02-06 23:51:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1311481422536945665,
+        "referenced_tweets": {
+            "id": 1490064378024112131,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490473036268589057,
+        "text": "RT @CaseyJPod: https://t.co/vbLdPhysiA",
+        "created_at": "2022-02-06 23:50:38+00:00",
+        "public_metrics": {
+            "retweet_count": 75,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490064378024112131,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490182210833592323,
+        "text": "RT @LoboWithACause: Natives should start their own biathlon events, but instead of skiing and guns, it\u2019s cross country running and free thr\u2026",
+        "created_at": "2022-02-06 04:34:59+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490030300499353600,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490122579088011266,
+        "text": "@sieya_revis Look up the gig, taskrabbit. It's an app. Learned about it in Phoenix. Good work mang",
+        "created_at": "2022-02-06 00:38:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 60183591,
+        "referenced_tweets": {
+            "id": 1490110642103140355,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489675173955440643,
+        "text": "@WeirdBristol Relaxing read:  A Gentleman in Moscow.",
+        "created_at": "2022-02-04 19:00:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 834031335190708224,
+        "referenced_tweets": {
+            "id": 1489611571030634506,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489670593435766785,
+        "text": "@DeadDogLake I heard he's on his way to Pawnee to help build an Earthlodge.",
+        "created_at": "2022-02-04 18:42:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2239767038,
+        "referenced_tweets": {
+            "id": 1489623529448345604,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489667493643763714,
+        "text": "@Indigenia Our Director! excuse my error! She rocks and is representing Indian Ag in Export markets like Dubai. Tokyo. Barcelona.",
+        "created_at": "2022-02-04 18:29:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1484982238165012497,
+        "referenced_tweets": {
+            "id": 1489472858946482184,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489624847252553728,
+        "text": "DeJ Loaf and my main Leon https://t.co/AXQauoBoIL",
+        "created_at": "2022-02-04 15:40:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489624291234955264,
+        "text": "RT @NativeFarmBill: Have you bookmarked the NFBC's calendar web page yet? We've added new dates for webinars and roundtables. https://t.co/\u2026",
+        "created_at": "2022-02-04 15:38:01+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489301436475363333,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489544317207126018,
+        "text": "@bLanchyIchiban @Indigenia https://t.co/fCG9lfSv1A",
+        "created_at": "2022-02-04 10:20:14+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 2471455495,
+        "referenced_tweets": {
+            "id": 1489519664283619337,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489472858946482184,
+        "text": "@Indigenia Latashia RedHouse, our coordinator for American Indian Foods program has two daughters selling them. Dine' Utah fam",
+        "created_at": "2022-02-04 05:36:17+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 3,
+            "like_count": 15,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 323346108,
+        "referenced_tweets": {
+            "id": 1489254279374245898,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489465165389070336,
+        "text": "@alisonaher I can get you a copy of a reuters publication from Indian Land Tenure Foundation, if you would like!",
+        "created_at": "2022-02-04 05:05:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2577381380,
+        "referenced_tweets": {
+            "id": 1489346946561191939,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489464847301369856,
+        "text": "@fdana_bear Mmmmm. Kidney Gravy.",
+        "created_at": "2022-02-04 05:04:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 195962551,
+        "referenced_tweets": {
+            "id": 1489411158356467717,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489462049155411970,
+        "text": "Dory moment: forgot I had a Twitter. Jotted down some good shit in my \"Dope Rhymes\" notepad.",
+        "created_at": "2022-02-04 04:53:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488845397892091904,
+        "text": "RT @SecDebHaaland: There is no American history without Black history. This month, as we celebrate the Black experience and culture, let us\u2026",
+        "created_at": "2022-02-02 12:02:58+00:00",
+        "public_metrics": {
+            "retweet_count": 733,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488552302764072977,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488731052092706820,
+        "text": "@doc_thoughts Stay ready with the rhymes!",
+        "created_at": "2022-02-02 04:28:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 173200820,
+        "referenced_tweets": {
+            "id": 1488645112032907271,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488683416006496262,
+        "text": "Me, in green pants and tiedye. John Candy:  The elder at the gym who prayed with me today and gifted me a verse of reclamation. https://t.co/oTX6y2Jnbr",
+        "created_at": "2022-02-02 01:19:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488681209597095941,
+        "text": "Please help us complete these surveys as a Native Ag Producer and/or a tribal leader. If you do it, there's a drawing for a trip to our annual conference next December in Las Vegas.  Please share with your tribal leaders, too! My personal goal is 10 survey completions! https://t.co/ll8YltnVIc",
+        "created_at": "2022-02-02 01:10:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488628396414406663,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1488662463323287552,
+        "text": "@nehemiahdfrank Historical Trauma models and Theory of Change started the conversation in Indian Country. A work by Duran called: Healing the Soul Wound. The mass removal of our children and the linkages to the Jewish Holocaust and genocide are what opened my eyes. Along with storytelling.",
+        "created_at": "2022-02-01 23:56:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 832198182192955393,
+        "referenced_tweets": {
+            "id": 1488628239014711297,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488656594485526528,
+        "text": "Pretty Neat Approach to Community Support, No Judgement, and Harm Reduction through connection. What is my why? \n\nhttps://t.co/YlRIenSHl2",
+        "created_at": "2022-02-01 23:32:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488643968589963265,
+        "text": "@carlyforOK I played this on a flight today. I can do obscure stuff for some reason but the 4 letter words had me tripping out.",
+        "created_at": "2022-02-01 22:42:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 954390978663731200,
+        "referenced_tweets": {
+            "id": 1488558163712516102,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488540443226824710,
+        "text": "@Turning_Pages7 For a ride to the book shop, sure!",
+        "created_at": "2022-02-01 15:51:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1085138430542127104,
+        "referenced_tweets": {
+            "id": 1488533147214127104,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488539904363610118,
+        "text": "Gemini Horoscope for 2/1/2022 https://t.co/tX3BPUDBQR",
+        "created_at": "2022-02-01 15:49:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488534150294511620,
+        "text": "@native4data Believe entirely. This one life. We don't have to miss home. Good words friend.",
+        "created_at": "2022-02-01 15:26:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2579686013,
+        "referenced_tweets": {
+            "id": 1488533219414790149,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488532843361968128,
+        "text": "@Turning_Pages7 This is the passenger seat of my truck!",
+        "created_at": "2022-02-01 15:21:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1085138430542127104,
+        "referenced_tweets": {
+            "id": 1488489147094425602,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488530737406038016,
+        "text": "\"Martyr\" 1992. Cleveland, OK Regional Spelling Bee. Greg Young surpassed me. https://t.co/VYYBa8HTyi",
+        "created_at": "2022-02-01 15:12:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488195541531983883,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1488338332954279942,
+        "text": "RT @AnnaHolmes: I've been obsessed with the writer Margaret Wise Brown for years, one of the most creative, iconoclastic women of the early\u2026",
+        "created_at": "2022-02-01 02:28:05+00:00",
+        "public_metrics": {
+            "retweet_count": 368,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488179167136923650,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488257585824378882,
+        "text": "@NativeFarmBill The youth and the \ud83c\udf3d \ud83c\udf3d",
+        "created_at": "2022-01-31 21:07:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1222781692462669824,
+        "referenced_tweets": {
+            "id": 1488254578269249541,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488246554993598464,
+        "text": "RT @AutisticCallum_: Autistic people\u2019s threads are like:\n\n[Insert: incredibly deep, meaningful, important, insightful, articulately express\u2026",
+        "created_at": "2022-01-31 20:23:23+00:00",
+        "public_metrics": {
+            "retweet_count": 173,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488202380042776576,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488231107283804164,
+        "text": "RT @AkiptanInc: We are currently hiring for the following career opportunities: \n- Director of Lending\n- Loan Officer\n- Finance &amp; Administr\u2026",
+        "created_at": "2022-01-31 19:22:00+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488225577551212556,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488201742051250176,
+        "text": "In health the mind is presently seen again,its overarching vault, bright with galaxies,immutable lights, and the warm loves and fears that swept over us as clouds, must lose their finite character and blend with God, to attain perfection. The soul may be trusted to the end. RWE https://t.co/vO6BuI6Uqs",
+        "created_at": "2022-01-31 17:25:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488177622123048966,
+        "text": "@FRlDAKHALIFA Praying for you. Anxiety tries to grasp us up- back it down with prayers and nature's beauty, a breath of crisp air, and keep doing what you are doing. Don't suffer alone. Creator protect you.",
+        "created_at": "2022-01-31 15:49:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1316086722757718017,
+        "referenced_tweets": {
+            "id": 1488087014515740672,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488157372820295682,
+        "text": "RT @TankaBar: Happy Motivational Monday!!! \u201cWe will be known forever by the tracks we leave.\u201d Now make those tracks count!!! \u270a\ud83c\udffe #mondaymoti\u2026",
+        "created_at": "2022-01-31 14:29:00+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488135023391916035,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488102911758508033,
+        "text": "@anneh222 Precious baby.",
+        "created_at": "2022-01-31 10:52:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 842834696639668224,
+        "referenced_tweets": {
+            "id": 1486456721342087173,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488102493049532416,
+        "text": "@anneh222 That's what it takes. Your mind and heart will align with your actions. Offering grace and my gentle support.",
+        "created_at": "2022-01-31 10:50:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 842834696639668224,
+        "referenced_tweets": {
+            "id": 1487906795611959302,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488102196847783939,
+        "text": "The server days, made me who I am today. Appreciate us, ya'll. We are funny as hell and I know the kindest customers made us happy in those moments. Who knows what our servers have up our sleeves and in our capacity to make the world better. https://t.co/VUljBZjMCd",
+        "created_at": "2022-01-31 10:49:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488099370943889410,
+        "text": "Airhugs https://t.co/k7TuOG1iLb",
+        "created_at": "2022-01-31 10:38:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487940074654294016,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1487960489502158848,
+        "text": "Via Power of Positivity and these lungs. https://t.co/GmjYvyuD8G",
+        "created_at": "2022-01-31 01:26:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487958674232553479,
+        "text": "Jason Isbel Cover Me Up\nhttps://t.co/w08T4XsmiT",
+        "created_at": "2022-01-31 01:19:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487932827559772161,
+        "text": "Simply put https://t.co/l5C4Kz1ENY",
+        "created_at": "2022-01-30 23:36:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487884304705273860,
+        "text": "RT @NPRKelly: And here is the interview: https://t.co/27bJDlzR3B",
+        "created_at": "2022-01-30 20:23:56+00:00",
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487197792074452994,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487808672747171851,
+        "text": "Dang Judgy Marshmallow with the side eye and the toebeans. https://t.co/PrFLN1pw6b",
+        "created_at": "2022-01-30 15:23:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487771980539564033,
+        "text": "@RobMakesComics May 21? That's me!",
+        "created_at": "2022-01-30 12:57:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236142643718975489,
+        "referenced_tweets": {
+            "id": 1486048473296236544,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487638063710883844,
+        "text": "@carlyforOK Get better 100%. Sorry you are both affected, Carly!",
+        "created_at": "2022-01-30 04:05:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 954390978663731200,
+        "referenced_tweets": {
+            "id": 1487607578364416009,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487631941935448067,
+        "text": "@1oneflint AND YOUR ORETTY DIMPLESSSS",
+        "created_at": "2022-01-30 03:41:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1485874802489442308,
+        "referenced_tweets": {
+            "id": 1487364004624449538,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487630795015655426,
+        "text": "@KatieStone42 I fucking love you AND Zelda. Cheers",
+        "created_at": "2022-01-30 03:36:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 160275327,
+        "referenced_tweets": {
+            "id": 1487605564674756610,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487630501120724996,
+        "text": "@carlyforOK Oh sis..i am so sorry. Was it the baby goat?",
+        "created_at": "2022-01-30 03:35:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 954390978663731200,
+        "referenced_tweets": {
+            "id": 1487607578364416009,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487570300715868169,
+        "text": "RT @politico: A top suicide hotline is collecting data from people's darkest moments and sharing it with a for-profit company that is using\u2026",
+        "created_at": "2022-01-29 23:36:12+00:00",
+        "public_metrics": {
+            "retweet_count": 2424,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487073237813153797,
+            "type": "retweeted"
+        }
+    }
+]

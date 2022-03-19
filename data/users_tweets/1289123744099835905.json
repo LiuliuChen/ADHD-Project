@@ -1,0 +1,3163 @@
+[
+    {
+        "tweet_id": 1499370205340139525,
+        "text": "AHHHHHH SHIT SHIT SHIT EHXIEJIDEJKD I NEED COFFEE EBDJEJJDKEKDKEODOE",
+        "created_at": "2022-03-03 13:04:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498964420801695745,
+        "text": "@songxues When I saw disgust, I was like, \"huh? This doesn't sound like songxues, but then I saw what followed and I agree \ud83e\udd23",
+        "created_at": "2022-03-02 10:12:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1185671135440097280,
+        "referenced_tweets": {
+            "id": 1498826579371302914,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497578786690564100,
+        "text": "@songxues IT HURTS https://t.co/17VVcI66ZV",
+        "created_at": "2022-02-26 14:26:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1185671135440097280,
+        "referenced_tweets": {
+            "id": 1497201695260123140,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497578595895869444,
+        "text": "@songxues I-\nMy heart is dying here https://t.co/gmdQuTi1A7",
+        "created_at": "2022-02-26 14:25:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1185671135440097280,
+        "referenced_tweets": {
+            "id": 1497343365578473483,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497477417828753410,
+        "text": "@VKWK_pz @lettch_ Hello, is it okay for me to share this to my other friends?",
+        "created_at": "2022-02-26 07:43:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 791849358048321536,
+        "referenced_tweets": {
+            "id": 1497472729494130699,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497142897707151363,
+        "text": "@dameitai MY LOVE, YOU REad that too? \ud83d\ude29\ud83e\udd8b\ud83d\udc97\n\nP. S. Same here, my heart went oof",
+        "created_at": "2022-02-25 09:34:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296407854677721089,
+        "referenced_tweets": {
+            "id": 1497141178449334273,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496940341576204288,
+        "text": "@adspexi I can't do this at 4am \u0ca5_\u0ca5",
+        "created_at": "2022-02-24 20:09:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 959543843485028352,
+        "referenced_tweets": {
+            "id": 1337514129200918532,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496471413523288068,
+        "text": "Taxian Jun awakens and becomes bound to the human that saved him. He offers him 3 wishes in return but CW just continues to clean other graves cause he had seen ghost before and doesn't really care about a nameless grave",
+        "created_at": "2022-02-23 13:06:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1289123744099835905,
+        "referenced_tweets": {
+            "id": 1496471021523591168,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496471021523591168,
+        "text": "Thinking about a grave cleaner Chu Wanning cause graves are calm and no human can hurt him. He stumbles on the Taxian-Jun's abandoned grave and cleans it because he finds it sad that none of his family visited him. Turns out there was a curse to keep him locked &amp; CW destroyed it-",
+        "created_at": "2022-02-23 13:04:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496388383542636549,
+        "text": "@DanKe_Reverse_D I can hear chu Wanning sayong \"Shameless!!\"",
+        "created_at": "2022-02-23 07:36:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 289363169,
+        "referenced_tweets": {
+            "id": 1496113054894989312,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496387118653849601,
+        "text": "@songxues Ikr. It's LBH all over again but more unhinged and kill on sight kind of chaotic if he doesn't have candy. But without the happy ending cause he never realized his true feelings \n:(((",
+        "created_at": "2022-02-23 07:31:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1185671135440097280,
+        "referenced_tweets": {
+            "id": 1496254875608530956,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496135660805181441,
+        "text": "@kasasagi_eye Good thing fanfics don't give me money \ud83d\udcb0",
+        "created_at": "2022-02-22 14:51:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 949580651564544000,
+        "referenced_tweets": {
+            "id": 1495783856892481547,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496018492369534977,
+        "text": "@ninomaru9 @dameitai I can hear the three different versions of \"Shizun!\" Just from this picture \u2763\ufe0f",
+        "created_at": "2022-02-22 07:06:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 923254195,
+        "referenced_tweets": {
+            "id": 1495899611319668737,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496018066840616960,
+        "text": "Legit https://t.co/Qg4iaBfn2K",
+        "created_at": "2022-02-22 07:04:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495962581915385858,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1496017655748521984,
+        "text": "@noizuit @dameitai *sighs in single* they so adorable",
+        "created_at": "2022-02-22 07:02:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 913596384,
+        "referenced_tweets": {
+            "id": 1493689350785167362,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496017362994479106,
+        "text": "SOMEONE PLEASE DRAW THIS EJNDKEMDOEKDOEKDO PRETTY PLEASE WITH A CHERRY ON TOP FOR SAN LANG, LUO BINGHE AND LAN WANGJI's SAKE\u2763\ufe0f\u2763\ufe0f\u2763\ufe0f https://t.co/BrR7ex63gE",
+        "created_at": "2022-02-22 07:01:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493547960608903168,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1495920761248251908,
+        "text": "@kasasagi_eye AHHHH THIS IS WHY I LOVE YOU SO MUCH. YOU SPOIL US WITH SO MUCH SHEN JIU SNACKS\ud83d\ude29\u2728\u2763\ufe0f\n\nWHO NEEDS PAID THERAPY WHEN YOU HAVE WONDERFUL KASANAGI?",
+        "created_at": "2022-02-22 00:37:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 949580651564544000,
+        "referenced_tweets": {
+            "id": 1495849993038700547,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495920073369812995,
+        "text": "@PenguinTuk @koiyllz \ud83d\ude2d\ud83e\udd7a",
+        "created_at": "2022-02-22 00:35:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 806699791040282624,
+        "referenced_tweets": {
+            "id": 1495873703955111944,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495918399741853698,
+        "text": "@ariwrote And then Mo Ran being the big puppy that he is, would be all, \"Ah, this man, this person, is all mine. Only I get to see this and feel this. And only he gets to have me like this. Only him. Only us\" as he watches the way CW melts into his touch",
+        "created_at": "2022-02-22 00:28:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 760985784090554368,
+        "referenced_tweets": {
+            "id": 1495844526614790148,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495773747600855040,
+        "text": "@proserandom You're breaking my heart here \ud83d\udc94\ud83d\ude2d",
+        "created_at": "2022-02-21 14:53:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 990478952455024640,
+        "referenced_tweets": {
+            "id": 1495719699837255680,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495773381542952966,
+        "text": "@ariwrote I can imagine MR kissing them. Obsessed and so in love with the way they paint Chu Wanning's skin because it expresses an honestly that CW can't say in his most flustered state(which is when MR flirts with him and when CW's the most happy when MR takes care of his garden)",
+        "created_at": "2022-02-21 14:52:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 760985784090554368,
+        "referenced_tweets": {
+            "id": 1495772664383823875,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495771615237648386,
+        "text": "@ariwrote Yes and Chu Wanning has to leave immediately unless he wants Mo Ran to see the blush that would spread down his neck, painting flowers on his skin because he's definitely magical and ethereal \ud83d\ude0c",
+        "created_at": "2022-02-21 14:45:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 760985784090554368,
+        "referenced_tweets": {
+            "id": 1495743319489585152,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495699708844834820,
+        "text": "@gr_ra_ssr I miss them all so bad :(",
+        "created_at": "2022-02-21 09:59:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 244861914,
+        "referenced_tweets": {
+            "id": 1495196753964015622,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495699512505298945,
+        "text": "@Tadpole_art12 The pet would then be love by SQH so much that he accidentally forgets about MBJ so MBJ tries to take it away but by then the pet is too close to SQH that it would even let him get close",
+        "created_at": "2022-02-21 09:58:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083971461058985984,
+        "referenced_tweets": {
+            "id": 1495247419994431491,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495698287323918343,
+        "text": "@powieluvr @whenspringcome_ Two pics of San lang smiling at his gege",
+        "created_at": "2022-02-21 09:53:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1390802866453958659,
+        "referenced_tweets": {
+            "id": 1495686337164619776,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495693337516716035,
+        "text": "@songxues Because if they didn't, they certainly wouldn't be this hurt and desperate",
+        "created_at": "2022-02-21 09:34:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1289123744099835905,
+        "referenced_tweets": {
+            "id": 1495693246110265344,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495693246110265344,
+        "text": "@songxues This scene held so much of them. The unshed tears,the anger &amp; guilt &amp; care dripping from their voices as they claw at each other's throats w/words that a part of them hates 2 say 2 the other.They weren't as healthy as the main couple but they certainly felt love and loved",
+        "created_at": "2022-02-21 09:33:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1185671135440097280,
+        "referenced_tweets": {
+            "id": 1495425945104261123,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495692278610161667,
+        "text": "@songxues People keep saying XY's actor being handsome is the reason why we can love him. Actually no, the reason we love him is how well the actor let XY come to life with his acting skills. Wang Haoxuan gave him justice. Him being handsome and adorable is just an addition",
+        "created_at": "2022-02-21 09:30:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1185671135440097280,
+        "referenced_tweets": {
+            "id": 1495425945104261123,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495690953910525954,
+        "text": "@kasasagi_eye This is free therapy and I'm living for ir",
+        "created_at": "2022-02-21 09:24:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 949580651564544000,
+        "referenced_tweets": {
+            "id": 1495398147190886403,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495690630403866624,
+        "text": "@ariwrote He does the former on his day off and when he wants to interact with him\n\nHe does the latter after Mo Ran embarrasses him by being the flirty husky that he is",
+        "created_at": "2022-02-21 09:23:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 760985784090554368,
+        "referenced_tweets": {
+            "id": 1495502735134928899,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495690182884233217,
+        "text": "Me: *going through the 5th panic attack in the morning while reviewing for exams*\nBrain: just one more year before college \nMe: Yes. 1 more year\nBrain: then you can yeet\ud83d\udc80 yourself off something high\nMe: Yeah- *silence + life contemplation*\nMe: what?\nBrain: what?",
+        "created_at": "2022-02-21 09:21:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495246835513888771,
+        "text": "@cake_human Imagine spoiling things and people are crawling around trying to figure out who leaked things\ud83d\ude02",
+        "created_at": "2022-02-20 04:00:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180126310737170432,
+        "referenced_tweets": {
+            "id": 1495075744648609792,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495246714210455555,
+        "text": "@cake_human Brat energy is crazy here \ud83e\udd23",
+        "created_at": "2022-02-20 03:59:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180126310737170432,
+        "referenced_tweets": {
+            "id": 1495075744648609792,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495023164740759552,
+        "text": "@mochiweiying I want to chomp on those cheeks",
+        "created_at": "2022-02-19 13:11:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1217861122306396160,
+        "referenced_tweets": {
+            "id": 1494664407791861760,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494285810497388546,
+        "text": "An explanation to all the shit I'm going through \ud83d\ude03 which I only recently realized was from untreated ADHD https://t.co/vUI6iu9hid",
+        "created_at": "2022-02-17 12:21:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494081664959406083,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1494204717387649025,
+        "text": "@ariwrote Omg same here\ud83d\ude2d I think about that",
+        "created_at": "2022-02-17 06:59:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 760985784090554368,
+        "referenced_tweets": {
+            "id": 1494089804572680196,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494203916422377473,
+        "text": "@wkfajrrhtkfdk The way he delicately holds onto Mo Ran and leans down is so him. It's like he's hesitant whether he's allowed to do it or not \ud83d\ude2d",
+        "created_at": "2022-02-17 06:55:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1292389797713985536,
+        "referenced_tweets": {
+            "id": 1493765271659900928,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494203556051623938,
+        "text": "@juliolio_ I imagine Chu Wanning choking and Mo Ran, \"Good boy\" and Chu Wanning would be marching out of there with red cheeks nwjxkeke \ud83d\ude29",
+        "created_at": "2022-02-17 06:54:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1441122935205363716,
+        "referenced_tweets": {
+            "id": 1493998032429494283,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494100454011465733,
+        "text": "@MapleAbyss My brain thought it was him *look gege I'm so powerful none of these could kill me so you don't ever have to think about sacrificing yourself for my case or anyone else. I'm powerful enough that you can depend on me now*",
+        "created_at": "2022-02-17 00:04:41+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 1,
+            "like_count": 129,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1358510116203614208,
+        "referenced_tweets": {
+            "id": 1493924839291240451,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494099661023739907,
+        "text": "@ariwrote Omg same. There's something beautiful about the subtle nature around them. It's vague, like a hazy dream and that makes the dread feel worse but it also makes the happiness double",
+        "created_at": "2022-02-17 00:01:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 760985784090554368,
+        "referenced_tweets": {
+            "id": 1493806303701094403,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494099343275880448,
+        "text": "@LittleMangoNA The fact that RanWan are technically married in their past life and new life seems to just go over their heads \ud83e\udd23\n\nMo Ran did it ever cross your mind that you accidentally married the love of your life before you realized he was the love of your life?\ud83e\udd23",
+        "created_at": "2022-02-17 00:00:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 31,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 698150573233672192,
+        "referenced_tweets": {
+            "id": 1493923726122835974,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494098598094864385,
+        "text": "@Of_RobotandGod @fallenwithstyle I carry around a water bottle with me and I would still forget to drink \u0ca5\u203f\u0ca5",
+        "created_at": "2022-02-16 23:57:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 783372900476813313,
+        "referenced_tweets": {
+            "id": 1494088297035018244,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494098132476772353,
+        "text": "@juliolio_ I just re-read SVSSS \u0ca5\u203f\u0ca5",
+        "created_at": "2022-02-16 23:55:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1441122935205363716,
+        "referenced_tweets": {
+            "id": 1493759733236445184,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493617739378073600,
+        "text": "@doro_blue @tagteamme Literally Xue Meng and Mo Ran after he gets the text https://t.co/B9BiuUdrQG",
+        "created_at": "2022-02-15 16:06:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1006901128825409538,
+        "referenced_tweets": {
+            "id": 1401050239897800707,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493366887170068480,
+        "text": "@Zero_Q_0q @Banap0t @dameitai NOT WHAT YOU WERE LOOKING FOR BUT JWIDNROFKEOEK HE'S BEAUTIFUL",
+        "created_at": "2022-02-14 23:29:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 731749246307688449,
+        "referenced_tweets": {
+            "id": 1297264573595021312,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493364173442809860,
+        "text": "@_mari_moonmoon I love how the shippers of this pair all agree that LXC would call him sweetheart, lotus and all those cringe worthy nicknames just because he's LXC and this is JC he's calling \ud83e\udd23",
+        "created_at": "2022-02-14 23:18:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4602618017,
+        "referenced_tweets": {
+            "id": 1493004731916111875,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492864354437726210,
+        "text": "@Of_RobotandGod I'm living for this\ud83d\ude33\ud83d\udc4c\ud83d\ude24\u2763\ufe0f",
+        "created_at": "2022-02-13 14:12:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 783372900476813313,
+        "referenced_tweets": {
+            "id": 1492708564980449280,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492863298823663625,
+        "text": "@vorewangji Poor can\ud83d\ude14 and RIP Chu Wanning",
+        "created_at": "2022-02-13 14:08:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1058685707105951746,
+        "referenced_tweets": {
+            "id": 1391441312600051713,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492860448366292999,
+        "text": "@songxues Here we can see a cat in its natural moment when it finds catnip",
+        "created_at": "2022-02-13 13:57:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1185671135440097280,
+        "referenced_tweets": {
+            "id": 1492639906174222338,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492858614104879105,
+        "text": "@kasasagi_eye OMG YES SUCH A TREAT\ud83d\ude29\ud83e\udd8b\ud83d\ude33\u2763\ufe0f",
+        "created_at": "2022-02-13 13:50:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 949580651564544000,
+        "referenced_tweets": {
+            "id": 1492816477300436994,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492858137250246656,
+        "text": "@songxues It's probably when Xiao Xingchen is being too good to people again that he's becoming irresponsible when it comes to himself or his actions require him to sacrifice something of his\ud83d\ude29\n\nXY would scold him for being an idiot and SL would support his brat because of it",
+        "created_at": "2022-02-13 13:48:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1185671135440097280,
+        "referenced_tweets": {
+            "id": 1492529463397126155,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492734884950859776,
+        "text": "Feeling empty after my own mother gaslighted me when I explained that I have ADHD. Now brain has shut down &amp; I just woke up from 7 hours of sleep. Which is alarming because I only get 2 or 3 hours at most",
+        "created_at": "2022-02-13 05:38:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492733499094097923,
+        "text": "@bestofwhx His existence heals my heart thank you\u2763\ufe0f",
+        "created_at": "2022-02-13 05:32:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1442688894663856135,
+        "referenced_tweets": {
+            "id": 1492315877617852417,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492513150553718787,
+        "text": "@ariwrote @sunny_parasol I'm fully committed to this\ud83d\ude33",
+        "created_at": "2022-02-12 14:57:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 760985784090554368,
+        "referenced_tweets": {
+            "id": 1492257133076885506,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492512338364502019,
+        "text": "My heart hurts so much \ud83d\udc94 I need new XueXiao fics\ud83d\ude2d https://t.co/L0i8o64s63",
+        "created_at": "2022-02-12 14:54:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492486157955117062,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1492137735049547776,
+        "text": "@dameitai Dame if you find it please tag me oh my wonderful love\ud83e\udd7a and I shall do the same if I find something similar",
+        "created_at": "2022-02-11 14:05:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296407854677721089,
+        "referenced_tweets": {
+            "id": 1492043520126767106,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492136489529995266,
+        "text": "@Of_RobotandGod But it's not as easy as that. It takes almost half our energy to even start something we don't like. One could already be half way through and I would still be starting. But that's your pace, our pace is different. \ud83d\ude14",
+        "created_at": "2022-02-11 14:00:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1289123744099835905,
+        "referenced_tweets": {
+            "id": 1492136106904604672,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492136106904604672,
+        "text": "@Of_RobotandGod Bruh *hug* :( my sis says something like that, \"I'm already done with most of my work and you're just starting? Work faster! It's like you have bigger baggages than me and I'm supposed to be the older one\"",
+        "created_at": "2022-02-11 13:59:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 783372900476813313,
+        "referenced_tweets": {
+            "id": 1491962384398880770,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492135423451090950,
+        "text": "@ariwrote Same here but then I thought about TXJ rubbing it in CW's face that he could merely be a consort and that he was shameless for wanting to be his empress \ud83e\udd23",
+        "created_at": "2022-02-11 13:56:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 760985784090554368,
+        "referenced_tweets": {
+            "id": 1492134015880597504,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492013543616823300,
+        "text": "@mysticamajestic JC deserves so much too. But hey, at least, JC knew what not to do when he raised his JL\ud83e\udd7a",
+        "created_at": "2022-02-11 05:52:03+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 26,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 865137774688559105,
+        "referenced_tweets": {
+            "id": 1491922498233184256,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492013358228582400,
+        "text": "@mysticamajestic He wasn't the worst father but he also wasn't the best one. If only he saw WWX instead of the ghost of his past, maybe he could have been really good\ud83d\ude14",
+        "created_at": "2022-02-11 05:51:19+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 59,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 865137774688559105,
+        "referenced_tweets": {
+            "id": 1491922498233184256,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492013077197639681,
+        "text": "@mysticamajestic @iNomYoongi He was sadly a man stuck in an unhappy marriage and just really tired of everyone's expectations and the sect business. He's the equivalent to a man with a good heart in the wrong generation and wrong job\ud83d\ude14\n\nPerhaps in another life they could be happy",
+        "created_at": "2022-02-11 05:50:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 865137774688559105,
+        "referenced_tweets": {
+            "id": 1491987293716217857,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492000118614409216,
+        "text": "@xianlesugarbaby @ariwrote We all know everything practically has a horny flashback and it was kept away from our grasps cause author knew the power of fanfics + angst + horny + Mo Ran + Chu Wanning + everything 2ha",
+        "created_at": "2022-02-11 04:58:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1401604851692310529,
+        "referenced_tweets": {
+            "id": 1491867715044196354,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491939355094519809,
+        "text": "@dameitai I just know he be thinking, \"Why? Where did I go wrong? Why was my Shizun so different? Why? Why couldn't I have that kind of Shizun? Shizun? Shen Qingqiu? Where are you? Come back here... Let's have a redo\" and no one can change my mind",
+        "created_at": "2022-02-11 00:57:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296407854677721089,
+        "referenced_tweets": {
+            "id": 1491683087863877634,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491937777511845892,
+        "text": "@jiminsi_arts 2 moods of people looking at fanarts like this\n\n1: *crying, sobbing and screaming cause it's angst*\n2: OMG OMG THIS IS BEAUTIFUL, THE EXPRESSION, THE ATMOSPHERE, IT'S PERFECT\n\nIM BOTH\ud83d\ude0c\ud83d\ude24\u2665\ufe0f",
+        "created_at": "2022-02-11 00:50:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180552832321122305,
+        "referenced_tweets": {
+            "id": 1491688269415092225,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491936923379658752,
+        "text": "@Anasei_ @soursoppi Seriously\ud83d\ude2d there's probably a reason why he was so obsessed of taking care of WWX.He was tired, everyone was tired bcause they were stuck in an unhappy marriage.He wasn't the best father but he also wasn't the worst 1. He was simply just too tired 2 keep everything together \ud83d\ude2d",
+        "created_at": "2022-02-11 00:47:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 82453701,
+        "referenced_tweets": {
+            "id": 1491737278636597252,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491935775235002368,
+        "text": "@SerpentHell he sacrificed the rest of his teenage years 2 FUCKING REBUILD a sect he lost &amp; 2 FUCKING RAISE A CHILD when he,himself was 1!He sacrificed his happiness, &amp; the rest of himself 2 rebuild his home because he knew none of those geezers would like a child leading a sect.",
+        "created_at": "2022-02-11 00:43:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1126006797838348289,
+        "referenced_tweets": {
+            "id": 1491355313093881858,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491934973212823553,
+        "text": "@SerpentHell They don't know that he would have done the same thing if their roles were switched. Maybe a different path, but the same results still because JC clearly loves WWX in his own way",
+        "created_at": "2022-02-11 00:39:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1126006797838348289,
+        "referenced_tweets": {
+            "id": 1491355313093881858,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491753054580121606,
+        "text": "@koiyllz Friend, you just filled the big hole I had for the story. I'll be sending it the first chap when I finish\ud83d\ude29\u2763\ufe0f",
+        "created_at": "2022-02-10 12:36:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 796834125726498817,
+        "referenced_tweets": {
+            "id": 1491562675444322304,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491752414806183936,
+        "text": "@noizuit You want me to beg for it?\ud83e\udd7a",
+        "created_at": "2022-02-10 12:34:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 913596384,
+        "referenced_tweets": {
+            "id": 1491522720277749760,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491752139286544387,
+        "text": "@robotrabbits WAIT WAIT WHAT IS THE TITLE FOR THIS OMG OMG NWKZNEKDNEK HE'S SO PRETTY AND SO CUTE",
+        "created_at": "2022-02-10 12:33:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2912882257,
+        "referenced_tweets": {
+            "id": 1491705884720103428,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491750566225391616,
+        "text": "@dameitai YQY never told him the truth. Qi-ge died believing he wasn't forgiven, and SJ died not knowing the truth about them\n\nSVSSS is definitely angsty.\nBut PIDW carries a different type of pain we would never get a happy ending 4 cause we know so little about it.",
+        "created_at": "2022-02-10 12:27:05+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 11,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1289123744099835905,
+        "referenced_tweets": {
+            "id": 1491749520140816385,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491749520140816385,
+        "text": "@dameitai But it's funny 2 think he started as a slave with Qi-ge, then cages himself in a sect 4 Qi-ge, suffers in his disciple's hands 2 maintain Qi-ge's reputation &amp; then died cause of Qi-ge. He died because the only person that believed in his innocence (Qi-ge) was dead bcause of him.",
+        "created_at": "2022-02-10 12:22:55+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1289123744099835905,
+        "referenced_tweets": {
+            "id": 1491748693481238528,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491748693481238528,
+        "text": "@dameitai Everyday I sit on my chair thinking, \"SJ only ever stayed alive because he had Qi-ge,&amp; without him,there was no reason 2 keep suffering in the world where he started as a slave &amp; would die, owned by his creation. But hey, at least no 1 would laugh because he died of depression.\"",
+        "created_at": "2022-02-10 12:19:38+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1289123744099835905,
+        "referenced_tweets": {
+            "id": 1491747542119628801,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491747542119628801,
+        "text": "@dameitai It's so sad to think that SJ only stayed alive because he knew his Qi-ge would be too hurt if he died. It's sadder to think Qi-ge died believing SJ never forgave him for not being there on time to save him from his previous owners(Qiu)",
+        "created_at": "2022-02-10 12:15:04+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 12,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296407854677721089,
+        "referenced_tweets": {
+            "id": 1491728891928465411,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491707862770327557,
+        "text": "@kimsglaive @guangmeow 4. We get to see a cute scene of a cute person petting a cute thing",
+        "created_at": "2022-02-10 09:37:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 741952960540905472,
+        "referenced_tweets": {
+            "id": 1491495662139105280,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491707293955604481,
+        "text": "At first it was cause I liked Luna lovegood and the actual moon. But then it became the \"damn it moon moon!\ud83d\ude24\" meme https://t.co/B6LVIlFm2F",
+        "created_at": "2022-02-10 09:35:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490636687256473600,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1491693543022157827,
+        "text": "@ana__cp Especially when his new obsession relates to something he wants LWJ to do or to wear or to buy because LWJ is the happiest during those moments.\n\n*What he doesn't know is that everything actually reminds WWX of him one way or another*",
+        "created_at": "2022-02-10 08:40:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1003783115452624897,
+        "referenced_tweets": {
+            "id": 1491549906431102980,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491692688780906496,
+        "text": "@nerllx_00 @dameitai OH WOW YOU'RE PRETTY AND THE COSPLAY IS PRETTY \u2763\ufe0f",
+        "created_at": "2022-02-10 08:37:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1233303123097055232,
+        "referenced_tweets": {
+            "id": 1491250823569231872,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491692321108205569,
+        "text": "@mikasadarling I tend to just filter those out when reading in ao3. No value using my time having to physically lean away when I come across them\n\n(Again, no hate to those that do, I'm just not comfortable with em.) Let's respect people's preference \u2665\ufe0f",
+        "created_at": "2022-02-10 08:35:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1405886868147769346,
+        "referenced_tweets": {
+            "id": 1491691477646610434,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491691789647900675,
+        "text": "@ariwrote I know TJ burned that same thing after he realizes someone wore it and smells her scent on it(because it was def not his Chu-fei's smell\ud83d\ude24)\n\nAlthough he \"disliked\" his shizun, I know he would never give him second goods that were intended to be HIS gift in the beginning",
+        "created_at": "2022-02-10 08:33:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 760985784090554368,
+        "referenced_tweets": {
+            "id": 1491403425141370886,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491691226197725184,
+        "text": "@mikasadarling Same. Never could see it happening\n\n (no hate to those that read and see it happening tho)",
+        "created_at": "2022-02-10 08:31:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1405886868147769346,
+        "referenced_tweets": {
+            "id": 1491638933431930885,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491690937034051585,
+        "text": "@solarlwj He had countless gae awakenings facing YLLZ\ud83e\udd23",
+        "created_at": "2022-02-10 08:30:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1336513216420188162,
+        "referenced_tweets": {
+            "id": 1491615257248239622,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491690442986905601,
+        "text": "@kasasagi_eye @noxwave SJ pushing LBH in there after the revelation tells me that the only thing he had in mind was making sure YQY's position as sect head was absolute &amp; that he wouldn't endanger any of his other peak lords bcause of his own doing. Because SJ's only reason 2 stay was his Qi-ge.",
+        "created_at": "2022-02-10 08:28:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 949580651564544000,
+        "referenced_tweets": {
+            "id": 1491374231246221317,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491688830465806338,
+        "text": "@dameitai Let's cry together https://t.co/sCd1p3ddxx",
+        "created_at": "2022-02-10 08:21:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296407854677721089,
+        "referenced_tweets": {
+            "id": 1491687549365985286,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491679553273888776,
+        "text": "@ADHD_Alien @Of_RobotandGod The guilt that eats you up realizing who you are and what you have affects people, it's something that drowns you. Like a rope across your neck just squeezing the air and sanity out of you",
+        "created_at": "2022-02-10 07:44:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1132258990140907524,
+        "referenced_tweets": {
+            "id": 1491428379978977283,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491679254484238337,
+        "text": "@ADHD_Alien @Of_RobotandGod The most hurtful things I've ever heard because of having ADHD was my mom saying, \"You're using it as your whole personality.\" \"Everything is about it.\" \"Excuses, excuses, stop using it as an excuse\" \"You've managed for years, so why stop now\"",
+        "created_at": "2022-02-10 07:43:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1132258990140907524,
+        "referenced_tweets": {
+            "id": 1491428379978977283,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491677074863837184,
+        "text": "@TheBdelliumLady @juliolio_ Jeidekdk yes that's so cute wjdnmdmw",
+        "created_at": "2022-02-10 07:35:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1069857250381103105,
+        "referenced_tweets": {
+            "id": 1491613280330260481,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491675967097806848,
+        "text": "I don't understand any schoolwork anymore it's like all my reading comprehension went down the drain",
+        "created_at": "2022-02-10 07:30:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491674005694447618,
+        "text": "@dameitai On the other hand, Shit this is gorgas my heart- can't take it",
+        "created_at": "2022-02-10 07:22:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1289123744099835905,
+        "referenced_tweets": {
+            "id": 1491672999757422593,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491673719454203904,
+        "text": "@dameitai -fill that void anymore. No SJ 2 hate or ask why he wasn't treated well by the one he admired. He couldn't scrap off any form of attention or reaction from SJ. Everything else was just a bandaid over a wound,they would only give temporary relief &amp; still wouldn't cover everything",
+        "created_at": "2022-02-10 07:21:43+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 52,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1289123744099835905,
+        "referenced_tweets": {
+            "id": 1491672999757422593,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491672999757422593,
+        "text": "@dameitai LBH felt empty as he grew older &amp; that's y he tried 2 make up 4 it with company &amp; clung 2 anyone that gave him the bare minimum. His hate for SJ gave him purpose, so when that ended, he felt emptier rather than happy. I believe LB drove himself mad at the end cause he couldn't-",
+        "created_at": "2022-02-10 07:18:51+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 2,
+            "like_count": 62,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296407854677721089,
+        "referenced_tweets": {
+            "id": 1491669688446689280,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491278048615809024,
+        "text": "@Of_RobotandGod *hug*",
+        "created_at": "2022-02-09 05:09:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 783372900476813313,
+        "referenced_tweets": {
+            "id": 1491277138271834112,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491277993242599424,
+        "text": "@Of_RobotandGod I see, thanks again my friend \u2763\ufe0f",
+        "created_at": "2022-02-09 05:09:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 783372900476813313,
+        "referenced_tweets": {
+            "id": 1491276370970038276,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491276234201829378,
+        "text": "@Of_RobotandGod Something like that. It's like I forget what I did, what I ate and when I slept. And I have to remind myself to understand what someone is saying or what's written",
+        "created_at": "2022-02-09 05:02:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 783372900476813313,
+        "referenced_tweets": {
+            "id": 1491260972954095617,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491248726391746567,
+        "text": "Sometimes, when I'm at a point where I don't understand anymore what I'm reading, I feel like I'm going mad.\n\nAnd the only way to burn it off is by writing something I eventually forget  I wrote",
+        "created_at": "2022-02-09 03:12:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491247253993910275,
+        "text": "@dokiwithspice Everyday I think about how these two didn't get the closure and ending they deserved and needed",
+        "created_at": "2022-02-09 03:07:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1414050169771884548,
+        "referenced_tweets": {
+            "id": 1491231467099541504,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490883543253524484,
+        "text": "@cake_human That urge to have everyone win medals is overwhelming https://t.co/JKtsytN3EX",
+        "created_at": "2022-02-08 03:01:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180126310737170432,
+        "referenced_tweets": {
+            "id": 1490686842768793600,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490882818322608130,
+        "text": "@ariwrote LMFAO my mind played a scene of Mo Ran in those kiddy pools and surrounded by cat Wannings ejxjwokdekke",
+        "created_at": "2022-02-08 02:58:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 760985784090554368,
+        "referenced_tweets": {
+            "id": 1490867023869583361,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490557469952671747,
+        "text": "@dameitai OMG ILY THANK YOU SO MUCH HE'S GORGEOUS",
+        "created_at": "2022-02-07 05:26:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296407854677721089,
+        "referenced_tweets": {
+            "id": 1490556767721328643,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490556362174042114,
+        "text": "@kasasagi_eye https://t.co/OYoeGRaQE8",
+        "created_at": "2022-02-07 05:21:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 949580651564544000,
+        "referenced_tweets": {
+            "id": 1490412244928188421,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490555367633289216,
+        "text": "@dameitai WHERE WHERE WHERE\ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2022-02-07 05:17:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296407854677721089,
+        "referenced_tweets": {
+            "id": 1490237114339840000,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490553890202615809,
+        "text": "@SerpentHell @dameitai Nskdjwks I can see LQG sewing it by hand for aesthetic purposes \ud83e\udd23",
+        "created_at": "2022-02-07 05:11:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1126006797838348289,
+        "referenced_tweets": {
+            "id": 1490187703299633152,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490247804375109634,
+        "text": "@cake_human I only see Xiao Xingchen and Song Lan using Xue Yang as their pillow.\n\nAs for who the mouse and the snakes are, it's up to you guys to decide in your heads XD",
+        "created_at": "2022-02-06 08:55:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180126310737170432,
+        "referenced_tweets": {
+            "id": 1490166667673935874,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489181635623153664,
+        "text": "@dameitai Google search how to be water for yqy \ud83d\ude44 ASAP",
+        "created_at": "2022-02-03 10:19:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296407854677721089,
+        "referenced_tweets": {
+            "id": 1488859552606945280,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489180523390189568,
+        "text": "@soursoppi It's okay cause we all can sink to the sea to keep this ship afloat",
+        "created_at": "2022-02-03 10:14:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 980240668235677696,
+        "referenced_tweets": {
+            "id": 1489178086058823682,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489164178300436480,
+        "text": "@soursoppi At first I'm like, I don't really ship it but it's cute. But then SOPI DOES IT AGAIN AND AGAIN AND NOW IM OBSESSED \ud83d\ude29",
+        "created_at": "2022-02-03 09:09:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 980240668235677696,
+        "referenced_tweets": {
+            "id": 1489158219347808256,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489081922139557888,
+        "text": "@noizuit Congratulations and good work on the interview by the way\n(\u00b4\u2229\uff61\u2022 \u1d55 \u2022\uff61\u2229`)",
+        "created_at": "2022-02-03 03:42:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 913596384,
+        "referenced_tweets": {
+            "id": 1489072917883224068,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489081827939610625,
+        "text": "@noizuit Syure my friend, who am I not to believe you \u2665\ufe0f",
+        "created_at": "2022-02-03 03:42:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 913596384,
+        "referenced_tweets": {
+            "id": 1489072917883224068,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489000967055962114,
+        "text": "CAN'T STOP THINKING ABOUT XUE YANG ACTOR WITH AN EYELINER FILTER \n\nLIKE SIR YOU EXIST TO BE WHAT? THIS BEAUTIFUL? https://t.co/iKCgx0oZHw",
+        "created_at": "2022-02-02 22:21:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489000352368119810,
+        "text": "@noizuit Denial XD",
+        "created_at": "2022-02-02 22:18:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 913596384,
+        "referenced_tweets": {
+            "id": 1488998846613053453,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488993631721508864,
+        "text": "@Moon_bunsie It's 5am here and I can't do this \n\u0ca5\u203f\u0ca5 \u0ca5\u256d\u256e\u0ca5",
+        "created_at": "2022-02-02 21:52:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1041793607022202880,
+        "referenced_tweets": {
+            "id": 1488950518181363717,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488993126446338048,
+        "text": "@noizuit I know for a fact you thought of MBJ's tits somewhere along the interview \ud83d\udc41\ufe0f\ud83d\udc44\ud83d\udc41\ufe0f",
+        "created_at": "2022-02-02 21:50:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 913596384,
+        "referenced_tweets": {
+            "id": 1488989187751628800,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488992920690511872,
+        "text": "@six811217 @_jiangwanyin THE LITTLE DETAIL: WWX IS SURROUNDED BY DOGS FROM MOVIES/SERIES WJJXKEKEOWKW \ud83d\ude29\ud83e\udd27\u2665\ufe0f",
+        "created_at": "2022-02-02 21:49:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2853714944,
+        "referenced_tweets": {
+            "id": 1456859875514798083,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488885555597172736,
+        "text": "@Of_RobotandGod Xue Yang is the only thing I can think of is\u2014\n\nMY KEYBOARD KNOWS ME WELL",
+        "created_at": "2022-02-02 14:42:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 783372900476813313,
+        "referenced_tweets": {
+            "id": 1488885226893889536,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488818622021570561,
+        "text": "@zaza_blah Everyone b really having their life flash before their eyes in this comments \ud83e\udd23\ud83e\udd23",
+        "created_at": "2022-02-02 10:16:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1401028655099170817,
+        "referenced_tweets": {
+            "id": 1488623097582260228,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488815945300647938,
+        "text": "@kasasagi_eye My logic is that the lower the temperature, the colder it gets. So I picked \"turn it up\" to make it hotter\ud83e\udd23",
+        "created_at": "2022-02-02 10:05:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 949580651564544000,
+        "referenced_tweets": {
+            "id": 1488782885276553223,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488815611983532034,
+        "text": "@ripe_teeth @kasasagi_eye The only time that should ever be done is when a writer specifically asks you how they could improve or if it's your friend asking. Telling a writer what they must do to THEIR fanfic(so that reader likes it) is simply a Crime against all fanfiction authors",
+        "created_at": "2022-02-02 10:04:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1379885923333238785,
+        "referenced_tweets": {
+            "id": 1487918411665625091,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488815029839224834,
+        "text": "@TlANYAKE @ripe_teeth Literally almost all the fics out there is self-indulgent and no one should be telling the writer how they need to change their imagination or how they wish to word it. Some of them write to indulge in what ifs they wish to have. Not look for something to bring them down",
+        "created_at": "2022-02-02 10:02:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1382071086582480899,
+        "referenced_tweets": {
+            "id": 1487946464701693955,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488813973117943810,
+        "text": "@souya040 @LittleMangoNA I feel like crying whenever I remember that JL and his mother's sect were the only reasons he kept going",
+        "created_at": "2022-02-02 09:58:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 800544898747232256,
+        "referenced_tweets": {
+            "id": 1488338202318409730,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488812728458244097,
+        "text": "@dasonera Thank you. Unfortunately, it died a few days ago https://t.co/i6wKazx1Ox",
+        "created_at": "2022-02-02 09:53:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2337558082,
+        "referenced_tweets": {
+            "id": 1488809008265838594,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488345607525699591,
+        "text": "@bbyhualian What pains me more is if sqx had said hexuan's name, he would have gotten a better end. Cause that's all that guy really wanted :( But the thing is, I think sqx chose to call him by his god name because for him, that's the real Hexuan. The real hexuan for him\ud83d\ude2d",
+        "created_at": "2022-02-01 02:56:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1382995490699026434,
+        "referenced_tweets": {
+            "id": 1487987891481440258,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488344791955824642,
+        "text": "JWKXJE WHEEZING AND DYING https://t.co/3pBdDLV0IR",
+        "created_at": "2022-02-01 02:53:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488189145428082694,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1488344622078124034,
+        "text": "@ImaginarySnow_ THIS IS THE BEST THIVE I'VE EVER READ XD IM WHEEZING WND DYING HERE OMG \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 IF I DIE, MAKE SURE TO WRITE THIS ON MY TOMBSTONE\n\n-HERE LIES A FOOL WHO DIED BECAUSE OF A SHORT JIANG CHENG FANFIC-",
+        "created_at": "2022-02-01 02:53:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1330337465224155136,
+        "referenced_tweets": {
+            "id": 1488189194140667906,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488179364583776259,
+        "text": "@kreuzkat @kasasagi_eye https://t.co/B94TfiHcvJ",
+        "created_at": "2022-01-31 15:56:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1452939096192651267,
+        "referenced_tweets": {
+            "id": 1487920524554641408,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488178566864924675,
+        "text": "@dameitai Fully supports this so we can all get out daily dose of suffering for this man",
+        "created_at": "2022-01-31 15:53:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296407854677721089,
+        "referenced_tweets": {
+            "id": 1488150099599392772,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488124856160120833,
+        "text": "@chuwwanning You get a whole ass crisis when you remember the stairs, the wontons, the lantern scene, the confession and judgment day and the final good night \ud83d\ude03",
+        "created_at": "2022-01-31 12:19:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1347564373548687360,
+        "referenced_tweets": {
+            "id": 1487765693638623237,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488124166947893253,
+        "text": "@nieyao_lovin @_jiangwanyin @forgetfortaleza Omg no that's a whole other curve to ruin my sanity \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2022-01-31 12:17:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1067712408129597440,
+        "referenced_tweets": {
+            "id": 1488079463887867904,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488122783699976197,
+        "text": "@sagaru00 Welcome. And thank you for providing this one a treasure to look at and simp over \ud83d\ude29\ud83d\udc98",
+        "created_at": "2022-01-31 12:11:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482946340057665536,
+        "referenced_tweets": {
+            "id": 1488120670106320897,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488116592374587394,
+        "text": "@koiyllz I'm living for this chaos XD",
+        "created_at": "2022-01-31 11:46:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 796834125726498817,
+        "referenced_tweets": {
+            "id": 1487970626874884100,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488115445492494339,
+        "text": "He's so beautiful \ud83d\ude29\ud83d\udc98 https://t.co/Sq9k0xQZbF",
+        "created_at": "2022-01-31 11:42:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488053253648842752,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1488115030491287554,
+        "text": "@ImaginarySnow_ Exactly why or how tf I understand what you mean by this, idk at all XD",
+        "created_at": "2022-01-31 11:40:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1330337465224155136,
+        "referenced_tweets": {
+            "id": 1488032551016886274,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488114615485865994,
+        "text": "@kasasagi_eye Blue or purple would give him a delicate yet elegant look\ud83e\udd7a\ud83d\ude29\ud83d\udc98\n\nACTUALLY scratch that, he looks good in anything when you give him to he right hands",
+        "created_at": "2022-01-31 11:39:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 949580651564544000,
+        "referenced_tweets": {
+            "id": 1488111793725747201,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487988207434174464,
+        "text": "@pocaricheng Really? It's 11am and I can't do this right now ( \uff1b\u2200\uff1b)",
+        "created_at": "2022-01-31 03:16:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1102268800030785536,
+        "referenced_tweets": {
+            "id": 1487719913942761475,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487987842626162694,
+        "text": "@Of_RobotandGod @TimHickson1 I always believed that people had something on their mind 24/7, it was only until weeks ago that I realized how wrong I was for believing that \u0ca5\u203f\u0ca5",
+        "created_at": "2022-01-31 03:15:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 783372900476813313,
+        "referenced_tweets": {
+            "id": 1487868166256660490,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487786741473837060,
+        "text": "@huliyao0 The fact that his actual actor is this shy, low key guy, cute and respectful\ud83e\udd7a. But then his character is this chaotic, cute, vengeful, and little angry gremlin\ud83e\udd23",
+        "created_at": "2022-01-30 13:56:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1243899664711073792,
+        "referenced_tweets": {
+            "id": 1487655721944510465,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487723479713546245,
+        "text": "@cake_human His color, the patterns and the structure, omg he's beautiful \ud83d\udc98",
+        "created_at": "2022-01-30 09:44:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180126310737170432,
+        "referenced_tweets": {
+            "id": 1487385549660819462,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487723099319521281,
+        "text": "@Of_RobotandGod LMFAO, there's always a moment where you question why you feel so weak and tired. But then remember you forgot to eat XD",
+        "created_at": "2022-01-30 09:43:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 783372900476813313,
+        "referenced_tweets": {
+            "id": 1487496621856370691,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487624499281674240,
+        "text": "@dameitai You hurt me so I hurt you in return, it's equal exchange honey\ud83d\ude2d",
+        "created_at": "2022-01-30 03:11:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296407854677721089,
+        "referenced_tweets": {
+            "id": 1487620630157561856,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487437668078452740,
+        "text": "@dameitai Never given enough time 2 reunite on good terms.Not enough time 2 explain&amp;love in return.Not enough time 2 care &amp; earn a broken trust.Not enough time 2 kiss &amp; hug.Not enough time 2 mourn a dead love.I'm put here 2 love this man, so what's the purpose of staying if he's gone?\ud83d\ude2d\ud83e\udd40",
+        "created_at": "2022-01-29 14:49:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296407854677721089,
+        "referenced_tweets": {
+            "id": 1486868293449240580,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487360715547897862,
+        "text": "@iwantsyrniki @dameitai https://t.co/ZESY78x4ym",
+        "created_at": "2022-01-29 09:43:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 769871731649458177,
+        "referenced_tweets": {
+            "id": 1487037270892822529,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487359528806977539,
+        "text": "@gabyvousaime @reonokyusuto This is so cute. I don't want just a XueXiao or SongXiao or just an A-qing ending. I want them all happy together instead, they all deserve not to be foked up by the world\ud83d\ude14",
+        "created_at": "2022-01-29 09:38:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 765089738822815744,
+        "referenced_tweets": {
+            "id": 1487272628024844294,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487358822322638848,
+        "text": "@junwusbitch @Evil__laughter Meanwhile LXC just laughs it off like the good twin that he is\ud83e\udd23 because he's cheering for his brother",
+        "created_at": "2022-01-29 09:35:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1120652687085719552,
+        "referenced_tweets": {
+            "id": 1487120363041755136,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487358259765800963,
+        "text": "@dameitai @Of_RobotandGod I'm honestly crying, I miss him so bad. He looks so beautiful in your style and I can happily die now seeing this. \ud83e\udd40\ud83e\udd40\n\nSong lyrics: hOW cOulD YoU mIsS sOMeOne yOu'Ve NeVEr MEt!? https://t.co/6Ywvsi1kTo",
+        "created_at": "2022-01-29 09:33:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296407854677721089,
+        "referenced_tweets": {
+            "id": 1469138725166714882,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487348645074591749,
+        "text": "@potato_crackers Um, the pain? Helo? Excuse you? HOW DARE YOU LEAVE THIS AND HURT US? \ud83d\ude2d\ud83d\ude2d SOMETIMES SHARING IS NOT CARING (JK I LOVE THIS A LOT) BUT IT HURTS\ud83d\ude2d",
+        "created_at": "2022-01-29 08:55:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 853298410304159744,
+        "referenced_tweets": {
+            "id": 1461323215926558724,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487347795988148224,
+        "text": "@SD_Sloth @whenspringcome_ It's really cute but the pain\ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2022-01-29 08:52:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1034056017242275840,
+        "referenced_tweets": {
+            "id": 1487309264939253764,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487064520841252872,
+        "text": "@wanningslover Everytime I read 2ha, the only thing in my head is MR breaking down when he confessed 2 CW because he realized how much the guy waited for 2 lifetimes &amp; was willing 2 suffer silently.He realized that happened when he was TJ,when he thought he was hated.",
+        "created_at": "2022-01-28 14:06:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1381243147540332552,
+        "referenced_tweets": {
+            "id": 1486868923266248705,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487063920120532993,
+        "text": "@wanningslover OMG FINALLYYYYY SOMEONE ELSE SAID IT\ud83d\ude29 IKR, I WOULD HAVE FREAKING FLIPPED IF HE DIDN'T GET IT. MAN WAS SO DEEP IN LOVE &amp; OBSESSION TO THE POINT HE WENT CRAZY.\n\nP. S. I'M BLIND YO RED FLAGS SO LEMME APPRECIATE HIM\ud83d\ude0c\u270b",
+        "created_at": "2022-01-28 14:04:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1381243147540332552,
+        "referenced_tweets": {
+            "id": 1486868923266248705,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487063036472877061,
+        "text": "@lettch_ They're so cute ndidjekd\ud83e\udd27\u2665\ufe0f\ud83d\udc98",
+        "created_at": "2022-01-28 14:00:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1198890289756360705,
+        "referenced_tweets": {
+            "id": 1487049884213694466,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487020195235663872,
+        "text": "Found an injured bird outside my house and couldn't take it to the vet cause I'm broke. \n\nIt's been day three and night three of going 2 sleep and waking up thinking it's dead. \n\nIt has gotten weaker and now I think I'm going to cry when it passes away.",
+        "created_at": "2022-01-28 11:10:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487018671583416322,
+        "text": "@minziaa_M @whenspringcome_ This is giving me warmth \ud83d\ude29",
+        "created_at": "2022-01-28 11:04:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1252799198832943106,
+        "referenced_tweets": {
+            "id": 1296003716353409025,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486887664657649664,
+        "text": "@r_omulus Lan being jealous of himself is both adorable and painful \ud83d\ude29",
+        "created_at": "2022-01-28 02:23:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 588719263,
+        "referenced_tweets": {
+            "id": 1486870462952980481,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486570440563003392,
+        "text": "@mehmeh48 @ImaginarySnow_ Yes very much \ud83e\udd23",
+        "created_at": "2022-01-27 05:23:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3859243721,
+        "referenced_tweets": {
+            "id": 1485478227745419264,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486569996545593352,
+        "text": "@dameitai OMG I LOVE YOU SO MUCH FOR THIS",
+        "created_at": "2022-01-27 05:21:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296407854677721089,
+        "referenced_tweets": {
+            "id": 1443152681321709569,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486567784611860482,
+        "text": "@Of_RobotandGod \ud83d\ude14\u270bI did",
+        "created_at": "2022-01-27 05:12:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 783372900476813313,
+        "referenced_tweets": {
+            "id": 1485491235133534208,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486157800900554752,
+        "text": "@soursoppi @dameitai Your artstyle makes them even more beautiful and I just can't \ud83d\ude29\ud83d\udc98",
+        "created_at": "2022-01-26 02:03:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 980240668235677696,
+        "referenced_tweets": {
+            "id": 1486153951741235204,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486157317167263745,
+        "text": "@dameitai Binghe is so adorable. Imagine having someone be that happy over getting nom'd \ud83e\udd7a\ud83d\ude29\ud83d\udc98",
+        "created_at": "2022-01-26 02:01:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296407854677721089,
+        "referenced_tweets": {
+            "id": 1485928056107589632,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485445141137485824,
+        "text": "@noizuit MBJ: a new human custom!?",
+        "created_at": "2022-01-24 02:51:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 913596384,
+        "referenced_tweets": {
+            "id": 1485334501316173824,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485386571834863616,
+        "text": "@mitchyyyjpg \u2282(\u30fb\u25bd\u30fb\u2282) here's a hug. \n\nStand by what you believe in and don't let them get to you. they don't get to decide if you should leave or not. Neither for the Artist.",
+        "created_at": "2022-01-23 22:58:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1408562413587288078,
+        "referenced_tweets": {
+            "id": 1485019793556185093,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485386121165283329,
+        "text": "@_incarnadines @mitchyyyjpg Ikr, maybe there's a 3000+ rules written bout the fandom \ud83d\ude44 why r people freaking rude.there's nothing in any fandom that SAY U CAN'T SHIP OUTSIDE CANON. Shems do u own the show/series/novel &amp; have the right 2 dictate what we get 2 ship and not ship?",
+        "created_at": "2022-01-23 22:57:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 913066802447618048,
+        "referenced_tweets": {
+            "id": 1485049923867492358,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485384387403591681,
+        "text": "@ImaginarySnow_ I love how everyone agrees the pyrex tupperware is the very curse that kills you with-\n\nOption A- the plastic hanger\nOption B- a belt\n\nOption C- the legendary Chancla\n\nP. S. JL, we shall pray for your safe departure. It was nice knowing you",
+        "created_at": "2022-01-23 22:50:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 24,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1330337465224155136,
+        "referenced_tweets": {
+            "id": 1485131537871880195,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484424735530586114,
+        "text": "@soursoppi LMFAO when you don't find a fic for your ship \ud83e\udd23\ud83e\udd23",
+        "created_at": "2022-01-21 07:16:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 980240668235677696,
+        "referenced_tweets": {
+            "id": 1484392646369943552,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484422388934909958,
+        "text": "@TasogareMonse @noizuit LMFAO TRULY THE MOMENT \ud83e\udd23",
+        "created_at": "2022-01-21 07:07:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 997862383946100737,
+        "referenced_tweets": {
+            "id": 1484166663901646850,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484008763380011008,
+        "text": "@noizuit Would you be drawing MBJ wrapping him in his coat like a burrito before carrying him off?\ud83e\udd7a\ud83d\ude33",
+        "created_at": "2022-01-20 03:43:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 913596384,
+        "referenced_tweets": {
+            "id": 1484006140002246656,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484005731888078850,
+        "text": "@DiabloGrandeArt @katemiterko @sstarkm Only to realize later on that your constant changes made something go wrong and you only realize when it's too late. The \"oh shit\" moment",
+        "created_at": "2022-01-20 03:31:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 18,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 869367778272321537,
+        "referenced_tweets": {
+            "id": 1483969601209782280,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484001690042785792,
+        "text": "@noizuit It's simple, sir. He's offering himself",
+        "created_at": "2022-01-20 03:15:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 21,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 913596384,
+        "referenced_tweets": {
+            "id": 1483893313283395585,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483613892370567168,
+        "text": "@cake_human LMFAO he got a point tho",
+        "created_at": "2022-01-19 01:34:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180126310737170432,
+        "referenced_tweets": {
+            "id": 1483410942834610177,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483458926846820356,
+        "text": "@hiinashoyo @jeejastea That moment when you just want to have the power of your Google doc writing whatever piece of writing you have in your head going on without YOU actually having to WRITE it YOURSELF",
+        "created_at": "2022-01-18 15:19:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 730915912719667200,
+        "referenced_tweets": {
+            "id": 1482377983566524416,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483458246568464391,
+        "text": "@saithz_ @lily_ocho He's the definition of high on caffeine, angst, insane and comedy but with a hint of *I want to unite all the realms because I just want to*",
+        "created_at": "2022-01-18 15:16:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3582798420,
+        "referenced_tweets": {
+            "id": 1482861287294083072,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483457213293285382,
+        "text": "@noizuit Comfy during summer but leave him when winter comes, my friend. But then again I believe you wouldn't mind dying on that man's cold tits....",
+        "created_at": "2022-01-18 15:12:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 913596384,
+        "referenced_tweets": {
+            "id": 1482904064497094656,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483456813047721988,
+        "text": "@ariwrote Istg, every 2ha fanfic writers out there just keep coming up with the craziest, but most exquisite fic ideas ever",
+        "created_at": "2022-01-18 15:10:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 760985784090554368,
+        "referenced_tweets": {
+            "id": 1482866660491112448,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483027780249870337,
+        "text": "@koiyllz we definitely need more JC appreciation \ud83e\udd7a\u270a\u2665\ufe0f",
+        "created_at": "2022-01-17 10:45:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 796834125726498817,
+        "referenced_tweets": {
+            "id": 1482667477213589506,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483027692362485760,
+        "text": "@koiyllz @brutal_progress And then one day, Lan Xichen makes an unexpected visit when JC is high from his heat induced fevers. The next thing Lan Xichen knows, he's been dragged into a nest filled with pillows, and wrapped in blankets before he finds a purring JC laying on his chest.",
+        "created_at": "2022-01-17 10:45:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 796834125726498817,
+        "referenced_tweets": {
+            "id": 1482830788215418885,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482280889115561984,
+        "text": "@Of_RobotandGod \u2282(\u30fb\ufe4f\u30fb\u2282)",
+        "created_at": "2022-01-15 09:17:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 783372900476813313,
+        "referenced_tweets": {
+            "id": 1482239118801309697,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482280500488114179,
+        "text": "@snamhnapmo @dameitai In another life\ud83d\ude14\u270a",
+        "created_at": "2022-01-15 09:16:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3192952351,
+        "referenced_tweets": {
+            "id": 1481832216741425152,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482280418476843014,
+        "text": "@snamhnapmo You know that song IDK you yet? Yes, this is us with this drama, but it goes like, \"How can we miss something we've never seen?\ud83d\ude14\"",
+        "created_at": "2022-01-15 09:16:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3192952351,
+        "referenced_tweets": {
+            "id": 1481833197357133830,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481685697774104577,
+        "text": "@artofzolaida Same here. They're so adorable and so hopeless for each other \ud83e\udd7a",
+        "created_at": "2022-01-13 17:52:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 248889609,
+        "referenced_tweets": {
+            "id": 1481685228792033290,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481683058655113216,
+        "text": "\"I want to hold an umbrella over shizun for as long as I live\"\n\nMO RAN THAT'S A PROPOSAL YOU IDIOT",
+        "created_at": "2022-01-13 17:42:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481680398170333185,
+        "text": "Not me laughing about Mo Ran wasting a perfectly good SOS signal for the sake of \"not upsetting\" his Shizun because he couldn't make it back in time.\n\n\"Disciple Mo Ran welcomes Shizun back from seclusion\"",
+        "created_at": "2022-01-13 17:31:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481679840067702792,
+        "text": "@idledee @lettch_ I just finished rereading 2ha for the 8th time and these beautiful drawings are an attempt to murder my poor heart \u0ca5_\u0ca5 jeidkdodkd \n\nP. S. Everything is beautiful",
+        "created_at": "2022-01-13 17:29:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 2
+        },
+        "in_reply_to_user_id": 3070374042,
+        "referenced_tweets": {
+            "id": 1481674184136798212,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481679158971228164,
+        "text": "@artofzolaida *Mo Ran compliments Chu Wanning's smile*\n\n*Chu Wanning asking if the lantern is prepared*\n\nMo Ran who now understands his Shizun, \"Shizun is not planning to hide in the lantern because he's embarrassed, is he?\"",
+        "created_at": "2022-01-13 17:26:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 248889609,
+        "referenced_tweets": {
+            "id": 1478413796448378881,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481678614907088897,
+        "text": "@artofzolaida THE FACT THAT I JUST READ THIS SCENE MINUTES AGO \ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2022-01-13 17:24:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 248889609,
+        "referenced_tweets": {
+            "id": 1478413796448378881,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481678490357301250,
+        "text": "@koiyllz I was just crying over 2ha a while ago and I opened Twitter only to see this wjxnekdmelen \u0ca5_\u0ca5",
+        "created_at": "2022-01-13 17:24:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 796834125726498817,
+        "referenced_tweets": {
+            "id": 1481400120193294342,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481672625453613057,
+        "text": "Crying, screaming and dying over 2ha chapters again because on 123, Mo Ran has a nightmare and he dreams of Chu Wanning lighting the room for him. Mo Ran begs for him to stay and he cries while saying, \"please don't throw me away...\"",
+        "created_at": "2022-01-13 17:00:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481669524793413632,
+        "text": "Where Mo Ran was dying and he remembered a time when Chu Wanning taught him to write and when he was an angey Taxian-jun who got so mad because he couldn't remember ever having that memory of them together.",
+        "created_at": "2022-01-13 16:48:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1289123744099835905,
+        "referenced_tweets": {
+            "id": 1481669047376769029,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481669047376769029,
+        "text": "Just read 2ha again and crying. Around Chapter 120, when Mo Ran was sending letters to his Aunt and Uncle, the two adults mentioned his chicken scratch of a hand writing. They also mentioned Chu Wanning teaching Mo Ran. It was foreshadowing of the moment-",
+        "created_at": "2022-01-13 16:46:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481302348517429249,
+        "text": "@ariwrote And yesss, we're happy readers\u2665\ufe0f\u2665\ufe0f",
+        "created_at": "2022-01-12 16:29:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 760985784090554368,
+        "referenced_tweets": {
+            "id": 1481262291983212544,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481302163217256448,
+        "text": "@ariwrote On his back please. Just above his hip bones, lining up with his cauda equina\ud83e\udd29 cause all I see is MR kissing it and CW blushing it's an odd place to kiss someone",
+        "created_at": "2022-01-12 16:28:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 760985784090554368,
+        "referenced_tweets": {
+            "id": 1481262291983212544,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481300013246414849,
+        "text": "@kasasagi_eye I believe SQ wouldn't let him have it anymore cause he knows YQY would probs end up using it on himself after SQ gets hurt",
+        "created_at": "2022-01-12 16:20:19+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 12,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 949580651564544000,
+        "referenced_tweets": {
+            "id": 1481187522772406275,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481254043234148352,
+        "text": "Little #ShenQingqiu doodle cause I got sidetracked https://t.co/rGEGPElwwo",
+        "created_at": "2022-01-12 13:17:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481196339153149956,
+        "text": "Such a cute little treat we have\u263a\ufe0f https://t.co/qeyNe1p7KD",
+        "created_at": "2022-01-12 09:28:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1457432944910299138,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1480961509148614657,
+        "text": "@noizuit Don't we all? \ud83d\ude2d",
+        "created_at": "2022-01-11 17:55:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 913596384,
+        "referenced_tweets": {
+            "id": 1480961178415239173,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480959248024862720,
+        "text": "@brawlite Say it louder 4 the people at the back.\n\nThe \"romantic and/or sexual relationship\" tag was APPLICABLE &amp; APPROPRIATE since ao3 guidelines never specified if the tag under person1/person2 should b healthy or if they were the end game. &amp; they were a canon pair.",
+        "created_at": "2022-01-11 17:46:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 27,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 761612004150870016,
+        "referenced_tweets": {
+            "id": 1480941106074460162,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480957570307477504,
+        "text": "@noizuit The struggle of an artist who just wants to appreciate art, b lazy and procrastinate-\n\nSelf: \"I want\" *puts a very specific description about an image in their head*\n\nSelf:..\"shit\" *still ends up with them drawing the said image anyway because they can't find it anywhere*",
+        "created_at": "2022-01-11 17:39:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 913596384,
+        "referenced_tweets": {
+            "id": 1480948296075988997,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480940875584729090,
+        "text": "@denkimouse @xiaoplease The art, the expressions, the lines!!!! Everything is perfect \u2763\ufe0f",
+        "created_at": "2022-01-11 16:33:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 76521584,
+        "referenced_tweets": {
+            "id": 1480729618583797763,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480940237937283073,
+        "text": "@poennator @CATACLYSMICEVIE (\u3063\u00b4\uff65-\uff65\u00b4)\u3063",
+        "created_at": "2022-01-11 16:30:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1143178947817037824,
+        "referenced_tweets": {
+            "id": 1480775359343693825,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480939689305468930,
+        "text": "@kasasagi_eye Hello, I'm sorry to intrude but I've seen this thing going on in the authors I follow and I still don't know what's going on\ud83d\ude2d I'm sorry but would you mind telling me?\n\nP. S. Ilysm",
+        "created_at": "2022-01-11 16:28:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 949580651564544000,
+        "referenced_tweets": {
+            "id": 1480926424039055368,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480884495813201925,
+        "text": "@_pidgu_ @hana_tox What what who? (\u0ca0_\u0ca0)&gt;\u2310\u25a0-\u25a0",
+        "created_at": "2022-01-11 12:49:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 252094644,
+        "referenced_tweets": {
+            "id": 1480860828060426240,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480876965573890049,
+        "text": "@jeejastea Went through my whole orientation reading this beautiful work\u2665\ufe0f\u2665\ufe0f",
+        "created_at": "2022-01-11 12:19:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1154483942675927040,
+        "referenced_tweets": {
+            "id": 1480755607296778241,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480876808388046851,
+        "text": "RT @hana_tox: ao3 is a space to archive your art, not a space to air your petty feelings against a ship in the aforementioned ship's tags",
+        "created_at": "2022-01-11 12:18:39+00:00",
+        "public_metrics": {
+            "retweet_count": 1125,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1480828082864857089,
+            "type": "retweeted"
+        }
+    }
+]
