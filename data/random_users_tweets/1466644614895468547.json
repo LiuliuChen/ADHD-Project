@@ -1,0 +1,543 @@
+[
+    {
+        "tweet_id": 1507068073085263877,
+        "text": "@help_delhivery Hi team it is in sort centre for almost 10 days i have already raised the concern with consumer forum",
+        "created_at": "2022-03-24 18:53:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1667354024,
+        "referenced_tweets": {
+            "id": 1506846412494962695,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506671466796191748,
+        "text": "@help_delhivery Please note i have raised case with consumer form if the issue is not resolved you have the problem",
+        "created_at": "2022-03-23 16:37:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1667354024,
+        "referenced_tweets": {
+            "id": 1506520989919719427,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506596471407509509,
+        "text": "@help_delhivery 1904038383471",
+        "created_at": "2022-03-23 11:39:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1667354024,
+        "referenced_tweets": {
+            "id": 1506520989919719427,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506516759549190147,
+        "text": "@delhivery Shame on your delivery system",
+        "created_at": "2022-03-23 06:22:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2328856022,
+        "referenced_tweets": {
+            "id": 1504676303303491587,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506516686589292547,
+        "text": "Worst service provider https://t.co/EbUGRdvxZv",
+        "created_at": "2022-03-23 06:22:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506491811220824064,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1491437203133976577,
+        "text": "@narendramodi @ANI Great thoughts of my beloved leader need nothing from you are an inspiration I wish your legacy remains for 100000s of centuries .......aap purai desh ki shaan hai.....\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+        "created_at": "2022-02-09 15:41:53+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 18839785,
+        "referenced_tweets": {
+            "id": 1491419328948105227,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491432927502413825,
+        "text": "@PMOIndia @narendramodi I don't have words to thank you my beloved leader your schemes have benefited every poor families golden cards is small example but i must say your schemes have benefited every person i am highly thankful you my PM....YOU ARE THE GREAT",
+        "created_at": "2022-02-09 15:24:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 471741741,
+        "referenced_tweets": {
+            "id": 1490940354258178049,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490223674171224065,
+        "text": "@YESBANK @slavesh I want to thank Anthony for great experience and resolving my issue",
+        "created_at": "2022-02-06 07:19:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1486590497103626246,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489505107062374401,
+        "text": "@YESBANK https://t.co/rHEJWOX4XS",
+        "created_at": "2022-02-04 07:44:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1489287605959421954,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489504967371411456,
+        "text": "@YESBANK This is biggest failure of u guys u don't treat customers well",
+        "created_at": "2022-02-04 07:43:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1489287605959421954,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489504393279930368,
+        "text": "@YESBANK Wow great yes bank https://t.co/8fnWthna9S",
+        "created_at": "2022-02-04 07:41:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1489287605959421954,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489502430630793218,
+        "text": "@YESBANK Is there any leader to look into this https://t.co/FKN8fFuc9p",
+        "created_at": "2022-02-04 07:33:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1489287605959421954,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489499806951100420,
+        "text": "@YESBANK Still no resolution again I have been put on hold https://t.co/nWIoz9xMI9",
+        "created_at": "2022-02-04 07:23:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1489287605959421954,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489498981600165888,
+        "text": "@YESBANK https://t.co/Dh8gBcQl9H",
+        "created_at": "2022-02-04 07:20:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1489287605959421954,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489498335274700801,
+        "text": "@YESBANK Still https://t.co/xyk0C8oSnf",
+        "created_at": "2022-02-04 07:17:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1489287605959421954,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489496449372995584,
+        "text": "@YESBANK Still https://t.co/MWZpPUtW3s",
+        "created_at": "2022-02-04 07:10:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1489287605959421954,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489495014040236033,
+        "text": "@YESBANK Please check how much time team has put me on hold so weard customer support https://t.co/Z9D7h3ubd2",
+        "created_at": "2022-02-04 07:04:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1489287605959421954,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489473290318278662,
+        "text": "@YESBANK Hi team there is no cordination between you and your team every day you tell me the story",
+        "created_at": "2022-02-04 05:38:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1489287605959421954,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489285184868728836,
+        "text": "@YESBANK There is no one who has reched to me the person I am looking for she is not responding the call please tell me if u can resolve the issue if not I will close all my accounts with you yes Bank u are such a shame u don't help ur customers",
+        "created_at": "2022-02-03 17:10:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1488936579095986176,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488934634205290496,
+        "text": "@YESBANK I have 1000 times told your customer support to call me on 7889757294 now in which language I shall speak miss nikhat was supposed to call me back",
+        "created_at": "2022-02-02 17:57:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1488827108038410243,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488726916714487811,
+        "text": "@DeccanHerald @YESBANK There no shame left can anybody contact me",
+        "created_at": "2022-02-02 04:12:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 268201193,
+        "referenced_tweets": {
+            "id": 1488542557437112327,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488359961679695876,
+        "text": "@YESBANK @slavesh Dont u feel a little ashamed i am continuously escalating and there is no one responding",
+        "created_at": "2022-02-01 03:54:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1486590497103626246,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488004414656839680,
+        "text": "#NewProfilePic https://t.co/AtLlhsRiDd",
+        "created_at": "2022-01-31 04:21:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488004158376460290,
+        "text": "@BloombergQuint @YESBANK @Vishwanath4389 Worst bank of the time",
+        "created_at": "2022-01-31 04:20:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 714731566828793857,
+        "referenced_tweets": {
+            "id": 1484795338435309569,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488003895611719682,
+        "text": "@YESBANK Worst banking system",
+        "created_at": "2022-01-31 04:19:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1486195383524945920,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488003724618321926,
+        "text": "@YESBANK I am surprised you can be so irresponsible",
+        "created_at": "2022-01-31 04:18:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1466644614895468547,
+        "referenced_tweets": {
+            "id": 1487677170839212034,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487677170839212034,
+        "text": "@YESBANK Please take this as a legal notice if i didn't recieved resolution within 24 hours yesbank shall be liable to pay all my dues and extra compensation on the same",
+        "created_at": "2022-01-30 06:40:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1486741036521046019,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487676756416884738,
+        "text": "@YESBANK Shame on your customer support the time your people here my concern they disconnect the call Swati and 4 associates did the same i feel ashamed of such customer support",
+        "created_at": "2022-01-30 06:39:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1486741036521046019,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486928017733881856,
+        "text": "@narendramodi @BSBommai Leadership matters when our pm works 18 hours a day why won't others work I wish i see once face to face i am your sudama\u2763\ufe0f\ud83d\ude0d\ud83d\ude0d",
+        "created_at": "2022-01-28 05:03:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 18839785,
+        "referenced_tweets": {
+            "id": 1486901979704004611,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486916390560800769,
+        "text": "@PMOIndia @narendramodi You are great visionary leader haazroo saaloo mai aap aaya hai purai hindustan mai bahar layay hai proud of my PM.\u2763\ufe0f\u2763\ufe0f\u2763\ufe0f",
+        "created_at": "2022-01-28 04:17:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 471741741,
+        "referenced_tweets": {
+            "id": 1486657674594775043,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486915492853911554,
+        "text": "@YESBANK What eloborate please return my money I have already shared the case id",
+        "created_at": "2022-01-28 04:14:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1486741036521046019,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486738593770991616,
+        "text": "@YESBANK @slavesh Please call me or else I will have to report to RBI CONTACT NUMBER 7889757294 CASE ID18122014140",
+        "created_at": "2022-01-27 16:31:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1486590497103626246,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486738223187435525,
+        "text": "@YESBANK @slavesh This is worst banking system ever I have witnessed I have registered a complaint 10 days before there is no resolution and your customer service team lead miss nikhat was supposed to come back to me but there is no revert you have incorrectly taken money from my account and i",
+        "created_at": "2022-01-27 16:29:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 41994925,
+        "referenced_tweets": {
+            "id": 1486590497103626246,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466645777652994050,
+        "text": "@BSNLCorporate @Paytm I have made the payment and there is support from bsnl https://t.co/LLrQaHPDnS",
+        "created_at": "2021-12-03 05:49:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2251461926,
+        "referenced_tweets": {
+            "id": 1466631524753702916,
+            "type": "replied_to"
+        }
+    }
+]

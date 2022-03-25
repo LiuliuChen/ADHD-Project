@@ -1,0 +1,226 @@
+[
+    {
+        "tweet_id": 1507079865312423941,
+        "text": "@yemialadee Hi",
+        "created_at": "2022-03-24 19:40:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 166070714,
+        "referenced_tweets": {
+            "id": 1506811472193724422,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068089812328462,
+        "text": "@HipsyAfya You look too beautiful on your dress papa I'm really in love",
+        "created_at": "2022-03-24 18:53:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1295481278947631104,
+        "referenced_tweets": {
+            "id": 1507027841380200459,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506912616068878339,
+        "text": "@Oyindamolaa_O You are beautiful my lady",
+        "created_at": "2022-03-24 08:35:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1239667589342773252,
+        "referenced_tweets": {
+            "id": 1506391468474347534,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505510960055869445,
+        "text": "@chogtaa You look so beautiful",
+        "created_at": "2022-03-20 11:45:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1230446799787319296,
+        "referenced_tweets": {
+            "id": 1505227816270503936,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505510861816872961,
+        "text": "@chogtaa Hello dear how are you doing",
+        "created_at": "2022-03-20 11:45:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1230446799787319296,
+        "referenced_tweets": {
+            "id": 1505227816270503936,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505510699950346244,
+        "text": "@Spartan01989 Sup bro",
+        "created_at": "2022-03-20 11:44:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 804143633008037888,
+        "referenced_tweets": {
+            "id": 1505175937687695361,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505410489978916866,
+        "text": "@thatgodessss Good morning dear",
+        "created_at": "2022-03-20 05:06:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3547318393,
+        "referenced_tweets": {
+            "id": 1504963760171200521,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503832890169339905,
+        "text": "@HipsyAfya @AkwasiPogba @Potential_Pop @BisaSarkodie @melo_mylo @Kayjnr10 @Manuel_Cyrill @toriious @ghanayesz @IzzatElKhawaja @joey_clev Good evening dear",
+        "created_at": "2022-03-15 20:37:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1500251277292417029,
+        "referenced_tweets": {
+            "id": 1503505471709319168,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503505471709319168,
+        "text": "@HipsyAfya @AkwasiPogba @Potential_Pop @BisaSarkodie @melo_mylo @Kayjnr10 @Manuel_Cyrill @toriious @ghanayesz @IzzatElKhawaja @joey_clev Sup dear",
+        "created_at": "2022-03-14 22:56:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1295481278947631104,
+        "referenced_tweets": {
+            "id": 1503359608009773060,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503293807604940800,
+        "text": "@HipsyAfya @AkwasiPogba @Potential_Pop @BisaSarkodie @melo_mylo @Kayjnr10 @Manuel_Cyrill @toriious @ghanayesz @IzzatElKhawaja @joey_clev Good morning baby girl how was your night hope all is well please you haven't give me your WhatsApp line please",
+        "created_at": "2022-03-14 08:55:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1295481278947631104,
+        "referenced_tweets": {
+            "id": 1503274652994613250,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503157569040355336,
+        "text": "@HipsyAfya @Potential_Pop @BisaSarkodie @melo_mylo @Kayjnr10 @Manuel_Cyrill @AkwasiPogba @toriious @ghanayesz @IzzatElKhawaja @joey_clev Please can I have your WhatsApp line beautiful",
+        "created_at": "2022-03-13 23:54:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1500251277292417029,
+        "referenced_tweets": {
+            "id": 1503131117737680896,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503131117737680896,
+        "text": "@HipsyAfya @Potential_Pop @BisaSarkodie @melo_mylo @Kayjnr10 @Manuel_Cyrill @AkwasiPogba @toriious @ghanayesz @IzzatElKhawaja @joey_clev Good evening beautiful",
+        "created_at": "2022-03-13 22:09:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1295481278947631104,
+        "referenced_tweets": {
+            "id": 1499735523002302464,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502757216746676232,
+        "text": "@HipsyAfya @AkwasiPogba @IzzatElKhawaja @melo_mylo @toriious @Manuel_Cyrill @Khobbysplit @AkhuaFlair @Kayjnr10 @DeGhadFada @BisaSarkodie Hello dear good evening I like this picture of yours you look good on your jeans I like everything about you you're so beautiful",
+        "created_at": "2022-03-12 21:23:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1295481278947631104,
+        "referenced_tweets": {
+            "id": 1488434952404414464,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502536666799652867,
+        "text": "@HipsyAfya @Bobby8134 @Potential_Pop @DeGhadFada @melo_mylo @Kayjnr10 @BisaSarkodie @toriious @IzzatElKhawaja @joey_clev @Manuel_Cyrill I really like your picture good morning",
+        "created_at": "2022-03-12 06:47:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1295481278947631104,
+        "referenced_tweets": {
+            "id": 1502242145180262402,
+            "type": "replied_to"
+        }
+    }
+]

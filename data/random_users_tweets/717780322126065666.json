@@ -1,0 +1,3160 @@
+[
+    {
+        "tweet_id": 1507070367348793348,
+        "text": "@gnysioo @_olka71 @LukaszBok Lepsze by\u0142o to o naje\u017ad\u017acach, \u017ce miejsca gdzie ich chowa\u0107 w kraju jest du\u017co hehe",
+        "created_at": "2022-03-24 19:02:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1221522872008695810,
+        "referenced_tweets": {
+            "id": 1507039119553306625,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068091762683905,
+        "text": "@POTUS It's weak. I thought that Russia would be recognized and treated as a third country so that nobody would apsolutely buy anything from them. Every citizen of Russia should first get a visa and pay for it in the amount of the monthly average salary of a Ukrainian before the attack",
+        "created_at": "2022-03-24 18:53:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1349149096909668363,
+        "referenced_tweets": {
+            "id": 1506986001176141836,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503783805320142851,
+        "text": "@nexta_tv Wywali\u0107 wszystko co rosyjskie z pa\u0142acem kultury i nauki imienia Stalina takze",
+        "created_at": "2022-03-15 17:22:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1891490382,
+        "referenced_tweets": {
+            "id": 1503762772248735757,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503782940710477826,
+        "text": "@DI_Ukraine W Rossmanie potem kupicie dzi\u0119ki temu Aluette",
+        "created_at": "2022-03-15 17:19:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 717780322126065666,
+        "referenced_tweets": {
+            "id": 1503782731116945409,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503782731116945409,
+        "text": "@DI_Ukraine Przerobi\u0105 na mas\u0119 celulozy kt\u00f3ra Niemcy kupuj\u0105 i robi\u0105 z niej papier toaletowy i r\u0119czniki",
+        "created_at": "2022-03-15 17:18:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1405859554655604740,
+        "referenced_tweets": {
+            "id": 1503674211696619520,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503385818882269188,
+        "text": "@elonmusk Jak my zablokowali Twittera to i tak nie odpowie",
+        "created_at": "2022-03-14 15:01:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44196397,
+        "referenced_tweets": {
+            "id": 1503327421839417344,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503060842174193666,
+        "text": "@BizblogPl PPK da\u0142o w roku oko\u0142o 8 proc a inflacja jest 9proc wi\u0119c co daje PPK a\u00f1o nic nie daje, \u017ceby zaufanie wzros\u0142o r\u00f3\u017cnica w u flacja powinna by\u0107 dop\u0142acania przez Pa\u0144stwo je\u015bli jest mniejszy przyrost",
+        "created_at": "2022-03-13 17:30:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1274969033872486400,
+        "referenced_tweets": {
+            "id": 1502885189126705152,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502651185429458949,
+        "text": "RT @nexta_tv: U.S. Army veteran goes to Ukraine because he \"doesn't like what's going on\"\n\nMatthew Parker, a 20-year U.S. Army veteran, is\u2026",
+        "created_at": "2022-03-12 14:22:15+00:00",
+        "public_metrics": {
+            "retweet_count": 2078,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502098978774695941,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502650052031963144,
+        "text": "RT @nexta_tv: \u2757\ufe0fThe Institute for @TheStudyofWar published a map of military actions in #Ukraine from the beginning of the war until today.\u2026",
+        "created_at": "2022-03-12 14:17:44+00:00",
+        "public_metrics": {
+            "retweet_count": 565,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502225871771516930,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501987205681582096,
+        "text": "@krzysztofsobcz7 @krzysztofwpanek @hytrekprosiecka @KamalaHarris A mo\u017ce uszy umyj? Gdzie tam s\u0142ycha\u0107 dick?",
+        "created_at": "2022-03-10 18:23:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2743435583,
+        "referenced_tweets": {
+            "id": 1501983116939956224,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499992205829804032,
+        "text": "@KONFEDERACJA_ @KonradBerkowicz Takim osobom powinno si\u0119 zabra\u0107 obywatelstwo, bo to dzia\u0142anie sabota\u017cowe na szkod\u0119 pa\u0144stwa",
+        "created_at": "2022-03-05 06:16:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1093510047605374976,
+        "referenced_tweets": {
+            "id": 1499621157498089477,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499216584434409472,
+        "text": "@AndrzejDuda @ZelenskyyUa Ukraina ma by\u0107 zdobyta w 15 dni i pewnie tyle potrwa Rosjanom to, i co dalej Podo\u0142asz zasadnicza s\u0142u\u017cb\u0119 w kraju?",
+        "created_at": "2022-03-03 02:54:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 202086424,
+        "referenced_tweets": {
+            "id": 1499167435005612038,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499195384161308678,
+        "text": "RT @nexta_tv: Several more Kadyrovites were liquidated by the #Ukrainian Armed Forces. https://t.co/oRDOxmRpfO",
+        "created_at": "2022-03-03 01:30:07+00:00",
+        "public_metrics": {
+            "retweet_count": 948,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499097493145108483,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498901042276315140,
+        "text": "RT @GiertychRoman: Polska: \n- kupuje w\u0119giel od Rosji\n- kupuje gaz i rop\u0119\n- granice otwarte na import i eksport towar\u00f3w \n- nie zakazali\u015bmy t\u2026",
+        "created_at": "2022-03-02 06:00:31+00:00",
+        "public_metrics": {
+            "retweet_count": 1359,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498633626535317505,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498174411219906561,
+        "text": "RT @nexta_tv: \u26a1\ufe0f11 transport ships of the #Russian Federation, each containing one battalion, are heading to #Odessa, there will be an atte\u2026",
+        "created_at": "2022-02-28 05:53:09+00:00",
+        "public_metrics": {
+            "retweet_count": 2304,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498056916643332109,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498063918228516873,
+        "text": "@zelik_g @ogorekmagda Powinna nie pan premier tylko syn kata",
+        "created_at": "2022-02-27 22:34:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1469179304,
+        "referenced_tweets": {
+            "id": 1498033018749034504,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498025309031047176,
+        "text": "RT @nexta_tv: \u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0fAccording to #Ukrainian media, the situation in #Kahovka now looks like this https://t.co/nI5baGTdp7",
+        "created_at": "2022-02-27 20:00:40+00:00",
+        "public_metrics": {
+            "retweet_count": 1188,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498019719785467906,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497997595494567942,
+        "text": "RT @nexta_tv: Just flew out of #Mozyr, #Belarus https://t.co/iXD8CwqRIY",
+        "created_at": "2022-02-27 18:10:32+00:00",
+        "public_metrics": {
+            "retweet_count": 1703,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497957138647375876,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497996670734413825,
+        "text": "RT @nexta_tv: \u2757\ufe0fThe occupants destroyed a historic movie theater building in #Chernihiv. The #Russian world cannot do otherwise. https://t.\u2026",
+        "created_at": "2022-02-27 18:06:52+00:00",
+        "public_metrics": {
+            "retweet_count": 1625,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497990671919157258,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497967063737974788,
+        "text": "RT @nexta_tv: We remind that #Russian authorities still do not recognize their losses in #Ukraine and do not plan to take the bodies. https\u2026",
+        "created_at": "2022-02-27 16:09:13+00:00",
+        "public_metrics": {
+            "retweet_count": 1408,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497943376351703044,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497966085693390853,
+        "text": "RT @nexta_tv: #Ukrainian media report powerful explosions in Zhytomyr near the airport https://t.co/5ItnBasRmA",
+        "created_at": "2022-02-27 16:05:20+00:00",
+        "public_metrics": {
+            "retweet_count": 681,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497965410888658945,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497849616749916162,
+        "text": "@AKlarenbach No nie do ko\u0144ca poszed\u0142, bo na\u0142o\u017cone na niekt\u00f3re banki, Niemcy nie zdecydowa\u0142y si\u0119 ca\u0142o\u015bciowo wi\u0119c co to za odci\u0119cie",
+        "created_at": "2022-02-27 08:22:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2385923180,
+        "referenced_tweets": {
+            "id": 1497715543503253504,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497844068142907392,
+        "text": "RT @OlaWasilewska77: W imieniu opozycji, przepraszam Jaros\u0142awa i Lecha Kaczy\u0144skich, za drwiny z ich s\u0142\u00f3w wobec Rosji i krytyki mi\u0119kkiej pol\u2026",
+        "created_at": "2022-02-27 08:00:29+00:00",
+        "public_metrics": {
+            "retweet_count": 1043,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497599891979210754,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497614175979323395,
+        "text": "@nexta_tv Slava Ukraina",
+        "created_at": "2022-02-26 16:46:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1891490382,
+        "referenced_tweets": {
+            "id": 1497601928984936448,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497614049483370515,
+        "text": "RT @nexta_tv: \ud83d\udd1eCruel footage of murdered #Russian soldiers. https://t.co/HbrcxIqIUN",
+        "created_at": "2022-02-26 16:46:28+00:00",
+        "public_metrics": {
+            "retweet_count": 1074,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497601928984936448,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497612448647442434,
+        "text": "@nexta_tv",
+        "created_at": "2022-02-26 16:40:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1891490382,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497612414703054853,
+        "text": "RT @nexta_tv: \"No Losses\" in Tokarevka near #Kherson https://t.co/w1v1mFaTgX",
+        "created_at": "2022-02-26 16:39:58+00:00",
+        "public_metrics": {
+            "retweet_count": 628,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497609706948419589,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497561461421494275,
+        "text": "@nexta_tv You must be stronger, maybe 2-3 day",
+        "created_at": "2022-02-26 13:17:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1891490382,
+        "referenced_tweets": {
+            "id": 1497543885211512837,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497529766961979393,
+        "text": "@Piechocinski Pozosta\u0142e kraje powinny odci\u0105\u0107 si\u0119 od tych kraj\u00f3w co sprzyjaj\u0105 rosyjskim kur..",
+        "created_at": "2022-02-26 11:11:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 323177351,
+        "referenced_tweets": {
+            "id": 1497212356299997232,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497529235866628099,
+        "text": "@Vitaliy_Klychko Slava Ukraina",
+        "created_at": "2022-02-26 11:09:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 814943028,
+        "referenced_tweets": {
+            "id": 1497524219411902465,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497484868330180608,
+        "text": "@verusj W\u0119gry powinni si\u0119 za te s\u0142owa wywali\u0107 ze struktur w Europie niech ich Rosja broni, w ko\u0144cu to ich przyjaciel",
+        "created_at": "2022-02-26 08:13:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19141018,
+        "referenced_tweets": {
+            "id": 1497305079250145283,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497185147669594116,
+        "text": "@JakubWende Problemu nie b\u0119dzie owszem tylko b\u0119dzie codziennie dro\u017cej, tylko takie sprostowanie",
+        "created_at": "2022-02-25 12:22:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1318527684,
+        "referenced_tweets": {
+            "id": 1496960432149602318,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487355221844148225,
+        "text": "@BAC_TbMA Ale cioty",
+        "created_at": "2022-01-29 09:21:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1371531801160773632,
+        "referenced_tweets": {
+            "id": 1418556277228191747,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487354741038493697,
+        "text": "@ChristopherJM Amazing",
+        "created_at": "2022-01-29 09:19:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 16827148,
+        "referenced_tweets": {
+            "id": 1487294199213006856,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482768751527444483,
+        "text": "@BoniekZibi @KoltonRoman @s_staszewski Dla mnie 0proc nie ma co cofa\u0107 si\u0119 z futbolem tylko i\u015b\u0107 dalej nie wa\u017cne co b\u0119dzie czy awansujemy czy nie i tak w Katarze nic nie osiagniemy",
+        "created_at": "2022-01-16 17:36:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 487812237,
+        "referenced_tweets": {
+            "id": 1482463395953758217,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480157862622113797,
+        "text": "@reportersalles He live?",
+        "created_at": "2022-01-09 12:41:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 64523460,
+        "referenced_tweets": {
+            "id": 1479894824664940557,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479400243150131203,
+        "text": "@BoniekZibi Ale\u015b \u015bwirni\u0119ty Bo\u0144ku, wed\u0142ug mnie to b\u0119dzie ten kto bardziej dupk\u0119 podi\u017ce, og\u00f3lnie to z nazwisk chcia\u0142bym Szewczenko by politycznie  i sportowo utrze\u0107 nosa Rosjanom",
+        "created_at": "2022-01-07 10:31:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 487812237,
+        "referenced_tweets": {
+            "id": 1479042248369225729,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475845254066675712,
+        "text": "@Bucholz_Adam @Eurosport_PL @Skijumpingpl Gdzie by\u0142o to gro\u017ane?",
+        "created_at": "2021-12-28 15:05:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 704780025405509633,
+        "referenced_tweets": {
+            "id": 1475843875843751944,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472560913706369024,
+        "text": "@MichalKorosciel @Eurosport_PL Ale dmuchasz w ekran jak nasi skacz\u0105",
+        "created_at": "2021-12-19 13:34:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2291618443,
+        "referenced_tweets": {
+            "id": 1472543043693727749,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1425552678852104199,
+        "text": "Opozycja to musi zajrze\u0107 i przeczyta\u0107 jeszcze raz co oznacza demokracja bo nie rozumiej\u0105 #WTyleWizji",
+        "created_at": "2021-08-11 20:20:18+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1425550276698775559,
+        "text": "Trudno  zrozumie\u0107 \u017ce telewizja powinna by\u0107 Polska #WTyleWizji",
+        "created_at": "2021-08-11 20:10:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1425520579780792325,
+        "text": "@KosiniakKamysz Im w zasadzie nawet sz\u0142o by to odroczy\u0107 beda miec wi\u0119cej czasu na przekupienie kilku bo gdyby to przeg\u0142osowali to sadze ze juz czekalyby wybory a tak kolejny b\u0142\u0105d opozycji",
+        "created_at": "2021-08-11 18:12:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 955239446,
+        "referenced_tweets": {
+            "id": 1425487152994004993,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1423995966387015680,
+        "text": "@Eurosport_PL Dla mnie przesadzili zz tym nokautem i wygrana brazyliany",
+        "created_at": "2021-08-07 13:14:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 128197595,
+        "referenced_tweets": {
+            "id": 1423955418548740098,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1375849669356584961,
+        "text": "@CDPROJEKTRED Ale kto to ma kupowac?",
+        "created_at": "2021-03-27 16:38:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1171755060,
+        "referenced_tweets": {
+            "id": 1374728682275803143,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1375847818800340995,
+        "text": "@P_Prosty @Cenckiewicz @R_A_Ziemkiewicz No kurde rodzin\u0105 niech sie zajmie ta Fanka by\u0142aby lepszym prezydentem ni\u017c on by\u0142",
+        "created_at": "2021-03-27 16:30:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1338793618056818694,
+        "referenced_tweets": {
+            "id": 1375747849896493057,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1375730294926544896,
+        "text": "@Skijumpingpl 5 miejsce dzi\u015b max",
+        "created_at": "2021-03-27 08:43:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 165868864,
+        "referenced_tweets": {
+            "id": 1375726943006515205,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1358391592403554309,
+        "text": "@RohrigSzymon @ynhbi @Bucholz_Adam @Skijumpingpl Fis daje im pieniadze by wogole skakali wiec sadze ze im pozwol\u0105 by 50 uzupelni\u0107",
+        "created_at": "2021-02-07 12:26:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2576930276,
+        "referenced_tweets": {
+            "id": 1358388900813828098,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1358389219304087557,
+        "text": "@Bucholz_Adam @Skijumpingpl Ale to prolog a nie kwalifikacje wiec nie ma to znaczenia",
+        "created_at": "2021-02-07 12:16:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 704780025405509633,
+        "referenced_tweets": {
+            "id": 1358385938062270473,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1343960748674994178,
+        "text": "@sport_tvppl Kamil dzisiaj podium mo\u017cliwy. Gratulacje dla Kubackiego spisa\u0142 si\u0119 swietnie ju\u017c",
+        "created_at": "2020-12-29 16:43:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 107377588,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1343512914850930688,
+        "text": "@DominikFormela @Skijumpingpl Wracajcie 8 zrobmy w kraju swoje 4 skocznie zaprosimy innych i wykluczmy niemc\u00f3w",
+        "created_at": "2020-12-28 11:03:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2877989860,
+        "referenced_tweets": {
+            "id": 1343510038867042304,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1343511876009938945,
+        "text": "@Skijumpingpl To trzeba W\u0105ska spakowa\u0107 i wysla\u0107 z Engelberga",
+        "created_at": "2020-12-28 10:59:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 165868864,
+        "referenced_tweets": {
+            "id": 1343509643897819139,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1322882848437768197,
+        "text": "@IBRiS_PL @wirtualnapolska @pisorgpl @KO_Obywatelska @PL_2050 @__Lewica @KONFEDERACJA_ @nowePSL Pis i tak ma wiecej tak samo psl po prostu badanie nie uwzgl\u0119dnia wsi. W jednym i drugim przypadku nalezaloby dodac po 4 proc a innym te 8 proc zredukowa\u0107",
+        "created_at": "2020-11-01 12:47:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 68667197,
+        "referenced_tweets": {
+            "id": 1322824556336287744,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1318027469929238528,
+        "text": "@PozniakMateusz_ @RyszardPetru Ale kogo to obchodzi fitness kiedy\u015b ich nie by\u0142o i jako\u015b ludzie \u017cle nie wygl\u0105dali",
+        "created_at": "2020-10-19 03:13:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1242046218617991168,
+        "referenced_tweets": {
+            "id": 1317748201454293001,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1312496927733248004,
+        "text": "@Walewski_P @Regeneron @m_waligora @grzesiowski_p @wszczeklik @Polityka_pl Nie musi byc legalne aby bylo skuteczne. S\u0105 pewne wymogi ustawowe ale w przypadku zycia czy to istotne. Na pewno podaj\u0105 mu to co sprawdzili ze nie zaszkodzi a czy dzia\u0142a zapewne lagodniej ludzie przechodz\u0105 bo ju\u017c to w usa sprawdzino na 1000 os\u00f3b. Zadna z nich nie umar\u0142a wiec OK",
+        "created_at": "2020-10-03 20:57:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 953225814631383040,
+        "referenced_tweets": {
+            "id": 1312440360526774273,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1276410847712215041,
+        "text": "@krzysztofmatus2 @KonradPiasecki @Trzaskowski A kim ty jeste\u015b pata\u0142achu",
+        "created_at": "2020-06-26 07:03:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2225064500,
+        "referenced_tweets": {
+            "id": 1276402764466266112,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1276266307596570624,
+        "text": "@tvn24 @KropkaNadI Zdecydowanie decyduj\u0105 ze to ostatnie czasy PO w tym kraju",
+        "created_at": "2020-06-25 21:29:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14493047,
+        "referenced_tweets": {
+            "id": 1276238512451391488,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1276266023705083911,
+        "text": "@KWyszkowski Niestety matka tw Justyna kablowala na muzykow do UB wiec dlayego lewica go wesprze bo swoj swojego bedzie chroni\u0142",
+        "created_at": "2020-06-25 21:28:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 320616717,
+        "referenced_tweets": {
+            "id": 1276159939334017030,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1276264906489303040,
+        "text": "@tvp_info Kierowca zas\u0142ab\u0142 bo za d\u0142ugo maseczke mia\u0142 na sobie...no to jest pewne",
+        "created_at": "2020-06-25 21:24:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 47295451,
+        "referenced_tweets": {
+            "id": 1276238972709220355,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1276233356301291522,
+        "text": "@krzysztofmatus2 @KonradPiasecki @Trzaskowski Ja nie mam problemu ale ty tak bo m\u00f3zgu nie masz",
+        "created_at": "2020-06-25 19:18:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2225064500,
+        "referenced_tweets": {
+            "id": 1276229457548845057,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1276221833285681152,
+        "text": "@krzysztofbosak @bosak2020 @KONFEDERACJA_ Dawaj Pan do 2 tury nie wazne czy wygrana wazne by tego Trzaska ogra\u0107 by w wyborach pezeskoczyc platforme",
+        "created_at": "2020-06-25 18:32:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 80676829,
+        "referenced_tweets": {
+            "id": 1272279514417070080,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1276221387754082304,
+        "text": "@tvn24 @trzaskowski_ Ciolek bez programu nawet Holownia z nim wygra",
+        "created_at": "2020-06-25 18:31:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 14493047,
+        "referenced_tweets": {
+            "id": 1276220124161335302,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1276220631550492679,
+        "text": "@krzysztofmatus2 @KonradPiasecki @Trzaskowski Chyba xa duzo tvnu ogladasz cioto",
+        "created_at": "2020-06-25 18:28:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2225064500,
+        "referenced_tweets": {
+            "id": 1276167455904354314,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1276219668982910976,
+        "text": "@KonradPiasecki Ogolnie moze byc niespodzia ka i w 2 turze bedzie Holownia i wtedy obecnybprezydent bedzie mial problem w walce z bezpartyjnym",
+        "created_at": "2020-06-25 18:24:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 717780322126065666,
+        "referenced_tweets": {
+            "id": 1276219091049689089,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1276218148090494976,
+        "text": "Kto wygra wybory prezydenckie 2020? - Sonda\u017c: Andrzej Duda i Rafa\u0142 Trzaskowski przejd\u0105 do drugiej  tury - Fakty TVN https://t.co/j1iCQmiM4r",
+        "created_at": "2020-06-25 18:18:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1273845649650442240,
+        "text": "@TOPTVPINFO @ogorekmagda @WojciechKoniec4 Nie wiem ale nawo\u0142uj\u0105 do noszenia maseczek a tutaj prezydent selfie sobie robi w do\u015b\u0107 bliskiej odleglo\u015bci. Na pewno szacunek dla Prezydenta \u017ce jest odwa\u017cny",
+        "created_at": "2020-06-19 05:10:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1080402760955244544,
+        "referenced_tweets": {
+            "id": 1273262231753498628,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1273844142171357185,
+        "text": "@JacekF11 Za takie publikacje powinna prokuratura do pana zapuka\u0107",
+        "created_at": "2020-06-19 05:04:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1198967117250514945,
+        "referenced_tweets": {
+            "id": 1273709925865316352,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1273749221011832832,
+        "text": "@AndrzejDuda W tej debacie to najbardziej utkwi\u0142a mi pani z j\u0119zyka migowego co ona mia\u0142a za katorg\u0119 i mucha robacznica",
+        "created_at": "2020-06-18 22:47:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 202086424,
+        "referenced_tweets": {
+            "id": 1273358004541407237,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1273707807397883907,
+        "text": "#Wtylewizji wygra\u0142a mucha na glowie kandydata",
+        "created_at": "2020-06-18 20:03:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1273706794792243201,
+        "text": "@WtylewizjiINFO #wtylewizji ale Sukienka piekna Pani Magdy...Bronislaw to byl najs\u0142abszy Prezydent w hisyorii",
+        "created_at": "2020-06-18 19:58:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1197234955539144704,
+        "referenced_tweets": {
+            "id": 1271761091194953730,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1273007483217498118,
+        "text": "@KonradPiasecki Po co ma legalizowa\u0107 co\u015b co jest psychicznie chore",
+        "created_at": "2020-06-16 21:40:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1272476519433109504,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1273007207442010114,
+        "text": "@AndrzejDuda Nawet samiec malpy nie kopuluje z samcem malpy lgbt to wynaturzenie podobnie jak dzikie zwierze jesli podchodzi do czlowieka to mawia si\u0119 ze ma w\u015bciekliznie wiec to tez jest choroba psychiczna i mo\u017cna sie obraza\u0107 ale to nie jest naturalne dla ssak\u00f3w pomijaj\u0105c ju\u017c religie",
+        "created_at": "2020-06-16 21:39:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 202086424,
+        "referenced_tweets": {
+            "id": 1272154426082557954,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1271043214552764417,
+        "text": "@KonradPiasecki Jest wyrazistym sb potomkiem. Kazdy wybor bedzie dibry tylko jie ta gnida",
+        "created_at": "2020-06-11 11:34:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1261296205084139520,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1271023375826239489,
+        "text": "@matizg1993 @MZ_GOV_PL Zeby manipulowa\u0107 tak bedzie im prosciej",
+        "created_at": "2020-06-11 10:16:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1707090216,
+        "referenced_tweets": {
+            "id": 1270683047403368448,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1271001196329926657,
+        "text": "@MZ_GOV_PL Znudzilo si\u0119 2 razy",
+        "created_at": "2020-06-11 08:47:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 462886126,
+        "referenced_tweets": {
+            "id": 1270682128385298433,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1270999719607746560,
+        "text": "@kobus_micha @MZ_GOV_PL Kto by\u0142 tam raz ten wie jak to wyglad\u0105 w Zgierzu",
+        "created_at": "2020-06-11 08:42:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1097641423225212928,
+        "referenced_tweets": {
+            "id": 1270997493745176577,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1270998855593734145,
+        "text": "@MZ_GOV_PL W Zgierzu to pacjenci sami si\u0119 wieszaj\u0105 na sznurowkach chyba ich tam psychicznie wykanczaj\u0105",
+        "created_at": "2020-06-11 08:38:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 462886126,
+        "referenced_tweets": {
+            "id": 1270996889937346560,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1264245502725558282,
+        "text": "@KonradPiasecki Kiepski ten kandydat",
+        "created_at": "2020-05-23 17:23:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1261296205084139520,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1251794711951671299,
+        "text": "@MZ_GOV_PL A nie latwiej napisa\u0107 ze 2 osoby mialy choroby wsp\u00f3\u0142istnienij\u0105ce a nie wi\u0119kszo\u015b\u0107?",
+        "created_at": "2020-04-19 08:48:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 462886126,
+        "referenced_tweets": {
+            "id": 1251783095654768640,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1237712469637947392,
+        "text": "@W_Fijalkowski Gardlo trza odkarza\u0107 i jak rosjanin popijac ciepla herbat\u0105",
+        "created_at": "2020-03-11 12:10:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2740486867,
+        "referenced_tweets": {
+            "id": 1232936893802799104,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1237712080616243201,
+        "text": "@MZ_GOV_PL  ludzie m\u00f3wi\u0105 ze sobie nie radzicie",
+        "created_at": "2020-03-11 12:08:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 462886126,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1218661527227641856,
+        "text": "@gosiabem Mia\u0142 bzika na punkcie pracy naukowej mo\u017ce to by\u0142 epizod kt\u00f3ry mia\u0142 mu da\u0107 odpowiedzi na pytania w swoich pracach tezach naukowiec najlepiej odczuje nie teoryzuj\u0105c a praktykuj\u0105c",
+        "created_at": "2020-01-18 22:28:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 48748308,
+        "referenced_tweets": {
+            "id": 1218652231886688257,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1218641022076489728,
+        "text": "@gosiabem By\u0107 mo\u017ce na jego problemy z alkoholem",
+        "created_at": "2020-01-18 21:07:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 48748308,
+        "referenced_tweets": {
+            "id": 1218461679249432577,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1218305899120463874,
+        "text": "@anek93wp @donaldtusk Ale ty glupia cipcia jestes siwdzisz tam to sied\u017c i zamknij jadaczk\u0119",
+        "created_at": "2020-01-17 22:55:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 560735103,
+        "referenced_tweets": {
+            "id": 1218247944786280449,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1218305267693162502,
+        "text": "@donaldtusk Te\u017c nie by\u0142e\u015b ani ty ani tw\u00f3j synalek lepszy niz ci co rzadz\u0105. Miejmy nadzieje ze Konfederacja niebawem bedzie miala wi\u0119ksze popracie i ludzie przejrz\u0105 na oczy ze PO i PiS nie s\u0105 alternatyw\u0105 w tym kraju. Nie masz prawa krytykowa\u0107 tych co zag\u0142osowali na PiS bo to jest demokracja",
+        "created_at": "2020-01-17 22:53:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 375146901,
+        "referenced_tweets": {
+            "id": 1218243055167463437,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1208386035186569217,
+        "text": "@tvp_info @profGrodzki Lekarze bior\u0105 za operacje ale sami nie prosz\u0105 dostaj\u0105 kopert\u0119 i do kosza nie wyrzuci przeciez",
+        "created_at": "2019-12-21 13:57:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 47295451,
+        "referenced_tweets": {
+            "id": 1208049715595685888,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1208384733786361856,
+        "text": "@wilknagpw Ktory DM i jakie gie\u0142dy?",
+        "created_at": "2019-12-21 13:52:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1291793498,
+        "referenced_tweets": {
+            "id": 1154755905977835521,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1141349568786903040,
+        "text": "@RyszardPetru Poszed\u0142 bym za tym by zlikwodowac senat a poszerzy\u0107 o 20 miejsc sejm. Oraz wprowadzi\u0107 mozlliwosc rzadzenia dla kazdej partii na zasadzie 5proc to jeden resort wiadomo aprtia rzadzsca miala by wyb\u00f3r w pierwszej kolejnosci wyboru resort\u00f3w",
+        "created_at": "2019-06-19 14:18:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 717780322126065666,
+        "referenced_tweets": {
+            "id": 1141348827053604864,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1141348827053604864,
+        "text": "@RyszardPetru Plan 6 kr\u00f3li moze potrzebny. Tu potrzeba zupe\u0142nie innej partii ktora da\u0142aby nadzieje nie na programy daj\u0105ce kase a na programy obnizajace koszty administracji w celu obnizenia podatk\u00f3w czyli min likwidacje urzedow pracy zmniejszenia urzedow miast itp",
+        "created_at": "2019-06-19 14:15:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 344313687,
+        "referenced_tweets": {
+            "id": 1141238468506476544,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1140955437476515840,
+        "text": "@Wujewski @mchmielewski2 @KonradPiasecki Ja zeby uszczelni\u0107 vat proponuje jedn\u0105 zasade odliczamy i placimy vat od faktur zaplacinych jedynie. Wtedy nie bedzie tematu z wyludzeniem vatu i pustymi fakturami",
+        "created_at": "2019-06-18 12:12:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 237455624,
+        "referenced_tweets": {
+            "id": 1140875133634207744,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1140650781789605890,
+        "text": "@o_biedronka Swiat wg Kiepskich lepszy",
+        "created_at": "2019-06-17 16:01:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 962295623147024384,
+        "referenced_tweets": {
+            "id": 1139562737544159232,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1140650239378034690,
+        "text": "@pietruszkanatki Dobre",
+        "created_at": "2019-06-17 15:59:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 767909504713420800,
+        "referenced_tweets": {
+            "id": 1140212505593221120,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1140649445228523520,
+        "text": "@D_Tarczynski @mhorala Tusk niemiecki bandyta",
+        "created_at": "2019-06-17 15:56:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 347228796,
+        "referenced_tweets": {
+            "id": 1140608062966980608,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1140649090784665601,
+        "text": "@wassermann_ma Bez jaj przesadzacie nie dlugo roczn ica bedzie kiedy kto\u015b pu\u015bci b\u0105ka",
+        "created_at": "2019-06-17 15:55:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3595706777,
+        "referenced_tweets": {
+            "id": 1140530236892831746,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1140647953461370880,
+        "text": "@KarolGua1 @KonradPiasecki Produkcja przemyslowa to nie jeden makroekonomiczny wskaznik. Zeby por\u00f3wna\u0107 naleza\u0142o by zestawi\u0107 more wskaznik\u00f3w makro by to by\u0142o obiektywne. Niech PO i PiS sie wytlumacxy z tej kasy pge co idzie na elektrownie atomowe sk\u0105d te wydatki skoro nawet miejsca nie wybrano gdzie stanie",
+        "created_at": "2019-06-17 15:50:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1139507218515136512,
+        "referenced_tweets": {
+            "id": 1140587608889802752,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1140646532544417793,
+        "text": "@KonradPiasecki Gospodarczo ok ale ludzie na s\u0142owacji nie s\u0105 zadowoleni z pensji. Wzrost jest ale nominalny a noe realny i to s\u0105siad\u00f3w boli",
+        "created_at": "2019-06-17 15:45:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1140569261255081985,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1140529949167800320,
+        "text": "@Ola_Kalinowska @pioter_ @ArkadiuszMalarz @LegiaWarszawa W 1 lidze pogra nawet 4 sezony",
+        "created_at": "2019-06-17 08:01:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1487450360,
+        "referenced_tweets": {
+            "id": 1140215888144195584,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1140263130632732673,
+        "text": "@wookash75 @RyszardPetru To juz lepiej usd niz euro",
+        "created_at": "2019-06-16 14:21:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1375341163,
+        "referenced_tweets": {
+            "id": 1140178486008733697,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1140262489172717568,
+        "text": "@RyszardPetru Na pis glosuje 45 proc a 55 proc uwaza ze nie dobrze i co to zmienia a no nic. Kiedy\u015b my Eur przyjmiemy ale najlepeij jak kirs zleci na 3.50 a nie teraz",
+        "created_at": "2019-06-16 14:18:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 344313687,
+        "referenced_tweets": {
+            "id": 1140177034280390656,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1139989869374169089,
+        "text": "@KomarAndrzej @tvp_info @Cenckiewicz Bedzie 50 proc wierze w to",
+        "created_at": "2019-06-15 20:15:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1030012949824516096,
+        "referenced_tweets": {
+            "id": 1139976068620783617,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1139954589053149201,
+        "text": "@LBalcerowicz @PresidentWalesa @KolendaK @empik @FundacjaFOR @WydawnictwoZnak @InstytutLW Spotkanie w celi?",
+        "created_at": "2019-06-15 17:55:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 88203872,
+        "referenced_tweets": {
+            "id": 1139532058731188224,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1139954227340464128,
+        "text": "@AndrzejKacperZ1 @PresidentWalesa A ty sie z dup\u0105 na rozum zamieni\u0142e\u015b i jako\u015b zyjesz",
+        "created_at": "2019-06-15 17:54:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1029289846693683200,
+        "referenced_tweets": {
+            "id": 1139858336814288897,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1139953800058494980,
+        "text": "@PresidentWalesa Komor to dziad",
+        "created_at": "2019-06-15 17:52:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 740547410485780480,
+        "referenced_tweets": {
+            "id": 1139856560577024000,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1139591890733535232,
+        "text": "@irzynski A maja 90 proc? Bo z tego co wiem nie maja",
+        "created_at": "2019-06-14 17:54:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1139466825165676545,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1139431611274018816,
+        "text": "@KonradPiasecki By\u0107 moze w tych wyborach zdob\u0119d\u0105 50 proc. Trzeba da\u0107 im porzadzic z 8 lat je\u015bli bedzie zle to za 8 lat przestan\u0105 istnie\u0107",
+        "created_at": "2019-06-14 07:17:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1139231688733659136,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1138328773554769920,
+        "text": "@KonradPiasecki Pewnie ze karny z dupki najpierw pi\u0142ka dotkne\u0142a nogi a potem r\u0119ki ale problem w tym by\u0142 taki ze r\u0119ka by\u0142a uniesiona i to zostalo zakwalifikowane niestety poprawnie. My\u015ble ze nawet Var sk\u0142oni\u0142by by to by\u0142 karny.",
+        "created_at": "2019-06-11 06:15:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1138173608294002688,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1137376414028763137,
+        "text": "@KonradPiasecki Cz\u0142owieka te\u017c idzie zje\u015b\u0107",
+        "created_at": "2019-06-08 15:10:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1137232324792389632,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1136758710427103234,
+        "text": "@irzynski @EnergaSA Z mojego do\u015bwiadczenia z operatorami Energa Pge tauron mog\u0119 powiedzie\u0107 ze najwyzszy poziom obs\u0142ugi klienta ma Energa. Pozna\u0142em tam pe\u0142nomocnika zarz\u0105du i to go\u015b\u0107 na wysokim poziomie nie to co ludzie w Pge czy Tauron. Zupelnie inna liga",
+        "created_at": "2019-06-06 22:16:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1136737839411077128,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1136725638507835392,
+        "text": "@irzynski @EnergaSA Korzystanie z fachowca to ka\u017cdy ma w cenie bylejakiego ubezpieczenia domu czy mieszkania chyba to kosztuje z 10 zl wiecej do ubezpieczenia na rok wiec podwyzka w zamian za talon na balon to jaka\u015b kpina",
+        "created_at": "2019-06-06 20:04:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1136586867774820354,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1136718830548541441,
+        "text": "@irzynski @Play_Polska Jak podnios\u0105 abonament przejd\u0119 do innej firmy bo wcale play nie jest najlepszy bym powiedzial ze internet maja najgorszy. Tylko czeoam na taki ruch jak wielu moich znajomych wiec spodziewam sie zupe\u0142nie odwrotnej tendencji",
+        "created_at": "2019-06-06 19:37:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1136595469667356673,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1136564167970889729,
+        "text": "@KonradPiasecki Ciesze si\u0119 ze choc jednego geja bedzie mniej. Niech stawia lody tam gdzie jego miejsce",
+        "created_at": "2019-06-06 09:23:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1136536855573422080,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1136131718866513920,
+        "text": "@irzynski Raczej bez szans. Symulator gotowania to do\u015b\u0107 nudne",
+        "created_at": "2019-06-05 04:44:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1135934579171385345,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1135858492005376001,
+        "text": "@RyszardPetru Ale komu sie chce w niedziel\u0119 po sklepach chodzi\u0107. To nie komuna nie zabior\u0105 wszystkiego. W niedziele to sie idzie do parku na lody. Czy Ryszard chodzi w niedziele po sklepach?",
+        "created_at": "2019-06-04 10:39:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 344313687,
+        "referenced_tweets": {
+            "id": 1135498926054936576,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1135664475518971905,
+        "text": "@irzynski CcC to coraz gorsza jako\u015b\u0107 obuwia. Co to za buty jak nawet sezonu trudno w nich wytrzyma\u0107. Jak czego\u015b nie zmieni\u0105 to ci kwarta\u0142 bedzie tylko gorzej",
+        "created_at": "2019-06-03 21:48:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1135595201597194241,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1135222231292940289,
+        "text": "@RyszardPetru Ja nie widz\u0119 by kto\u015b ti kontrolowa\u0142. Widzialem jak na budowie pracuj\u0105 ukrai\u0144cy a s\u0105dze ze nikt sie do nich nie przyczepi bo kto z kontroli p\u00f3jdzie do firmy ukrai\u0144skiej?",
+        "created_at": "2019-06-02 16:30:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 344313687,
+        "referenced_tweets": {
+            "id": 1135142196661968896,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1134897741363109891,
+        "text": "@KonradPiasecki Platforma buduje otoczk\u0119 wok\u00f3\u0142 siebie takiego dziada.Nie maja od lat pomys\u0142u na rz\u0105dzenie i co wybory g\u0142os\u00f3w bedzie co raz mniej. Nie mieli sukcesu przez 8 lat nie potrafili nikogo do siebie przekona\u0107 tylko sw\u0105 ob\u0142ud\u0105 stracili w oczach wyborc\u00f3w",
+        "created_at": "2019-06-01 19:01:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1134751199712993280,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1133804847994724352,
+        "text": "@RyszardPetru Niby to rozdawnictwo kosztowne ale ro\u015bnie konsumpcja a to zaraz po inwestycjach g\u0142owny czynnik wzrostu PKB. Napewno plujecie sobie w brode ze sami na to nie wpadli\u015bcie i pewnie zazdro\u015b\u0107 zrzera. Jednak mo\u017cna by\u0142o cos da\u0107 dla spolecze\u0144stwa aczkolwiek ja bym obnizyl pdof do 15%",
+        "created_at": "2019-05-29 18:38:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 344313687,
+        "referenced_tweets": {
+            "id": 1133632445809594368,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1133803901889798145,
+        "text": "@irzynski No to znaczy \u017ce wprowadza w b\u0142\u0105d i powinnonsie to zg\u0142osic do knfu bo posze ze to wyliczenie sp\u00f3\u0142ki",
+        "created_at": "2019-05-29 18:34:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1133792160246116354,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1133765568002252801,
+        "text": "@irzynski Je\u015bli tak wyliczy\u0142a sp\u00f3lka jak podaje money to ka\u017cdy powinien sprzedac akcje bo je\u015bli maj\u0105 taki h analityk\u00f3w to trzeba sie zastanowi\u0107 bardzo mocno",
+        "created_at": "2019-05-29 16:02:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1133694877924044800,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1133634585118609409,
+        "text": "@KonradPiasecki Znam 4 osoby co glosowaly za psl a teraz nie zaglosuj\u0105. Kazda jednak z tych 4 os\u00f3b ma zupelnie teraz inny typ za ma\u0142a pr\u00f3ba by o czym\u015b to \u015bwiadczylo ale wiem ze 4 g\u0142osy mniej",
+        "created_at": "2019-05-29 07:22:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1133463194972954626,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1133422377449271296,
+        "text": "@irzynski Przed wejsciem PPE to sie takie powinno wybiera\u0107 bo one powinny zyska\u0107. Do jesieni nie bedzie nigdzie prze\u0142amania i dlatego taki m\u00f3j typ",
+        "created_at": "2019-05-28 17:18:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1133390061968470018,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1133352729659809793,
+        "text": "@DarekGrupa S\u0105dze ze spolki energetyczne rusz\u0105 zaraz po jesiennych wyborach. Otworz\u0105 sie z ogromn\u0105 luk\u0105",
+        "created_at": "2019-05-28 12:42:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2759672459,
+        "referenced_tweets": {
+            "id": 1131817054200315904,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1133351853687791616,
+        "text": "@DarekGrupa 500 plus ma swoje te\u017c dobre strony. Nakr\u0119ca konsumpcje a ta PKB. Jednak jako ekonomista powiem ze to nie powinno miec formy rozdawania. Lepiej jakby podatek od os fizycznych zostaly obnizony do 15 % skorzystalby kazdy kto pracuje.",
+        "created_at": "2019-05-28 12:38:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2759672459,
+        "referenced_tweets": {
+            "id": 1132897695608258560,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1133350746529964032,
+        "text": "@irzynski Wyb\u00f3r powinien pa\u015bc na spolke ktora soad\u0142a a kt\u00f3ra bedzie juz za chwilebplacic dywidende. Tak by kupi\u0107 przed tymi co dywidende przeznacza na zwiekszenie zaangazowania dla przyszlej dywidendy",
+        "created_at": "2019-05-28 12:34:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1133287337478238208,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1133236666460758016,
+        "text": "@ArekJozwiak Z tych 5.6 proc to polowa alimenciarze co robi\u0105 na czarno by ich nie p\u0142aci\u0107",
+        "created_at": "2019-05-28 05:00:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 723047760824430592,
+        "referenced_tweets": {
+            "id": 1133091085843128321,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1132759522764828675,
+        "text": "@KonradPiasecki Na jesieni PiS zdobedzie 50 proc.",
+        "created_at": "2019-05-26 21:24:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1132727931170697216,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1132223032217526273,
+        "text": "@GiertychRoman G\u0142osuj dziadku na co chcesz a ludzie maj\u0105 wolny wyb\u00f3r",
+        "created_at": "2019-05-25 09:53:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2919694493,
+        "referenced_tweets": {
+            "id": 1132008674166226945,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1132222823022432256,
+        "text": "@KonradPiasecki Musi to by\u0107 troll i tyle.",
+        "created_at": "2019-05-25 09:52:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1131895866200084480,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1131944174494932997,
+        "text": "@KonradPiasecki Ja si\u0119 nie boje, ale nie uznaje gej\u00f3w za spo\u0142ecze\u0144stwo, to jacy\u015b niedorobieni \u017cyciowo ludzie kt\u00f3rym brak pi\u0105tej klepki. Wol\u0119 zmocni\u0107 PIS ni\u017c by Wiosna dostala g\u0142os, bo to jakbym wspiera\u0142 szerzenie si\u0119 pedalstwa, czy pedofilli, bo ci ludzie maj\u0105 takie zachcianki",
+        "created_at": "2019-05-24 15:24:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1131867574604574720,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1131459963317043200,
+        "text": "@ArekJozwiak No to chyba pizza by\u0142a w z\u0142otej oprawie. Aczkolwiek wtedy bitcoin wart byl kilka cent\u00f3w",
+        "created_at": "2019-05-23 07:20:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 723047760824430592,
+        "referenced_tweets": {
+            "id": 1131085797849993217,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1130698670393966592,
+        "text": "@GiertychRoman To zupe\u0142nie bezsensu",
+        "created_at": "2019-05-21 04:55:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2919694493,
+        "referenced_tweets": {
+            "id": 1130566802919104513,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1130457232410382336,
+        "text": "@KonradPiasecki Jedno jest pewne gdyby tych sondazy nie bylo dla ludzi byloby kepiej jak i dla tych mniejszych partii",
+        "created_at": "2019-05-20 12:56:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1130326777065365505,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1130456938297352192,
+        "text": "@KonradPiasecki Zalezy jak\u0105 grupe zapyta, jak zapyta na wsi to bedzie 15 proc dla pis, jak w miescie bedzie jedynie kolo 5 punktow procentowych",
+        "created_at": "2019-05-20 12:55:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1130326777065365505,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1129830116371107843,
+        "text": "@whkrzysztof @bbudka Do budy heheh",
+        "created_at": "2019-05-18 19:24:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2223161112,
+        "referenced_tweets": {
+            "id": 1129761727602712579,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1129622572839133184,
+        "text": "@irzynski Dino i Ccc to kwestia jak wspomina\u0142em z 3 tyg temu nie ma na gie\u0142dzie tak by co\u015b ros\u0142o w niesko\u0144czonosc, nawet nie chodzi o wyniki, po prostu nie ma sentyment\u00f3w, a dodatkoww info o podatku obrotowym przyspieszylo sprawe",
+        "created_at": "2019-05-18 05:39:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1129319566067347456,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1129621982545362944,
+        "text": "@irzynski Kania to przeciez ma 200 mln do sp\u0142aty na koniec czerwca, a wynik jest papierowy jedynie wiec spodziewac sie trzeba post\u0119powania uk\u0142adowego. Zaden doradca nie bedzie w stanie podwa\u017cy\u0107 decyzji rewidenta. Ja jako g\u0142\u00f3wny ksi\u0119gowy nie spodziewa\u0142bym si\u0119 tego",
+        "created_at": "2019-05-18 05:37:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1129319566067347456,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1129481857580654593,
+        "text": "@AndrzejDuda Sto lat Panie Prezydencie",
+        "created_at": "2019-05-17 20:20:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 202086424,
+        "referenced_tweets": {
+            "id": 1129388552515727360,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1128404798624215040,
+        "text": "@Lukasz__Nowacki Nie bylbym taki pewny",
+        "created_at": "2019-05-14 21:00:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2286831006,
+        "referenced_tweets": {
+            "id": 757835362169303040,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1126866891644002304,
+        "text": "@K_Stanowski Trzeba byc glupim h...",
+        "created_at": "2019-05-10 15:09:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1183133300,
+        "referenced_tweets": {
+            "id": 1126740492308193280,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1126805123680935937,
+        "text": "@KonradPiasecki Nie s\u0105dze PIS to staly lektorat na pozuomie 35 proc, to s\u0105 ludzie kt\u00f3ezy nie zmieniaj\u0105 zdania, a ka\u017cda wpadka PO tylko ich umacnia w wierze",
+        "created_at": "2019-05-10 11:04:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1126755686199615488,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1126526716883668992,
+        "text": "@GrzegorzKastner @pawelpablo5 @KonradPiasecki Ale ty jeste\u015b je\u0142op",
+        "created_at": "2019-05-09 16:37:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2738151200,
+        "referenced_tweets": {
+            "id": 1125739008083013632,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1125726486202286080,
+        "text": "@KonradPiasecki @TomaszBrussy Ja bym takich debili nie o 6 rano a o 3 w nocy wyci\u0105ga\u0142, tylko nie wozil na komende tylko przywi\u0105zywal do s\u0142upa by tak do rana sobie postal i zrozumial g\u0142upote",
+        "created_at": "2019-05-07 11:38:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1125510172942712833,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1125725965743742977,
+        "text": "@pawelpablo5 @GrzegorzKastner @KonradPiasecki Z takim podej\u015bciem to bedziecie d\u0105zy\u0107 chyba do podzialu polski jak w Jugos\u0142awi, by\u0107 mo\u017ce tego chcecie. Lepiej religii nie porusza\u0107, katolik czy wyznawca islamu, znam r\u00f3znych ale ka\u017cdy lepszy ni\u017c ten d\u0105\u017c\u0105cy do podzia\u0142u w narodzie",
+        "created_at": "2019-05-07 11:35:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 811257978242400256,
+        "referenced_tweets": {
+            "id": 1125649361696972800,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1125724729984409602,
+        "text": "@GrzegorzKastner @Jacek16709593 @kmwrona @AgnieszkaNR @KonradPiasecki Twoja wida\u0107 nie w porz\u0105dku, chicia\u0142by\u015b dzieli\u0107 polak\u00f3w i prowadzi\u0107 do lokalnych wojen, by\u0107 mo\u017ce by\u015b j\u0105 te\u017c podzieli\u0142 zgodnie z politycznym uk\u0142adem si\u0142 wojew\u00f3dztw, wstyd ch\u0142opie",
+        "created_at": "2019-05-07 11:31:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2738151200,
+        "referenced_tweets": {
+            "id": 1125699282269552645,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1125724029250359296,
+        "text": "@KonradPiasecki Wed\u0142ug mnie obra\u017ca to uczucia religijne, tylko po co to nag\u0142a\u015bnia\u0107 na tak\u0105 skale, z\u0142apa\u0107 g\u0142upola zapuszkowa\u0107 i po sprawie",
+        "created_at": "2019-05-07 11:28:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1125467043833286656,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1125460008634933249,
+        "text": "@irzynski Wed\u0142ug mnie CCC cd projekt, lpp to zacznie sie realizacja zysk\u00f3w, musi to nast\u0105pi\u0107, gie\u0142da nie zna sentymentu",
+        "created_at": "2019-05-06 17:59:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1125364297843003392,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1124200560763252737,
+        "text": "@Ola_Kalinowska Za ma\u0142o grania w bia\u0142ymstoku....poza disco polem, to mistrzami w niczym innym nie b\u0119d\u0105",
+        "created_at": "2019-05-03 06:34:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1487450360,
+        "referenced_tweets": {
+            "id": 1124051050288361472,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1123955854057799681,
+        "text": "Lewica Razem proponuje Pakt dla Pracownik\u00f3w. Chce europejskiej pensji minimalnej i likwidacji \u015bmieci\u00f3wek.\n.is it possible? https://t.co/RX0VEua4WN",
+        "created_at": "2019-05-02 14:22:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1123613133388562433,
+        "text": "@KonradPiasecki To nic mnie w Hiszpani go\u015b\u0107 zaczepi\u0142 i powiedzia\u0142 ze sorry ale jeste\u015b tak bardzo podobny do mojego kumpla z Chile, zorientowal si\u0119 jak po hiszpansku nie kumam",
+        "created_at": "2019-05-01 15:40:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1122518325806948357,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1123601341153193984,
+        "text": "@Piotr_Dolny @KonradPiasecki Hahaha, no tak lepeij za analizy wyborcze sie nie bra\u0107 a skupi\u0107 na finansowych",
+        "created_at": "2019-05-01 14:53:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1084888319035617283,
+        "referenced_tweets": {
+            "id": 1123248928311455744,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1123599481839259650,
+        "text": "@KonradPiasecki A b\u0119dzie im potrzebny Koalicjant? S\u0105dze ze jeszcze nie w tych wyborach",
+        "created_at": "2019-05-01 14:46:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1123246884750024706,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1123306763552546816,
+        "text": "@irzynski @PawelBiedrzycki @BlooberTeam @eccgames @kruk_sa Ecc to moze byc dobre",
+        "created_at": "2019-04-30 19:22:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1121703011192012800,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1123305496960819202,
+        "text": "@ArekJozwiak Moze i 10 statuletek miec ale i co z tego",
+        "created_at": "2019-04-30 19:17:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 723047760824430592,
+        "referenced_tweets": {
+            "id": 1121743485244145669,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1122919157954228224,
+        "text": "@PresidentWalesa Tak a kase w totka wygra\u0142e\u015b, napewno jaka\u015b forma wsp\u00f3lpracy by\u0142a, to by\u0142y z\u0142e czasy wiec mozna bylo powiedzie\u0107 ze chcieli mi rodzine zabi\u0107, wtedy ka\u017cdy by to usprawiedliwienie przyj\u0105\u0142, a tak po latach troche lipa z tym",
+        "created_at": "2019-04-29 17:42:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 740547410485780480,
+        "referenced_tweets": {
+            "id": 1122753912686219264,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1122801586412167168,
+        "text": "@KonradPiasecki Jeden z bohater\u00f3w walki o woln\u0105 Polsk\u0119.",
+        "created_at": "2019-04-29 09:55:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1122583039077441544,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1122546674914562048,
+        "text": "@Ola_Kalinowska Smaku dodaje fakt ze s\u0119dzia mieszka w Warszawie, dla mnie to nie poj\u0119te",
+        "created_at": "2019-04-28 17:02:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1487450360,
+        "referenced_tweets": {
+            "id": 1122545513746792449,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1122544469423853573,
+        "text": "@Ola_Kalinowska Pani Olu Zbigniew Boniek te\u017c \u015blepy?, niech pani klatka po klatce obejrzy, ewdi\u0119tnie karny i czerwona za to. Lechia s\u0142abo gra\u0142a ale na pora\u017ck\u0119 nie zas\u0142u\u017cy\u0142a. Dla mnie s\u0119dzia powinien przeprosic a nie Boniek",
+        "created_at": "2019-04-28 16:53:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1487450360,
+        "referenced_tweets": {
+            "id": 1122400333895012359,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1122402253875421186,
+        "text": "@KonradPiasecki Dla mnie jak kto\u015b marudzi \u017ce \u017cle zarabia to prosta droga zmieni\u0107 prace a nie \u017cebra\u0107. Ale powiem klasykiem: a co ja teraz bede robi\u0142 jak ja tylko przesluchiwac umiem",
+        "created_at": "2019-04-28 07:28:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1122026740396769280,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1122400381580075008,
+        "text": "@h_k1916 Niestety to by\u0142o z\u0142odziejstwo, a ten s\u0119dzia chyba na bukmacherach obstawia",
+        "created_at": "2019-04-28 07:21:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1039520834,
+        "referenced_tweets": {
+            "id": 1122278732767662080,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1122398748317974528,
+        "text": "@Ola_Kalinowska https://t.co/xaQPXkaMUI",
+        "created_at": "2019-04-28 07:14:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1487450360,
+        "referenced_tweets": {
+            "id": 1122215834758385664,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1122264380664627200,
+        "text": "@Ola_Kalinowska Powinny byc 2 karne dla Lechii, a co odwala\u0142 s\u0119dzia tylko on jedyny wie",
+        "created_at": "2019-04-27 22:20:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1487450360,
+        "referenced_tweets": {
+            "id": 1122208267365748736,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1122033643105456128,
+        "text": "@donaldtusk Tych g\u0142upot s\u0142ucha\u0107, to lepiej i\u015b\u0107 do zoo",
+        "created_at": "2019-04-27 07:04:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 375146901,
+        "referenced_tweets": {
+            "id": 1121752057692737536,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1120957885725409280,
+        "text": "@irzynski Zgadzam sie w 100 proc, jest duzo sp\u00f3\u0142ek co nie placi dywidendy i niby robi\u0105 zysk a dla mnie to papierowy zysk skoro nie dziela sie z akcjonariuszami, na asbis to stopa zwrotu jest duza i nie ma potrzeby by r\u00f3s\u0142 kurs tu liczy sie dywidenda",
+        "created_at": "2019-04-24 07:49:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1120954524070551552,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1120952024571551745,
+        "text": "@irzynski Wycena wycen\u0105 wskazywanie \u017ce zagro\u017ceniem jest s\u0142abo sprzedaj\u0105cy sie Apple jest w wycenie  b\u0142edne patrzac na rosn\u0105cy kurs Apple na Dj, kwestia rynk\u00f3w wschodnich, no c\u00f3\u017c tam sie dopiero buduje infrastruktura imformatyczna i jeszcze nie ma tego nasycenia sprz\u0119tem, wskazniki s\u0105 ok",
+        "created_at": "2019-04-24 07:26:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1120944920662089729,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1120814618102906881,
+        "text": "@irzynski A jak odbiera\u0107 wycen\u0119 Asbis na 5.50 kiedy cena rynkowa 2.60 a akcji ich nie maj\u0105? To chyba ciekawsze, bo ccc to raczej cena rynkowa nieco za wysoka",
+        "created_at": "2019-04-23 22:20:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1120651248401899521,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1120809951012827137,
+        "text": "@tvp_info A to nie by\u0142a ona w niemieckim lidlu i nie wirziala ze tam taniej niz u nas? Ceny to juz s\u0105 europejskie tylko pensje nie s\u0105",
+        "created_at": "2019-04-23 22:01:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 47295451,
+        "referenced_tweets": {
+            "id": 1119864465955205120,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1120547572609896448,
+        "text": "RT @pikus_pol: Rozmowa ze strajkuj\u0105cym nauczycielem\ud83d\ude02\n- Pani jest zwi\u0105zkowcem?\n- Tak\n- Na przestrzeni dziej\u00f3w RP, kto by\u0142 Pani wzorem nauczy\u2026",
+        "created_at": "2019-04-23 04:38:54+00:00",
+        "public_metrics": {
+            "retweet_count": 435,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1120321762867200000,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1120487585455968260,
+        "text": "@aldehyd10 Ale ty g\u0142upia jeste\u015b, \u017cyd\u00f3wka",
+        "created_at": "2019-04-23 00:40:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1440792361,
+        "referenced_tweets": {
+            "id": 1120036408561930240,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1119687291121881089,
+        "text": "@Ola_Kalinowska @LegiaWarszawa @MKSCracoviaSSA Przegraj\u0105 cienkie bolki L",
+        "created_at": "2019-04-20 19:40:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1487450360,
+        "referenced_tweets": {
+            "id": 1119670081993216001,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1119687178135773184,
+        "text": "@LegiaWarszawa Przegraj\u0105",
+        "created_at": "2019-04-20 19:40:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 55007258,
+        "referenced_tweets": {
+            "id": 1119686288683220992,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1119505262904315909,
+        "text": "@RyszardPetru Napij si\u0119 i noe zawracaj dupy w \u015bwi\u0119ta",
+        "created_at": "2019-04-20 07:37:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 344313687,
+        "referenced_tweets": {
+            "id": 1119151801133985792,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1119137222253408256,
+        "text": "@GazetaGieldowa Brak sprawozdania finansowego to ja bym tego nawet po 1 zl nie kupil to wygl\u0105da jak getback, jak KNF dopuszcza do budowania ksi\u0119gi bez sprawozdania za rok 2018?",
+        "created_at": "2019-04-19 07:14:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 877080609667076096,
+        "referenced_tweets": {
+            "id": 1118529860157227008,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1118556990161215490,
+        "text": "@GiertychRoman A dlaczego akurat rubel, pr\u0119dzej dolar ameryka\u0144ski, uk\u0142on do pi\u0119t wobec przyjaci\u00f3l za oceanu",
+        "created_at": "2019-04-17 16:49:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2919694493,
+        "referenced_tweets": {
+            "id": 1118478967990882308,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1118556170430623744,
+        "text": "@ectuspolonus @MariuszGierszew @bbudka @RadioZET_NEWS No raczej, przeciez nauczyciela zawsze kto\u015b zast\u0105pi, lekarza nie zast\u0105pisz nauczycielem, wi\u0119c s\u0142uszna droga",
+        "created_at": "2019-04-17 16:45:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4550282357,
+        "referenced_tweets": {
+            "id": 1118521722217562113,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1118555636940320768,
+        "text": "@MariuszGierszew @RadioZET_NEWS Zalozenie bedzie takie \u017ce beda zamtkane szko\u0142y i dzieki temu spadnie",
+        "created_at": "2019-04-17 16:43:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 545872616,
+        "referenced_tweets": {
+            "id": 1118518821223129089,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1117682282737872896,
+        "text": "@irzynski Wed\u0142ug mnie trzyma\u0107 do wyniku za II kwarta\u0142.",
+        "created_at": "2019-04-15 06:53:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1117540278615851009,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1116936694354317312,
+        "text": "@irzynski Bo w sklepie internetowym s\u0105 lepsze pozycje niz te na p\u00f3lce sklepowej, wi\u0119c s\u0105dze ze ta sprzeda\u017c przekroczy 20 proc. Tym bardziej ze sprzeda\u017c internetowa w Polsce dopiero si\u0119 rozwija.",
+        "created_at": "2019-04-13 05:30:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1116808261754396675,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1116602116699615232,
+        "text": "@KonradPiasecki Bez kultury to nie ma miejsca dla medi\u00f3w spo\u0142eczno\u015bciowych",
+        "created_at": "2019-04-12 07:21:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 69513730,
+        "referenced_tweets": {
+            "id": 1116303214427688960,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1116601643879944194,
+        "text": "@PresidentWalesa Bolek daj sobie juz spok\u00f3j, sympatyzuj z elektrykami",
+        "created_at": "2019-04-12 07:19:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 740547410485780480,
+        "referenced_tweets": {
+            "id": 1116339790805438465,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1116601355412443139,
+        "text": "@Broniarz Komunisto daj spok\u00f3j",
+        "created_at": "2019-04-12 07:18:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 393370064,
+        "referenced_tweets": {
+            "id": 1116347686809210880,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1116019374975012865,
+        "text": "@donzorro7 @Broniarz Niechbopoiwe co robi\u0142 jak studenty za solidarno\u015bci strajkowali a koleg\u00f3w za te strajki do wiezienia wsadzano, gdzie wtedy by\u0142 i co robil, komumie dupe liza\u0142 ludzie go w \u0142odzi pami\u0119taj\u0105",
+        "created_at": "2019-04-10 16:45:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3427812489,
+        "referenced_tweets": {
+            "id": 1115858126778044416,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1116018586043191296,
+        "text": "@Broniarz Co robi\u0142e\u015b jak ko\u0144czy\u0142e\u015b studia na uniwerku w \u0142odzi, ludzie dobrze wiedz\u0105 jak\u0105 kanali\u0105 jeste\u015b",
+        "created_at": "2019-04-10 16:42:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 393370064,
+        "referenced_tweets": {
+            "id": 1115707385874665474,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1114123053418655749,
+        "text": "#NoweZdjecieProfilowe https://t.co/Z9qsoWPxiW",
+        "created_at": "2019-04-05 11:10:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1114122128369037312,
+        "text": "@irzynski Zajrzyj Rafa\u0142 na Mostostal Warszawa tam te\u017c zaczyna coraz lepeij to wygl\u0105da\u0107",
+        "created_at": "2019-04-05 11:06:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1113367027694080007,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1112997166254116864,
+        "text": "@irzynski Potem Rafa\u0142 bedzie p\u0142acz i \u017ce kto\u015b mnie oszuka\u0142. Mnie ciekawi jeszcze aspekt jeden jak wyjd\u0105 z wiezienia z gangu pruszkowskiego to maj\u0105 papiery \u017ce zap\u0142acili za ci\u0105gniki a ich nie otrzymali i czy z tego sprawa nie wyjdzie ciekawa",
+        "created_at": "2019-04-02 08:36:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1112837852289789952,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1101567496749043713,
+        "text": "@tomekmaz Znalezli sygna\u0142 gos?",
+        "created_at": "2019-03-01 19:38:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4508133375,
+        "referenced_tweets": {
+            "id": 1101076219137875968,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1101532093350326272,
+        "text": "@MariuszGierszew @RadioZET_NEWS A ile daj\u0105 za wskazanie gdzie sie ukrywa?",
+        "created_at": "2019-03-01 17:18:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 545872616,
+        "referenced_tweets": {
+            "id": 1101501476202004481,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1101214373144600576,
+        "text": "Nie liczymy na fart, wiemy co jest grane",
+        "created_at": "2019-02-28 20:15:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1100835757378453506,
+        "text": "@irzynski Rafa\u0142 tylko czy akcjonariat to dostrzerze",
+        "created_at": "2019-02-27 19:11:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1100705115399434243,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1100835590390595586,
+        "text": "@irzynski Analizuj\u0105c wyniki sadze ze to da jakies 30 gr do tego co juz wyplacili",
+        "created_at": "2019-02-27 19:10:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1100557367899537408,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1100833941190258689,
+        "text": "@irzynski Rafa\u0142 czy to bedzie mia\u0142o wplyw na akcjonariuszy? Chyba ze powiedza ze wyplac\u0105 z 50 gr dywidendy",
+        "created_at": "2019-02-27 19:03:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2340499201,
+        "referenced_tweets": {
+            "id": 1100705115399434243,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1084765130934636544,
+        "text": "https://t.co/jlDG1ITBBl",
+        "created_at": "2019-01-14 10:52:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 957431309357518849,
+        "text": "@dominobb Dziwne, bo Eli przekaza\u0142a ze tomek jest na wysoko\u015bci 7000, a byli na 6100 i nie sprubowali",
+        "created_at": "2018-01-28 01:53:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 387688029,
+        "referenced_tweets": {
+            "id": 957389048556982273,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 954512747093528576,
+        "text": "@Skijumpingpl Tande po za konkurencja",
+        "created_at": "2018-01-20 00:35:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 165868864,
+        "referenced_tweets": {
+            "id": 954454642158600193,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 954512581036773376,
+        "text": "RT @Skijumpingpl: Daniel Andre #Tande na prowadzeniu po dw\u00f3ch z czterech serii konkursu indywidualnego M\u015a w lotach #Oberstdorf2018. Histori\u2026",
+        "created_at": "2018-01-20 00:35:07+00:00",
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 954454642158600193,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 950809781169770496,
+        "text": "@NoweAteny Korona Krolow to fantastyczny serial nie ma nawet co porownywac do Klanu",
+        "created_at": "2018-01-09 19:21:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 858097365571567616,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 935988293191204865,
+        "text": "https://t.co/Rge0V9TUpr",
+        "created_at": "2017-11-29 21:46:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 935863581056425984,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 935988078233219073,
+        "text": "RT @TCzernich: Nigdy dot\u0105d nie widzia\u0142em r\u0119ki RK w ruchu. Pora\u017caj\u0105ce. Jest niesamowity #Kubica https://t.co/Ob5qFtCTYa",
+        "created_at": "2017-11-29 21:45:22+00:00",
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 935863581056425984,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 918566394463219713,
+        "text": "https://t.co/fbo9CxXA1H",
+        "created_at": "2017-10-12 19:57:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 918565542772072448,
+        "text": "https://t.co/uPCPHyTnwA",
+        "created_at": "2017-10-12 19:54:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 908384792009428993,
+        "text": "RT @Militarium: Ukrai\u0144ska ocena si\u0142 rosyjskich i bia\u0142oruskich na zachodnim TDW w VIII 2017 i rejon \u0107wicze\u0144 #Zapad2017 https://t.co/QzkeTP5c\u2026",
+        "created_at": "2017-09-14 17:39:46+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 907879825888727041,
+            "type": "retweeted"
+        }
+    }
+]

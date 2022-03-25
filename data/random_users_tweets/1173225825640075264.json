@@ -1,0 +1,66 @@
+[
+    {
+        "tweet_id": 1507068063203663877,
+        "text": "@slmnono I'd say I have common sense but okay",
+        "created_at": "2022-03-24 18:53:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 909500511220625408,
+        "referenced_tweets": {
+            "id": 1507067822299566092,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507067555520950277,
+        "text": "@slmnono Okay that's reassuring &lt;33",
+        "created_at": "2022-03-24 18:51:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 909500511220625408,
+        "referenced_tweets": {
+            "id": 1507066747072962563,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507065434331394055,
+        "text": "@slmnono Bestie u okay?",
+        "created_at": "2022-03-24 18:42:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 909500511220625408,
+        "referenced_tweets": {
+            "id": 1507060273366159360,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493670701659742209,
+        "text": "RT @smnthfn: today I am identifying as the main character in a sally rooney novel (sad, poetic, having the sense that my real life is happe\u2026",
+        "created_at": "2022-02-15 19:37:00+00:00",
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490825439518109696,
+            "type": "retweeted"
+        }
+    }
+]

@@ -1,0 +1,4221 @@
+[
+    {
+        "tweet_id": 1507096313325920260,
+        "text": "I just wanna get good enough at archery to shoot out the speaker of the people that listen shit loud on the street",
+        "created_at": "2022-03-24 20:45:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507068088155578368,
+        "text": "i think something got messed up @discord https://t.co/zwR5zf2md5",
+        "created_at": "2022-03-24 18:53:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506745214609899520,
+        "text": "Not sure if its intentional, but i like that with 0.05mm layer height, you get a matt-like effect with @3djake_official magic pla https://t.co/f60hHwEap8",
+        "created_at": "2022-03-23 21:30:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506389637954158593,
+        "text": "@Sakezaff @3djake_official No",
+        "created_at": "2022-03-22 21:57:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1191471639852208131,
+        "referenced_tweets": {
+            "id": 1506389234822881285,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506385788937900032,
+        "text": "@3djake_official As long as they pay well for it...",
+        "created_at": "2022-03-22 21:42:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1460903175599362050,
+        "referenced_tweets": {
+            "id": 1506278435391475714,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506280010335895558,
+        "text": "Got my laptop on eduroam today, and fresco is blocked. Every other adobe app(that i tried) works, but fresco doesn't. Any idea @AdobeCare",
+        "created_at": "2022-03-22 14:41:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504428720274259972,
+        "text": "Is this impressive enough @E3DOnline? #ShamrockE3D\n\n(full size images: https://t.co/lZ3ZZiG0cX) https://t.co/lhF5TuISO9",
+        "created_at": "2022-03-17 12:05:32+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 11,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504178631094026247,
+        "text": "@E3DOnline *starts staring aggressively at drying paint*",
+        "created_at": "2022-03-16 19:31:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2494310072,
+        "referenced_tweets": {
+            "id": 1504155961522634757,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502366663429263364,
+        "text": "@Photoshop CMYKW",
+        "created_at": "2022-03-11 19:31:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 65525881,
+        "referenced_tweets": {
+            "id": 1502328503080939522,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501804580795043840,
+        "text": "@makersmuse not exactly sure how neopixel works, but cant you just? https://t.co/Ny9Lzf2iF8",
+        "created_at": "2022-03-10 06:18:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1228684902,
+        "referenced_tweets": {
+            "id": 1501802569324457988,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501600142432083970,
+        "text": "@E3DOnline kinda into the second one ngl",
+        "created_at": "2022-03-09 16:45:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2494310072,
+        "referenced_tweets": {
+            "id": 1501599971820421124,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501223823881998337,
+        "text": "@makersmuse This sound reninds me to the time i used a 12v replacement hotend fan on my ender 3. And it worked just fine",
+        "created_at": "2022-03-08 15:50:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1228684902,
+        "referenced_tweets": {
+            "id": 1501145319735963650,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499809068357193729,
+        "text": "@Sakezaff i swear to fucking god im gona dropkick you as soon as we meet irl",
+        "created_at": "2022-03-04 18:08:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1191471639852208131,
+        "referenced_tweets": {
+            "id": 1499808641737703429,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499808339085119488,
+        "text": "To be fair, i wouldn't complain if it was the 1st time, but its at least the second time this week and its driving me crazy. And it wouldn't be that shameful, if it wasn't there 3rd most popular app",
+        "created_at": "2022-03-04 18:05:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2773309269,
+        "referenced_tweets": {
+            "id": 1499807901912866823,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499807901912866823,
+        "text": "Imean, it is great when its working, but for 30\u20ac/m, i think it should at least start up normally. As far as i know adobe is not a startup with 3 devs to maintain 20 apps, so there is no excuse for it to not work",
+        "created_at": "2022-03-04 18:04:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2773309269,
+        "referenced_tweets": {
+            "id": 1499807132648103941,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499807132648103941,
+        "text": "I fucking love how i pay adobe 30\u20ac/m (student plan) and the cant even deliver something that is reliable. For example, friend came over, wanted to ask his opinion about  the shit i made and it just stuck on the loading page. This is how much i love InDesign",
+        "created_at": "2022-03-04 18:01:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499690651528667137,
+        "text": "@E3DOnline Told our school about the revo and they would be in",
+        "created_at": "2022-03-04 10:18:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2494310072,
+        "referenced_tweets": {
+            "id": 1499686097856581633,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499214433066831873,
+        "text": "RT @E3DOnline: \ud83d\udce2 Did someone say Revo for Creality?! \ud83d\udc40 We couldn't forget about all of you Creality users out there, could we . Let us intr\u2026",
+        "created_at": "2022-03-03 02:45:49+00:00",
+        "public_metrics": {
+            "retweet_count": 32,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499082772182413312,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498831731394289665,
+        "text": "@Sakezaff yes",
+        "created_at": "2022-03-02 01:25:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1191471639852208131,
+        "referenced_tweets": {
+            "id": 1498695941620121602,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498162125612765185,
+        "text": "@norticus36 Why must you hurt me in this way",
+        "created_at": "2022-02-28 05:04:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 817478165245427713,
+        "referenced_tweets": {
+            "id": 1497958827064541191,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495856582160224259,
+        "text": "Man, the @E3DOnline revo hemera looks chonky on the ender 3 https://t.co/HGwYPzbT3o",
+        "created_at": "2022-02-21 20:22:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494831099918393346,
+        "text": "hmm ... @Polymaker_3D, i think you guys missed something https://t.co/D5a8Y7AfVb",
+        "created_at": "2022-02-19 00:28:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492513830148190208,
+        "text": "Cats wall mounted decor by zal1000 | Download free STL model | PrusaPrinters https://t.co/IShaTyZg2t (via @Prusa3D)",
+        "created_at": "2022-02-12 15:00:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491997660798238720,
+        "text": "@3DPProfessor soo that means i can make a .6/.8 mm nozzle from my spare .4 nozzles if i print just the right amount?",
+        "created_at": "2022-02-11 04:48:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 33777251,
+        "referenced_tweets": {
+            "id": 1491910155310559232,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487959625639108609,
+        "text": "@LinusTech Optimize the airflow to push the tears into a collector so nothing is wasted, and can be sold if someone wants it",
+        "created_at": "2022-01-31 01:23:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 403614288,
+        "referenced_tweets": {
+            "id": 1487923625974013958,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487254211305906176,
+        "text": "i swear to fucking god if my hair gets in my mouth again, im gona cut it to 0",
+        "created_at": "2022-01-29 02:40:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485429867097333763,
+        "text": "Im not saying that my sleep schedule is fucked, but tomorrow is gona be a bad day to say the least",
+        "created_at": "2022-01-24 01:50:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484647075023364098,
+        "text": "RT @makergear: Win a FREE spool of our newest seasonal PLA!! We call this \"cool\" new filament Glacier Ice.\n#FreeFilamentFriday\n\nSimply LIKE\u2026",
+        "created_at": "2022-01-21 22:00:20+00:00",
+        "public_metrics": {
+            "retweet_count": 100,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484559608995889158,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1482269777963982848,
+        "text": "RT @cat_dot_exe: https://t.co/j9x1hMYLhm",
+        "created_at": "2022-01-15 08:33:48+00:00",
+        "public_metrics": {
+            "retweet_count": 37,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1482205914723753986,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481681757023911936,
+        "text": "@Sakezaff @Prathkum im only touching raw css again if someone points a gun at me",
+        "created_at": "2022-01-13 17:37:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1191471639852208131,
+        "referenced_tweets": {
+            "id": 1481644125833232393,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480048198400057348,
+        "text": "@ddofinternet @Lazarbeam soo i was watching a video while scrolling twitter and... https://t.co/gpeJTVDtAO",
+        "created_at": "2022-01-09 05:26:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 15,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 902274570945691648,
+        "referenced_tweets": {
+            "id": 1480000955554971649,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479026950253465600,
+        "text": "@Sakezaff @JohnnyJunkers Just wait till i get home",
+        "created_at": "2022-01-06 09:47:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1191471639852208131,
+        "referenced_tweets": {
+            "id": 1479017697249800192,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478717426225221633,
+        "text": "Nameing your layers in any editing program is overrated. Just learn to live in chaos",
+        "created_at": "2022-01-05 13:18:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478476166826708999,
+        "text": "Made a color ring for school and added a benchy for fun https://t.co/H01tzqr1ku",
+        "created_at": "2022-01-04 21:19:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477835606977875972,
+        "text": "RT @Serendippo: #bubbles https://t.co/e8xeqOuKbQ",
+        "created_at": "2022-01-03 02:54:00+00:00",
+        "public_metrics": {
+            "retweet_count": 39979,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1477255999320899589,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477826299271995403,
+        "text": "When i use Nodejs, its like a human\n\nSpaghetti goes in, and after a while shit comes out",
+        "created_at": "2022-01-03 02:17:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477452410322927617,
+        "text": "@Isuhhbelle1v9 @DumbsYT tyler0.5",
+        "created_at": "2022-01-02 01:31:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1466877280337149953,
+        "referenced_tweets": {
+            "id": 1477283568640479240,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477451167538061312,
+        "text": "@Cosmic_Reaver Did that once with friends, now its just cat videos alone",
+        "created_at": "2022-01-02 01:26:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1282637153999171586,
+        "referenced_tweets": {
+            "id": 1477401437957238784,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476662191109681152,
+        "text": "Got the full collection from @3djake_official and all of it looks amazing https://t.co/EBxUZoinSv",
+        "created_at": "2021-12-30 21:11:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1471303049159262209,
+        "text": "@norticus36 When did you stream that much HOTS?",
+        "created_at": "2021-12-16 02:15:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 817478165245427713,
+        "referenced_tweets": {
+            "id": 1471203600848273425,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1471288943018745858,
+        "text": "RT @Photoshop: final_final_FINAL_absolute_f*!$ing_FINAL.psd",
+        "created_at": "2021-12-16 01:19:53+00:00",
+        "public_metrics": {
+            "retweet_count": 1300,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1471163458204930052,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1469042843167641612,
+        "text": "Hey @MosaicMfg! I think you guys have the social stuff kinda messed up on your site https://t.co/jErKvUl3Av",
+        "created_at": "2021-12-09 20:34:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468626559024214023,
+        "text": "@TimeraaDEV Better than expected. How about you?",
+        "created_at": "2021-12-08 17:00:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 790539535725785092,
+        "referenced_tweets": {
+            "id": 1468620442411937792,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1468201484043051012,
+        "text": "Okay soo hear me out...\n\nAlso @3djake_official magicPLA is amazing https://t.co/KLfVbmqzZi",
+        "created_at": "2021-12-07 12:51:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468009014000824327,
+        "text": "This happenes when you know your userbase https://t.co/AxFBmMC6r1",
+        "created_at": "2021-12-07 00:06:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1467944962310426624,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1467820751768240146,
+        "text": "Everyone knows every ip adress, just dont know who it belongs to",
+        "created_at": "2021-12-06 11:38:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467180979517366272,
+        "text": "https://t.co/XEc2B5Yz1w",
+        "created_at": "2021-12-04 17:16:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2773309269,
+        "referenced_tweets": {
+            "id": 1467069853508976640,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1467180115981447169,
+        "text": "RT @FilamentFrenzy: GIVEAWAY ALERT \ud83d\udea8 \n\nWant to win this spool of @MatterHackers Quantum Blue Yellow iridescent PLA ? Yes ? \ud83d\udc47\n\nEntry is simp\u2026",
+        "created_at": "2021-12-04 17:12:53+00:00",
+        "public_metrics": {
+            "retweet_count": 416,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1467101817582534660,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1467158342284066822,
+        "text": "I published a Thing on @thingiverse! https://t.co/XEc2B5Yz1w #thingalert",
+        "created_at": "2021-12-04 15:46:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467069853508976640,
+        "text": "Okay soo hear me out... https://t.co/AeC4o3Nrtu",
+        "created_at": "2021-12-04 09:54:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465682562546872329,
+        "text": "Why the fuck is there a song called \"skip two songs\" on spotify according to my google assistant?",
+        "created_at": "2021-11-30 14:02:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465197862019551236,
+        "text": "RT @WholesomeMeme: https://t.co/ewrwd4Wb8Q",
+        "created_at": "2021-11-29 05:56:07+00:00",
+        "public_metrics": {
+            "retweet_count": 6424,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1465002242185039881,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1464734858475937793,
+        "text": "got some fancy filament from @3djake_official https://t.co/c0YqWd4Eoo",
+        "created_at": "2021-11-27 23:16:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1463881282090377223,
+        "text": "@stats_feed I guess America cant lose",
+        "created_at": "2021-11-25 14:44:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1335132884278108161,
+        "referenced_tweets": {
+            "id": 1463825053120966659,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1463610980861108224,
+        "text": "Adobe... https://t.co/wJk1OyPj30",
+        "created_at": "2021-11-24 20:50:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1462933322762489859,
+        "text": "@kynan999 @Microsoft I don't think it is, it only happens when I use edge, when I write/InDesign for hours, it never does, downloaded firefox on it and I had no issues like this whit that, and I updated my GPU driver pretty recently\n(I have a surface go 2 64GB so I want to only use 1 browser on it)",
+        "created_at": "2021-11-22 23:57:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743124220381696000,
+        "referenced_tweets": {
+            "id": 1462875806254915586,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1462874237622968328,
+        "text": "@kynan999 @Microsoft Idk, for example, I used google cloud console for like 30m, and all of a sudden edge is gone, a 10s black screen. After restart its working again",
+        "created_at": "2021-11-22 20:02:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 743124220381696000,
+        "referenced_tweets": {
+            "id": 1462871469201969169,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1462870499118268417,
+        "text": "@Microsoft Maybe if it wouldn't crash my surface go around 2 times a day, I would use it",
+        "created_at": "2021-11-22 19:48:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 74286565,
+        "referenced_tweets": {
+            "id": 1462869745888342018,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1462284762769469440,
+        "text": "@JamesSiggy idk how, but I never found system breaking bugs, just mildly annoying/funny ones\n\nor I'm just used to it, who knows\n(using it since the 2nd/3rd version came out on the dev channel)",
+        "created_at": "2021-11-21 05:00:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1160986351506010113,
+        "referenced_tweets": {
+            "id": 1462102501902200836,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1460017895124176899,
+        "text": "RT @ulat_bulu_bulu: Too fat, too furrious. https://t.co/4vLNiyl25l",
+        "created_at": "2021-11-14 22:52:46+00:00",
+        "public_metrics": {
+            "retweet_count": 17250,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1459131763444236295,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1457722595722383360,
+        "text": "@TimeraaDEV Same, but with coffee\nAround 3 of them",
+        "created_at": "2021-11-08 14:52:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 790539535725785092,
+        "referenced_tweets": {
+            "id": 1457690745415118852,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1456757794003169287,
+        "text": "Not sure if this is the final one, if not, please don't do it, it's so much better to see the numbers, when you already know what the product does. @googlecloud https://t.co/lw76y91nEe",
+        "created_at": "2021-11-05 22:58:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1456425128854802441,
+        "text": "Should I be worried? https://t.co/X7V8U3MMrc",
+        "created_at": "2021-11-05 00:56:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1456233662266187780,
+        "text": "RT @HozureArt: Some days you just feel... https://t.co/trycdiA5ne",
+        "created_at": "2021-11-04 12:15:35+00:00",
+        "public_metrics": {
+            "retweet_count": 1191,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1456188796102316034,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1456056908515876865,
+        "text": "you tried @MicrosoftEdge https://t.co/IfQQRn8vhA",
+        "created_at": "2021-11-04 00:33:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1456038538827403265,
+        "text": "@JamesSiggy mostly pain\nyou?",
+        "created_at": "2021-11-03 23:20:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1160986351506010113,
+        "referenced_tweets": {
+            "id": 1455988788090580996,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1456034581539401732,
+        "text": "@sutekkie eat them out or...",
+        "created_at": "2021-11-03 23:04:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1257156396778319875,
+        "referenced_tweets": {
+            "id": 1455897751934414854,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1454792087753347072,
+        "text": "Spooky https://t.co/j1aRXI7whu",
+        "created_at": "2021-10-31 12:47:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1452377634361511944,
+        "text": "Soo my weelk are going like:\n\nShould i do it or just do it later ... nah ill do it later\n\n*later comes*\n\n Should i do it or just do it later ... nah ill do it later\n\nAnd repeat",
+        "created_at": "2021-10-24 20:53:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1451926204240498689,
+        "text": "RT @github: Ingredients:\n- 1 x Pumpkin (3D-printed preferred)\n- 1 x @Raspberry_Pi\n- 1 x @pimoroni Unicorn pHat\n- A sprinkling of GitHub Act\u2026",
+        "created_at": "2021-10-23 14:59:17+00:00",
+        "public_metrics": {
+            "retweet_count": 31,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1451913088412827657,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1451899534561398789,
+        "text": "fuck InDesign\n\nwhy is it so goddam hard to only print page 2 - 3\n\nbtw if anyone know, please tell me",
+        "created_at": "2021-10-23 13:13:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1451473120456495104,
+        "text": "Okay, @MicrosoftEdge , now I'm curious, what's the difference? https://t.co/SNIah33enP",
+        "created_at": "2021-10-22 08:58:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1451193354989887493,
+        "text": "Soo we had a project day in school, everyone took 20-30 min. and I said, f it, measure with eye, it turned out surprisingly good",
+        "created_at": "2021-10-21 14:27:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1449843102781411330,
+        "text": "my code be like https://t.co/UE2OQIYLHS",
+        "created_at": "2021-10-17 21:01:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1449422283890626560,
+        "text": "@DumbsYT https://t.co/5Y5CwOeLdd",
+        "created_at": "2021-10-16 17:09:36+00:00",
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 4,
+            "like_count": 624,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 2212921662,
+        "referenced_tweets": {
+            "id": 1449368967735386115,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1449117801596207106,
+        "text": "RT @chigbarg: this is hilarious but also really awesome ux https://t.co/PwFgH1lLxG",
+        "created_at": "2021-10-15 20:59:41+00:00",
+        "public_metrics": {
+            "retweet_count": 2952,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1448817993329250334,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1449116283815989255,
+        "text": "RT @github: We think it\u2019s important you know this exists, but your team will definitely want to desert you. https://t.co/rDtI6BV8ZG",
+        "created_at": "2021-10-15 20:53:39+00:00",
+        "public_metrics": {
+            "retweet_count": 56,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1449110339291914241,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1448685797134278659,
+        "text": "@Firebase nice https://t.co/kZRgyXmTLG",
+        "created_at": "2021-10-14 16:23:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 447644824,
+        "referenced_tweets": {
+            "id": 1448680246090240003,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1447693974660124679,
+        "text": "Just looked at my commit history from today and ... https://t.co/Ob2iWQbaAp",
+        "created_at": "2021-10-11 22:41:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446969050026942467,
+        "text": "Me: *opens project that i haven't worked on recently*\n\n@typescript compiler: *[12:34:32 AM] Found 51 errors. Watching for file changes.*\n\nMe: f that",
+        "created_at": "2021-10-09 22:41:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1445777572176941059,
+        "text": "I just wanted to listen to the rain, but my older I5 and GTX 960 is a bit louder when photoshop and after effects is open at the same time",
+        "created_at": "2021-10-06 15:46:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1442848969516888071,
+        "text": "I like how some of my classmates taught I'm gay course I didn't want to speak with 2 girls who just asked questions all day long.\n\nLike I'm not gay, just antisocial.",
+        "created_at": "2021-09-28 13:49:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1440417572067823617,
+        "text": "typescript is weird, i just spent 5 min changing a require from '../key.json' to './key.json' and back to '../key.json'",
+        "created_at": "2021-09-21 20:48:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1440417104209924096,
+        "text": "@Sakezaff @LeagueOfLegends its empty",
+        "created_at": "2021-09-21 20:46:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1191471639852208131,
+        "referenced_tweets": {
+            "id": 1440341096513499136,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1439641393090158604,
+        "text": "https://t.co/WSfocXncLc",
+        "created_at": "2021-09-19 17:23:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2773309269,
+        "referenced_tweets": {
+            "id": 1439641027900493837,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1439641027900493837,
+        "text": "im pretty sure i have at least 20 @LoLDev",
+        "created_at": "2021-09-19 17:22:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1439358824150978566,
+        "text": "Not gona lie didn't notice the *bat* at first and thought:\n\nWtf it isn't that dark here https://t.co/K70tQ95SF6",
+        "created_at": "2021-09-18 22:41:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1438569340887052301,
+        "text": "@surface can argue with that, my handwriting is still ugly",
+        "created_at": "2021-09-16 18:23:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 612076511,
+        "referenced_tweets": {
+            "id": 1438563343380406277,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1438248623473676292,
+        "text": "@MicrosoftTeams thats why i use an @Azure vm with the latest @Windows  11 preview build on it to do my office(i cant find the handler) and other stuff i do daily",
+        "created_at": "2021-09-15 21:09:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 817461289081409536,
+        "referenced_tweets": {
+            "id": 1438216045358161922,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1437809910427815943,
+        "text": "nice https://t.co/Nvb2jjM4Yz",
+        "created_at": "2021-09-14 16:06:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1437791003411468294,
+        "text": "@norticus36 illustrator is fun https://t.co/LfIU9HQgQz",
+        "created_at": "2021-09-14 14:51:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 817478165245427713,
+        "referenced_tweets": {
+            "id": 1437782205858725904,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1437546652420747268,
+        "text": "I watched 1, not 2, ONE video where they spoke german(with eng subtitle) since then I'm getting only german ads, @YouTube please explain",
+        "created_at": "2021-09-13 22:40:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1436650274244993032,
+        "text": "@DocHacci @LwKyKyouki_ Yes https://t.co/FI8JdjGxJT",
+        "created_at": "2021-09-11 11:18:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1047203463543836673,
+        "referenced_tweets": {
+            "id": 1436471994539814913,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1435913949938163712,
+        "text": "RT @Microsoft: \ud83d\ude43 https://t.co/8ifAJw7X4P",
+        "created_at": "2021-09-09 10:32:18+00:00",
+        "public_metrics": {
+            "retweet_count": 383,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1435712558695125005,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1434939927083552769,
+        "text": "GraphQL is fun until you start working on the backend",
+        "created_at": "2021-09-06 18:01:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1434877703115755528,
+        "text": "Everyone:\n*Activate windows*\n\nMe: https://t.co/FpjgxLRGvB",
+        "created_at": "2021-09-06 13:54:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1434321119226572800,
+        "text": "why are people put their music in youtube ads? or it's just here",
+        "created_at": "2021-09-05 01:02:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1434215418852425729,
+        "text": "fuck java",
+        "created_at": "2021-09-04 18:02:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1433147077471752197,
+        "text": "@Windows Run as administartor",
+        "created_at": "2021-09-01 19:17:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15670515,
+        "referenced_tweets": {
+            "id": 1433097325250023432,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1431041725817032708,
+        "text": "At this point, i just want to slap myself",
+        "created_at": "2021-08-26 23:51:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1429993641456672779,
+        "text": "yey https://t.co/l9y6rCNx7y",
+        "created_at": "2021-08-24 02:27:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1428882085700415491,
+        "text": "Excuse me, WHAT? https://t.co/GVnrliemVU",
+        "created_at": "2021-08-21 00:50:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1428522916346478595,
+        "text": "@Cloud9 @discord https://t.co/7ZpgHWN6y1",
+        "created_at": "2021-08-20 01:02:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1452520626,
+        "referenced_tweets": {
+            "id": 1428414873088651264,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1427280049825325056,
+        "text": "it's almost nice https://t.co/xP8TNLvMSt",
+        "created_at": "2021-08-16 14:44:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1426961795508486151,
+        "text": "@secretlabchairs Nice",
+        "created_at": "2021-08-15 17:39:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 815113027171192832,
+        "referenced_tweets": {
+            "id": 1426933127419613189,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1426312279184789508,
+        "text": "@MicrosoftTeams *declines call*\n\n*looks at calendar*\n\nWhy is there Monday already?",
+        "created_at": "2021-08-13 22:38:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 817461289081409536,
+        "referenced_tweets": {
+            "id": 1426196863120723971,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1426185689138438145,
+        "text": "RT @WholesomeMeme: https://t.co/0wYopUe5Ae",
+        "created_at": "2021-08-13 14:15:40+00:00",
+        "public_metrics": {
+            "retweet_count": 9575,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1425532216755458050,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1426016844964634624,
+        "text": "RT @LinusTech: Quit gaming 6 months ago. Bought a new car, I have an amazing girlfriend, I make a sh*tload of money and I'm buying a house\u2026",
+        "created_at": "2021-08-13 03:04:44+00:00",
+        "public_metrics": {
+            "retweet_count": 713,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1425902097271193600,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1426014738278981634,
+        "text": "RT @WtfImgvids: https://t.co/7WMsyGNEF6",
+        "created_at": "2021-08-13 02:56:22+00:00",
+        "public_metrics": {
+            "retweet_count": 13241,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1425659195970498562,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1426014665486766090,
+        "text": "@vzoli04 Compared to myself, yes, to everyone else, no.",
+        "created_at": "2021-08-13 02:56:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 705775275515232256,
+        "referenced_tweets": {
+            "id": 1425669731940458497,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1426014416219299840,
+        "text": "gona be a fun night https://t.co/BjaqF6Zulc",
+        "created_at": "2021-08-13 02:55:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1425820882962817025,
+        "text": "RT @GutterRat_Art: The new twitter font is... pleasant :0 \nI thought twitter was bugging out and refreshed the page at least 5 times pfftft\u2026",
+        "created_at": "2021-08-12 14:06:03+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1425604336013426694,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1425220804158103553,
+        "text": "RT @engineers_feed: Soldering \ud83d\udc68\ud83c\udffc\u200d\ud83c\udfed \n\ud83d\udcf1 https://t.co/EG8E5JX4J9 https://t.co/WkVIs4Dq5f",
+        "created_at": "2021-08-10 22:21:33+00:00",
+        "public_metrics": {
+            "retweet_count": 444,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1425115425067704325,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1424731071111913482,
+        "text": "Bee Bop Ba Bodda Bope",
+        "created_at": "2021-08-09 13:55:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1424493513765498883,
+        "text": ". @github you guys might want to look into this one https://t.co/yd51HPY65Y",
+        "created_at": "2021-08-08 22:11:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1424221864013045760,
+        "text": "@vylnora Depends on what",
+        "created_at": "2021-08-08 04:12:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1378020182715723776,
+        "referenced_tweets": {
+            "id": 1424063539124203520,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1424218335839928320,
+        "text": "okay, the drive is corrupted/formatted after copying a folder to it. what do?",
+        "created_at": "2021-08-08 03:58:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2773309269,
+        "referenced_tweets": {
+            "id": 1424210548447657985,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1424210548447657985,
+        "text": "First time formatting drive with linux. Is this a kind f you or am I overthinking it? https://t.co/VAHSmyoOkQ",
+        "created_at": "2021-08-08 03:27:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1423389768512151561,
+        "text": "@Yamikazexz *-12lp (or is that just silver, where ADC-s go AFK cause I pick yuumi)",
+        "created_at": "2021-08-05 21:05:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 766080890132987904,
+        "referenced_tweets": {
+            "id": 1423389307495141379,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1423084727548919818,
+        "text": "then don't show me the premium content? https://t.co/nS4MaAUPX1",
+        "created_at": "2021-08-05 00:53:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1421962919537954819,
+        "text": "Me around 3PM: let's replace cloud functions with WebSockets, what could go wrong?\n\nMe at midnight: why? why? why? why? why? why? why? why? why? why? WHY? WHY? WHY? WHY? ... sometime later... i hate myself",
+        "created_at": "2021-08-01 22:35:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1419727996764790786,
+        "text": "@G2Mikyx @secretlabchairs @G2esports @Sakezaff",
+        "created_at": "2021-07-26 18:35:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 497329859,
+        "referenced_tweets": {
+            "id": 1419706314062712841,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1419727936517812224,
+        "text": "RT @G2Mikyx: Time to win an instant hook buff with @secretlabchairs new League of Legends Pyke Edition chair!\n\nTo enter:\n- Follow me, @G2es\u2026",
+        "created_at": "2021-07-26 18:34:51+00:00",
+        "public_metrics": {
+            "retweet_count": 3463,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1419706314062712841,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1418367327561818113,
+        "text": "@GutterRat_Art I'm only saying that I'm the best talon player in my room",
+        "created_at": "2021-07-23 00:28:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2806347789,
+        "referenced_tweets": {
+            "id": 1418251757264719872,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1417166102589804558,
+        "text": "@DumbsYT @Yassuo @gucci @100Thieves speeeeeeed",
+        "created_at": "2021-07-19 16:55:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2212921662,
+        "referenced_tweets": {
+            "id": 1417165664872280064,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1417160554448396288,
+        "text": "Behold, cloud run @googlecloud https://t.co/7d35qcvwZU",
+        "created_at": "2021-07-19 16:33:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1416687856119160837,
+        "text": "RT @linusgsebastian: Time to never use or charge my phone again. https://t.co/aJs6mKvpHf",
+        "created_at": "2021-07-18 09:14:40+00:00",
+        "public_metrics": {
+            "retweet_count": 108,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1416523941288443905,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1415043918908084225,
+        "text": "@Cloud9 @macaiyla Go ahead",
+        "created_at": "2021-07-13 20:22:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1452520626,
+        "referenced_tweets": {
+            "id": 1414691786619080711,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1415040332136423426,
+        "text": "@MKBHD Nice",
+        "created_at": "2021-07-13 20:08:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 29873662,
+        "referenced_tweets": {
+            "id": 1414974137332867072,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1414333103074680834,
+        "text": "okay so my @surface go's screen just started to detach and I fixed it with superglue. and now I'm waiting for the bigger problem to come",
+        "created_at": "2021-07-11 21:17:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1407920595958964224,
+        "text": "Traveling in 2020 be like https://t.co/mHG1pKesxM",
+        "created_at": "2021-06-24 04:36:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1407179965800529925,
+        "text": "Hmmm ... I think my desert broke (script by @Isti115 ) https://t.co/vnoan7bD77",
+        "created_at": "2021-06-22 03:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1406784685263437829,
+        "text": "@Yamikazexz Don't worry, we are used to it",
+        "created_at": "2021-06-21 01:23:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 766080890132987904,
+        "referenced_tweets": {
+            "id": 1406784413313081349,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404672416949977088,
+        "text": "@XycronVA If you come here (hungary)",
+        "created_at": "2021-06-15 05:29:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44071306,
+        "referenced_tweets": {
+            "id": 1404508934816223236,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404369031776423939,
+        "text": "RT @UnervingImages: https://t.co/NvDDCLHICh",
+        "created_at": "2021-06-14 09:24:03+00:00",
+        "public_metrics": {
+            "retweet_count": 244,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1403705565306658817,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1403732291877322754,
+        "text": "RT @MauveSqueaks: https://t.co/k6jqfm3dgM",
+        "created_at": "2021-06-12 15:13:53+00:00",
+        "public_metrics": {
+            "retweet_count": 5263,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1403166563453358080,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1403299598676992003,
+        "text": "RT @ShrtCrctYT: Sub for NSFW uncovered GPUs https://t.co/C8YEOeRfvk",
+        "created_at": "2021-06-11 10:34:31+00:00",
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1402377671766536192,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1402954374201102347,
+        "text": "@Utxpia062 @PantsAreDragon @Yamikazexz there's a difference between gf and slave",
+        "created_at": "2021-06-10 11:42:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 910382309848883200,
+        "referenced_tweets": {
+            "id": 1402906936903929856,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1400084809439924226,
+        "text": "RT @smysmysm: no she's not\n#LeagueOfLegends #seraphine #Camille https://t.co/oxHqIcI2Zg",
+        "created_at": "2021-06-02 13:40:05+00:00",
+        "public_metrics": {
+            "retweet_count": 122,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1399859866584375301,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1399608300463964160,
+        "text": "@jonotan86 Nice",
+        "created_at": "2021-06-01 06:06:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 391112875,
+        "referenced_tweets": {
+            "id": 1399200403346972674,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1398775443944263682,
+        "text": "RT @W3Hidayath: Genius Business Card \ud83d\ude00 https://t.co/ZsHALXGq2A",
+        "created_at": "2021-05-29 22:57:08+00:00",
+        "public_metrics": {
+            "retweet_count": 50,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1398672446845194240,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1397932293843476481,
+        "text": "RT @nodejs: Today, Node.js turns 12 \ud83c\udf82\n\nSince v0.0.1, nodejs/node (including io.js) has had:\n\n\ud83d\udce6 669 releases\n\u2611\ufe0f 33565 commits\n\ud83d\udc65 2988 contrib\u2026",
+        "created_at": "2021-05-27 15:06:45+00:00",
+        "public_metrics": {
+            "retweet_count": 576,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1397914989931864080,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1396576924424626181,
+        "text": "@Isti115 i might gona save that one",
+        "created_at": "2021-05-23 21:21:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 170645643,
+        "referenced_tweets": {
+            "id": 1396430872346300423,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1396060029158055943,
+        "text": "@LydiaIsDead @N0_F33L1NGS_ @catsdotexe Another one, please",
+        "created_at": "2021-05-22 11:07:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1250332936869539843,
+        "referenced_tweets": {
+            "id": 1396031080654807047,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1394270588181549059,
+        "text": "RT @cherub_chann: https://t.co/M3CPolL7rm",
+        "created_at": "2021-05-17 12:36:27+00:00",
+        "public_metrics": {
+            "retweet_count": 51071,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1393277208970645506,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1393915889419014144,
+        "text": "@XycronVA I have no questions.",
+        "created_at": "2021-05-16 13:07:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44071306,
+        "referenced_tweets": {
+            "id": 1393839443384016903,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1392913384971120641,
+        "text": "how to get killed by @Google 's ai first https://t.co/ESBNcHx74s",
+        "created_at": "2021-05-13 18:43:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1392371185535627264,
+        "text": "@laz_artist guess it is",
+        "created_at": "2021-05-12 06:48:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1355873800622137345,
+        "referenced_tweets": {
+            "id": 1392246170622255114,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1391982950091268097,
+        "text": "RT @Yamikazexz: OH GOD I ACCIDENTLY SWIPED RIGHT ON A 17 YEAR OLD PLS DON'T CANCEL ME I'M SORRY",
+        "created_at": "2021-05-11 05:06:11+00:00",
+        "public_metrics": {
+            "retweet_count": 52,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1391905992095375362,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1391793734761779211,
+        "text": "@Yamikazexz maybe",
+        "created_at": "2021-05-10 16:34:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 766080890132987904,
+        "referenced_tweets": {
+            "id": 1391793612338327552,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1391605982824914947,
+        "text": "RT @XycronVA: Me https://t.co/Af8dH10iwD",
+        "created_at": "2021-05-10 04:08:15+00:00",
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1391601826827411459,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1390920613569601536,
+        "text": "I just accidentally clicked an unavailable network folder in Windows File Explorer and its just crashed",
+        "created_at": "2021-05-08 06:44:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1390900209413148672,
+        "text": "RT @Yamikazexz: https://t.co/RXhBLyKfqt",
+        "created_at": "2021-05-08 05:23:46+00:00",
+        "public_metrics": {
+            "retweet_count": 113,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1390736061882527744,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1390810125141782528,
+        "text": "RT @citrusgummy: Me: stop assuming all deer related pics are...\nAlso me: hi Al https://t.co/VRcRoVu0HM",
+        "created_at": "2021-05-07 23:25:48+00:00",
+        "public_metrics": {
+            "retweet_count": 80,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1390736366175195139,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1390607288759635968,
+        "text": "My teacher: search for an old animal painting and highlit the object in focus\n\nme: https://t.co/5nHvOhgMTj",
+        "created_at": "2021-05-07 09:59:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1390524311748841483,
+        "text": "RT @elonmusk: Cryptocurrency is promising, but please invest with caution! https://t.co/A4kplcP8Vq",
+        "created_at": "2021-05-07 04:30:05+00:00",
+        "public_metrics": {
+            "retweet_count": 36754,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1390522866979033092,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1390518001041125379,
+        "text": "finaly https://t.co/ZdtBm6llZV",
+        "created_at": "2021-05-07 04:05:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1390457135293681670,
+        "text": "Windows updates be like:\n\ninstalling - 100% *2 min later* installing - 15%",
+        "created_at": "2021-05-07 00:03:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1390262242642436101,
+        "text": "@pmforsupport @KarasMaii me with a fucked up sleep schedule https://t.co/xz4jVoqh2P",
+        "created_at": "2021-05-06 11:08:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 985237099405348864,
+        "referenced_tweets": {
+            "id": 1390237673382727681,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1390205555206197253,
+        "text": "RT @PerfectlyShots: https://t.co/nybZXmr9Qw",
+        "created_at": "2021-05-06 07:23:27+00:00",
+        "public_metrics": {
+            "retweet_count": 4603,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1386745890308870149,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1390205070113968128,
+        "text": "@IKeepItTaco fucked up sleep schedule?",
+        "created_at": "2021-05-06 07:21:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4384561266,
+        "referenced_tweets": {
+            "id": 1390175071658991618,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1390201798355521543,
+        "text": "@LinusTech https://t.co/g3JNv08Vhi",
+        "created_at": "2021-05-06 07:08:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 403614288,
+        "referenced_tweets": {
+            "id": 1390096957595537413,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1389781770799886337,
+        "text": "@riotgames @LeagueOfLegends The one yuumi is just big, but imagine getting 100 stones thrown at you. I would prefer the one chonky boy thanks",
+        "created_at": "2021-05-05 03:19:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 20523846,
+        "referenced_tweets": {
+            "id": 1389610772641325056,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1389745993839689730,
+        "text": "Its like me with every person i usualy speak with https://t.co/P06XqCt1Qr",
+        "created_at": "2021-05-05 00:57:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1389673726145449984,
+        "text": "RT @AliArya65: @LinusTech You\u2019ll see the difference https://t.co/HNYnQSZgJj",
+        "created_at": "2021-05-04 20:10:09+00:00",
+        "public_metrics": {
+            "retweet_count": 63,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1389645219742818306,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1389649456849694722,
+        "text": "@W3Hidayath @W3Layouts is this counts? https://t.co/DQooChDPyH",
+        "created_at": "2021-05-04 18:33:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17227769,
+        "referenced_tweets": {
+            "id": 1361822447478038528,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1389406154896416771,
+        "text": "@XycronVA You never asked?",
+        "created_at": "2021-05-04 02:26:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44071306,
+        "referenced_tweets": {
+            "id": 1389404680422268928,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1389344846968668162,
+        "text": "RT @myunclesmemes: Just trying to justify my own behaviour. https://t.co/zybXpW3vdD",
+        "created_at": "2021-05-03 22:23:18+00:00",
+        "public_metrics": {
+            "retweet_count": 85,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1389325745152045057,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1389107615582543872,
+        "text": "@kovlehu iknow",
+        "created_at": "2021-05-03 06:40:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1315253327580585984,
+        "referenced_tweets": {
+            "id": 1389107385227169793,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1389107222576312320,
+        "text": "Java is still bad\nBut nodejs is sometimes even worse",
+        "created_at": "2021-05-03 06:39:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1389097418742976512,
+        "text": "@RTB_OCE Finally, a streamer like me",
+        "created_at": "2021-05-03 06:00:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 756868040,
+        "referenced_tweets": {
+            "id": 1389096823072067594,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1388997521234608128,
+        "text": "RT @JimmyBroadbent: The IQ of my discord server is very high https://t.co/2s8ydyKU6w",
+        "created_at": "2021-05-02 23:23:10+00:00",
+        "public_metrics": {
+            "retweet_count": 92,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1388826933878837250,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1388833983841120259,
+        "text": "RT @W3Hidayath: https://t.co/BSjptWrHz4",
+        "created_at": "2021-05-02 12:33:19+00:00",
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1388229192118984704,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1388809872423243780,
+        "text": "\"Just fix it\" @vzoli04 https://t.co/9Akh6xZGWi",
+        "created_at": "2021-05-02 10:57:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1388809648451510274,
+        "text": "RT @catpicsdealer: https://t.co/Q3XtwB3Dr1",
+        "created_at": "2021-05-02 10:56:37+00:00",
+        "public_metrics": {
+            "retweet_count": 30,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1388809433132814337,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1388740565337051136,
+        "text": "@Yamikazexz How can you see my drafts?",
+        "created_at": "2021-05-02 06:22:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 766080890132987904,
+        "referenced_tweets": {
+            "id": 1388640694735101953,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1388702178794213376,
+        "text": "@XycronVA https://t.co/hhjDCdxLn1",
+        "created_at": "2021-05-02 03:49:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44071306,
+        "referenced_tweets": {
+            "id": 1388683792324304899,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1388628616402149377,
+        "text": "I usually play lol at 3-5 AM instead of learning this shit called dart, sometimes I really just hate myself",
+        "created_at": "2021-05-01 22:57:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1388560553853992961,
+        "text": "@G2Jankos How can i unsee this?",
+        "created_at": "2021-05-01 18:26:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2216500400,
+        "referenced_tweets": {
+            "id": 1388507024703557634,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1388263582400397314,
+        "text": "Me at 3 AM trying to do anything https://t.co/swrGwRoqQ7",
+        "created_at": "2021-04-30 22:46:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1388261264967753729,
+        "text": "RT @LinusTech: cereal numbers https://t.co/hNetfqJVGM",
+        "created_at": "2021-04-30 22:37:32+00:00",
+        "public_metrics": {
+            "retweet_count": 159,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1388223013527511042,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1388212811269083149,
+        "text": "Surgery is just stabbing someone to life",
+        "created_at": "2021-04-30 19:25:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1387993017945055243,
+        "text": "@googlecloud Thanks! This was much more helpful than everything I found out there!",
+        "created_at": "2021-04-30 04:51:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19367815,
+        "referenced_tweets": {
+            "id": 1387965249706463238,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387963315062808584,
+        "text": "Anyone any idea how to get @googlecloud to increase my compute quota? Already tried: Spiking userbase, hosting an event that requires more than 8 cores (which is the actual case)",
+        "created_at": "2021-04-30 02:53:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1387699061613023233,
+        "text": "RT @DropletBots: 24 retweets and we do a large giveaway!\n\nNitro, Lifetime Reaction Roles Premium etc. https://t.co/dtmUnw33u8",
+        "created_at": "2021-04-29 09:23:33+00:00",
+        "public_metrics": {
+            "retweet_count": 25,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1387695023777517570,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1387634871993044992,
+        "text": "@AzmoLIVE thisone got thrown into the frier instead of space",
+        "created_at": "2021-04-29 05:08:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 423763512,
+        "referenced_tweets": {
+            "id": 1387591859472527362,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387630547099394051,
+        "text": "RT @AzmoLIVE: This nug be lookin sus https://t.co/Meiu3OGTxX",
+        "created_at": "2021-04-29 04:51:18+00:00",
+        "public_metrics": {
+            "retweet_count": 20,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1387591859472527362,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1387544993187893249,
+        "text": "@PreMiDapp nice",
+        "created_at": "2021-04-28 23:11:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090930331044200449,
+        "referenced_tweets": {
+            "id": 1387541110634041345,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387537974838059008,
+        "text": "Rate my profile https://t.co/zirzfthp2k",
+        "created_at": "2021-04-28 22:43:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1387534732846567428,
+        "text": "@norticus36 F",
+        "created_at": "2021-04-28 22:30:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 817478165245427713,
+        "referenced_tweets": {
+            "id": 1387523924221743106,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1387197945582432257,
+        "text": "The deer population is controlled by releasing wolves into an area. All problems should be solved that way. Too much pollution? Release wolves in factories. Dislike Congress? Wolves. Wanna lose weight? That's right, wolves",
+        "created_at": "2021-04-28 00:12:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1387178472712310787,
+        "text": "RT @Isti115: .@surface It's disappointing that there are countless Surface Pro 4's being replaced (even upgraded) because of bulging batter\u2026",
+        "created_at": "2021-04-27 22:54:55+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1387174971559002117,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1386820292543139842,
+        "text": "RT @MissBaffy: \u201cyeah i have an inverted penis, how did u know?\u201d https://t.co/2FhQsfLzXm",
+        "created_at": "2021-04-26 23:11:38+00:00",
+        "public_metrics": {
+            "retweet_count": 91,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1382798162646216714,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1386794133474398219,
+        "text": "@G2esports nuke...",
+        "created_at": "2021-04-26 21:27:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1124722303,
+        "referenced_tweets": {
+            "id": 1386772282249334784,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1386564998760181761,
+        "text": "@W3Layouts At least my error page is fancy when the piece of crap code I wrote isn't working",
+        "created_at": "2021-04-26 06:17:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 599217556,
+        "referenced_tweets": {
+            "id": 1385919604770312193,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1382848571515531275,
+        "text": "@W3Hidayath @W3Layouts copy the second picture to the first and you got me",
+        "created_at": "2021-04-16 00:09:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17227769,
+        "referenced_tweets": {
+            "id": 1382551867872333829,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1382549190740475904,
+        "text": "RT @disobey: Devs watching streamers play their game for the first time like: https://t.co/SIvVD1Q6mL",
+        "created_at": "2021-04-15 04:19:48+00:00",
+        "public_metrics": {
+            "retweet_count": 22967,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1382029742220705797,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1382548014498258944,
+        "text": "Java is evil",
+        "created_at": "2021-04-15 04:15:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1382452083786403843,
+        "text": "@LinusTech Linus meme head",
+        "created_at": "2021-04-14 21:53:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 403614288,
+        "referenced_tweets": {
+            "id": 1382416894880227328,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1381776657330155528,
+        "text": "@catsdotexe Taking family tree to a whole new level",
+        "created_at": "2021-04-13 01:10:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 340982003,
+        "referenced_tweets": {
+            "id": 1381708839767138306,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1381776144622620675,
+        "text": "@thebotii1 @PopCatClick I think someone sacrificed him/herself for that place on the leaderboard",
+        "created_at": "2021-04-13 01:07:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1274011949869776898,
+        "referenced_tweets": {
+            "id": 1381526953031778304,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1381774983886729219,
+        "text": "RT @mlarocca: A review of the new features introduced in #ES2020, after 6 months into the new standard.\n\n#DEVCommunity #javascript #CodeNew\u2026",
+        "created_at": "2021-04-13 01:03:22+00:00",
+        "public_metrics": {
+            "retweet_count": 68,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1320322577206792195,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1381773695757205507,
+        "text": "@Natahrie Wow! Sutch a beuty in the two pitcures! I love it! Oh and the woman is fine too I guess.",
+        "created_at": "2021-04-13 00:58:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1017249667468414976,
+        "referenced_tweets": {
+            "id": 1381663524712284170,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1381770830787584004,
+        "text": "@PopCatClick POPland",
+        "created_at": "2021-04-13 00:46:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1359220933102366723,
+        "referenced_tweets": {
+            "id": 1381730722013151242,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1378561876154576897,
+        "text": "RT @RespectfulMemes: https://t.co/6hvJYb3uzs",
+        "created_at": "2021-04-04 04:15:38+00:00",
+        "public_metrics": {
+            "retweet_count": 6019,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1378145737813463042,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1375455763062226955,
+        "text": "@norticus36 Same",
+        "created_at": "2021-03-26 14:33:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 817478165245427713,
+        "referenced_tweets": {
+            "id": 1375448369389260800,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1373761461663764485,
+        "text": "RT @Yamikazexz: If Cho'gath has a mom she would be called Cho'mama",
+        "created_at": "2021-03-21 22:20:30+00:00",
+        "public_metrics": {
+            "retweet_count": 211,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1373637444986363905,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1372129101071446017,
+        "text": "RT @AllieMcCandless: https://t.co/uwbFW9xNJS",
+        "created_at": "2021-03-17 10:14:05+00:00",
+        "public_metrics": {
+            "retweet_count": 42950,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1371467795129569282,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1369251767062585346,
+        "text": "@zacktatom wait, this isn't normal?",
+        "created_at": "2021-03-09 11:40:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1738825200,
+        "referenced_tweets": {
+            "id": 1369005410846408709,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1364557453275377666,
+        "text": "RT @Yamikazexz: talon mains be like dw guys im full build https://t.co/ScefKi0Ryj",
+        "created_at": "2021-02-24 12:47:03+00:00",
+        "public_metrics": {
+            "retweet_count": 101,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1364223575855665157,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1361114238396338178,
+        "text": "@discord \ud83d\udc96",
+        "created_at": "2021-02-15 00:44:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3065618342,
+        "referenced_tweets": {
+            "id": 1360967663103528964,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1357744475154612225,
+        "text": "@Yamikazexz same",
+        "created_at": "2021-02-05 17:34:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 766080890132987904,
+        "referenced_tweets": {
+            "id": 1357744324503625732,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1353660883017363457,
+        "text": "@discord Oh, you are Discord? Name every bot then.",
+        "created_at": "2021-01-25 11:07:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3065618342,
+        "referenced_tweets": {
+            "id": 1352688764133519360,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1340622349909991425,
+        "text": "@secretlabchairs @LeagueOfLegends Poros are cute",
+        "created_at": "2020-12-20 11:37:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 815113027171192832,
+        "referenced_tweets": {
+            "id": 1340310930379296771,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1335188677182500864,
+        "text": "RT @LEC: retweet to pet Yuumi\n\n\u3000\u3000\u3000\u3000\u3000\u3000  \uff3f\uff3f\n\u3000\u3000\u2b50 \u3000  \uff0f\uff1e\u3000\u3000\u30d5\n\u3000\u3000\u3000\u3000\u3000|  \u3000.\u3000  . l\n\u3000 \u3000\u3000\u3000\uff0f` \u30df\uff3fx\u30ce    \ud83c\udf1f\n\u3000\u2728\u3000  /\u3000\u3000\u3000 \u3000 |\n\u3000\u3000\u3000 /\u3000 \u30fd\u3000\u3000 \uff89\n\u3000 \u3000  \u2502    \u3000|\u3000|\u3000|\n\u3000\uff0f\uffe3|\u2026",
+        "created_at": "2020-12-05 11:46:01+00:00",
+        "public_metrics": {
+            "retweet_count": 1663,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1335184645894377472,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1322326485655527424,
+        "text": "@RTB_FC No, its a word",
+        "created_at": "2020-10-30 23:56:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 756868040,
+        "referenced_tweets": {
+            "id": 1321837533169266688,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1317600466386231297,
+        "text": "@RTB_FC hate main hate main hate main...",
+        "created_at": "2020-10-17 22:56:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 756868040,
+        "referenced_tweets": {
+            "id": 1316997139478716416,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1314582951708037121,
+        "text": "@G2esports black sus",
+        "created_at": "2020-10-09 15:06:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1124722303,
+        "referenced_tweets": {
+            "id": 1313977551002513408,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1313971517902983169,
+        "text": "@RTB_FC \"help\"",
+        "created_at": "2020-10-07 22:36:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 756868040,
+        "referenced_tweets": {
+            "id": 1313627158141526017,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1310206861476495360,
+        "text": "@fwii_Talon One reason why i left ranked",
+        "created_at": "2020-09-27 13:17:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 849074152262836225,
+        "referenced_tweets": {
+            "id": 1310144039048548354,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1310206388736528388,
+        "text": "RT @secretlabchairs: There can be no compromise at the highest level of @lolesports. Secretlab is the official chair partner of the League\u2026",
+        "created_at": "2020-09-27 13:15:20+00:00",
+        "public_metrics": {
+            "retweet_count": 16247,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1309373065713848321,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1310206243995353089,
+        "text": "RT @secretlabchairs: This contest runs from 26 Sept to 31 Oct. Visit our website to participate and stand a chance to enjoy the same world-\u2026",
+        "created_at": "2020-09-27 13:14:45+00:00",
+        "public_metrics": {
+            "retweet_count": 14232,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1309904683842981888,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1310205962712682496,
+        "text": "RT @secretlabchairs: Meet the Secretlab Worlds 2020 Edition, the official chair of #Worlds2020. Embodying the vibrant energy of the highest\u2026",
+        "created_at": "2020-09-27 13:13:38+00:00",
+        "public_metrics": {
+            "retweet_count": 17736,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1309361535207256065,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1309428745141444609,
+        "text": "@MedicCasts @Sekkouxd Eune",
+        "created_at": "2020-09-25 09:45:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1678939310,
+        "referenced_tweets": {
+            "id": 1309117254609629188,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1309428690946850818,
+        "text": "RT @MedicCasts: Want to tear up solo-queue while you watch your favourite team crash and burn at Worlds?\n\nWell, I've got the skin for you.\u2026",
+        "created_at": "2020-09-25 09:45:02+00:00",
+        "public_metrics": {
+            "retweet_count": 2173,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1309117254609629188,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1301233989148184576,
+        "text": "@spyxyana @Yamikazexz Well...",
+        "created_at": "2020-09-02 19:02:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1162727990079438849,
+        "referenced_tweets": {
+            "id": 1300749257436262400,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1299334003074502656,
+        "text": "@Yamikazexz hmm",
+        "created_at": "2020-08-28 13:12:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 766080890132987904,
+        "referenced_tweets": {
+            "id": 1299333793543852032,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1296406945625251840,
+        "text": "@asyyyc True",
+        "created_at": "2020-08-20 11:21:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1247260530932318214,
+        "referenced_tweets": {
+            "id": 1296147320044761089,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1296406370846150658,
+        "text": "@RTB_FC Yuumi 1v1 \ud83d\ude44",
+        "created_at": "2020-08-20 11:18:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 756868040,
+        "referenced_tweets": {
+            "id": 1296313208584589312,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1295995400827146241,
+        "text": "RT @Yamikazexz: nothing beats that feeling when ur asian mom comes in after u scream \"SUCK MY FAT FUCKING COCK\" at the top of ur lungs in d\u2026",
+        "created_at": "2020-08-19 08:05:56+00:00",
+        "public_metrics": {
+            "retweet_count": 124,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1295743362151124992,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1295634315456503809,
+        "text": "RT @G2Wunder: I am giving one of my followers an Akali Chair!\n\nTo enter:\n\u2705 Follow @G2Wunder, @G2esports and @secretlabchairs\n\u2764\ud83d\udd01 Like and RT\u2026",
+        "created_at": "2020-08-18 08:11:07+00:00",
+        "public_metrics": {
+            "retweet_count": 11621,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1295413341150732290,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1293718703268343810,
+        "text": "@loleu @secretlabchairs @LeagueOfLegends Can we expect a yuumi one?",
+        "created_at": "2020-08-13 01:19:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2325984198,
+        "referenced_tweets": {
+            "id": 1293600635917684741,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1289342373718159360,
+        "text": "RT @G2esports: Win an @NVIDIAGeForce RTX 2080 Super!\n\nSimply:\n\u2705 Follow @G2esports and @NVIDIAGeForce\n\u2764\ud83d\udd01 Like and Retweet the post\n\nGOOD LUC\u2026",
+        "created_at": "2020-07-31 23:29:11+00:00",
+        "public_metrics": {
+            "retweet_count": 11983,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1289197715298033667,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1288821262719037446,
+        "text": "RT @Yamikazexz: nice job guys https://t.co/90X0w3G9Ws",
+        "created_at": "2020-07-30 12:58:28+00:00",
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1288820913098629120,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1287104114338549763,
+        "text": "@Yamikazexz yuumikaze",
+        "created_at": "2020-07-25 19:15:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 766080890132987904,
+        "referenced_tweets": {
+            "id": 1287103885946085377,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1285966021120139264,
+        "text": "@TimeraaDEV nice",
+        "created_at": "2020-07-22 15:52:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 790539535725785092,
+        "referenced_tweets": {
+            "id": 1285274828237426689,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1285766211951906819,
+        "text": "@Yamikazexz This is like the \"Infos\" in the loading screen",
+        "created_at": "2020-07-22 02:38:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 766080890132987904,
+        "referenced_tweets": {
+            "id": 1285765651840327687,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1285734446013054976,
+        "text": "RT @TheBestAkaliEvr: Gaming PC Giveaway worth $1,600 USD - Available to ANYONE in ANY Region/Country - Paid by Prof Akali &amp; Friends - Check\u2026",
+        "created_at": "2020-07-22 00:32:34+00:00",
+        "public_metrics": {
+            "retweet_count": 5582,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1267996478091390976,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1281737965493002240,
+        "text": "@lolYisus talon R",
+        "created_at": "2020-07-10 23:51:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3430992539,
+        "referenced_tweets": {
+            "id": 1281407849235709952,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1280296113933881345,
+        "text": "@G2esports What is real life?",
+        "created_at": "2020-07-07 00:22:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1124722303,
+        "referenced_tweets": {
+            "id": 1280094138608701441,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1276922374131257344,
+        "text": "RT @C9Vienna: https://t.co/PolexxJwaK",
+        "created_at": "2020-06-27 16:56:32+00:00",
+        "public_metrics": {
+            "retweet_count": 140,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1276654491945795584,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1275504515018522625,
+        "text": "REMOVE YUUMI FROM LEAGUE OF LEGENDS - Sign the Petition! https://t.co/wb0BwuZWs5 via @Change",
+        "created_at": "2020-06-23 19:02:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1275458368912740352,
+        "text": "RT @G2esports: Celebrate our collaboration with a GIVEAWAY for an AORUS GeForce\u00ae RTX 2080 SUPER\u2122 8G\n\nTo enter:\n\u2611 Follow @G2esports and @NVI\u2026",
+        "created_at": "2020-06-23 15:59:06+00:00",
+        "public_metrics": {
+            "retweet_count": 19026,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1275428534291279872,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1274997113110302721,
+        "text": "RT @Shiphtur: Riot gave me some Astronaut Bard skins with the Emerald Chroma to give out! #Leaguepartner\n\nNA only, ends June 27th, to enter\u2026",
+        "created_at": "2020-06-22 09:26:14+00:00",
+        "public_metrics": {
+            "retweet_count": 1296,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1274837031949004800,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1273755818152865793,
+        "text": "RT @shiouxu: An attempt at drawing a champion different from the ones I usually draw. \n#ArtofLegends https://t.co/cunMWSO4C0",
+        "created_at": "2020-06-18 23:13:46+00:00",
+        "public_metrics": {
+            "retweet_count": 103,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1273716258895204353,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1271219897301942277,
+        "text": "RT @Cloud9: Why give Ibrahim Allami Sett? Has the Academy League not learn yet? #C9WIN \n\n\ud83d\udcfa https://t.co/zewl5c1HB8 https://t.co/xWZQcxZvK4",
+        "created_at": "2020-06-11 23:16:56+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1271206600288559105,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1271217205569564673,
+        "text": "RT @nessajthelol: Na, ez m\u00e1r konzol! #PlayStation5 https://t.co/9SmwjdfKG0",
+        "created_at": "2020-06-11 23:06:14+00:00",
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1271192357573144579,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1270152022101196802,
+        "text": "@KarasMaii Thats kayn",
+        "created_at": "2020-06-09 00:33:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2620372081,
+        "referenced_tweets": {
+            "id": 1269920945105285129,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1268680498609610754,
+        "text": "RT @G2esports: Built for Champions \ud83d\udd28\ud83d\udee1\n\nEnjoy the first look at the Home of G2 Esports at LVL facility! https://t.co/eb47EaVuDL",
+        "created_at": "2020-06-04 23:06:16+00:00",
+        "public_metrics": {
+            "retweet_count": 640,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1268497734304235520,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1268679098047639556,
+        "text": "RT @lolYisus: challenger players meeting their egirl for the first time https://t.co/PK1oqNpQed",
+        "created_at": "2020-06-04 23:00:42+00:00",
+        "public_metrics": {
+            "retweet_count": 509,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1268666590293299201,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1268091519275319298,
+        "text": "RT @lolYisus: OPGG hired riot client devs its over guys \ud83d\ude14 https://t.co/chi2TnRrf0",
+        "created_at": "2020-06-03 08:05:52+00:00",
+        "public_metrics": {
+            "retweet_count": 62,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1268074608000933889,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1267774043735961602,
+        "text": "@G2esports @secretlabchairs @G2Caps",
+        "created_at": "2020-06-02 11:04:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1124722303,
+        "referenced_tweets": {
+            "id": 1267456652162109440,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1267773638805278720,
+        "text": "RT @G2esports: Watch G2 dominate the #LEC in style and comfort - we\u2019re giving away a G2 TITAN 2020 for one lucky fan!\n\nTo enter:\n\u2611 Follow @\u2026",
+        "created_at": "2020-06-02 11:02:44+00:00",
+        "public_metrics": {
+            "retweet_count": 3892,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1267456652162109440,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1265239370451296261,
+        "text": "RT @Yamikazexz: https://t.co/HUelDrrbxj",
+        "created_at": "2020-05-26 11:12:27+00:00",
+        "public_metrics": {
+            "retweet_count": 23,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1265159604696240129,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1262647503968768000,
+        "text": "RT @TheBestAkaliEvr: GIANT RARE SKIN GIVEAWAY (INFERNAL AKALI, COVEN LEBLANC + LPP EMERALD CHROMA, DARK STAR MORDEKAISER + LPP EMERALD CHRO\u2026",
+        "created_at": "2020-05-19 07:33:18+00:00",
+        "public_metrics": {
+            "retweet_count": 4789,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1252974190828773382,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1261830622579961858,
+        "text": "A yuumis kell https://t.co/sN9dInUQqU",
+        "created_at": "2020-05-17 01:27:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1261827797791760385,
+        "text": "RT @ASUS_ROG: haha long boy https://t.co/fXMXuuMUFw",
+        "created_at": "2020-05-17 01:16:05+00:00",
+        "public_metrics": {
+            "retweet_count": 249,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1261130335930089472,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1248720649721458703,
+        "text": "Join Voicemod V2 Beta Right Now! \ud83d\ude80\n \ud83d\udc49 https://t.co/VZZfNjI6Au #Voicechanger",
+        "created_at": "2020-04-10 21:12:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1241894410100621312,
+        "text": "RT @LeagueOfFanarts: Talon and Katarina matching icons by dana-nto https://t.co/BHtrdVUM1A",
+        "created_at": "2020-03-23 01:07:55+00:00",
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 843822337023787008,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1189892975515619328,
+        "text": "I just posted \"Spotify status same as Twitch status\" on Reddit\n\nhttps://t.co/DldykfQyty",
+        "created_at": "2019-10-31 13:12:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1178639886640910337,
+        "text": "RT @JimMFelton: Brexiters accidentally winning the referendum https://t.co/kaHxFNnv20",
+        "created_at": "2019-09-30 11:57:01+00:00",
+        "public_metrics": {
+            "retweet_count": 48588,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1178217736872321024,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1177087476529324033,
+        "text": "RT @Caulls_: @LoLegendsBR Eu fiz o meu main, o Jhin, agora est\u00e1 na pele \u2764\ufe0f https://t.co/fF2Ebcrff9",
+        "created_at": "2019-09-26 05:08:18+00:00",
+        "public_metrics": {
+            "retweet_count": 63,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1176840876305375233,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1169624234525634560,
+        "text": "RT @discordapp: We just rolled out Go Live to... 100% of you! Everyone can now launch a game, click a button, and start streaming to their\u2026",
+        "created_at": "2019-09-05 14:52:02+00:00",
+        "public_metrics": {
+            "retweet_count": 1444,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1169342376457859072,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1168750444417617924,
+        "text": "RT @discordapp: it's the last day of pax and im sneaking out merch for giveaways this week for all of you who couldn't make it\n\nretweet for\u2026",
+        "created_at": "2019-09-03 04:59:54+00:00",
+        "public_metrics": {
+            "retweet_count": 8048,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1168626154187579393,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1168262860239187968,
+        "text": "RT @discordapp: Traditional PAX West Discord Partner photo \ud83d\udcf8 https://t.co/K5SaGqClG6",
+        "created_at": "2019-09-01 20:42:25+00:00",
+        "public_metrics": {
+            "retweet_count": 96,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1168220553674518528,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1167171164499824640,
+        "text": "RT @luke_lafr: I LOVE IT - try to light the ones in the back :D https://t.co/OPKagm5ZhI",
+        "created_at": "2019-08-29 20:24:25+00:00",
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1162994175471546369,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1167170575921549314,
+        "text": "RT @ASUS_ROG: No #ROGMothership was harmed during the making of this video.\n@LinusTech https://t.co/eYdSweqZbT",
+        "created_at": "2019-08-29 20:22:04+00:00",
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1167074946742476800,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1167169743914184705,
+        "text": "RT @steam_games: Save up to 90% during the Devolver Digital 10 Year Anniversary sale!\n\nhttps://t.co/IISMOHUAtq https://t.co/i4ETbEkLpW",
+        "created_at": "2019-08-29 20:18:46+00:00",
+        "public_metrics": {
+            "retweet_count": 97,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1167168056193245184,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1167169232964083713,
+        "text": "RT @loleu: Things are beginning to stabilise again! Thanks for your patience \ud83d\udc4d https://t.co/kvrOgBYz3m",
+        "created_at": "2019-08-29 20:16:44+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1167150234893508609,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1167164632710164481,
+        "text": "RT @discordapp: new beanie &amp; wumpus key clip available for purchase at a pax west near you \ud83e\udde2 \ud83d\udd11 https://t.co/Loi1nAOEwj",
+        "created_at": "2019-08-29 19:58:27+00:00",
+        "public_metrics": {
+            "retweet_count": 184,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1167160995153793024,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1161196225854672898,
+        "text": "@doggyandi H\u00e1t akkor rem\u00e9lmem, hogy min\u00e9l hamarabb megk\u00fcldik",
+        "created_at": "2019-08-13 08:42:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 71761570,
+        "referenced_tweets": {
+            "id": 1161190535610191873,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1149070179336429568,
+        "text": "I'm now streaming on Twitch! Playing Portal 2 https://t.co/I2BYzphPRr",
+        "created_at": "2019-07-10 21:37:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1149039968792252417,
+        "text": "I'm now streaming on Twitch! Playing Minecraft https://t.co/I2BYzphPRr",
+        "created_at": "2019-07-10 19:37:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1148617174837276673,
+        "text": "I'm now streaming on Twitch! Playing Minecraft https://t.co/I2BYzphPRr",
+        "created_at": "2019-07-09 15:37:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1148254920354779136,
+        "text": "I'm now streaming on Twitch! Playing Forager https://t.co/I2BYzphPRr",
+        "created_at": "2019-07-08 15:38:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1147944444311814146,
+        "text": "I'm now streaming on Twitch! Playing Forager https://t.co/I2BYzphPRr",
+        "created_at": "2019-07-07 19:04:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1147491490605797378,
+        "text": "I'm now streaming on Twitch! Playing Forager https://t.co/I2BYzphPRr",
+        "created_at": "2019-07-06 13:04:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1146835433126600704,
+        "text": "I'm now streaming on Twitch! Playing Forager https://t.co/I2BYzphPRr",
+        "created_at": "2019-07-04 17:37:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1077152464263102465,
+        "text": "Just posted a photo @ Gyorujfalu https://t.co/Ft2kXg1TJQ",
+        "created_at": "2018-12-24 10:42:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1075484067288756224,
+        "text": "Christmas Fortnite V-BUCKS rewards! https://t.co/1MsPhykV47",
+        "created_at": "2018-12-19 20:12:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

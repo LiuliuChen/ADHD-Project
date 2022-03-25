@@ -1,0 +1,3175 @@
+[
+    {
+        "tweet_id": 1507145171422650379,
+        "text": "RT @lesiavasylenko: 15 000 people deported to #Russia from #Mariupol. These people didn\u2019t want to leave #Ukraine. They were made to at gunp\u2026",
+        "created_at": "2022-03-24 23:59:44+00:00",
+        "public_metrics": {
+            "retweet_count": 1374,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507057609890795533,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507145118846967808,
+        "text": "RT @ewarren: Judge Ketanji Brown Jackson has more trial court experience than any sitting Supreme Court justice. She\u2019ll be only the 2nd sit\u2026",
+        "created_at": "2022-03-24 23:59:32+00:00",
+        "public_metrics": {
+            "retweet_count": 4383,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507044647524315142,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507142309477027845,
+        "text": "RT @JaneidyEve: @elonmusk @waitbutwhy I noticed the algorithm tends to 'promote' negative keywords. \nWhen I Tweet something that sounds sli\u2026",
+        "created_at": "2022-03-24 23:48:22+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507100431130009605,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507140298866057222,
+        "text": "RT @NASASpaceflight: Underrated video.\n\nGravity sucks for flight-proven astronauts. \ud83d\ude02\n\nhttps://t.co/f0dbWQk2By https://t.co/WONMZGVoe7",
+        "created_at": "2022-03-24 23:40:23+00:00",
+        "public_metrics": {
+            "retweet_count": 173,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507085677875408904,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507140113117196297,
+        "text": "RT @RBReich: PSA to the media: The GOP\u2019s attacks on Judge Jackson are not \u201cracially charged.\u201d They\u2019re racist.",
+        "created_at": "2022-03-24 23:39:38+00:00",
+        "public_metrics": {
+            "retweet_count": 4533,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507038620049309697,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068054458544129,
+        "text": "@correachris_ @Dr_ThomasZ I hope you feel better soon.\n\nLuna looks like a lovely friend.\n\nsubject change here.\n\nIs there any discussion of successor to the Voyager missions that could leverage modern sensors and laser communication?\n\nI've been trying to think of kick stage powered  Starship payloads.",
+        "created_at": "2022-03-24 18:53:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123619611373703170,
+        "referenced_tweets": {
+            "id": 1507020309018267657,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507062993888198664,
+        "text": "RT @elonmusk: @waitbutwhy I\u2019m worried about de facto bias in \u201cthe Twitter algorithm\u201d having a major effect on public discourse. \n\nHow do we\u2026",
+        "created_at": "2022-03-24 18:33:12+00:00",
+        "public_metrics": {
+            "retweet_count": 2980,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507037126654939140,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507062585081962504,
+        "text": "@NASASpaceflight They could give them to ULA to test launch a few Vulcan rockets",
+        "created_at": "2022-03-24 18:31:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 21292523,
+        "referenced_tweets": {
+            "id": 1507056624996962310,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507036432992555017,
+        "text": "@KenKirtland17 A lander launched as a Starship payload could increase cadence.\n\nStarship HLS's capacity for trips to surface and back, down or up mass or to resupply consumables is unknown.\n\nA parallel lander program, even expendable, could easily increase cadence If SLS is not a dependency.",
+        "created_at": "2022-03-24 16:47:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1129821565,
+        "referenced_tweets": {
+            "id": 1506722527275585552,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507033210894569483,
+        "text": "@SciGuySpace Blue Origin has been missing their @Gwynne_Shotwell  all along.\n\n@elonmusk has mooted that BO would thrive from @JeffBezos focusing on BO as his first priority.\n\nI think it could be either way, more in or more hands off.\n\nEither depends on a strong empowered operations leader.",
+        "created_at": "2022-03-24 16:34:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15726728,
+        "referenced_tweets": {
+            "id": 1506970529034555393,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506802666902626308,
+        "text": "@JaneidyEve @Tesmanian_com I saw it here first, so thanks for staying on top of things and sharing.",
+        "created_at": "2022-03-24 01:18:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92570825,
+        "referenced_tweets": {
+            "id": 1506783961707601922,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506710311159615495,
+        "text": "@ABernNYC @SpaceX @elonmusk #NameTheBoosters\n\n#Kelvin\n\nThere are so many good reasons to name a spacecraft Kelvin.\n\nB1051 is so deserving of a name.\n\nLet's start a stampede with the name Kelvin floating in the dust of our wake.",
+        "created_at": "2022-03-23 19:11:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 213763950,
+        "referenced_tweets": {
+            "id": 1506610232738340868,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506708481415553030,
+        "text": "@JennyHPhoto #NameTheBoosters\n\nB1051-Kelvin\n\nI'm specifically referencing the ship in the Star Trek reboot because I think that is accessible to young people and who might not read much, but Kelvin pops up so many cool places it could be from anywhere.\n\nPlus it's Kelvin.\n\n#Kelvin",
+        "created_at": "2022-03-23 19:04:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 747104885066207232,
+        "referenced_tweets": {
+            "id": 1506611255565594626,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506706185298358285,
+        "text": "@FelixSchlang It has been 380 years since my first ancestor made that journey, and it still fills me with hope and joy each time I hear someone is coming.\n\nAmerica is the joining together of different people with the commonality of considering dignity, freedom and respect to be normal.",
+        "created_at": "2022-03-23 18:55:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1139617177600954368,
+        "referenced_tweets": {
+            "id": 1506371069363601410,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506702940182138882,
+        "text": "RT @olgatokariuk: Art amid destruction. A musician is playing cello in central Kharkiv, destroyed by Russia. \nVideo @suspilne https://t.co/\u2026",
+        "created_at": "2022-03-23 18:42:28+00:00",
+        "public_metrics": {
+            "retweet_count": 10025,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506362819507335174,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506702479442034688,
+        "text": "@DerekdotSpace Awesome name and timely.\n\nI'm also trying to inject energy into the idea of naming the hardworking boosters in the fleet.\n\n#NameTheBoosters",
+        "created_at": "2022-03-23 18:40:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 926089843473600512,
+        "referenced_tweets": {
+            "id": 1506687819267420160,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506701422808739847,
+        "text": "@julia_bergeron @13ericralph31 @NASASpaceflight I'm trying to get some traction with naming B1051 -\n\nKelvin\n\n#Kelvin\n\n#NameTheBoosters",
+        "created_at": "2022-03-23 18:36:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 739284612099256320,
+        "referenced_tweets": {
+            "id": 1506593919987068930,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506697887631257607,
+        "text": "@JennyHPhoto @SciGuySpace @SuperclusterHQ @SpaceOffshore @elonmusk Are we ambush naming the epic American Broomstick flight leaders?\n\nI'm always a fan of \n\n\"Steve\"\n\nbut I could be biased there.\n\n\"Kelvin\"\n\nWould be a nice neutral place to start.",
+        "created_at": "2022-03-23 18:22:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 747104885066207232,
+        "referenced_tweets": {
+            "id": 1506599344501317632,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506652257235972096,
+        "text": "@SciGuySpace A successful mission will be a benefit for human spaceflight. With reusability baked into Starliner, the per flight costs could come down over time.\n\nOnce Starliner and Vulcan are both flying then a better picture of operational costs will emerge.",
+        "created_at": "2022-03-23 15:21:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15726728,
+        "referenced_tweets": {
+            "id": 1506606156332032006,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506641457511292928,
+        "text": "@JaneidyEve @StarshipGazer @SpaceX @elonmusk Perhaps this is a token while they work out the logistics of a ship display.\n\nStarship needs tank pressurization to maintain structural integrity.\n\nThey could install internal bracing which will take some time to design and install.\n\nJust getting it there will be a big job.",
+        "created_at": "2022-03-23 14:38:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92570825,
+        "referenced_tweets": {
+            "id": 1506505653191389187,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506636388883648524,
+        "text": "@DavidNagySFgang Statements decrying billionaire dilatants joyriding to space also exclude SpaceX.  @elonmusk could take a joyride to space, but useful travel to Mars is the goal.  Not a joyride.\n\nWealth is a useful byproduct  of @SpaceX and @Tesla activity rather than the purpose.",
+        "created_at": "2022-03-23 14:18:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1076522811873771520,
+        "referenced_tweets": {
+            "id": 1506433707271499778,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506461310103568386,
+        "text": "RT @AOC: When you\u2019re showing off the next book you want banned with the perfect edges and everything to underscore to everyone you haven\u2019t\u2026",
+        "created_at": "2022-03-23 02:42:19+00:00",
+        "public_metrics": {
+            "retweet_count": 9153,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506408921929502728,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506461127814885388,
+        "text": "RT @MichaelSteele: As I watch Senators question #KBJ and opine on her fitness to sit on the Supreme Court (often reading questions they cou\u2026",
+        "created_at": "2022-03-23 02:41:36+00:00",
+        "public_metrics": {
+            "retweet_count": 12598,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506374797642457090,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506460068933476352,
+        "text": "RT @lapatina_: My heart is bleeding for Mariupol.",
+        "created_at": "2022-03-23 02:37:23+00:00",
+        "public_metrics": {
+            "retweet_count": 4217,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506359455671279616,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506459266609291264,
+        "text": "RT @navalny: 9 years. Well, as the characters of my favorite TV series \u201cThe Wire\u201d used to say: \u201cYou only do two days. That's the day you go\u2026",
+        "created_at": "2022-03-23 02:34:12+00:00",
+        "public_metrics": {
+            "retweet_count": 20801,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506247694804783113,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506341134485929997,
+        "text": "RT @RBReich: Does anyone else find it ironic that the so-called \"party of free speech\" is trying to ban students and teachers from discussi\u2026",
+        "created_at": "2022-03-22 18:44:47+00:00",
+        "public_metrics": {
+            "retweet_count": 4619,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506006539810729991,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506340676061085697,
+        "text": "@MaryLTrump No, he can't, and I think that might be the problem. When you can't even f$@{ off successfully, you aren't good for much.\n\nOne more reason to mourn John McCain.",
+        "created_at": "2022-03-22 18:42:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1045110787,
+        "referenced_tweets": {
+            "id": 1506280327655874572,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506320646728560649,
+        "text": "@aft_flaps The financial analysts are already discussing whether a new term will need to be coined for when SpaceX goes public.\n\nThe possibility of market capitalization exceeding $1T in one day hasn't existed even in pharmacologically enhanced fairy tales.\n\nUnicorn won't be enough.",
+        "created_at": "2022-03-22 17:23:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1394509821475528711,
+        "referenced_tweets": {
+            "id": 1506247925374013444,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506319009763016708,
+        "text": "@rachelrowell Once the truck hits the market and completely takes over the construction industry things are going to get complicated.",
+        "created_at": "2022-03-22 17:16:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 402829109,
+        "referenced_tweets": {
+            "id": 1506233835335426049,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506317540275929099,
+        "text": "@CalvinMaclure @SciGuySpace Especially when mounted on the Angara rocket",
+        "created_at": "2022-03-22 17:11:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1270172982045020161,
+        "referenced_tweets": {
+            "id": 1506076660898177027,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506315737765490694,
+        "text": "@SciGuySpace @elonmusk and @SpaceX have been very pragmatic and positive throughout the review process.\n\nPivoting without complaining from maintaining the momentum of the suborbital testing, to building out the launch tower and ground infrastructure will pay dividends for years.",
+        "created_at": "2022-03-22 17:03:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15726728,
+        "referenced_tweets": {
+            "id": 1505971126488510469,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506312967654158346,
+        "text": "@StormSilvawalk1 Yes, but then it wouldn't be \"better\" which is one of the counterintuitive objectives.\n\nMarginal improvement through development of mature engineering will always be less rewarding than development of new solutions.\n\nLaw of diminishing returns.\n\nSLS v Starship",
+        "created_at": "2022-03-22 16:52:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3345048322,
+        "referenced_tweets": {
+            "id": 1506277828953841669,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506311879332872193,
+        "text": "@GaryHar70258384 @BaelaLayla @HStarshot Also impossible to be interpreted as confrontation.\n\nResponding to confrontation without engaging in confrontation is tricky.",
+        "created_at": "2022-03-22 16:48:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1097168764251058177,
+        "referenced_tweets": {
+            "id": 1505949216132136960,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505871770510938112,
+        "text": "@SpacexPink @SusanWojcicki @YouTube @YouTubeCreators Your channel is the least repetitive @SpaceX content on @YouTube \n\nI love your timely relevant updates with everything that is new and relevant with no indulgent repetition which so many SpaceX\"news\" creators load their videos with.",
+        "created_at": "2022-03-21 11:39:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1505612388531425280,
+        "referenced_tweets": {
+            "id": 1505675906131628040,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505870659133521923,
+        "text": "@SpacexPink @SusanWojcicki @YouTube @YouTubeCreators I love your channel. I would comment more (or at all) but I am disabled and the vehicle I use for watching YouTube doesn't allow comments.\n\nI will get out a laptop and start leaving comments if that will help.\n\nIt hurts to use a laptop, but your channel is definitely worth it.",
+        "created_at": "2022-03-21 11:35:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1505612388531425280,
+        "referenced_tweets": {
+            "id": 1505675906131628040,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505869575312883714,
+        "text": "@SpacexPink @SusanWojcicki @YouTube @YouTubeCreators Any provider who generates content on a focused topic with relevant updates will be at risk from this bizarre decision.\n\nWeather updates will be substantially the same, yet not repetitive.\n\nThe news in Ukraine is sadly similar each day.",
+        "created_at": "2022-03-21 11:30:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1505612388531425280,
+        "referenced_tweets": {
+            "id": 1505675906131628040,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505746776044752898,
+        "text": "RT @wingod: You know, it kind of pisses me off that SLS is branding itself as the most powerful ever as its throw weight beyond LEO is just\u2026",
+        "created_at": "2022-03-21 03:23:01+00:00",
+        "public_metrics": {
+            "retweet_count": 27,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504952534955282437,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505744664963465217,
+        "text": "@ArceneauxHayley Thank you for representing us cyborgs in space, and doing an amazing job at demonstrating how humanity should be done.\n\nsome day being a cyborg will be cool.  for now it just hurts.",
+        "created_at": "2022-03-21 03:14:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1364973781932998663,
+        "referenced_tweets": {
+            "id": 1505708810530344960,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503139360270688267,
+        "text": "RT @Pontifex: I ask all diocesan and religious communities to increase their moments of prayer for peace. God is only the God of peace, he\u2026",
+        "created_at": "2022-03-13 22:42:05+00:00",
+        "public_metrics": {
+            "retweet_count": 2757,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502994182364876800,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503139228015865856,
+        "text": "@DJSnM Most people in the US have no idea what you are referring to.\n\nI've always felt the STS/SLS tank was a sad tired yellow rather than orange anyway.\n\nMuch less controversial.\n\nMuch less marching.",
+        "created_at": "2022-03-13 22:41:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92356429,
+        "referenced_tweets": {
+            "id": 1503065599370428418,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503045924343492619,
+        "text": "RT @Pontifex: The city that bears the name of the Virgin Mary, Mariupol, has become a city martyred by the ruinous war that is devastating\u2026",
+        "created_at": "2022-03-13 16:30:48+00:00",
+        "public_metrics": {
+            "retweet_count": 5907,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502993863232962564,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503045321219268614,
+        "text": "RT @Pontifex: Before the barbarism of killing children and innocent and defenceless citizens, no strategic reasons hold: the only thing to\u2026",
+        "created_at": "2022-03-13 16:28:24+00:00",
+        "public_metrics": {
+            "retweet_count": 2635,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502993906371334147,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503043949329625097,
+        "text": "RT @LabPadre: If you don't have the time to watch daily check out our recap of last week's Starbase activity. #SpaceX #Starbase #Texas #Sta\u2026",
+        "created_at": "2022-03-13 16:22:57+00:00",
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503005207936090113,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503043269172809733,
+        "text": "RT @Pontifex: With an aching heart I add my voice to that of the common people, who implore the end of the war. In the name of God, listen\u2026",
+        "created_at": "2022-03-13 16:20:15+00:00",
+        "public_metrics": {
+            "retweet_count": 16477,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502993982938308608,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502982903348830209,
+        "text": "RT @GregScott_photo: Here is few pics I took a couple of days ago of Booster 1060.11 just after being off loaded from JRTI &amp; getting ready\u2026",
+        "created_at": "2022-03-13 12:20:22+00:00",
+        "public_metrics": {
+            "retweet_count": 86,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502981565038702597,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502982625551695876,
+        "text": "@NoParallax @Bl3D_Eccentric @FelixSchlang The main focus of the render is the new configuration for the COPVs.\n\nFrom the bottom, the aero covers for the COPVs line up with two of t grind fins.",
+        "created_at": "2022-03-13 12:19:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 801987045518348288,
+        "referenced_tweets": {
+            "id": 1502702969640431617,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502978592770252802,
+        "text": "RT @KenKirtland17: Stolen meme https://t.co/CJHJkFuEN2",
+        "created_at": "2022-03-13 12:03:15+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502672499636678656,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502977986873671683,
+        "text": "RT @lubdha: @SciGuySpace For the sake of accuracy and completeness, this is how the full clip ends. https://t.co/1Cdl5GFZFd",
+        "created_at": "2022-03-13 12:00:50+00:00",
+        "public_metrics": {
+            "retweet_count": 37,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502386275722022912,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502977145907384328,
+        "text": "RT @BobGolen: Be kind to everyone.  Not because they are.  Because you are.",
+        "created_at": "2022-03-13 11:57:30+00:00",
+        "public_metrics": {
+            "retweet_count": 104,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502480316224749570,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502977076974043137,
+        "text": "RT @katlinegrey: Dmitry Rogozin invited the Russian opera singer Anna Netrebko @annaNetrebko to visit Vostochny cosmodrome this summer to w\u2026",
+        "created_at": "2022-03-13 11:57:13+00:00",
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502962814071328773,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502974382951518208,
+        "text": "@SanteSuzie God bless and protect your country!!\n\nHappy Birthday from a stranger.",
+        "created_at": "2022-03-13 11:46:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2762530229,
+        "referenced_tweets": {
+            "id": 1502711387910377472,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502973946580418562,
+        "text": "@JaneidyEve @inspiration4x @SpaceX @elonmusk That is super cool!!\n\nEven if (when) Starship removes the 'scarcity due to cost' of spaceflight, affecting the transformation to a spacefaring society, that coin will remain just as cool, because Inspiration4 will always be the only first commercial trip to orbit.",
+        "created_at": "2022-03-13 11:44:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92570825,
+        "referenced_tweets": {
+            "id": 1502919479101210631,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502825492038262785,
+        "text": "@KiddPoteet @johnkrausphotos I remember as a child watching birds diving at the cars speeding by on the road and being afraid they were going too fast and would inevitably hit the cars.\n\nThen I realized the birds were surfing the pressurized air flowing over the moving cars.\n\nBirds love flying!!",
+        "created_at": "2022-03-13 01:54:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1307287388088086528,
+        "referenced_tweets": {
+            "id": 1502819451024011268,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502822568415449093,
+        "text": "RT @JaneidyEve: @elonmusk @PPathole @SpaceX Let's have a beach party at Starbase! kinda like the Tesla GigaFest but with spaceships &amp; a Mar\u2026",
+        "created_at": "2022-03-13 01:43:16+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502725150013378568,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502822558953000960,
+        "text": "RT @JaneidyEve: @elonmusk @PPathole @SpaceX \u00a1Elon, hagamos una fiesta de baile en Starbase! \ud83d\ude80 \nViva El Mariachi! \ud83c\uddf2\ud83c\uddfd \u2764",
+        "created_at": "2022-03-13 01:43:13+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502719995939282952,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502822393571590148,
+        "text": "RT @DJSnM: @nyrath This is what EVE Online taught me, many factors can win battles, but logistics is what wins wars.",
+        "created_at": "2022-03-13 01:42:34+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502780467522592768,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502667633178644486,
+        "text": "RT @WebMD: An IEP can help your child with ADHD succeed in school. Here's how to get one developed. https://t.co/FKpyCJEq9t",
+        "created_at": "2022-03-12 15:27:36+00:00",
+        "public_metrics": {
+            "retweet_count": 55,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487106102340857858,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502667554082500617,
+        "text": "RT @Kristennetten: @elonmusk @haltman https://t.co/bF3IXs4bTt",
+        "created_at": "2022-03-12 15:27:17+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502382404945657862,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502667315661447172,
+        "text": "RT @dc2026: Soccer \u26bd\ufe0f",
+        "created_at": "2022-03-12 15:26:20+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502630050167939074,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502666837942841344,
+        "text": "RT @TheAstroKiwi: You realise Tom never eats Jerry, right?",
+        "created_at": "2022-03-12 15:24:27+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502404267680108545,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502666283690737665,
+        "text": "RT @MFA_Ukraine: Look into the eyes of our defenders. \ud83d\udc99\ud83d\udc9b https://t.co/ny4cvBXRGq",
+        "created_at": "2022-03-12 15:22:14+00:00",
+        "public_metrics": {
+            "retweet_count": 2830,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502566499403317251,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502664956327649282,
+        "text": "RT @sentdefender: United States President Biden has stated that the US will Defend every NATO Member Country from Russian Aggression even i\u2026",
+        "created_at": "2022-03-12 15:16:58+00:00",
+        "public_metrics": {
+            "retweet_count": 834,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502349232442859522,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502661296705400836,
+        "text": "RT @ConnieSchultz: I am continuously amazed at how so many people have become instant military experts and I have yet to learn how to knit.",
+        "created_at": "2022-03-12 15:02:25+00:00",
+        "public_metrics": {
+            "retweet_count": 1303,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502630292288421891,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502659797757403144,
+        "text": "@BellikOzan OneWeb could save billions by switching to SpaceX.\n\nAside from the actual satellite hardware (which they will most likely recover) OneWeb has very little exposure here beyond the cost of delay.",
+        "created_at": "2022-03-12 14:56:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1240075098133909506,
+        "referenced_tweets": {
+            "id": 1502441245209071616,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502658942635319298,
+        "text": "RT @Fred_MD_Police: FPD located this young boy in the Key Parkway area this morning and are attempting to reunite him with his family. If a\u2026",
+        "created_at": "2022-03-12 14:53:04+00:00",
+        "public_metrics": {
+            "retweet_count": 33,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502619593222852608,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502658829976231939,
+        "text": "RT @VGChiefTrainer: Spotted in the wild, knocked my socks off and stopped me dead in my tracks. This is the original. https://t.co/EmVZtixz\u2026",
+        "created_at": "2022-03-12 14:52:37+00:00",
+        "public_metrics": {
+            "retweet_count": 52,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502326793596018692,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502658667665145861,
+        "text": "@CamBamJamFam I would include a Starship launch with an Orion stack as payload.\n\nThat way NASA doesn't feel like they are sole source hostages.",
+        "created_at": "2022-03-12 14:51:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1119553734,
+        "referenced_tweets": {
+            "id": 1502484692775235584,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502658177363582978,
+        "text": "@robert_zubrin @JaneidyEve Exactly.\n\nThe suggestion that the @WhiteHouse is afraid of WWIII or a nuclear response is very weak.  I'm surprised that the media and public are letting them get away with it.\n\nI do wonder what the real concern is and why they don't want to disclose it.",
+        "created_at": "2022-03-12 14:50:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 731463062230700032,
+        "referenced_tweets": {
+            "id": 1502432779635617794,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502657357360287751,
+        "text": "RT @robert_zubrin: @JaneidyEve We are not going to be able to stop Putin if we unwilling to do things that displease him.",
+        "created_at": "2022-03-12 14:46:46+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502432779635617794,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502410500898005000,
+        "text": "RT @RenataKonkoly: .@SpaceX's new \"hangar\" at LC-39A \ud83e\uddf9 @elonmusk https://t.co/Hep2ZyyyWR",
+        "created_at": "2022-03-11 22:25:51+00:00",
+        "public_metrics": {
+            "retweet_count": 127,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502311836741480456,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502380672824004613,
+        "text": "RT @SciGuySpace: It makes me feel like people who don't really understand space should not share stories about space that are wrong. Russia\u2026",
+        "created_at": "2022-03-11 20:27:19+00:00",
+        "public_metrics": {
+            "retweet_count": 123,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502329463006277636,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502380281222684677,
+        "text": "RT @JaneidyEve: @elonmusk @haltman birds always stand on electricity cables to recharge their batteries https://t.co/lPOejqPmoc",
+        "created_at": "2022-03-11 20:25:46+00:00",
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502376410622701572,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502380170430267400,
+        "text": "RT @elonmusk: @haltman Little do they know, birds aren\u2019t real! https://t.co/mBPzUQMxRN",
+        "created_at": "2022-03-11 20:25:20+00:00",
+        "public_metrics": {
+            "retweet_count": 2092,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502369130887979016,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502296995213586438,
+        "text": "RT @tobyliiiiiiiiii: BREAKING: Ukraine farmer spotted pulling Russian Mir Space Station out of orbit. https://t.co/17UOKiJ44w",
+        "created_at": "2022-03-11 14:54:49+00:00",
+        "public_metrics": {
+            "retweet_count": 76,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502103615447527425,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502296890876080130,
+        "text": "RT @HamillHimself: You get me... you really get me.",
+        "created_at": "2022-03-11 14:54:24+00:00",
+        "public_metrics": {
+            "retweet_count": 638,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502025576822968330,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502296776845533188,
+        "text": "RT @marclamonthill: The police audio makes the Ryan Coogler story even more infuriating.",
+        "created_at": "2022-03-11 14:53:57+00:00",
+        "public_metrics": {
+            "retweet_count": 574,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501957250860175362,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502295914475659269,
+        "text": "Putin invaded Ukraine because his despotic regime is about to collapse.\n\nWe need the big bad wolf (NATO) to huff and puff so Russia can become a free country like Ukraine.",
+        "created_at": "2022-03-11 14:50:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502295186780663811,
+        "text": "RT @olliecarroll: Yelena Osipova, brave survivor of the Siege of Leningrad, out protesting again in St Petersburg. \u201cSoldier! Lay down your\u2026",
+        "created_at": "2022-03-11 14:47:38+00:00",
+        "public_metrics": {
+            "retweet_count": 18888,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502159841631997960,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502294809465212934,
+        "text": "RT @MariaSemykoz: My dad was killed by Russian fascists when he was crossing a street at midday in the city where he lived for 50 years. He\u2026",
+        "created_at": "2022-03-11 14:46:08+00:00",
+        "public_metrics": {
+            "retweet_count": 20104,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501945350789074947,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502294673381068808,
+        "text": "RT @NathanMackBrown: Raise your hand if you think Jimmy Carter was a hero for putting solar panels on the White House. \u270b\n\nI want EVERYONE t\u2026",
+        "created_at": "2022-03-11 14:45:36+00:00",
+        "public_metrics": {
+            "retweet_count": 976,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502057111697731606,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502294626492948484,
+        "text": "RT @Rocket_Art_: Finally... I can tweet it! The big collab with @3DDaniel1!!\nA painting for @FelixSchlang!!\n \nI present to you:\n'Orbital la\u2026",
+        "created_at": "2022-03-11 14:45:24+00:00",
+        "public_metrics": {
+            "retweet_count": 41,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502236910319714306,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502290506981720068,
+        "text": "@JaneidyEve @EvaFoxU @DJSnM has an excellent video series documenting the progression of nuclear and thermonuclear weapons that also discusses the high cost of maintaining those weapons.\n\nIf Russia can't afford tires, I doubt they are spending billions on warheads.",
+        "created_at": "2022-03-11 14:29:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92570825,
+        "referenced_tweets": {
+            "id": 1502070056775266304,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502289617000747014,
+        "text": "@JaneidyEve @EvaFoxU As this tragedy has unfolded, I am less convinced WWIII is a possibility. Russia is a real threat to Ukraine, but a sad joke compared to NATO.\n\nThe only risk is nuclear.\n\nI doubt Russia has many operable nuclear weapons.Without costly maintenance bombs corrode and can't arm.",
+        "created_at": "2022-03-11 14:25:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92570825,
+        "referenced_tweets": {
+            "id": 1502070056775266304,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502277349303279616,
+        "text": "RT @Kristennetten: Did you get vaccinated?",
+        "created_at": "2022-03-11 13:36:45+00:00",
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502197043862773760,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502277303925153792,
+        "text": "RT @haltman: Russian Defense Ministry: \"... the United States is training migratory birds to migrate from Ukraine to Russia and distribute\u2026",
+        "created_at": "2022-03-11 13:36:34+00:00",
+        "public_metrics": {
+            "retweet_count": 3029,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502033752284872711,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502121466472673282,
+        "text": "RT @whoisheartbreak: \u201cTime to let the American Broomstick fly and hear the sounds of freedom.\u201d \ud83e\uddf9\ud83d\ude80 https://t.co/u29T3ZCjTF",
+        "created_at": "2022-03-11 03:17:20+00:00",
+        "public_metrics": {
+            "retweet_count": 298,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502084118682615809,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502121250017136644,
+        "text": "RT @HamillHimself: Hi Ben,\nI LOVE mind-reading acts! Now guess which finger I'm  holding up...\n\u2764\ufe0f- Mar\ud83d\udc2b https://t.co/et79YujyB2 https://t.c\u2026",
+        "created_at": "2022-03-11 03:16:28+00:00",
+        "public_metrics": {
+            "retweet_count": 40627,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502078105959100416,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502119313972551682,
+        "text": "RT @Rhondizzle3: Right now there is a dictator who thinks he can violently conquer a sovereign democracy... but Joe Biden beat him in the l\u2026",
+        "created_at": "2022-03-11 03:08:47+00:00",
+        "public_metrics": {
+            "retweet_count": 4025,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501916953002266634,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502118898283462657,
+        "text": "@13ericralph31 It is among the few complaints I have with Andy Weir's The Martian.\n\nThe core conflict of scarcity of launch capabilities, only works if SpaceX doesn't exist.\n\nNormally in Sci-fi, (excluding distopian tales) the reality depends on the establishment of some tech, not the removal.",
+        "created_at": "2022-03-11 03:07:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 343251837,
+        "referenced_tweets": {
+            "id": 1502115729641857027,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502116198049366032,
+        "text": "@spaceguy87 I don't think the significance of pioneering commercial spaceflights can be overstated.\n\nThe careful planning and preparation are blazing a trail that will inform future commercial spaceflight investment and the industries and practices those investments will establish.",
+        "created_at": "2022-03-11 02:56:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 16607603,
+        "referenced_tweets": {
+            "id": 1502080885725835264,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502113960677584897,
+        "text": "RT @JaneidyEve: I feel depressed af  \ud83d\udc94",
+        "created_at": "2022-03-11 02:47:30+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502075036978622464,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502073946576986120,
+        "text": "RT @JaneidyEve: \ud83d\ude2d\ud83d\udc94",
+        "created_at": "2022-03-11 00:08:30+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502073002879561734,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502069988345139210,
+        "text": "RT @Becca7News: .@DanitaJohnson on the power of local kids seeing the World Cup here in DC in 2026. @7NewsDC @Scott7news @dcunited @dc2026\u2026",
+        "created_at": "2022-03-10 23:52:46+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502045447019507714,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502068440860872709,
+        "text": "RT @JDCocchiarella: Jen Psaki dunking on Peter Doocy will never get old.",
+        "created_at": "2022-03-10 23:46:38+00:00",
+        "public_metrics": {
+            "retweet_count": 1463,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502018273260494852,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502067558534500365,
+        "text": "RT @meiselasb: Just because COVID didn\u2019t kill you, doesn\u2019t mean it didn\u2019t kill others.",
+        "created_at": "2022-03-10 23:43:07+00:00",
+        "public_metrics": {
+            "retweet_count": 1493,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501788866662973441,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502066925177819142,
+        "text": "RT @ArceneauxHayley: About the cover design: I reached out to my fav artist @ashleylongshore after seeing her painting of the astronaut in\u2026",
+        "created_at": "2022-03-10 23:40:36+00:00",
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502060987188396032,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502056825772027913,
+        "text": "RT @DimaZeniuk: Tesla will continue to pay Ukrainian employees who returned to Ukraine to fight the Russian occupiers.\n\nThe company will pa\u2026",
+        "created_at": "2022-03-10 23:00:28+00:00",
+        "public_metrics": {
+            "retweet_count": 83,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501988845650432009,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502055878492577792,
+        "text": "RT @JeanWright0274: Just joined Twitter! This is my first Tweet! Looking forward to having many followers!\nSo here's a start with 2 pics fr\u2026",
+        "created_at": "2022-03-10 22:56:42+00:00",
+        "public_metrics": {
+            "retweet_count": 38,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501974861752651796,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502055793860005888,
+        "text": "RT @BocaChicaGal: Booster 9\u2019s common dome has just been sleeved at Starbase. \ud83e\udd29\ud83d\ude80\n\n\u2066@NASASpaceflight\u2069 https://t.co/FFP3Cf9kdc",
+        "created_at": "2022-03-10 22:56:22+00:00",
+        "public_metrics": {
+            "retweet_count": 49,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502025980499664898,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502055604856270887,
+        "text": "RT @SciGuySpace: Super interesting thread here on what is happening inside Russia as it closes off from the West. A huge brain drain. One r\u2026",
+        "created_at": "2022-03-10 22:55:37+00:00",
+        "public_metrics": {
+            "retweet_count": 74,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501908179684368390,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502054471156871194,
+        "text": "RT @JaneidyEve: @elonmusk would look cool displayed outside the high bay Bar window \ud83e\udd42\n\nSo everyone who drives down Highway 4 can be like -\u2026",
+        "created_at": "2022-03-10 22:51:07+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502007607372009476,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502054175856857091,
+        "text": "@DJSnM I've started building out my collection of classic sci-fi and I am constantly startled watching these movies and then seeing the credits, with three people credited with the visual effects.",
+        "created_at": "2022-03-10 22:49:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92356429,
+        "referenced_tweets": {
+            "id": 1502043503492091904,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502053053683404805,
+        "text": "RT @DJSnM: I'm kinda fascinated by the process of early CGI effects and how they had to be rendered out to film",
+        "created_at": "2022-03-10 22:45:29+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502043503492091904,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502053003259523123,
+        "text": "RT @DJSnM: I found this oral history of early cinematic CGI and discovered that the resolution of The Last Starfighter wasn't the widely re\u2026",
+        "created_at": "2022-03-10 22:45:17+00:00",
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502043282716647425,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502052745691512845,
+        "text": "I think the @WhiteHouse needs to expedite the FAA PEA announcement for @SpaceX Boca Chica.\n\nCutting edge orbital launch tests would be an unmistakable message to @Rogozin and the world that American use of Russian space tech was always respect and generosity, nothing more.",
+        "created_at": "2022-03-10 22:44:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501730735295799301,
+        "text": "@oryxspioenkop I wonder what the farmers will do with that?",
+        "created_at": "2022-03-10 01:24:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 277587469,
+        "referenced_tweets": {
+            "id": 1501680465685667848,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501729798212796418,
+        "text": "RT @cnunezimages: The Moon and X  - @elonmusk @SpaceX\n#Starbase #BocaChicaToMars #iCANimagine \n@SpaceIntellige3 #StarbaseSurfer - Image Tak\u2026",
+        "created_at": "2022-03-10 01:20:59+00:00",
+        "public_metrics": {
+            "retweet_count": 101,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501692662939856896,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501728690186641408,
+        "text": "@elonmusk @FedorovMykhailo @OMarkarova If enough antennas are deployed and actively used across Ukraine, their usefulness for targeting eventually gets reduced to zero.\n\nIt would take some strategic awareness and analysis to pinpoint the actual number needed to reduce targeting risk.",
+        "created_at": "2022-03-10 01:16:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44196397,
+        "referenced_tweets": {
+            "id": 1501676656867614720,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501726846383271936,
+        "text": "RT @FedorovMykhailo: Received the second shipment of Starlink stations! @elonmusk keeps his word! Thank you for supporting Ukraine and peac\u2026",
+        "created_at": "2022-03-10 01:09:15+00:00",
+        "public_metrics": {
+            "retweet_count": 5611,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501648932824301570,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501726768528506888,
+        "text": "RT @DJSnM: So who's idea was it to drop the broomstick reference in the @spacex stream? https://t.co/w35HpNJtcC",
+        "created_at": "2022-03-10 01:08:57+00:00",
+        "public_metrics": {
+            "retweet_count": 161,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501719322414116865,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501651483456151558,
+        "text": "@FedorovMykhailo Heartbreaking",
+        "created_at": "2022-03-09 20:09:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1331528215899344896,
+        "referenced_tweets": {
+            "id": 1501620968090968071,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501285421757734928,
+        "text": "@JaneidyEve @Kristennetten I'm in my 50s and still experience moments of clenching panic in normal unthreatening social environments.\n\nI don't think my children actually believe me when I describe my school experience.\n\nWe can grow out of and past our limitations, but some scars will always remain.",
+        "created_at": "2022-03-08 19:55:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92570825,
+        "referenced_tweets": {
+            "id": 1501059496457740290,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501259419539185666,
+        "text": "RT @FedorovMykhailo: School no. 25 in Zhytomyr, Ukraine. The second semester should have started here by now with laughter of hundreds of c\u2026",
+        "created_at": "2022-03-08 18:11:52+00:00",
+        "public_metrics": {
+            "retweet_count": 941,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501258169854480387,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501256710249271296,
+        "text": "RT @MaryA_Waterson: Stephen Colbert for the win @colbertlateshow https://t.co/UtTEvZZD7c",
+        "created_at": "2022-03-08 18:01:06+00:00",
+        "public_metrics": {
+            "retweet_count": 5686,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500987102854529025,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501256475473326084,
+        "text": "RT @colbertlateshow: Putin says he\u2019s offering humanitarian corridors for Ukrainians to flee to Russia. That\u2019s like a safety sign that says:\u2026",
+        "created_at": "2022-03-08 18:00:10+00:00",
+        "public_metrics": {
+            "retweet_count": 101,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501055609394712582,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501256087026028548,
+        "text": "RT @wanda_hudson: Give somebody a hug today.  Tell them you love them.  The world needs more love.",
+        "created_at": "2022-03-08 17:58:37+00:00",
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500805670924390402,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501255849481842688,
+        "text": "RT @POTUS: This decision today is not without costs here at home. Putin\u2019s war is already hurting American families at the pump \u2014 and this w\u2026",
+        "created_at": "2022-03-08 17:57:41+00:00",
+        "public_metrics": {
+            "retweet_count": 5975,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501246366164606978,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501255736877330433,
+        "text": "@elonmusk @OneWeb @DJSnM @JaneidyEve \n\nCould SpaceX launch 60 or so OneWeb satellites with F9 from Vandenberg SFB at a \"Space is hard enough\" discount to reduce the impact of Russian piracy on the OneWeb launch cadence?\n\nOne off; Keep fighting tomorrow, in the marketplace.",
+        "created_at": "2022-03-08 17:57:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44196397,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501239807120392197,
+        "text": "RT @Pontifex: #8\u043c\u0430\u0440\u0442\u0430 https://t.co/BWR4X6VlJK",
+        "created_at": "2022-03-08 16:53:56+00:00",
+        "public_metrics": {
+            "retweet_count": 471,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501173889153388544,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501239493373878275,
+        "text": "RT @POTUS: On International Women\u2019s Day, we recognize the achievements of women and girls around the world. As we celebrate the progress we\u2026",
+        "created_at": "2022-03-08 16:52:41+00:00",
+        "public_metrics": {
+            "retweet_count": 5514,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501203759850049536,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501239433953165312,
+        "text": "RT @FedorovMykhailo: We are grateful to @Dan_Schulman for #StandingwithUkraine and for suspending business in russia. It makes a huge diffe\u2026",
+        "created_at": "2022-03-08 16:52:27+00:00",
+        "public_metrics": {
+            "retweet_count": 446,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501238789280354305,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501239261286350854,
+        "text": "RT @POTUS: Today, I\u2019m announcing that the United States is targeting a main artery of Russia\u2019s economy.\n\nWe are banning all imports of Russ\u2026",
+        "created_at": "2022-03-08 16:51:46+00:00",
+        "public_metrics": {
+            "retweet_count": 32912,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501237509853962242,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501236608321921030,
+        "text": "@Sapeceri @childrenscancer Ooh, I like this one.\n\nNow we just have to come up with a graphic that demonstrates how SpaceX already used their broomstick to sweep up the last of roscosmos commercial market share.",
+        "created_at": "2022-03-08 16:41:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 392761794,
+        "referenced_tweets": {
+            "id": 1501234738891300870,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501235298612789250,
+        "text": "RT @NASASpaceflight: Blazing the trail. Sally Ride. \n\nFlew on STS-7 to become the first female American astronaut.\n\n#InternationalWomensDay\u2026",
+        "created_at": "2022-03-08 16:36:01+00:00",
+        "public_metrics": {
+            "retweet_count": 110,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501196266637864960,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501235041887821825,
+        "text": "RT @razzli_: Jen Psaki to Doocy: \u201cLet me give you the facts, I know that may be a little inconvenient.\u201d \n\nI AM FLOORED.",
+        "created_at": "2022-03-08 16:35:00+00:00",
+        "public_metrics": {
+            "retweet_count": 6633,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500958112215404544,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501234767651655683,
+        "text": "@pilliarscreatio This looks a lot like the engineers working on Starship MK2 in the hot gulf coast sun.",
+        "created_at": "2022-03-08 16:33:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 22487708,
+        "referenced_tweets": {
+            "id": 1501179903714238470,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501233851737141258,
+        "text": "RT @colbertlateshow: Happy #InternationalWomensDay from the ladies of #LSSC. Celebrate with us by sharing who the inspirational women are i\u2026",
+        "created_at": "2022-03-08 16:30:16+00:00",
+        "public_metrics": {
+            "retweet_count": 28,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501227271448940549,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501233229021388800,
+        "text": "RT @razomforukraine: @colbertlateshow @WCKitchen @novaukraine @GlobalGiving Thank you for the support, @colbertlateshow! \ud83d\udc9b\ud83d\udc99",
+        "created_at": "2022-03-08 16:27:48+00:00",
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501027784981991425,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501233081050492930,
+        "text": "RT @Pontifex: #8march https://t.co/pemM435OTb",
+        "created_at": "2022-03-08 16:27:12+00:00",
+        "public_metrics": {
+            "retweet_count": 2384,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501173389091868673,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501231451731546113,
+        "text": "@SciGuySpace Domestic weather satellites with a surprising array of optical and signal detection equipment.\n\nOnce they figure out how to build those without help from international partners.\n\nDoes Russia have silicone foundries?",
+        "created_at": "2022-03-08 16:20:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15726728,
+        "referenced_tweets": {
+            "id": 1501168193062285322,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501230002506846208,
+        "text": "RT @Dr_ThomasZ: From landing on Mars to launching the powerful @NASAWebb, it\u2019s hard to beat the monumental achievements we\u2019ve had this past\u2026",
+        "created_at": "2022-03-08 16:14:58+00:00",
+        "public_metrics": {
+            "retweet_count": 135,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498723564467466246,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501229939420725252,
+        "text": "RT @katlinegrey: Happy International Woman's Day! https://t.co/s2dxkGql57",
+        "created_at": "2022-03-08 16:14:43+00:00",
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501093437432647680,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501229870852218880,
+        "text": "RT @djrothkopf: As we enter the energy war phase of this crisis, when Americans are asked to pay more...perhaps twice as much to fill up th\u2026",
+        "created_at": "2022-03-08 16:14:27+00:00",
+        "public_metrics": {
+            "retweet_count": 2998,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501194986217431046,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501228326274228225,
+        "text": "@ZelenskyyUa @MinPres Glory to Ukraine!!\n\nGlory to the Heroes!!",
+        "created_at": "2022-03-08 16:08:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1120633726478823425,
+        "referenced_tweets": {
+            "id": 1501204916043407360,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501228104009719811,
+        "text": "@Erdayastronaut Thanks Tim, we need this.",
+        "created_at": "2022-03-08 16:07:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3167257102,
+        "referenced_tweets": {
+            "id": 1500926415310573573,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501227696311136257,
+        "text": "@ZelenskyyUa @MinPres Humanitarian aid delivery will necessitate air security corridors.\n\nNo one, even madmen, can equate humanitarian aid and the safety of that aid as aggression.\n\nFrom small steps, great journeys begin.",
+        "created_at": "2022-03-08 16:05:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1120633726478823425,
+        "referenced_tweets": {
+            "id": 1501204916043407360,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501226439760392198,
+        "text": "@JaneidyEve @elonmusk I think we need to be focusing more and more planning and effort toward the rapidly deteriorating humanitarian situation.\n\nAs the logistics of that problem are understood, the associated safety needs of this logistical effort will necessitate limited corridors of air security.",
+        "created_at": "2022-03-08 16:00:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92570825,
+        "referenced_tweets": {
+            "id": 1501075320946012161,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501047697612193800,
+        "text": "@KiddPoteet I want Boeing's Starliner to succeed as quickly as possible, but this announcement was reassuring.\n\nI would love to see Starliner launch on a sooty well used F9 for an undisclosed sum between human spaceflight companies.\n\nThen lean into the reusability and bring the cost down.",
+        "created_at": "2022-03-08 04:10:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1307287388088086528,
+        "referenced_tweets": {
+            "id": 1501045415050838017,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501043880405438469,
+        "text": "@Erdayastronaut It shouldn't take social media shaming for NASA to be run like a public agency.",
+        "created_at": "2022-03-08 03:55:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3167257102,
+        "referenced_tweets": {
+            "id": 1500974790471004160,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501018384422645764,
+        "text": "@JaneidyEve @Tesmanian_com @elonmusk Is the next step to create some concept art or start a straw poll to collect suggestions for names?",
+        "created_at": "2022-03-08 02:14:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92570825,
+        "referenced_tweets": {
+            "id": 1500931638271827974,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501017913909813249,
+        "text": "@RussianSpaceWeb I should clarify that I meant the small number of true despots makes it more likely that the same individual would be involved in firing heavy weaponry at civilian targets 20 years apart.\n\nEven Putin doesn't have a limitless supply of generals who will act on those orders.",
+        "created_at": "2022-03-08 02:12:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 891778352843022336,
+        "referenced_tweets": {
+            "id": 1500685152900587520,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501016928609087490,
+        "text": "@SciGuySpace I agree with @ArtfulTakedown that it could be just a use of the familiar rather than a jibe.",
+        "created_at": "2022-03-08 02:08:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15726728,
+        "referenced_tweets": {
+            "id": 1500901176002457606,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501016336134246403,
+        "text": "@DWG_CHECK @PaulKorney @SciGuySpace @elonmusk @SpaceX Everyone should jump on the American Broomstick shirts available on Bonfire while they are available!!\n\nAll respect to @KiddPoteet for mooting the idea.\n\nhttps://t.co/AxBJwZ4lfA",
+        "created_at": "2022-03-08 02:05:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1481137273,
+        "referenced_tweets": {
+            "id": 1500947629395480577,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501015049757937664,
+        "text": "@JaneidyEve @Tesmanian_com SpaceX technicians, engineers and management have shown impressive capacity for managing multiple complex operations simultaneously.\n\nMuch respect\n\nSlow is smooth...",
+        "created_at": "2022-03-08 02:00:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92570825,
+        "referenced_tweets": {
+            "id": 1500994546397761550,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500687839771643904,
+        "text": "@oryxspioenkop There is no language that can express this",
+        "created_at": "2022-03-07 04:20:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 277587469,
+        "referenced_tweets": {
+            "id": 1500430705007992835,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500685152900587520,
+        "text": "@RussianSpaceWeb Despots are actually pretty rare.\n\nWith the military engaged elsewhere what could the courageous and noble Russian people do?\n\nDon't they have more guns than Texas?\n\nPerhaps that explains the Moscow police panic",
+        "created_at": "2022-03-07 04:09:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 65360193,
+        "referenced_tweets": {
+            "id": 1500544842904088583,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500679476019183619,
+        "text": "RT @oryxspioenkop: Sometimes photos need no words. #Ukraine https://t.co/gE3NMhRvyf",
+        "created_at": "2022-03-07 03:47:23+00:00",
+        "public_metrics": {
+            "retweet_count": 4156,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500430705007992835,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500675815226458113,
+        "text": "@ExoplanetPete Oh, is that bad?!\n\n:0",
+        "created_at": "2022-03-07 03:32:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1281363872272781312,
+        "referenced_tweets": {
+            "id": 1500485788928151554,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500669911684853775,
+        "text": "@elonmusk @GailAlfarATX @Tesla @TeslaSolar @japan @vigold @SirineAti @DimaZeniuk @DogeUniversal @cb_doge @elonmuskbooks How long would it take to build and certify a custom expendable Starship to launch an Orion/ESM/ICPS stack with launch abort?\n\nLaunch abort nose makes the stack 2m taller than 18m limit of current Starship payload.",
+        "created_at": "2022-03-07 03:09:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44196397,
+        "referenced_tweets": {
+            "id": 1500635105953419265,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500668461240004610,
+        "text": "@Erdayastronaut @NASA @NASA_SLS @JimBridenstine NASA is getting it's wings clipped by a WH that seems intent on propping up a status quo that has already had time called on it.\n\nPublic opinion and support for the broader missions at NASA are moot if it reduces SpaceX visibility.\n\nStarship can launch Orion/ESM/ICPS stack.",
+        "created_at": "2022-03-07 03:03:36+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3167257102,
+        "referenced_tweets": {
+            "id": 1500659730846474241,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500662759255650309,
+        "text": "@JaneidyEve @Tesmanian_com I still want someone to gorilla name one of the boosters.\n\nThey do the heavy lifting.\n\nThey deserve names.\n\nThe engineers and technicians deserve the enriched fabric of contextual mystique that named vessels would enshrine.",
+        "created_at": "2022-03-07 02:40:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92570825,
+        "referenced_tweets": {
+            "id": 1500659984295727105,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500649624733995008,
+        "text": "@KiddPoteet Kidd, I don't know what you can speak freely about, but I've been wondering what the development status of the DragonXL is.\n\nI would think it would be a perfect vehicle for berthing and boosting and or desaturating the ISS.",
+        "created_at": "2022-03-07 01:48:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1307287388088086528,
+        "referenced_tweets": {
+            "id": 1500604878757851137,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500592466252214288,
+        "text": "@spacebrandonb Remember, they are \"invisible\" like the F35.",
+        "created_at": "2022-03-06 22:01:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1042876372014776321,
+        "referenced_tweets": {
+            "id": 1500476975256944641,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500505447069110283,
+        "text": "@PhotonEmpress My mother always said \"it beats the alternative.\"",
+        "created_at": "2022-03-06 16:15:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1114672817457455105,
+        "referenced_tweets": {
+            "id": 1500491347383496704,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500505145083375620,
+        "text": "@NASAVoyager What could we learn from low cost frequent missions to Saturn or Jupiter?\n\nA fixed price of of $500m for each mission including a launch on a fully reusable FH and 1K kg drymass and 2.5K kg total mass.\n\nLaunching every 13 months.\n\nRecalculate when Starship is active",
+        "created_at": "2022-03-06 16:14:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 180200031,
+        "referenced_tweets": {
+            "id": 1500139078242689032,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500491974763327490,
+        "text": "@ESA_EO @esa Seeing Steve for myself would be a truly bucket list experience.",
+        "created_at": "2022-03-06 15:22:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 277889424,
+        "referenced_tweets": {
+            "id": 1500458424630456320,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500486634466328581,
+        "text": "@drbarnard @GE_Appliances This is the exact problem.\n\nLook at how automakers spending billions are struggling with their electrification projects.\n\nThen think about makers of small appliances with no budget and no knowledge or experience in SMART tech.\n\nCheap shortcuts are inevitable unless proscribed.",
+        "created_at": "2022-03-06 15:01:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 7826502,
+        "referenced_tweets": {
+            "id": 1500145131894231046,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500472745708212230,
+        "text": "@elonmusk @GailAlfarATX @drbarnard @GE_Appliances Useful regulation could include.\n\nProhibiting service providers from sending routers with default open networks to reduce support calls.\n\nIOT devices require some measure of security tools be configured before connection is possible.",
+        "created_at": "2022-03-06 14:05:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44196397,
+        "referenced_tweets": {
+            "id": 1500445002521927681,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500379689415847940,
+        "text": "@Dr_ThomasZ Is there any active discussion of a new system or array that could replace the active radar capability that was lost when the Arecibo facility collapsed?",
+        "created_at": "2022-03-06 07:56:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 260380078,
+        "referenced_tweets": {
+            "id": 1500141838539309058,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500372200557264898,
+        "text": "@ray4tesla The Whitehouse might have to say Tesla three times.\n\nWho knows what could spontaneously be transported to Kansas.",
+        "created_at": "2022-03-06 07:26:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 959168599519764480,
+        "referenced_tweets": {
+            "id": 1500138704513355776,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500369571445981185,
+        "text": "@13ericralph31 I thought this would start well after orbit was regularly achieved and reentry was making good progress.",
+        "created_at": "2022-03-06 07:15:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 343251837,
+        "referenced_tweets": {
+            "id": 1500296012962750465,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500368060607340544,
+        "text": "@Tesmanian_com Another benefit of laser communication is it's inherent security.  No human spaceflight operation has had to deal with direct threats of interference.\n\nbut now...?!?\n\nWhat won't a viscous rat that has cornered itself via an I'll judged invasion of a friendly neighbor do?",
+        "created_at": "2022-03-06 07:09:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1100520274200416256,
+        "referenced_tweets": {
+            "id": 1500298571483992067,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500365974553436161,
+        "text": "@KiddPoteet Very generous of russia to volunteer their free services to assist in the development of State sponsored cyber terrorism resistant tech by simultaneously pretending to be a state and engaging in cyber terrorism.",
+        "created_at": "2022-03-06 07:01:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1307287388088086528,
+        "referenced_tweets": {
+            "id": 1500192254752813057,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500361375608098818,
+        "text": "I'm glad someone took the time to create this.\n\nThe automatic donation with the purchase went to UNICEF. I am going to try a second time and see if there's a way to have proceeds directly help in Ukraine.\n\n AMERICAN BROOMSTICK on @Bonfire https://t.co/3yHcyp7yM6",
+        "created_at": "2022-03-06 06:43:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500358833499217922,
+        "text": "@Sapeceri @KiddPoteet Ordered!!",
+        "created_at": "2022-03-06 06:33:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 392761794,
+        "referenced_tweets": {
+            "id": 1499893126013534210,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499826884246392832,
+        "text": "@KiddPoteet I would buy both a broom and a shirt in that product line.\n\nUnfortunately a ride on the brooms provided by SpaceX remains outside the budget for now... maybe when Starship is mature I can bring my broom with me on my first flight :)",
+        "created_at": "2022-03-04 19:19:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1307287388088086528,
+        "referenced_tweets": {
+            "id": 1499522205830369293,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499545785331064832,
+        "text": "@DJSnM While NASA graciously didn't rise to the undignified slander.\n\nThe miracles that the soyuz production and launch teams accomplish with such limited resources to keep that historic rocket flying in spite of the neglect of senior management.\n\nSo someone patched a hole with glue.",
+        "created_at": "2022-03-04 00:42:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92356429,
+        "referenced_tweets": {
+            "id": 1499483788732088336,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499543937194897408,
+        "text": "@JaneidyEve @elonmusk I think the bigger issue is phased array transmission.\n\nIt would be easy to home a missile on the antenna.\n\nReducing the power will make them easier to use with limited power supply and harder to target.",
+        "created_at": "2022-03-04 00:35:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92570825,
+        "referenced_tweets": {
+            "id": 1499473343346532354,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499543227334070281,
+        "text": "@KiddPoteet I would think with your planned broomstick ride you might have a Tshirt or two in hand.",
+        "created_at": "2022-03-04 00:32:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1307287388088086528,
+        "referenced_tweets": {
+            "id": 1499518460849573918,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499179120181358599,
+        "text": "@DJSnM @FalconDarkstar I was just going to say\n\nScott Manley has a great series on the history of nuclear weapons that covers how the arming mechanisms degrade due to radiation exposure rendering some of them just nasty dirty bombs",
+        "created_at": "2022-03-03 00:25:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92356429,
+        "referenced_tweets": {
+            "id": 1499167607793983491,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499165301728071687,
+        "text": "@DJSnM @thesheetztweetz @Cosmic_Penguin @KwasiKwarteng The sanctions have actually crippled launch ability and the outrageous demands are just posturing to hide impotence",
+        "created_at": "2022-03-02 23:30:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92356429,
+        "referenced_tweets": {
+            "id": 1499126819521400832,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499164964824752131,
+        "text": "@DJSnM @thesheetztweetz @Cosmic_Penguin @KwasiKwarteng Roscosmos can't get it up",
+        "created_at": "2022-03-02 23:29:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92356429,
+        "referenced_tweets": {
+            "id": 1499126819521400832,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499164882100441093,
+        "text": "@Bl3D_Eccentric @DJSnM @thesheetztweetz @Cosmic_Penguin @KwasiKwarteng Now here is someone who could create the visuals of my imaginary fleet of cargo dragon vehicles making super Draco propulsive landings all over Ukraine delivering Starlink goodies",
+        "created_at": "2022-03-02 23:28:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 78545262,
+        "referenced_tweets": {
+            "id": 1499128689304473609,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499163949102780419,
+        "text": "@elonmusk @FedorovMykhailo @Brian_J_Berger @SpaceX @SpaceXStarlink @Honda @ChampionGen @westinghouse @DuroMaxPower There are much more practical ways but...\n\nA cargo dragon doing a super Draco propulsive landing loaded with Tesla battery and solar along with Starlink receivers would be the coolest image",
+        "created_at": "2022-03-02 23:25:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44196397,
+        "referenced_tweets": {
+            "id": 1499099534668058627,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499162167697977346,
+        "text": "@KenKirtland17 Is anyone with a voice that might actually be a motivator for Rogozin making jokes about roscosmos being unable to \"get it up\" due to western sanctions and using outlandish demands to mask impotence?",
+        "created_at": "2022-03-02 23:18:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1129821565,
+        "referenced_tweets": {
+            "id": 1499073067729014786,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499161283689656325,
+        "text": "@elonmusk @FedorovMykhailo @Brian_J_Berger @SpaceX @SpaceXStarlink @Honda @ChampionGen @westinghouse @DuroMaxPower @W__Home In the immediate term I would think battery capacity would make the most impact with uncertain power access.\n\nA few distributed nodes of battery power storage would be a great first step that would significantly amplify the utility of any solar capacity that can be established",
+        "created_at": "2022-03-02 23:14:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44196397,
+        "referenced_tweets": {
+            "id": 1499114170519896075,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499119574414991371,
+        "text": "@elonmusk @JoeBiden While the Whitehouse hides behind an alphabet salad of agencies to stop FAA certification at Starbase because there isn't much they can do to directly hamper Tesla.\n\nEveryone I know has stopped contributing to the DNC",
+        "created_at": "2022-03-02 20:28:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44196397,
+        "referenced_tweets": {
+            "id": 1498858611241635843,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499118535402000391,
+        "text": "@KenKirtland17 When OneWeb entered chapter 11 (from which they successfully emerged) I took a stab at estimating the cost launching their constellation with SpaceX. I had to make some very big assumptions, but every model I came up with was significantly cheaper using F9.",
+        "created_at": "2022-03-02 20:24:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1129821565,
+        "referenced_tweets": {
+            "id": 1499097759059697671,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499082405075894278,
+        "text": "@DJSnM When you figure the surefire technique, please share",
+        "created_at": "2022-03-02 18:01:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92356429,
+        "referenced_tweets": {
+            "id": 1499081766182686724,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498814630621335552,
+        "text": "@JaneidyEve @elonmusk @SpaceX @Tesmanian_com @JoleenAmber Thanks for sharing this.\n\nI love seeing the direct impact that positive community engagement can have.",
+        "created_at": "2022-03-02 00:17:09+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92570825,
+        "referenced_tweets": {
+            "id": 1498183740727693314,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498814138096787459,
+        "text": "@SciGuySpace Meanwhile we see from recent FOIA disclosures that the FAA Starbase PEA announcement is essentially on indefinite hold due to an array of Whitehouse governed agencies at best demonstrating heroic ignorance and at worst passive aggressive obstruction that is truly beyond the pale.",
+        "created_at": "2022-03-02 00:15:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15726728,
+        "referenced_tweets": {
+            "id": 1498702948637057026,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498812676792795141,
+        "text": "@JaneidyEve @elonmusk @SpaceX @Tesmanian_com This is off topic, but I can't think of a better way to get an answer :)\n\nWhat is the development status of DragonXL?\n\nHow hard would it be to include ISS rendezvous and docking/berthing and station reboost in the design?",
+        "created_at": "2022-03-02 00:09:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92570825,
+        "referenced_tweets": {
+            "id": 1498761293855182856,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496905651980808194,
+        "text": "@DavidNagySFgang Yes, you're right. I had to do an environmental impact study review simply because a disgruntled neighbor with a long history of groundless legal action could initiate it without need for justification just the other day while scheduling a routine flight.",
+        "created_at": "2022-02-24 17:51:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1076522811873771520,
+        "referenced_tweets": {
+            "id": 1496569301582626825,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496903381599887368,
+        "text": "@IMatviyishyn I am reticent to speak, for fear of just distracting from the voices of those in immediate peril and distress.\n\nIs there any tangible action concerned individuals can take beyond inherently futile statements of support?",
+        "created_at": "2022-02-24 17:42:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 238724300,
+        "referenced_tweets": {
+            "id": 1496644026916818949,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496879174295900172,
+        "text": "@philipwhiuk @SciGuySpace I think the purpose is pointed at future cadence, probably contingent on the accelerator of reuse.",
+        "created_at": "2022-02-24 16:06:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19701760,
+        "referenced_tweets": {
+            "id": 1496611304056012806,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494709642546528259,
+        "text": "Clearly I was right...\n\nYou can\u2019t help but feel hope for humanity when you see their unbridled optimism for what\u2019s possible in an equitable world, and where we might travel together as a nation in the future. Ad astra\u2014to the stars!\nhttps://t.co/xUAh6NlY79",
+        "created_at": "2022-02-18 16:25:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 891778352843022336,
+        "referenced_tweets": {
+            "id": 1481667384582848530,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481676009229463558,
+        "text": "@SciGuySpace Let's name the boosters!",
+        "created_at": "2022-01-13 17:14:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15726728,
+        "referenced_tweets": {
+            "id": 1481651106186817543,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481675786797133829,
+        "text": "@kate_tice I always enjoy it when you host launches. Thanks for the time and effort.\n\nDragons that are reused a few times after significant refurbishment have names, but not boosters, which are truly reusable, fleet vehicles.\n\nIf you name one on a live broadcast it will be the new normal :)",
+        "created_at": "2022-01-13 17:13:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 16656145,
+        "referenced_tweets": {
+            "id": 1481660927770435585,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481667384582848530,
+        "text": "Am I off to fear that the (startlingly anti SpaceX/Tesla) WH could be leaning on the FAA to slow walk Starbase PEA to try and get Artemis 1 up ahead of Starship orbital test to bolster public support for their 30 yr SLS commitment?\n@SciGuySpace @MichaelDWall @elonmusk",
+        "created_at": "2022-01-13 16:40:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1435273660995043332,
+        "text": "@torybruno @elonmusk \n\nHow difficult would it be (both technically and contractually) to adapt the Vulcan to substitute Raptors for the delinquent BE-4s?\n\nWould it take more calendar time than simply waiting for BO to get on top of their management issues and begin production?",
+        "created_at": "2021-09-07 16:08:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2882413844,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1435268522549161984,
+        "text": "@JaneidyEve Thank you for courageously persevering.  \n\nYou are innately talented and the great content you create just gets better and better.\n\nYou are beautiful and charming.\n\nI hope you can ignore the trolls so we all can continue to enjoy the fruits of your hard work.",
+        "created_at": "2021-09-07 15:47:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92570825,
+        "referenced_tweets": {
+            "id": 1434391335155470336,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1426218701368578053,
+        "text": "@NASASpaceflight Maybe this is a reasonable time for SpaceX, Boeing and NASA to begin a discussion about sharing the cost of expanding the ISS international docking adapter count.  If Sierra Nevada ever joins the party parking is going to get really complicated.",
+        "created_at": "2021-08-13 16:26:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 21292523,
+        "referenced_tweets": {
+            "id": 1425968369413545987,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1371859729786474503,
+        "text": "@nextspaceflight It is possible that the onsite inspector could streamline and accelerate operations.\n\nAn FAA rep can communicate directly with internal FAA resources bypassing normal bureaucracy and directly resolving minor challenges.",
+        "created_at": "2021-03-16 16:23:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3199948059,
+        "referenced_tweets": {
+            "id": 1371610941813448705,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1365300701891620867,
+        "text": "@MarcusHouse It is also inconsistent with the admiral general's directive to make it more\"pointy.\"",
+        "created_at": "2021-02-26 14:00:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 718325771392172033,
+        "referenced_tweets": {
+            "id": 1365076809465749504,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1346918489899065348,
+        "text": "Where is the military response we have seen again and again for peaceful #BLM protests?\n\nIf you have ever struggled to explain white privilege, just point to the freedom with which these things have defiled our nation",
+        "created_at": "2021-01-06 20:36:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1269419237120016384,
+        "text": "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?\nAnd this commandment have we from him, That he who loveth God love his brother also.\n\n1 John 4:20-21\n#BlackLivesMatter",
+        "created_at": "2020-06-07 00:01:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1269418576034893824,
+        "text": "He that loveth not his brother abideth in death.\nWhosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him.\n\n1 John 3:14-15\n\n#LoveNotHate",
+        "created_at": "2020-06-06 23:59:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1258502516138020864,
+        "text": "@VOELibertarian @FelixSchlang @SpaceX @StingerNSW @AnotherSpaceNut @MarcusHouseGame @JettisonedGuy @BocaChicaGal @NASASpaceflight @NASASocial Sea level engines just lose efficiency in vacuum. They don't have the instability that vacuum engines are prone to at sea level.",
+        "created_at": "2020-05-07 21:02:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1357208318,
+        "referenced_tweets": {
+            "id": 1258470577221718016,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1258415113939361793,
+        "text": "@LabPadre So far @LabPadre is the only source I have seen sharing video of the header tank static fire last night.\n\n#bocachica #SpaceX #occupyMars",
+        "created_at": "2020-05-07 15:15:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1110905864578363394,
+        "referenced_tweets": {
+            "id": 1257852669508673539,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1258414149266178048,
+        "text": "@NBCNews Thank God she is white or she would probably be dead!!",
+        "created_at": "2020-05-07 15:11:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 4,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14173315,
+        "referenced_tweets": {
+            "id": 1258413042326478848,
+            "type": "replied_to"
+        }
+    }
+]

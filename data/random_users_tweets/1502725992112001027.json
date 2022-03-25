@@ -1,0 +1,95 @@
+[
+    {
+        "tweet_id": 1506994819503038464,
+        "text": "RT @ke02152: \u6a21\u5199\u7ec3\u4e60\u270d\ud83c\udffb https://t.co/dhyTa0LXSK",
+        "created_at": "2022-03-24 14:02:18+00:00",
+        "public_metrics": {
+            "retweet_count": 8789,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506684322660904961,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506985711232163851,
+        "text": "RT @Hichamhabchi: #ThrowbackThursday l3arbi Samurai Crew https://t.co/0TTCfmGXzk",
+        "created_at": "2022-03-24 13:26:06+00:00",
+        "public_metrics": {
+            "retweet_count": 169,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506980815682506752,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506463600709292034,
+        "text": "RT @TB_Choi12: :D #\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30c7\u30b6\u30a4\u30f3 https://t.co/HQeeYqp6I7 https://t.co/n2xHhROpNx",
+        "created_at": "2022-03-23 02:51:25+00:00",
+        "public_metrics": {
+            "retweet_count": 858,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506459142407417856,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506302457097322497,
+        "text": "https://t.co/wNwrVM9bJQ",
+        "created_at": "2022-03-22 16:11:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505955066787741698,
+        "text": "RT @TB_Choi12: Welcome to tb\u2019s drawing class https://t.co/djFRbAEr4L",
+        "created_at": "2022-03-21 17:10:41+00:00",
+        "public_metrics": {
+            "retweet_count": 212,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1103489475626192898,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505938846424264705,
+        "text": "RT @O_Omkd: \u4f55\u6545\u304b\u5b8c\u6210\u3055\u305b\u3066\u306a\u3044\u3084\u3064 https://t.co/xBunKxK6dn",
+        "created_at": "2022-03-21 16:06:14+00:00",
+        "public_metrics": {
+            "retweet_count": 372,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505891561577451521,
+            "type": "retweeted"
+        }
+    }
+]

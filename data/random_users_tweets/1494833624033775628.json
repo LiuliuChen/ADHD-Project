@@ -1,0 +1,92 @@
+[
+    {
+        "tweet_id": 1507068066747883522,
+        "text": "This week I have been identifying people to join our project group to develop our #PatientSafetyPartners role. So far we have finance &amp; our project management team on board. Waiting for feedback from workforce. Then on to education, comms, &amp; our Care Group patient safety teams https://t.co/Z7ljAPRXWu",
+        "created_at": "2022-03-24 18:53:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499697744973381633,
+        "text": "RT @DrWilliamLea: We\u2019ve neglected to prepare+protect healthcare staff from stress, pressure and disaster - the result is poor mental health\u2026",
+        "created_at": "2022-03-04 10:46:20+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499681298453041159,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498940159227838465,
+        "text": "@ptsafetyNHS @patientlibrary @KGHNHSLibrary @ptsafetylearn Was having a good nose around yesterday - looks like it will be a valuable resource",
+        "created_at": "2022-03-02 08:35:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 66318794,
+        "referenced_tweets": {
+            "id": 1498939734185463810,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498902561423822848,
+        "text": "@patientlibrary @ptsafetyNHS @KGHNHSLibrary @ptsafetylearn @ptsafetylearn is a charity and independent - very useful. @ptsafetyNHS and the futures webspace is an NHS resource",
+        "created_at": "2022-03-02 06:06:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 745193373280133120,
+        "referenced_tweets": {
+            "id": 1498708621861048324,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498901606485700615,
+        "text": "RT @ptsafetyNHS: We have launched a new NHS Patient Safety workspace on FutureNHS, to share information, tools and resources with the NHS\u2019s\u2026",
+        "created_at": "2022-03-02 06:02:45+00:00",
+        "public_metrics": {
+            "retweet_count": 87,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498675443054133251,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495014418429710343,
+        "text": "Saturday reading in preparation for developing our Patient Safety Partner #PSP and Family Liaison Officer #FLO roles. #PatientSafetySpecialist https://t.co/SUisfKBagS",
+        "created_at": "2022-02-19 12:36:28+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

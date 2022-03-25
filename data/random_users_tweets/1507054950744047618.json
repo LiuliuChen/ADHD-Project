@@ -1,0 +1,57 @@
+[
+    {
+        "tweet_id": 1507068055586844674,
+        "text": "@thinkertholland I agree wholeheartedly! He is an amazing work of art! \u2665\ufe0f",
+        "created_at": "2022-03-24 18:53:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1377432107073556482,
+        "referenced_tweets": {
+            "id": 1505232940334297097,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507063720719138818,
+        "text": "#besties @Jadeypoo8",
+        "created_at": "2022-03-24 18:36:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507063354560585732,
+        "text": "@Jadeypoo8 Yo, What's it been like 10 years?",
+        "created_at": "2022-03-24 18:34:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1238277000147550208,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507060540929200137,
+        "text": "This is my first time on Twitter and I am so excited! Totally went and followed a lot of my favourite celebrities! \ud83d\ude01",
+        "created_at": "2022-03-24 18:23:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

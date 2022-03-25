@@ -1,0 +1,50 @@
+[
+    {
+        "tweet_id": 1507068080417120258,
+        "text": "RT @pythadoge: I can\u2019t sleep #dogearmy \ud83e\udd2a\ud83e\udd2a\ud83e\udd2a https://t.co/OpdxBZ80RP",
+        "created_at": "2022-03-24 18:53:24+00:00",
+        "public_metrics": {
+            "retweet_count": 82,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1416537335118929922,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506747938076340226,
+        "text": "RT @jatin_digra: Skies from Heaven \u2728\n\nA collection of 22 unique and hand made artworks now live for sale on @opensea #OpenSeaNFT \u2728\n 0.06 $E\u2026",
+        "created_at": "2022-03-23 21:41:17+00:00",
+        "public_metrics": {
+            "retweet_count": 102,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503940473446014976,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501682340468297729,
+        "text": "RT @hellokevvo: #cheems \ud83c\udfa8 https://t.co/IWALXIk8zm",
+        "created_at": "2022-03-09 22:12:24+00:00",
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501673156343435268,
+            "type": "retweeted"
+        }
+    }
+]

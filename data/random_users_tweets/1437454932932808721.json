@@ -1,0 +1,898 @@
+[
+    {
+        "tweet_id": 1507227931147481117,
+        "text": "@scott_lew_is Pulsechain walks in \ud83d\ude0f",
+        "created_at": "2022-03-25 05:28:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3226266525,
+        "referenced_tweets": {
+            "id": 1506990887175340042,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507216205052006401,
+        "text": "@BuckFutt_CFA Fingers crossed",
+        "created_at": "2022-03-25 04:42:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1393547057852411919,
+        "referenced_tweets": {
+            "id": 1507213492155478016,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507193803400224768,
+        "text": "@HEXKING5 @HexyBastard @RichardHeartWin Goto Hedron Telegram and you can find out more about what\u2019s going on with the liquidity pools",
+        "created_at": "2022-03-25 03:12:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1417069805996216320,
+        "referenced_tweets": {
+            "id": 1507057801344000002,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507193678103728129,
+        "text": "@HEXKING5 @HexyBastard @RichardHeartWin Liquidity pools are hard to understand. It\u2019s been talked about numerous occasions.",
+        "created_at": "2022-03-25 03:12:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1417069805996216320,
+        "referenced_tweets": {
+            "id": 1507057801344000002,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507113733339770909,
+        "text": "@HEXKING5 @Pulsidon It\u2019s the OA making a play to protect Hex price dumping further because it\u2019s a direct swap now. USDC isn\u2019t involved but it also won\u2019t pump the price of Hedron if you swap from Hex now. Only if you buy in from USDC,",
+        "created_at": "2022-03-24 21:54:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1417069805996216320,
+        "referenced_tweets": {
+            "id": 1507108198876069899,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507096800980877319,
+        "text": "@HEXKING5 @Pulsidon Wrong. Alex the founder even publicly explained how he didn\u2019t anticipate this many people swapping Hex for Hedron directly and that\u2019s what caused RH to change the liquidity pairs so that it doesn\u2019t route through USDC anymore.",
+        "created_at": "2022-03-24 20:47:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1417069805996216320,
+        "referenced_tweets": {
+            "id": 1507094146955321352,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507096367600177164,
+        "text": "@HEXfreedom Alright, I\u2019m done with you. I can\u2019t explain how UNISWAP works BEFORE the liquidity change vs NOW any better so you\u2019re obviously on the spectrum. Good luck with your USDC valuation of your Hedron \ud83d\ude2c",
+        "created_at": "2022-03-24 20:45:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 965801044792901632,
+        "referenced_tweets": {
+            "id": 1507095211306012673,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507093642460209153,
+        "text": "@HEXKING5 @Pulsidon Because UNISWAP used to route the SWAP of Hex to Hedron THROUGH USDC which dumped the USDC value of Hex and pumped Hedron USDC until the ROUTING changed to DIRECTLY SWAP them hence no pump in Hedron USDC valuation when swapping Hex/Hedron pair.",
+        "created_at": "2022-03-24 20:34:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1417069805996216320,
+        "referenced_tweets": {
+            "id": 1507092558412922887,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507093000509345798,
+        "text": "@HEXfreedom Bro people swapping Hex for Hedron does not pump the USDC value of Hex ANYMORE do you get that? Do you understand that it\u2019s because the way Uniswap routes the SWAP different that is the cause of this.",
+        "created_at": "2022-03-24 20:32:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 965801044792901632,
+        "referenced_tweets": {
+            "id": 1507092441521967124,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507091246925426709,
+        "text": "@HEXfreedom When you swap HEX/HDRN Pair now it doesn\u2019t lower the price of Hex because it doesn\u2019t go through USDC anymore. But it also doesn\u2019t pump the USDC value of Hedron becsuse it\u2019s not bought with USDC. People are mainly using USDC on Hedron to sell not buy. They buy with their Hex.",
+        "created_at": "2022-03-24 20:25:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 965801044792901632,
+        "referenced_tweets": {
+            "id": 1507088384136728590,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507088877420482565,
+        "text": "@HEXfreedom Omgg no lmao you\u2019re so dense!!!! It\u2019s how the UNISWAP PAIR \u201croutes\u201d the SWAP now! It used to go through USDC first, which was tanking Hex initially and pumping HDRN, now the pair doesn\u2019t go through USDC, causing HDRN to tank UNLESS you buy with USDC which most aren\u2019t now. You ok?",
+        "created_at": "2022-03-24 20:16:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 965801044792901632,
+        "referenced_tweets": {
+            "id": 1507088384136728590,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507087956905021441,
+        "text": "@beadtweets2 Really? Because I\u2019m pretty sure it\u2019s been a common thing for COMBUSTION vehicles to set on fire as well. Oh yea ever hear of seatbelts that get stuck during those crashes and they burn to death? So do we get rid of SEATBELTS?! They break necks too! Oh don\u2019t forget AIRBAGS \ud83d\ude44",
+        "created_at": "2022-03-24 20:12:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1357458211977183238,
+        "referenced_tweets": {
+            "id": 1507077560928198659,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507084556624662533,
+        "text": "@HEXfreedom Basically most people are buying HDRN with Hex and since he changed the pair the USDC value of HDRN is plummeting. We need liquidity to change or people to start buying HDRN with only USDC. The HEX/HDRN pair is not good for HDRN price appreciation if you care about price\u2026",
+        "created_at": "2022-03-24 19:58:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 965801044792901632,
+        "referenced_tweets": {
+            "id": 1507079052913524736,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507083486485782532,
+        "text": "@HEXKING5 @Pulsidon WHEN PEOPLE USE HEX/HDRN PAIR (MOST LIQUID *THANKS RH*) THEY DUMP THE USDC VALUE OF HEDRON!!!! ITS NOT ROUTING THROUGH USDC ANYMORE CAUSING LESS SLIPPAGE BUT HUGE DEPRECIATION IN USDC VALUE OF HDRN!",
+        "created_at": "2022-03-24 19:54:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1417069805996216320,
+        "referenced_tweets": {
+            "id": 1507080953293942791,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507083109044568064,
+        "text": "@HEXKING5 @Pulsidon Originally, when ppl swapped Hex into HDRN via UNI, it would SELL Hex into USDC first, than BUY HDRN with USDC which PUMPED HDRN but DUMPED Hex. Hence why he CHANGED the main liquidity PAIR. NOW it doesn't ROUTE through USDC, making HDRN drop in value when people USE HEX/HDRN!",
+        "created_at": "2022-03-24 19:53:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1417069805996216320,
+        "referenced_tweets": {
+            "id": 1507080953293942791,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507082541098057739,
+        "text": "@HEXfreedom Originally, when ppl swapped Hex into HDRN via UNI, it would SELL Hex into USDC first, than BUY HDRN with USDC which PUMPED HDRN but DUMPED Hex. Hence why he CHANGED the main liquidity PAIR. NOW it doesn't ROUTE through USDC, making HDRN drop in value when people USE HEX/HDRN!",
+        "created_at": "2022-03-24 19:50:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 965801044792901632,
+        "referenced_tweets": {
+            "id": 1507079052913524736,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507076397935865870,
+        "text": "@HEXKING5 @CryptoNomad6 @RemindMe_OfThis The liquidity pair has been changed and it is ruining the price appreciation of Hedron/USDC as @RichardHeartWin made it this way. He\u2019s trying to \u201cprotect Hex\u201d by doing this but he\u2019s hurting the very thing that\u2019s trying to benefit Hexicans by doing so\u2026",
+        "created_at": "2022-03-24 19:26:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1417069805996216320,
+        "referenced_tweets": {
+            "id": 1507057088584945677,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507075515781419009,
+        "text": "@beadtweets2 Cherry picking. The amount of people dying in combustion vehicles FAR outweighs the safety ratings on Teslas. Very good statistics/evidence to support this! Open your mind. This is the FUTURE!",
+        "created_at": "2022-03-24 19:22:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1357458211977183238,
+        "referenced_tweets": {
+            "id": 1507074832176922633,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507074279682285573,
+        "text": "@beadtweets2 That\u2019s cute. You think because he\u2019s rich, he\u2019s oblivious to the world? The man beat ALL odds\u2026 best mass produced electric cars, best rockets, best satellite service, solar. What else do you expect? You\u2019re tripping. He\u2019s a big brain, and he knows what he needs to do. Wake up!",
+        "created_at": "2022-03-24 19:18:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1357458211977183238,
+        "referenced_tweets": {
+            "id": 1507073245396279300,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507073462212382722,
+        "text": "@HEXfreedom The Hex/Hdrn pair pushes the USDC pair in the opposite direction. If you want value of the Hdrn to go up in USDC value. Why do you think RH chose Hex/USDC as most liquid pair\u2026 Hedron needs its own price discovery too. This is making it a dump coin. Need Hedron/USDC most liquid!",
+        "created_at": "2022-03-24 19:14:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 965801044792901632,
+        "referenced_tweets": {
+            "id": 1507071325856276488,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507071580748328962,
+        "text": "@HEXfreedom Tell me how this is good https://t.co/GHqgVhYA94",
+        "created_at": "2022-03-24 19:07:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 965801044792901632,
+        "referenced_tweets": {
+            "id": 1507071325856276488,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068667351252998,
+        "text": "@HEXfreedom Also, if he dumped he wouldn\u2019t have control like he does now. It\u2019s not his project yet he\u2019s holding it back. It\u2019s pretty obvious what\u2019s going on. Look at the 2 charts and see how they are inverse and do the math and see what\u2019s going on. Not good for HDRN value in USDC.",
+        "created_at": "2022-03-24 18:55:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 965801044792901632,
+        "referenced_tweets": {
+            "id": 1507066747156934664,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068056455061507,
+        "text": "@Natedog51920014 @RichardHeartWin Oh that\u2019s before I loaded up HDRN and Hex was dumping while HDRN 11x pumped lol and before he changed the liquidity pairing fucking my bag of Hedron and everyone else\u2019s until people switch pair\u2026",
+        "created_at": "2022-03-24 18:53:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1437454932932808721,
+        "referenced_tweets": {
+            "id": 1503064990101688320,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507065060857892876,
+        "text": "@beadtweets2 @Teslarati @KlenderJoey Why would anyone be excited you say? What do you think someone as intelligent as Elon Musk could do with 1T$. A lot! Look at what the man has done so far. Quit being ignorant, people can be wealthy and utilize their money for good and change the world as we know it!",
+        "created_at": "2022-03-24 18:41:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 1357458211977183238,
+        "referenced_tweets": {
+            "id": 1506826567833604096,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507062327958507520,
+        "text": "@HEXfreedom @NW_Hexan @BuckFutt_CFA It wasn\u2019t my wish that he did that. I was saying he was referring to Hex/Hedron pair. He didn\u2019t say it publicly. \u201cAltcoin\u201d I knew this would fk the  USDC chart\u2026",
+        "created_at": "2022-03-24 18:30:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 965801044792901632,
+        "referenced_tweets": {
+            "id": 1507042875573514244,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507061520072597504,
+        "text": "@HEXKING5 @Pulsidon This isn\u2019t a good thing lmaoooo when this chsrt goes up the HDRN/USDC goes down! You\u2019re incentivized to sell smh",
+        "created_at": "2022-03-24 18:27:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1417069805996216320,
+        "referenced_tweets": {
+            "id": 1507056752902168579,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507023876852752392,
+        "text": "@MMCrypto This is a sell signal. NFTs are a joke \ud83d\ude02 enjoy your serialized JPGs while the rest of REAL crypto goes up, your shitcoin pics are going to tank first.",
+        "created_at": "2022-03-24 15:57:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 904700529988820992,
+        "referenced_tweets": {
+            "id": 1506758124568522757,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507001629568032769,
+        "text": "@HexyBastard Thanks to @RichardHeartWin",
+        "created_at": "2022-03-24 14:29:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1423591253590122497,
+        "referenced_tweets": {
+            "id": 1506923677908185089,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506998580091015177,
+        "text": "@BuckFutt_CFA Oh really? It\u2019s utility is to dump. Check what RH did with the Hex/Hedron pair. He fucked us all on Hedron.",
+        "created_at": "2022-03-24 14:17:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 4,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1393547057852411919,
+        "referenced_tweets": {
+            "id": 1506929352881352707,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506998291535388680,
+        "text": "@Hex_Priest Good luck with the Hex/Hedron pair being inverse of the Hedron/USDC pair \ud83d\ude02 Richard literally fucked the project because he\u2019s sad Hedron was outperforming Hex",
+        "created_at": "2022-03-24 14:16:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1442801524061655040,
+        "referenced_tweets": {
+            "id": 1506929186593779718,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506865890645590016,
+        "text": "@JohnQueue174 @thesheetztweetz 100$ to 110$? Seriously? For the best satellite internet on earth? Don\u2019t eat out one day a month\u2026 two less coffees\u2026 you gotta be trolling.",
+        "created_at": "2022-03-24 05:29:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1306805707551862784,
+        "referenced_tweets": {
+            "id": 1506688144564969479,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506824065251778561,
+        "text": "@Pulsidon Don\u2019t forget the part where RH fucked the charts with the Hex/Hedron pair. The chart is literally inverse of the Hedron/USDC pair \ud83d\ude11 hope that liquidity wall doesn\u2019t stay up forever",
+        "created_at": "2022-03-24 02:43:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1341580537115402243,
+        "referenced_tweets": {
+            "id": 1506663544984588297,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506676473293385730,
+        "text": "@CryptoNomad6 @RemindMe_OfThis Gladly, Hex has been dying for 6 month down 80% like all the shit coins RH talks bad about and then destroys the Hedron ecosystem. I\u2019m good. I\u2019ll cross my fingers with my PLS/PLSX. Can\u2019t convince me the whales aren\u2019t going to perpetually sell us down.",
+        "created_at": "2022-03-23 16:57:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256225375484608512,
+        "referenced_tweets": {
+            "id": 1506675880160112640,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506672915940581378,
+        "text": "@CryptoNomad6 Whales will forever hold the price down. Too many people with big bags selling us down. Will be a miracle if Hex could reach 1$. Plenty of smaller guys have 1m and would love to become a millionaire. Good luck \ud83d\ude02 the smart people sold the top",
+        "created_at": "2022-03-23 16:43:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256225375484608512,
+        "referenced_tweets": {
+            "id": 1506570690174099458,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506671480595271686,
+        "text": "@MarcoTheHEXican @RichardHeartWin You only say that cause you\u2019re one of the few who got rich off Hex. Richard Heart is attempting to fuck over Hedron holders by creating the Hex/Hedron pair\u2026 he noticed everyone was dumping Hex for Hedron gains and now people are dumping Hedron for Hex.",
+        "created_at": "2022-03-23 16:37:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1325976067253923842,
+        "referenced_tweets": {
+            "id": 1506397982714957830,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506670807686303745,
+        "text": "@flacklos @nrdgrl007 This made RH so mad he had to create a Hex/Hedron pair to prevent people from selling Hex into Hedron for the gains. Now it\u2019s creating sell pressure on Hedron\u2026 total fuck up",
+        "created_at": "2022-03-23 16:34:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1393243353576353798,
+        "referenced_tweets": {
+            "id": 1506543529945927681,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506668224330575877,
+        "text": "@RichardHeartWin Care to explain why you created a Hex/Hedron pair to completely destroy any price discovery for Hedron? Now people just off-ramp into Hex with +1% slippage destroying everyone who bought Hedron. Kinda nefarious",
+        "created_at": "2022-03-23 16:24:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 817817720221794305,
+        "referenced_tweets": {
+            "id": 1506514067875418113,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506088618166829067,
+        "text": "@GoingParabolic April fools, y\u2019all are stupid \ud83d\ude02",
+        "created_at": "2022-03-22 02:01:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1194984822,
+        "referenced_tweets": {
+            "id": 1505924943413977088,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506084511167168514,
+        "text": "@pulse_bull @Bitful_Satire @Pulsican______X @TCPCrypto My 20$ in AA = 50k at ATH \ud83d\ude42",
+        "created_at": "2022-03-22 01:45:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1368408929236049925,
+        "referenced_tweets": {
+            "id": 1506051492800778241,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504859171547918336,
+        "text": "@Silver_Antidote I missed buying Hedron dip because gas fees went up 10$ too much and missed a free double but I was another minute off buying the actual bottom",
+        "created_at": "2022-03-18 16:36:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1261943023740608513,
+        "referenced_tweets": {
+            "id": 1504857903702110209,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504856608848941072,
+        "text": "@TAngentsOnly1 This was from the guy who dumped 1m of Hedron last night and wicked it down and bought Hex with it",
+        "created_at": "2022-03-18 16:25:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 865218184290353152,
+        "referenced_tweets": {
+            "id": 1504770278723059716,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504855442782052358,
+        "text": "@Silver_Antidote My alerts went off and couldn\u2019t send money fast enough to wallet to buy \ud83d\ude2d missed it by a couple literal minutes",
+        "created_at": "2022-03-18 16:21:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1261943023740608513,
+        "referenced_tweets": {
+            "id": 1504738962312929281,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503970338199285762,
+        "text": "@RichardHeartWin Hint hint. Hex/Hedron pair, not USDC pair \ud83d\ude01 then both go up yay! Also don\u2019t sell Hex for Hedron, bring in fresh powder!",
+        "created_at": "2022-03-16 05:44:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 817817720221794305,
+        "referenced_tweets": {
+            "id": 1503937397263900678,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503969598797979650,
+        "text": "@jessyhexologist It\u2019s because of Hedron, people are selling an asset that\u2019s had lackluster performance in the last 6 months for something with high speculation and gains short term. Certainly not Alex\u2019s intention but nevertheless it\u2019s most definitely effecting the price on Hex side due to pairs.",
+        "created_at": "2022-03-16 05:41:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1460420470101131266,
+        "referenced_tweets": {
+            "id": 1503809416788856838,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503064990101688320,
+        "text": "@Natedog51920014 @RichardHeartWin Hedron is pulling liquidity from Hex, the very thing it\u2019s \u201csupposed\u201d to support. But all these \u201cHexicans\u201d are dumping their bags for Hedron. Go check out the telegram. That\u2019s all people talk about. I hope RH dumps Hedron hard.",
+        "created_at": "2022-03-13 17:46:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 930260257762287616,
+        "referenced_tweets": {
+            "id": 1502873663800242178,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503051062156177409,
+        "text": "@HedronCrypto Let\u2019s not forget that Hedron is supposed to be for the benefit of Hex, yet all I hear in Telegram is people dumping Hex for Hedron. So much for helping the price \ud83d\ude12 use cash not Hex if you\u2019re gonna ape like an idiot.",
+        "created_at": "2022-03-13 16:51:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1469437784532389890,
+        "referenced_tweets": {
+            "id": 1502853784892059651,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502657597740097545,
+        "text": "@CryptoCoffee369 Yes let\u2019s keep incentivizing dumping Hex for Hedron. All you Hexicans are so loyal to Richard. Hedron is all you guys seem to talk about now \ud83d\ude12 it\u2019s no wonder Hex is dumping and Hedron is pumping. RH would be proud \ud83d\ude11",
+        "created_at": "2022-03-12 14:47:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4914047653,
+        "referenced_tweets": {
+            "id": 1502419570275008517,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500970670297071619,
+        "text": "@TheMoonCarl Uhh that\u2019s easy\u2026 https://t.co/YvcrIBzNf6 where you can actually LOCK your funds and earn interest (inflation) by delaying gratification and keeping those paper hands away from the temptation of selling. Imagine all the BTC OGs wished they did this\u2026 time in&gt;timing the market!",
+        "created_at": "2022-03-07 23:04:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 978732571738755072,
+        "referenced_tweets": {
+            "id": 1500750855263371264,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499168317994590217,
+        "text": "@HexStinna My mistake was paying 25$ to mint 150k Hedron when I could have bought millions with 25$ \ud83d\ude02",
+        "created_at": "2022-03-02 23:42:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1326131751643713541,
+        "referenced_tweets": {
+            "id": 1498940263678545920,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498786292171264004,
+        "text": "@CryptoGucci In the stock market, market cap has a use because you can use the market cap as a guide to determine if a stock is under or over valued based on the net asset value of the underlyin\ncompany. But in crypto there are no underlying assets so its a useless statistic \ud83d\ude11",
+        "created_at": "2022-03-01 22:24:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 900794431590338562,
+        "referenced_tweets": {
+            "id": 1498668631286235145,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495083985239789569,
+        "text": "@RichardHeartWin @CristinaHype Mint and LL probably \ud83d\ude2c everyone tryna have \u201csacrifices\u201d for their shit now. Way too risky I\u2019m good with only RH projects lol",
+        "created_at": "2022-02-19 17:12:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 817817720221794305,
+        "referenced_tweets": {
+            "id": 1494995113776459776,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476204358039654412,
+        "text": "@CardanoApps Hex, Pulse Chain, PulseX",
+        "created_at": "2021-12-29 14:52:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1287057508977303555,
+        "referenced_tweets": {
+            "id": 1476088508293042176,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474043696370925571,
+        "text": "@REDCANDLEZ Bahahhaha get rekt pleb \ud83d\ude02 Richard has an incredible K/D ratio.",
+        "created_at": "2021-12-23 15:46:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1442304895101521926,
+        "referenced_tweets": {
+            "id": 1473867142248296449,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474043026129530881,
+        "text": "@AnnStehn @RichardHeartWin PulseSwap better IMO but what do I know. I just invest in day 1 projects \ud83d\ude2c",
+        "created_at": "2021-12-23 15:43:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1421045070,
+        "referenced_tweets": {
+            "id": 1473769423534272516,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1473661384324001804,
+        "text": "@life_is_nothin Fat fuck is brain dead and retarded. Who actually listens to this guy? I can\u2019t stand his show. He\u2019s the opposite of educational \ud83d\ude02 he\u2019s a shitcoin maximalist who wants you rekt",
+        "created_at": "2021-12-22 14:27:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1460702854595977224,
+        "referenced_tweets": {
+            "id": 1473411279368990727,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1440420138134560771,
+        "text": "@RichardHeartWin Buy more Hex \ud83d\ude0e",
+        "created_at": "2021-09-21 20:58:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 817817720221794305,
+        "referenced_tweets": {
+            "id": 1440382603375169552,
+            "type": "replied_to"
+        }
+    }
+]

@@ -1,0 +1,2959 @@
+[
+    {
+        "tweet_id": 1507174167883526152,
+        "text": "RT @MaxwellLittle6: Join me in my Space! https://t.co/i4bDklBb6I",
+        "created_at": "2022-03-25 01:54:58+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507174117866414092,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507174117866414092,
+        "text": "Join me in my Space! https://t.co/i4bDklBb6I",
+        "created_at": "2022-03-25 01:54:46+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507171506878664705,
+        "text": "RT @MaxwellLittle6: Join me in my Space! https://t.co/xfD8AEh89c",
+        "created_at": "2022-03-25 01:44:23+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507171441766248448,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507171441766248448,
+        "text": "Join me in my Space! https://t.co/xfD8AEh89c",
+        "created_at": "2022-03-25 01:44:08+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507170247240994823,
+        "text": "@jonstewart it seems that playing the race card all the time causes division. If we get over this so called racism then we unite. I will say @georgesoros is part of this race movement because he likes division. Get a grip.",
+        "created_at": "2022-03-25 01:39:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1354898820400877571,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507169624747651073,
+        "text": "@jonstewart",
+        "created_at": "2022-03-25 01:36:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1507166872025894912,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507168862441291780,
+        "text": "https://t.co/POa068akdX\nHere is a song about race. Hope this helps. @jonstewart",
+        "created_at": "2022-03-25 01:33:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507166872025894912,
+        "text": "For if the government is for us then why does the government force us to take vaccine and be slow to respond to helping people in need. Government is here but waiting for the government to respond is a inconvenience that Americans can't handle. #SLOW\n#INCONVENIENCE\n#SLOWTORESPOND",
+        "created_at": "2022-03-25 01:25:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507115856614068228,
+        "text": "#community\n\nhttps://t.co/8CrSQF7k7M",
+        "created_at": "2022-03-24 22:03:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507113703883345930,
+        "text": "Join me in my Space! @xtacy25 https://t.co/8CrSQF7k7M",
+        "created_at": "2022-03-24 21:54:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507101378510000140,
+        "text": "@thereidout @maziehirono @JoyAnnReid @MSNBC Garbage in Garbage out. Thanks",
+        "created_at": "2022-03-24 21:05:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 205864193,
+        "referenced_tweets": {
+            "id": 1507100585367064589,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507098917900632064,
+        "text": "@american2084 i will not raise my hand because I will never in my lifetime vote for a party that has a bunch of nonsense morons. Wait that the democrat party if you didn't already know.\nHave a nice day.",
+        "created_at": "2022-03-24 20:55:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1067968702400876544,
+        "referenced_tweets": {
+            "id": 1507002259326087168,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507097387524886533,
+        "text": "RT @MarshaBlackburn: There are sentencing guidelines for a reason. After Judge Ketanji Brown Jackson sentenced a child predator to 3 months\u2026",
+        "created_at": "2022-03-24 20:49:52+00:00",
+        "public_metrics": {
+            "retweet_count": 3082,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507088788060790790,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507096933902475264,
+        "text": "@STRAC @estevens0845 Arresting people with a mental illness does nothing for the good of the community. There is zero chance they will seek treatment. #SHOWKINDNESS\n#EMPATHY  \n#UNDERSTANDING",
+        "created_at": "2022-03-24 20:48:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 352836624,
+        "referenced_tweets": {
+            "id": 1507079215203721223,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507096043099496457,
+        "text": "RT @donnab213: SNEEK PEEK! Tyler and rescue pit bull K9 Hansel will have their own chapter in the upcoming Behind and Beyond the Badge - VO\u2026",
+        "created_at": "2022-03-24 20:44:31+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504062225841070080,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507085307744763905,
+        "text": "@JeffreyGuterman Mental health",
+        "created_at": "2022-03-24 20:01:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 246103,
+        "referenced_tweets": {
+            "id": 1507080350803144718,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507076913742979076,
+        "text": "#MentalHealthSS\n\nhttps://t.co/iFn2r0FOHD",
+        "created_at": "2022-03-24 19:28:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507074961235664897,
+        "text": "Let's all remember the Trump opened the keystonepipeline. Now let's blame Joe for shutting down the pipeline and blame him for the high gas prices.  @POTUS\n @TheDonald2Trump",
+        "created_at": "2022-03-24 19:20:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507073868388839427,
+        "text": "RT @Bethvanduyne: Truth\u2026",
+        "created_at": "2022-03-24 19:16:24+00:00",
+        "public_metrics": {
+            "retweet_count": 24,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506305276089098247,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507071622649417734,
+        "text": "@MSNBC @thereidout Know wonder your tweeting this out because your a liberal nonsense company.",
+        "created_at": "2022-03-24 19:07:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2836421,
+        "referenced_tweets": {
+            "id": 1507070515885887488,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068077896351747,
+        "text": "@MorganMcComb I did not vote for Ken Paxton.",
+        "created_at": "2022-03-24 18:53:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 458214340,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507066967856922624,
+        "text": "https://t.co/OMm9PBE8Ns\nThis reminds me of how bad the democrat party is. They where trying to create chaos in the hearing for Brett Kavanagh. The democrats show there true colors. @LindseyGrahamSC\n@SenSchumer",
+        "created_at": "2022-03-24 18:48:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507062361718497280,
+        "text": "@ForTheBoos https://t.co/Q1eo4Mmbgp",
+        "created_at": "2022-03-24 18:30:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1467607248952307718,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507054298173251598,
+        "text": "https://t.co/ldQhqRrXcK",
+        "created_at": "2022-03-24 17:58:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507050964741668874,
+        "text": "RT @Donotkneel: @MaxwellLittle6 Same here with me, even today.\ud83d\ude21 Just about every day I get notifications saying they're single, looking for\u2026",
+        "created_at": "2022-03-24 17:45:24+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507050819358703617,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507038509055496206,
+        "text": "RT @MaxwellLittle6: Please girls this is not a dating app. Stop sending me messages when your Twitter account only has one follower and you\u2026",
+        "created_at": "2022-03-24 16:55:54+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507038440222830592,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507038440222830592,
+        "text": "Please girls this is not a dating app. Stop sending me messages when your Twitter account only has one follower and you have no tweets.  #YOUREWASITINGMYTIME",
+        "created_at": "2022-03-24 16:55:38+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507034100103892999,
+        "text": "https://t.co/A57wIjZ6Bh",
+        "created_at": "2022-03-24 16:38:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507026525413163018,
+        "text": "#PositivityVibeTribe\n\nhttps://t.co/mHC6uqGhYb",
+        "created_at": "2022-03-24 16:08:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507020855057989634,
+        "text": "https://t.co/zEt3qLh5mY",
+        "created_at": "2022-03-24 15:45:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507018968078467072,
+        "text": "Join me in my Space! https://t.co/zEt3qLh5mY",
+        "created_at": "2022-03-24 15:38:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506831928363728896,
+        "text": "@JeffreyGuterman What chat",
+        "created_at": "2022-03-24 03:15:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1506821863330263040,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506822701113032710,
+        "text": "https://t.co/fio10RLMSB\nSince the doctor is not responding I am going to create my own space. Come join me. @MaxwellLittle6",
+        "created_at": "2022-03-24 02:38:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506821863330263040,
+        "text": "@JeffreyGuterman Wish I could join but your not answering",
+        "created_at": "2022-03-24 02:35:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 246103,
+        "referenced_tweets": {
+            "id": 1506739093270671368,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506821503224107011,
+        "text": "@Sticks_N_St0nes thanks for the follow",
+        "created_at": "2022-03-24 02:33:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1125086902779109376,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506814916849774593,
+        "text": "Join me in my Space! https://t.co/QFHKHLkdRB",
+        "created_at": "2022-03-24 02:07:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506812864077697030,
+        "text": "https://t.co/iklOybc2m1",
+        "created_at": "2022-03-24 01:59:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506811742814449669,
+        "text": "Join me in my Space! https://t.co/iklOybc2m1",
+        "created_at": "2022-03-24 01:54:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506809572740288520,
+        "text": "RT @JeffreyGuterman: Join us. https://t.co/2BhqmMsFnV",
+        "created_at": "2022-03-24 01:46:11+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506739093270671368,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506801136954716170,
+        "text": "#community\n\nhttps://t.co/0Nwnmzfcmf",
+        "created_at": "2022-03-24 01:12:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506799443479351299,
+        "text": "RT @MaxwellLittle6: Join me in my Space! https://t.co/gdKVoKwQlg",
+        "created_at": "2022-03-24 01:05:56+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506793585810759687,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506798899150962693,
+        "text": "Join me in my Space! https://t.co/0Nwnmzfcmf",
+        "created_at": "2022-03-24 01:03:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506793585810759687,
+        "text": "Join me in my Space! https://t.co/gdKVoKwQlg",
+        "created_at": "2022-03-24 00:42:40+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506765447617785864,
+        "text": "@JoeBiden This so called keep your doctor is a joke. Government slow to respond and not alot of satisfying resutls. @MattRinaldiTX",
+        "created_at": "2022-03-23 22:50:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 939091,
+        "referenced_tweets": {
+            "id": 1506664575235944448,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506764626888962053,
+        "text": "@ChadBruckner @estevens0845",
+        "created_at": "2022-03-23 22:47:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1098043458764316672,
+        "referenced_tweets": {
+            "id": 1506747231885529091,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506764425746956298,
+        "text": "@ChadBruckner @BuckeyeStateCop",
+        "created_at": "2022-03-23 22:46:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1098043458764316672,
+        "referenced_tweets": {
+            "id": 1506747231885529091,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506731861883731968,
+        "text": "@trevor_hanas Thanks for the follow.",
+        "created_at": "2022-03-23 20:37:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1069531429,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506724593372958721,
+        "text": "RT @MaxwellLittle6: Join me in my Space! #MENTALHEALTH https://t.co/GtjKRCpmWx",
+        "created_at": "2022-03-23 20:08:31+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506723453767929865,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506723453767929865,
+        "text": "Join me in my Space! #MENTALHEALTH https://t.co/GtjKRCpmWx",
+        "created_at": "2022-03-23 20:03:59+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506709869054902277,
+        "text": "@AShawDPD",
+        "created_at": "2022-03-23 19:10:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1506704980794916867,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506709134498045954,
+        "text": "@JamesRoseOA",
+        "created_at": "2022-03-23 19:07:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1506708460527923212,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506708460527923212,
+        "text": "@IrvingPD",
+        "created_at": "2022-03-23 19:04:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1506705406923530240,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506707162520825858,
+        "text": "@LinaHidalgoTX I have always liked Lindsey Graham. He did a great speech during the Brett Kavanagh hearing. #DEMOCRATS\n#ISTANDWITHBRETT @Bethvanduyne",
+        "created_at": "2022-03-23 18:59:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 247174365,
+        "referenced_tweets": {
+            "id": 1506706555529539585,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506706424381984769,
+        "text": "@PeerMHealth @HoneyLakeClinic",
+        "created_at": "2022-03-23 18:56:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1506704980794916867,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506706191405264898,
+        "text": "@Rethink_",
+        "created_at": "2022-03-23 18:55:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1506704980794916867,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506705967592976391,
+        "text": "@NIMHgov",
+        "created_at": "2022-03-23 18:54:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1506704980794916867,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506705406923530240,
+        "text": "@estevens0845",
+        "created_at": "2022-03-23 18:52:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1506704980794916867,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506705363717996553,
+        "text": "RT @MaxwellLittle6: Set a reminder for my upcoming Space! https://t.co/GtjKRCpmWx\n\nJoin me in a time of talking and discussing. Let's lift\u2026",
+        "created_at": "2022-03-23 18:52:06+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506704980794916867,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506705210403663874,
+        "text": "@ThePaintedBrain @TwitterSpaces Join my 3pmct time. I am starting a story. Join me. Thanks",
+        "created_at": "2022-03-23 18:51:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1582124414,
+        "referenced_tweets": {
+            "id": 1506703587459612672,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506704980794916867,
+        "text": "Set a reminder for my upcoming Space! https://t.co/GtjKRCpmWx\n\nJoin me in a time of talking and discussing. Let's lift each other up. #RESPECT",
+        "created_at": "2022-03-23 18:50:35+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 5,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506693094644850689,
+        "text": "@RepBethVanDuyne @RepSamGraves @RepGarretGraves Beth you are representing your district with the most respect. You are serving with a voice that is loud and motivated. Keep doing what your doing. #KEEPFIGHTINGFORUS",
+        "created_at": "2022-03-23 18:03:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1339633259349745670,
+        "referenced_tweets": {
+            "id": 1506691901763866628,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506692445110743046,
+        "text": "RT @RepBethVanDuyne: I joined @RepSamGraves and @RepGarretGraves on a letter demanding Biden \u201cfollow the science\u201d and end the absurd mask m\u2026",
+        "created_at": "2022-03-23 18:00:46+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506691901763866628,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506689683102875649,
+        "text": "@estevens0845",
+        "created_at": "2022-03-23 17:49:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1506685035927191558,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506685035927191558,
+        "text": "May we never forget the sacrifice that sherrard made. May he never be forgotten. #RESPECTTHEBLUELINE\n#NEVERFORGET\n#BACKTHEBLUE\n@RichardsonTX_PD @IrvingPDChief @CPDTXChief @Heroes_in_Blue @FBTXPD @CoppellPolice \n#LAWENFORCEMENT\n#PRAYINGFORALLAWENFORCEMENT https://t.co/J6L4S9op0w",
+        "created_at": "2022-03-23 17:31:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506674262370828297,
+        "text": "@IrvingPD @canineorg https://t.co/WzaQ608YBR",
+        "created_at": "2022-03-23 16:48:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 778365439,
+        "referenced_tweets": {
+            "id": 1506672218843004941,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506673159306682381,
+        "text": "@ChadBruckner Hey Chad can you take a picture of that and send it to me thru email.",
+        "created_at": "2022-03-23 16:44:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1098043458764316672,
+        "referenced_tweets": {
+            "id": 1506587040665767940,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506667974308024326,
+        "text": "@estevens0845 Your pic says so much about adveristy and perseverance. Hope you are bless today my friend. Amen.",
+        "created_at": "2022-03-23 16:23:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1142130933316931584,
+        "referenced_tweets": {
+            "id": 1506573325828595715,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506391409527513096,
+        "text": "@ElisaSDavis @estevens0845 I have respect to anyone who may disagree with me. I understand your point. May God Bless you. As you asked I did unfollow you out of respect for you.",
+        "created_at": "2022-03-22 22:04:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 345178599,
+        "referenced_tweets": {
+            "id": 1506390939329343496,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506389387034173451,
+        "text": "@ElisaSDavis Why",
+        "created_at": "2022-03-22 21:56:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 345178599,
+        "referenced_tweets": {
+            "id": 1506386543698710535,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506389130258927620,
+        "text": "https://t.co/zsrKPIR1R4\nEvery law enforcement in the world should have this. More CIT is needed in law enforcement. @byronpitts #MENTALHEALTH\n#EMPATHY \n#COMMUNITY\n#COMMUNICATE",
+        "created_at": "2022-03-22 21:55:30+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506357812716318733,
+        "text": "RT @MaxwellLittle6: @TexasHHSC I have been holding for over an hour to get my app unlocked. This is embarrassing. You need to do more to ge\u2026",
+        "created_at": "2022-03-22 19:51:03+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506357701495898125,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506357701495898125,
+        "text": "@TexasHHSC I have been holding for over an hour to get my app unlocked. This is embarrassing. You need to do more to get people help. #INEEDMYACCOUNTUNLOCKEDNOW",
+        "created_at": "2022-03-22 19:50:37+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3141724450,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506299784176574473,
+        "text": "@estevens0845 Ernie I think you may have the wrong name. Also I clicked on the link and it says it isn't there.?",
+        "created_at": "2022-03-22 16:00:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1142130933316931584,
+        "referenced_tweets": {
+            "id": 1506297087763300367,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506122361598271498,
+        "text": "@LynetteSzymon Thanks for the follow.",
+        "created_at": "2022-03-22 04:15:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445807734482354178,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506116105139593217,
+        "text": "@RepJeffries Hope she is not confirmed.",
+        "created_at": "2022-03-22 03:50:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 467823431,
+        "referenced_tweets": {
+            "id": 1505890308101484550,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506115933789736961,
+        "text": "@RepJeffries You treated Brett Kavanagh like a criminal. Your party is a joke.",
+        "created_at": "2022-03-22 03:49:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 467823431,
+        "referenced_tweets": {
+            "id": 1339270243529658369,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506094283518009346,
+        "text": "RT @TChrisRussell: @MaxwellLittle6 Thank you, Maxwell. Also; amazing backgrounds.  Now, as much as ever, law enforcement needs our support.\u2026",
+        "created_at": "2022-03-22 02:23:53+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506093196471934982,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506084408251621380,
+        "text": "@TChrisRussell Thanks for the follow. Hope your campaign goes well. God Bless.",
+        "created_at": "2022-03-22 01:44:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1429114088332959745,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506064067647217677,
+        "text": "@HCSO_LECommand @SugarLandPD @abc13houston @HCSOTexas Praying for a full recovery. @estevens0845",
+        "created_at": "2022-03-22 00:23:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1119949402922156033,
+        "referenced_tweets": {
+            "id": 1505653743882321927,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506061263801135114,
+        "text": "@Ab1Roque It was very nice talking with you. Hope we can connect.",
+        "created_at": "2022-03-22 00:12:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1447682181459951619,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506054590416007169,
+        "text": "RT @ScotieAppleseed: i didn\u2019t know this was a thing on #Twitter @lifestyletea4 !!! we should start doing this !!! #podcast #podcasters @pla\u2026",
+        "created_at": "2022-03-21 23:46:10+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506049893038628866,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506048732961382404,
+        "text": "RT @IrvingPD: Tornado Warning for Dallas County in TX until 7:00pm.",
+        "created_at": "2022-03-21 23:22:53+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506047138932748289,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506048451708080128,
+        "text": "RT @NWSFortWorth: 6:12 PM - Here\u2019s a closer look at the circulation we are monitoring near Hwy 121 and 114 just west of DFW Airport. Visibl\u2026",
+        "created_at": "2022-03-21 23:21:46+00:00",
+        "public_metrics": {
+            "retweet_count": 61,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506046375330467844,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506045271691735050,
+        "text": "@IrvingPD winds very strong. Is it necessary to sound the alarm.",
+        "created_at": "2022-03-21 23:09:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 778365439,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506041969004404736,
+        "text": "RT @CBS11: SEVERE T'STORM WARNING is in effect for Tarrant County.  https://t.co/0zsDiZ8Rzm for more information. #CBS11wx https://t.co/6YJ\u2026",
+        "created_at": "2022-03-21 22:56:00+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506040250774302724,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506040694942670853,
+        "text": "RT @NWSFortWorth: 5:46 PM - Tornado warning for parts of Tarrant Co!! TAKE SHELTER if you are in the path of this storm! #dfwwx #txwx https\u2026",
+        "created_at": "2022-03-21 22:50:57+00:00",
+        "public_metrics": {
+            "retweet_count": 121,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506039470939901958,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506002117596782604,
+        "text": "RT @IrvingPD: Tornado Watch for Dallas County in TX until 10:00pm.",
+        "created_at": "2022-03-21 20:17:39+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506000867316563968,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505996308846362629,
+        "text": "@Metrocare your Westmoreland clinic never picks up the phone.",
+        "created_at": "2022-03-21 19:54:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 45068038,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505952902262792201,
+        "text": "RT @estevens0845: I hope you enjoy it my friend",
+        "created_at": "2022-03-21 17:02:05+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505942840295231491,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505942705322352645,
+        "text": "@estevens0845 Looking forward to reading this awesome book. https://t.co/VXMHYcrgpg",
+        "created_at": "2022-03-21 16:21:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 1142130933316931584,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505756381340708864,
+        "text": "Does anyone know how to create a private chat on Twitter. Thanks.",
+        "created_at": "2022-03-21 04:01:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505752532479524867,
+        "text": "@PrdLiberal7 Thank you for letting me in the group. Maxwell",
+        "created_at": "2022-03-21 03:45:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1226611632513568768,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505751746185936898,
+        "text": "@roddyetwit Thanks for talking. Hope I can connect with you again. God Bless.",
+        "created_at": "2022-03-21 03:42:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 65989853,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505751520075206662,
+        "text": "@waffaagain I understand your group of friends and I hope you have a good night. Im sorry if I was getting in the way of your group. I enjoyed the conversation and maybe I can join again some day. God Bless you.",
+        "created_at": "2022-03-21 03:41:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1408588753984126979,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505709166618365955,
+        "text": "@MelissaGregg13 I want to thank you for your sacrifice for putting on that uniform everyday and using the Gift that God gave you. Praying for your protection. Amen.",
+        "created_at": "2022-03-21 00:53:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1129528257911676931,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505707357707587584,
+        "text": "@DispatcherJohn @estevens0845 @IrvingPDPIO",
+        "created_at": "2022-03-21 00:46:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 109326259,
+        "referenced_tweets": {
+            "id": 1502739925971738624,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505707208427950082,
+        "text": "@DispatcherJohn Thanks for the follow. May God protect you. Amen. John 15:13",
+        "created_at": "2022-03-21 00:45:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 109326259,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505706098749280269,
+        "text": "RT @Vinman1348: Rest In Peace brother",
+        "created_at": "2022-03-21 00:41:23+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1449404683504791554,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505705303521832967,
+        "text": "RT @MaxwellLittle6: @FBTXPD @CPDTXChief @IrvingPD Please be safe for tomorrow is going to be wet. Praying for your safety. Amen. #PRAYFORPO\u2026",
+        "created_at": "2022-03-21 00:38:13+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505700943672840196,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505705257426423815,
+        "text": "Thanks for the explanation on facebook.",
+        "created_at": "2022-03-21 00:38:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1505701775877230598,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505701775877230598,
+        "text": "@BlakeMathews08 is the cap strong? Saw your live video.",
+        "created_at": "2022-03-21 00:24:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1262349751,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505700943672840196,
+        "text": "@FBTXPD @CPDTXChief @IrvingPD Please be safe for tomorrow is going to be wet. Praying for your safety. Amen. #PRAYFORPOLICEANDFIRESAFETY",
+        "created_at": "2022-03-21 00:20:54+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4854762813,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505699992295641089,
+        "text": "@ScottPadgettCBS is the cap string tomorrow. What's the percentage of severe storms. Thanks.",
+        "created_at": "2022-03-21 00:17:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 237584919,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505699650354958338,
+        "text": "@Vinman1348 @estevens0845",
+        "created_at": "2022-03-21 00:15:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 171646046,
+        "referenced_tweets": {
+            "id": 1505646356068712448,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505666211249631235,
+        "text": "@TheBlueRunner1 We should always show respect for police. Jesus layed down his life for us because he loves us. Police lay down there life for us so we should pray for them daily. John 15:13. Amen. \n#BACKTHEBLUE",
+        "created_at": "2022-03-20 22:02:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 946489422182313985,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505641012517031949,
+        "text": "@DixonPolice @krispykreme Dixon police I will be praying for officers protection. May you be blessed. Amen",
+        "created_at": "2022-03-20 20:22:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2369139421,
+        "referenced_tweets": {
+            "id": 1504128516819931140,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505598065725554690,
+        "text": "@jglangham https://t.co/UBZk8k1qzx",
+        "created_at": "2022-03-20 17:32:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 50748127,
+        "referenced_tweets": {
+            "id": 1505596108101369861,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505596104360054785,
+        "text": "@jaredcwilson I don't find this helpful.",
+        "created_at": "2022-03-20 17:24:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15175650,
+        "referenced_tweets": {
+            "id": 1505595606999474178,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505576371438952455,
+        "text": "@IrvingPD @IrvingPDPIO @jodeyarbrough @IrvingPDChief @RetiredIPDChief @estevens0845 Hope this brings joy to you. Amen. https://t.co/X3lG68z9bo",
+        "created_at": "2022-03-20 16:05:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 778365439,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505566002121166849,
+        "text": "@american2084 https://t.co/hrJUYXOjYW",
+        "created_at": "2022-03-20 15:24:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1067968702400876544,
+        "referenced_tweets": {
+            "id": 1505565593805758472,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505564649869164546,
+        "text": "RT @3pittiepups: I am officially retired from the Houston Police Dept. after 30 years and 7 months. It was on honor to work for the best po\u2026",
+        "created_at": "2022-03-20 15:19:19+00:00",
+        "public_metrics": {
+            "retweet_count": 98,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505287540877713413,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505564569456029696,
+        "text": "@3pittiepups Thank you for your service for so many years. May God guide you as you continue your journey. John 15:13.",
+        "created_at": "2022-03-20 15:19:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 912381623735279616,
+        "referenced_tweets": {
+            "id": 1505287540877713413,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505533388836511747,
+        "text": "@IrvingPDPIO The sacrifice that police make for the community is so unmeasirable that we should always be thankful for there compassion. #GODLAYEDDOWNHISLIFEFORUS",
+        "created_at": "2022-03-20 13:15:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2766123460,
+        "referenced_tweets": {
+            "id": 1505199721547194370,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505531700876611586,
+        "text": "@estevens0845 What a great great quote to start out a Sunday. Philippians 4:7. #PERSEVEREANCE",
+        "created_at": "2022-03-20 13:08:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1142130933316931584,
+        "referenced_tweets": {
+            "id": 1505526363654078466,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505368041701482497,
+        "text": "@TrooperBenKHP Thank you for the follow. May God Bless you as you protect the streets. I will always have a special place in my heart for law enforcement. John 15:13. Amen.",
+        "created_at": "2022-03-20 02:18:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 16107045,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505358238564368391,
+        "text": "@PaulMcl62304236 The #9PMROUTINEISALWAYS needed to protect the community. Needed to protect police officers. May we always pray for law enforcement and for first responders. John 15:13. Amen.",
+        "created_at": "2022-03-20 01:39:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 977227942324563968,
+        "referenced_tweets": {
+            "id": 1505349181866663936,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505356389987856385,
+        "text": "@jeffk_stars Jeff I want to thank you for begin the most compassionate person I have ever meet. You always have a smile on your face and you always show love towards the community. May God Bless you as you journey on. Amen\n#GOSTARS \n#gratitude \n#kindness \n#empathy",
+        "created_at": "2022-03-20 01:31:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 186183613,
+        "referenced_tweets": {
+            "id": 1505281487469527049,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505320662482702342,
+        "text": "@hook_jerome Thanks for the follow. Be blessed my brother. Amen.",
+        "created_at": "2022-03-19 23:09:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 1505300067225423873,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505320345317879814,
+        "text": "This is always my prayer. https://t.co/bYuauphUcy",
+        "created_at": "2022-03-19 23:08:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505319020278468611,
+        "text": "@Franklin_Graham Franklin I am so blessed to still be on this earth because of what I have been thru my disability. I know God is holding my hand is always there for me. I will be praying for you and for God's children. May the peace of our Lord Jesus Chris be with you. Amen.",
+        "created_at": "2022-03-19 23:03:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44945327,
+        "referenced_tweets": {
+            "id": 1505311691814354950,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505313412418527234,
+        "text": "@ChadBruckner @Kgfeden Chad what a story. God is so great and loves his children. I be honest with I have been thru so much in the last three years but God has given me the strength to get thru my disability. I am so glad that you have a story and I have a story to tell. Amen brother.",
+        "created_at": "2022-03-19 22:40:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1098043458764316672,
+        "referenced_tweets": {
+            "id": 1505303432215019521,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505271117388390400,
+        "text": "@MattClem_ILEA I want to thank you for making it thru your career as a police officer. God will continue to protect you. May the peace of our Lord Jesus Christ be with you. Amen.",
+        "created_at": "2022-03-19 19:52:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482490706946101252,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505248793700220930,
+        "text": "@IrvingPDChief thanks for the follow. Blessings.",
+        "created_at": "2022-03-19 18:24:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1497619689077420038,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505217213099294720,
+        "text": "@estevens0845 To see a smile on your face ernie is a blessing. You have helped so many people. May God continue to bless your family. Amen.",
+        "created_at": "2022-03-19 16:18:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1142130933316931584,
+        "referenced_tweets": {
+            "id": 1505189375424053252,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505216569135321089,
+        "text": "@JamesRoseOA",
+        "created_at": "2022-03-19 16:16:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1505212026624303108,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505212026624303108,
+        "text": "God layed down his life for us. Law enforcement does the same thing. We should show respect for them. John 15:13 @IrvingPDPIO @IrvingPDChief @IrvingPDPIO @RetiredIPDChief @estevens0845 https://t.co/OYFY1FWn1G",
+        "created_at": "2022-03-19 15:58:07+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504947636146778113,
+        "text": "@american2084 Well first off I know for a fact that he hasn't supported law enforcement.",
+        "created_at": "2022-03-18 22:27:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1067968702400876544,
+        "referenced_tweets": {
+            "id": 1504945147213197323,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504946979578785795,
+        "text": "@JamesRoseOA thanks for the follow.",
+        "created_at": "2022-03-18 22:24:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1015927656,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504923485667274755,
+        "text": "@CoppellPolice As studies have shown that 35 % of police officers suffer from PTSD. #HELPABROTHERINBLUE\n#RESPECTTHEBLUELINE",
+        "created_at": "2022-03-18 20:51:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 534628180,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504922706445324291,
+        "text": "@RepBethVanDuyne @IrvingPD Wish I could make the coffee with a cop but I don't have any transportation  there. #IHAVERESPECTFORLAWENFORCEMENT",
+        "created_at": "2022-03-18 20:48:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1339633259349745670,
+        "referenced_tweets": {
+            "id": 1504835027988791304,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504922071431888897,
+        "text": "@estevens0845 Wish I could buy this from you ernie but I will be honest  money is an issue but if not I understand. God Bless.",
+        "created_at": "2022-03-18 20:45:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1142130933316931584,
+        "referenced_tweets": {
+            "id": 1504921038798340112,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504901559053869060,
+        "text": "@PaulMcl62304236 Always wear a seat belt even if no one is looking. Seat belts save lives.",
+        "created_at": "2022-03-18 19:24:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 977227942324563968,
+        "referenced_tweets": {
+            "id": 1504890902388617217,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504867520494325761,
+        "text": "@CarrolltonTXPD\n@jodeyarbrough",
+        "created_at": "2022-03-18 17:09:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1504862416231874565,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504862416231874565,
+        "text": "@estevens0845 there should be more awareness for police who go thru traumatic situations. #PTSDAWARENESS #HELPABROTHERINNEED\n#EMPATHY \n#ISEEYOU",
+        "created_at": "2022-03-18 16:48:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1142130933316931584,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504512421565812737,
+        "text": "RT @MaxwellLittle6: @dartmedia I have been thru hell trying to get my application for dart paratransit but your fax machine has been down f\u2026",
+        "created_at": "2022-03-17 17:38:08+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504512151028961288,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504512151028961288,
+        "text": "@dartmedia I have been thru hell trying to get my application for dart paratransit but your fax machine has been down for way to long. Frustrating and needs to be fixed now.",
+        "created_at": "2022-03-17 17:37:03+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 18314321,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504298281907769350,
+        "text": "@ernieandjoe @FilmPlatformEdu @jodeyarbrough",
+        "created_at": "2022-03-17 03:27:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1086331977761021952,
+        "referenced_tweets": {
+            "id": 1396866079138455555,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503924423467933701,
+        "text": "@DPDChiefGarcia @DallasPD @MjrCitiesChiefs @IrvingPDPIO",
+        "created_at": "2022-03-16 02:41:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1503924334338973703,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503924334338973703,
+        "text": "@DPDChiefGarcia @DallasPD @MjrCitiesChiefs Repeat offenders should have no bond period. I makes me sad to see this happen. We need to keep the community safe. Releasing offenders is a dangerous issue. #WENEEDTOKEEPREPEATOFFENDERSINJAIL\n#NOBONDOUT",
+        "created_at": "2022-03-16 02:41:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1345454056505044993,
+        "referenced_tweets": {
+            "id": 1503529277668605959,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503920220431396864,
+        "text": "New profile pic",
+        "created_at": "2022-03-16 02:24:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1503920101690683393,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503920101690683393,
+        "text": "@estevens0845 @jodeyarbrough @CPDTXChief @fwpdchiefnoakes @GarlandPD @CarrolltonTXPD @FBTXPD @IrvingPDChief",
+        "created_at": "2022-03-16 02:24:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1142130933316931584,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503909747728297987,
+        "text": "Dam autocorrect.",
+        "created_at": "2022-03-16 01:43:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1503902750286962690,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503902750286962690,
+        "text": "@BrendanKeefe what you do is amazing and is what we need in America. I have a story and I'm not to tell it. #mentalillness #STAYSTRONGINTHELORD\n#MAYGODBLESSYOU.",
+        "created_at": "2022-03-16 01:15:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 20118080,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503869421902864385,
+        "text": "@estevens0845 @Edwin_E_Peacock Please elaborate on Blake Peacock. Thanks",
+        "created_at": "2022-03-15 23:03:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1142130933316931584,
+        "referenced_tweets": {
+            "id": 1503869196597354497,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503758370905509898,
+        "text": "@estevens0845 Mr Steven's I want to introduce you to Honey lake clinic @HoneyLakeClinic this Christian mental and addiction clinic is one of the best places I have ever been. I encourage you to look into it. May God Bless you. Amen.",
+        "created_at": "2022-03-15 15:41:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1142130933316931584,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503757660415479818,
+        "text": "@IrvingPD @IrvingPDChief @Twitter https://t.co/dJOyJiTD0m",
+        "created_at": "2022-03-15 15:38:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 778365439,
+        "referenced_tweets": {
+            "id": 1503548399467081734,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503731035648970753,
+        "text": "@CarrolltonTXPD Blessings to CPD. https://t.co/mm516odjcO",
+        "created_at": "2022-03-15 13:53:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 222518930,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503543125532360704,
+        "text": "@GarlandPD To those police officers that put in the uniform each day I will be praying for God's protection over them. May the peace of our Lord Jesus be with you. Amen.",
+        "created_at": "2022-03-15 01:26:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 107199355,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503542717221150726,
+        "text": "@jodeyarbrough This is my prayer tonight. The Lord is protecting those in   uniform. Amen https://t.co/VFVq3W6qrJ",
+        "created_at": "2022-03-15 01:24:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 58691395,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503540007285542912,
+        "text": "@estevens0845 I did reach out to Joe and I wanted to tell him my story and journey the my mental health. I also would like to tell you my story. I will say one thing that thru all my struggles I am always seeking the Lord. Amen.",
+        "created_at": "2022-03-15 01:14:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1142130933316931584,
+        "referenced_tweets": {
+            "id": 1503539256425394176,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503539073260167171,
+        "text": "@estevens0845 https://t.co/L7U9ErCO4G",
+        "created_at": "2022-03-15 01:10:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1142130933316931584,
+        "referenced_tweets": {
+            "id": 1503537537633202181,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503528321623154691,
+        "text": "@IrvingPD My opinion is that if your on medication or drinking you should not be briving. I'm on meds so my respect is to keep the streets safe so I don't drive. #KEEPTHESTREETSSAFE #DONTDRINKANDDRIVE #PRAYFORPOLICE\n@BlueRunner",
+        "created_at": "2022-03-15 00:27:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 778365439,
+        "referenced_tweets": {
+            "id": 1503513208346353664,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503511613093076995,
+        "text": "I just realized my grammar problem. Lol",
+        "created_at": "2022-03-14 23:21:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1503439246778064901,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503511046908268549,
+        "text": "@PaulMcl62304236 thank you for the follow. May God keep you safe as you protect your community.",
+        "created_at": "2022-03-14 23:19:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 977227942324563968,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503478145567105031,
+        "text": "@IrvingPD Praying for the officers who will be out tonight protecting the community. https://t.co/38Sg2PpcCE",
+        "created_at": "2022-03-14 21:08:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 778365439,
+        "referenced_tweets": {
+            "id": 1503472200552091649,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503439246778064901,
+        "text": "@IrvingPDPIO @estevens0845 I want to commend both of for the work your doing as people that put the uniform on to sacrifice your life to help others in need. May God Bless you and keep you.",
+        "created_at": "2022-03-14 18:33:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2766123460,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503427496003440648,
+        "text": "@estevens0845 First off I want thank you for what you do. I have a mental illness but when watching your videos it has helped me so much. Keep doing what your doing. I may be struggling but the good Lord above is always here for law enforcement and for helping people.",
+        "created_at": "2022-03-14 17:47:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1142130933316931584,
+        "referenced_tweets": {
+            "id": 1243322545270599688,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502401039596765191,
+        "text": "RT @CPDTXChief: I\u2019m proud to introduce Honorary Carrollton Police Officer DJ Daniel! \n\nI had the privilege of swearing him in today with @D\u2026",
+        "created_at": "2022-03-11 21:48:15+00:00",
+        "public_metrics": {
+            "retweet_count": 35,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502345526553059328,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500644052005527552,
+        "text": "@JudgeClayJ @BetoORourke @dallasschools @dallasdemocrats You couldn't pay me enough money to vote for a Democrat. Democrats have no since of direction.",
+        "created_at": "2022-03-07 01:26:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 532562634,
+        "referenced_tweets": {
+            "id": 1500606603145400323,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499173851879641090,
+        "text": "@mcuban mark my name is Maxwell and I am in need of some help. This has to due with medical and legal issues. Please help. #GOMAVS",
+        "created_at": "2022-03-03 00:04:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 16228398,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498827513753223171,
+        "text": "@DallasElections It's 7 o'clock. Your late for releasing early voting. The elections department is run by a democratic so I'm not surprised.",
+        "created_at": "2022-03-02 01:08:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 703124942,
+        "referenced_tweets": {
+            "id": 1498788613382942726,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485802879424376837,
+        "text": "RT @CPDTXChief: What began with an investigation by our Street Crimes Unit into Dallas-based drug dealers targeting minors in our city ende\u2026",
+        "created_at": "2022-01-25 02:33:05+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485727420711940101,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481408156882415619,
+        "text": "@TheRock https://t.co/OzZQU5xdBX",
+        "created_at": "2022-01-12 23:30:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 250831586,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475105533346693125,
+        "text": "@IrvingPD Would be my dream to have my picture taken to a police officer today. Today is my birthday. Let's celebrate. @IrvingPDPIO",
+        "created_at": "2021-12-26 14:05:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 778365439,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472772450790248450,
+        "text": "@Ordinary1World https://t.co/2RnqDsavY1",
+        "created_at": "2021-12-20 03:34:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 260947492,
+        "referenced_tweets": {
+            "id": 1469729109370540034,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469764468259401734,
+        "text": "RT @MaxwellLittle6: @Irving_Fire I am truly disappointed in the way I was treated by medic 10 on Saturday morning. I would like to speak to\u2026",
+        "created_at": "2021-12-11 20:22:10+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1469763621320339460,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1469763621320339460,
+        "text": "@Irving_Fire I am truly disappointed in the way I was treated by medic 10 on Saturday morning. I would like to speak to someone on this issue. I have  high anxiety. Thanks. @IrvingPDPIO",
+        "created_at": "2021-12-11 20:18:48+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1862459066,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465775607854284800,
+        "text": "RT @MattRinaldiTX: Pronouns in bio.",
+        "created_at": "2021-11-30 20:11:52+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1465764268977106946,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1464192481592066054,
+        "text": "@dallascowboys https://t.co/bc0T32a3j7",
+        "created_at": "2021-11-26 11:21:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 8824902,
+        "referenced_tweets": {
+            "id": 1463981751265640449,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464072652801421314,
+        "text": "https://t.co/cq19S5s6Jm",
+        "created_at": "2021-11-26 03:24:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1464072592260837403,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464072592260837403,
+        "text": "@MicahhParsons11 https://t.co/ggRCWUhsTp",
+        "created_at": "2021-11-26 03:24:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1291573322497568771,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464072492335734785,
+        "text": "@MicahhParsons11 @steveeagar https://t.co/LqoGXjyXJE",
+        "created_at": "2021-11-26 03:24:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1291573322497568771,
+        "referenced_tweets": {
+            "id": 1445535267679469572,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464072442570235904,
+        "text": "@steveeagar https://t.co/rlM9o4RuD4",
+        "created_at": "2021-11-26 03:24:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 18943413,
+        "referenced_tweets": {
+            "id": 1445555021462917126,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464072415974236161,
+        "text": "@steveeagar https://t.co/cga2NkCgcv",
+        "created_at": "2021-11-26 03:23:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 18943413,
+        "referenced_tweets": {
+            "id": 1445819548565970949,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464072398605627400,
+        "text": "@steveeagar https://t.co/0xRFYYQSR7",
+        "created_at": "2021-11-26 03:23:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 18943413,
+        "referenced_tweets": {
+            "id": 1445818936222785541,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464072371296301058,
+        "text": "@steveeagar https://t.co/FN6amg0Tlz",
+        "created_at": "2021-11-26 03:23:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 18943413,
+        "referenced_tweets": {
+            "id": 1461763174156410881,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464069631111573507,
+        "text": "@steveeagar you might be a better news personality if you would cover the dallas stars more than the stupid dallas cowgirls. Go find a new job.",
+        "created_at": "2021-11-26 03:12:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 18943413,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464066370061185072,
+        "text": "https://t.co/kCW3dCdiJw",
+        "created_at": "2021-11-26 02:59:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1321823455499661319,
+        "referenced_tweets": {
+            "id": 1464066302994264085,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464066302994264085,
+        "text": "@steveeagar https://t.co/IeKThJKTdf",
+        "created_at": "2021-11-26 02:59:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 18943413,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464065709785460783,
+        "text": "@MikeDoocyFox4 you might be a better sports caster if would cover the dallas stars more than the dallas cowgirls.",
+        "created_at": "2021-11-26 02:57:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 106855966,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464064721695428612,
+        "text": "@MikeDoocyFox4 https://t.co/sihMmR4QxJ",
+        "created_at": "2021-11-26 02:53:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 106855966,
+        "referenced_tweets": {
+            "id": 1464055640259764227,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464064641278128156,
+        "text": "@MikeDoocyFox4 https://t.co/k9EHsrqqHl",
+        "created_at": "2021-11-26 02:53:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 106855966,
+        "referenced_tweets": {
+            "id": 1464055640259764227,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464064259361550337,
+        "text": "@dallascowboys @Tp__5 https://t.co/bTisceO41A",
+        "created_at": "2021-11-26 02:51:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 8824902,
+        "referenced_tweets": {
+            "id": 1464020640004931587,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1463540636427210756,
+        "text": "RT @IrvingPD: The saying goes, \u201cEat till you drop, for tomorrow we shop!\u201d Don\u2019t allow criminals to shop for your personal belongings. Lock\u2026",
+        "created_at": "2021-11-24 16:10:53+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1462863116362989571,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1460588553080037388,
+        "text": "@Stephan29894742 @CBSDFW https://t.co/FRIf7PFGy0",
+        "created_at": "2021-11-16 12:40:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1219464042500231169,
+        "referenced_tweets": {
+            "id": 1460279332056752134,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1460588404782084097,
+        "text": "@CliffBraddock @CBSDFW https://t.co/V7FWJpljDy",
+        "created_at": "2021-11-16 12:39:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 635612999,
+        "referenced_tweets": {
+            "id": 1460309224077078529,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1460588192625836038,
+        "text": "@CBSDFW https://t.co/Ixf5A6hFVa",
+        "created_at": "2021-11-16 12:38:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 10878852,
+        "referenced_tweets": {
+            "id": 1460247888873893888,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1459948956767723523,
+        "text": "@StateFarm Need a new actor. Also actor needs a haircut and he needs to shave.",
+        "created_at": "2021-11-14 18:18:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15091022,
+        "referenced_tweets": {
+            "id": 1457359102179516418,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1456406385495793673,
+        "text": "@wfaa #TRUMP2024ToSaveAmerica",
+        "created_at": "2021-11-04 23:41:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15694286,
+        "referenced_tweets": {
+            "id": 1456320380725981186,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1456182018392436737,
+        "text": "RT @CarrolltonTXPD: https://t.co/7GVGet3e3m",
+        "created_at": "2021-11-04 08:50:22+00:00",
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1456011887318011912,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1450761675750182913,
+        "text": "@CBS11BillJones you said the cowboys where going to the superbowl after a win. Your an idiot. https://t.co/qHSGcY7gYo",
+        "created_at": "2021-10-20 09:51:52+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 48474833,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1447670627247300612,
+        "text": "RT @MattRinaldiTX: Happy Columbus Day!",
+        "created_at": "2021-10-11 21:09:08+00:00",
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1447553552025522178,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1444800678698921991,
+        "text": "@dak https://t.co/6La7g11WR8",
+        "created_at": "2021-10-03 23:04:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 385203914,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1420506533717217284,
+        "text": "@MattRinaldiTX https://t.co/A3hGNSlhEc",
+        "created_at": "2021-07-28 22:08:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 354041953,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1419084035410780164,
+        "text": "@wfaaweather @wfaa In the weather channel forecast they say no rain in the forecast. Please clarify pete.",
+        "created_at": "2021-07-24 23:56:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15937025,
+        "referenced_tweets": {
+            "id": 1418402242697351169,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1418560946663002113,
+        "text": "RT @MattRinaldiTX: Not happening.",
+        "created_at": "2021-07-23 13:17:39+00:00",
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1418384471133507584,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1387590789128232964,
+        "text": "@kevinnevels vote for my friend Kevin on May the 1st.",
+        "created_at": "2021-04-29 02:13:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 54599762,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1387589872727248896,
+        "text": "@wfaaweather whats the threat of weather into the evening from other storms",
+        "created_at": "2021-04-29 02:09:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15937025,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1387578561331073025,
+        "text": "@ScottPadgettCBS will this strom with the hail hit irving????",
+        "created_at": "2021-04-29 01:24:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 237584919,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1381328500158828547,
+        "text": "RT @ksorbs: Any gun ban is an infringement on our constitution",
+        "created_at": "2021-04-11 19:29:12+00:00",
+        "public_metrics": {
+            "retweet_count": 4063,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1380546263196766210,
+            "type": "retweeted"
+        }
+    }
+]

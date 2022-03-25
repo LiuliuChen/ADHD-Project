@@ -1,0 +1,1518 @@
+[
+    {
+        "tweet_id": 1507253366669209603,
+        "text": "RT @Tjonesonthenba: That\u2019s really dangerous. You can easily twist an ankle when someone does something like this to you",
+        "created_at": "2022-03-25 07:09:40+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507196765027639296,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507246362684903425,
+        "text": "@maxmcc11 This ^. Hes making his way to second team fs with his play lately. People saying he's MVP are too captured by the moment. He's not there. But he's playing well enough to be discussed for the second team all nba",
+        "created_at": "2022-03-25 06:41:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 37044297,
+        "referenced_tweets": {
+            "id": 1507207436322570244,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507246040608436226,
+        "text": "@TheWarriorsTalk What's the path for that? He's not going to start unless looney is gone and dray is full time center. Steph, Klay, Wiggins all need their shots.",
+        "created_at": "2022-03-25 06:40:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 982346124915761152,
+        "referenced_tweets": {
+            "id": 1507150096957276164,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507245544753692674,
+        "text": "Not sure who's been playing with his name. Mostly I've seen love for him. People calling him MVP and such. Jazz account but I can still respect how amazing he's been this year. Especially tonight \ud83d\udd25 #Suns https://t.co/44xInKolPL",
+        "created_at": "2022-03-25 06:38:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507210846702759936,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507243589633339393,
+        "text": "@1280Josh Mitchell wins us game too. But yes bogey is clutch",
+        "created_at": "2022-03-25 06:30:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1260969618,
+        "referenced_tweets": {
+            "id": 1507243250389712898,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507216677066326022,
+        "text": "Donovan Mitchell has improved his PER every season:\n16.7 -&gt; 17.2 -&gt; 18.8 -&gt; 21.3 -&gt; 22.2\nAlso has improved his TS% every year other than his sophomore year:\n54.1% -&gt; 53.7% -&gt; 55.8% -&gt; 56.9% -&gt; 57.9%\nThe sky is the limit for Donovan Mitchell https://t.co/I7ETwEjyTo",
+        "created_at": "2022-03-25 04:43:53+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 1,
+            "like_count": 18,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507193548709408801,
+        "text": "RT @WorldWideWob: \u201cjust sent the man to the Metaverse\u201d https://t.co/esxXftYXUV",
+        "created_at": "2022-03-25 03:11:58+00:00",
+        "public_metrics": {
+            "retweet_count": 1510,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507170965939056641,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507190110986547239,
+        "text": "@Mo_13_Mo @ROSGO21 He's playing one heck of a game right now. Tune in",
+        "created_at": "2022-03-25 02:58:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 935847638,
+        "referenced_tweets": {
+            "id": 1507188503230132237,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507189544524820480,
+        "text": "@Mo_13_Mo @ROSGO21 Easily fact checkable. She says he's not top 10 in scoring. He isn't. He's 11th. 37th in assists. 83rd in rebounds. That's not going to get you mvp",
+        "created_at": "2022-03-25 02:56:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 935847638,
+        "referenced_tweets": {
+            "id": 1507188503230132237,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507180080908316680,
+        "text": "RT @DraftDummies: Ok, Trey Murphy. Sheesh https://t.co/XELnDVi05T",
+        "created_at": "2022-03-25 02:18:27+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507175029712191489,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507168740990877699,
+        "text": "@meatstillgrowin She never said that. She just said he's not as impactful or good at defense as Giannis or Embiid",
+        "created_at": "2022-03-25 01:33:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1126994043500580864,
+        "referenced_tweets": {
+            "id": 1507168068698525700,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507168151053631493,
+        "text": "@joefiggigy @TatUMSzn000 @SpencerKeele @chakoop69 @DeanScorpion_ https://t.co/0zL5GXmPqw",
+        "created_at": "2022-03-25 01:31:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1189703129543118849,
+        "referenced_tweets": {
+            "id": 1507167097847222274,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507158300357324800,
+        "text": "@TatUMSzn000 @SpencerKeele @chakoop69 @DeanScorpion_ Tatum is top 15. Mitchell and Booker are right behind him",
+        "created_at": "2022-03-25 00:51:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1203715937381343235,
+        "referenced_tweets": {
+            "id": 1507142878555951114,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507157751184588828,
+        "text": "@HallieOop Every time I think NBA refs are bad, then watch March madness and realize how blessed we are that NBA refs are competent",
+        "created_at": "2022-03-25 00:49:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 991557323238723587,
+        "referenced_tweets": {
+            "id": 1507157285847531532,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507156478234300416,
+        "text": "11th in scoring\nAnd he's 37th in assists so I'll give you that\nAlso, her saying he's not the defender that Embiid is or Giannis is, is accurate https://t.co/XNdbF1yO1H https://t.co/kSYctnEemb",
+        "created_at": "2022-03-25 00:44:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507154215449337862,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507154864492621825,
+        "text": "So I'm all in on Chet\n#Gonzaga #MarchMadness https://t.co/Y8uwCXpb3m",
+        "created_at": "2022-03-25 00:38:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507153492560936962,
+        "text": "RT @utjazzmuse: Bojan \"the closer\" Bogdanovic. Get healthy soon. #TakeNote #NBATwitter https://t.co/3DjJhO65WM",
+        "created_at": "2022-03-25 00:32:48+00:00",
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507080563072520193,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507153419324125185,
+        "text": "RT @DraftDummies: JD Notae might just get 30 shots up tonight lol",
+        "created_at": "2022-03-25 00:32:31+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507153272221564947,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507146643342209027,
+        "text": "@HallieOop Refs are terrible too",
+        "created_at": "2022-03-25 00:05:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 991557323238723587,
+        "referenced_tweets": {
+            "id": 1507143136111259649,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507138883271553041,
+        "text": "@funnyNphat @ROSGO21 \ud83e\udd28\ud83e\udd14",
+        "created_at": "2022-03-24 23:34:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1259609486018244609,
+        "referenced_tweets": {
+            "id": 1507137138533363727,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507136317838094340,
+        "text": "@funnyNphat @ROSGO21 Based on?",
+        "created_at": "2022-03-24 23:24:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1259609486018244609,
+        "referenced_tweets": {
+            "id": 1507131543029837836,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507128858876604428,
+        "text": "@BBallBecka That's gotta be heart breaking",
+        "created_at": "2022-03-24 22:54:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1446579108134019072,
+        "referenced_tweets": {
+            "id": 1507127790071533570,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507118557926027264,
+        "text": "Very false. There's like 8 team with a real chance to win the title this year. I would say no one is a heavy favorite to win it all, so no big disappointments if they don't win https://t.co/KP4xz8HqXl",
+        "created_at": "2022-03-24 22:13:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507061669448540163,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507103986536525824,
+        "text": "Fun Stat of the Day: Joe Ingles tied his career high, 27 points, 6 different times before finally breaking it on 3/18/2021 with 34 and 8 made 3 pointers. Jazz legend https://t.co/m3tyDcdO9f",
+        "created_at": "2022-03-24 21:16:05+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507080563072520193,
+        "text": "Bojan \"the closer\" Bogdanovic. Get healthy soon. #TakeNote #NBATwitter https://t.co/3DjJhO65WM",
+        "created_at": "2022-03-24 19:43:01+00:00",
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 5,
+            "like_count": 170,
+            "quote_count": 3
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507077868131536931,
+        "text": "Utes and UVU Wolverines getting out partied by BYU..? https://t.co/yvJT7fe540",
+        "created_at": "2022-03-24 19:32:18+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507010040355438592,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507077116323516438,
+        "text": "@NetsMuse I think he gets limited minutes especially in b2bs because of age and injury",
+        "created_at": "2022-03-24 19:29:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1504087102564323336,
+        "referenced_tweets": {
+            "id": 1507019220642525193,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507070824943013901,
+        "text": "Am I crazy to think mavericks is the best first round matchup out of the 3 most likely: Twolves, Nuggets, Mavs. Maybe nuggets are easier because jokic is their whole team? https://t.co/s1Lx3JU5Ym",
+        "created_at": "2022-03-24 19:04:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507063514011103232,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507068058266849289,
+        "text": "2 minutes of research would show this is ridiculous. I could throw a lot out there, but let's just do eFG%: Steph Curry 59.4%. Devin Booker 52.3% https://t.co/cAsgDJt8Dk",
+        "created_at": "2022-03-24 18:53:19+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506825370808438789,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507065584827060237,
+        "text": "Where was this love for Donovan Mitchell last year then? Jazz had the best record and one of the best point differentials in nba history while spida averaged 26/4/5. 0 votes for top 5 mvp https://t.co/jR3zNjPeKm",
+        "created_at": "2022-03-24 18:43:30+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507032805078822914,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507065049898110985,
+        "text": "RT @TheNBACentral: \u201cIt\u2019s the same thing we heard about Kevin Durant when he was entering the NBA. He can\u2019t lift 135 pounds, but he can shoo\u2026",
+        "created_at": "2022-03-24 18:41:22+00:00",
+        "public_metrics": {
+            "retweet_count": 704,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506998455008468995,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507058955956080653,
+        "text": "@ronmexicocan @SpencerKeele This is very true and why I think jokic is the clear mvp. But not everyone agrees with us",
+        "created_at": "2022-03-24 18:17:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 923077892451512320,
+        "referenced_tweets": {
+            "id": 1507049977108783111,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507058743661371397,
+        "text": "@ronmexicocan @SpencerKeele But you can't guarantee that because voters have proven time after time that they have a bias. Either to their local teams or big market teams they see play more. Or to a narrative they latch on to. Or to not want to vote for a repeat mvp",
+        "created_at": "2022-03-24 18:16:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 923077892451512320,
+        "referenced_tweets": {
+            "id": 1507050389761187845,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507046127199084551,
+        "text": "@ronmexicocan @SpencerKeele It does make sense because there's precedent. I'm just saying that shouldn't matter this year because jokic is without his second and third best player and the records are so close that I don't think seeding should matter",
+        "created_at": "2022-03-24 17:26:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 923077892451512320,
+        "referenced_tweets": {
+            "id": 1507042365256585217,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507040975486476295,
+        "text": "@SpencerKeele 45-27 and 43-30 aren't that different. Jokic is averaging 26, 13.6, and 8. While shooting 57%. Nuggets roster around jokic is much worse than bucks and sixers yet only 2.5 separate them.",
+        "created_at": "2022-03-24 17:05:42+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 860957966,
+        "referenced_tweets": {
+            "id": 1507039588652515330,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507037929855614978,
+        "text": "RT @utjazzmuse: Mitchell was incredible tonight against the NBA's best defense, the Boston Celtics. Enjoy his full game highlights and forg\u2026",
+        "created_at": "2022-03-24 16:53:36+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506882100942704640,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506882100942704640,
+        "text": "Mitchell was incredible tonight against the NBA's best defense, the Boston Celtics. Enjoy his full game highlights and forget about how bad we lost! #TakeNote #Utah #UtahJazz https://t.co/ym4UbT2jhB",
+        "created_at": "2022-03-24 06:34:24+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506878575575646209,
+        "text": "The Utah Jazz as a team had the same amount of assists as Marcus Smart. 13!  If you're trying to find out the teams issues, look no further. Ball needs to move and people need to work to get open https://t.co/O375YsQj6T",
+        "created_at": "2022-03-24 06:20:23+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506856345420632064,
+        "text": "Jazz play the Hornets next. Games on Friday. On the road. Badly need a win because we have mavericks after that",
+        "created_at": "2022-03-24 04:52:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506838622003097600,
+        "text": "@tiffanee_dawn Just gotta get it now and hope we win in the next couple years",
+        "created_at": "2022-03-24 03:41:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 221904068,
+        "referenced_tweets": {
+            "id": 1506838431174782983,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506838219249254405,
+        "text": "@tiffanee_dawn Did you get the tattoo anyway?",
+        "created_at": "2022-03-24 03:40:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 221904068,
+        "referenced_tweets": {
+            "id": 1506838118233620485,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506833248118210560,
+        "text": "@HallieOop Celtics did it. Maybe we can too... Maybe",
+        "created_at": "2022-03-24 03:20:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 991557323238723587,
+        "referenced_tweets": {
+            "id": 1506833027837554690,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506832959344549896,
+        "text": "If Gafford were on a better team and system I think he would have broken out https://t.co/XGNGzJTIIW",
+        "created_at": "2022-03-24 03:19:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506832681111150592,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506826987540676614,
+        "text": "\"We just gotta fucking win. I ain't got nothing else to say.\" - Donovan Mitchell. \nWonder how he's really feeling. Upset with teammates? Upset with himself? Whatever it is hopefully it gets figured out. This should be a good look in the mirror type moment for everyone https://t.co/fbsXDKT2ZH",
+        "created_at": "2022-03-24 02:55:23+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506818978563309574,
+        "text": "Don't do this to our hearts. We miss you Joe https://t.co/3zHrB6BQxk",
+        "created_at": "2022-03-24 02:23:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506793717419585536,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506809564561244162,
+        "text": "4 straight 30 point games for Mitchell. 37 tonight. He was the bright spot https://t.co/jd1CsWVGcm",
+        "created_at": "2022-03-24 01:46:10+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 29,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506807688365166592,
+        "text": "I'm excited to see naw and butler play alongside each other here. They're basically our only young talent other than mitchell. Both have shown flashes this season https://t.co/Ix8Bwx6BEG",
+        "created_at": "2022-03-24 01:38:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506806861491695625,
+        "text": "@KeithGrant09 @jaytatum0 @spidadmitchell @rudygobert27 Significantly bettet",
+        "created_at": "2022-03-24 01:35:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 989797831,
+        "referenced_tweets": {
+            "id": 1506805531868024834,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506805506014281728,
+        "text": "My favorite Mitchell move right here. The full arm extension to avoid defenders. Underrated layup package https://t.co/fkAIOHFm4P",
+        "created_at": "2022-03-24 01:30:02+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506805334584619012,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506805244553879552,
+        "text": "@Cameroon19 @DustinT_NBA Just only watch Mitchell's highlights from tonight and everyone will feel better",
+        "created_at": "2022-03-24 01:29:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 386935517,
+        "referenced_tweets": {
+            "id": 1506804602426957827,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506804388538437632,
+        "text": "@UtahJazz6Man \ud83d\udc80\ud83d\udc80\ud83d\udc80",
+        "created_at": "2022-03-24 01:25:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 847925946237689856,
+        "referenced_tweets": {
+            "id": 1506793227604557824,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506803236065271810,
+        "text": "Celtics will only have a half game better record than the jazz after this game, but it's hard to feel like we're anywhere near where they are right now. Something needs to change between now and the first round of the playoffs https://t.co/s57n9uEYLA",
+        "created_at": "2022-03-24 01:21:01+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506801043975286784,
+        "text": "I expect quin to bench the starters soon but Mitchell is at 30 on only 21 fga https://t.co/pKpCz1cyoU",
+        "created_at": "2022-03-24 01:12:18+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506797865472978946,
+        "text": "Gonna be positive the rest of the game. Jazz nation needs it. Donovan Mitchell is a superstar. His offense has been phenomenal. 10/16 for 25 points. Hasn't missed a FT https://t.co/PjPtzDij2B",
+        "created_at": "2022-03-24 00:59:40+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506793761870790656,
+        "text": "@Celtics_Muse \ud83d\ude4f\ud83c\udffe",
+        "created_at": "2022-03-24 00:43:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506036583396429832,
+        "referenced_tweets": {
+            "id": 1506793550519885826,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506793663459852289,
+        "text": "73% of the Celtics shots outside the pain have come with 3 or more feet of space. This isn't true but you believed it because it's been that easy for them https://t.co/nIbZAv0ykx",
+        "created_at": "2022-03-24 00:42:58+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506792338651115523,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506792652431245312,
+        "text": "@Celtics_Muse Can y'all chill",
+        "created_at": "2022-03-24 00:38:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506036583396429832,
+        "referenced_tweets": {
+            "id": 1506792494641696769,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506792319785218048,
+        "text": "@JazzNationNews Not fun",
+        "created_at": "2022-03-24 00:37:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1161119671,
+        "referenced_tweets": {
+            "id": 1506791675342954498,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506791849507233792,
+        "text": "Down 23 at the half. 68-45. This one is probably over but at least Donovan Mitchell appears to be on his way to another 30 point game",
+        "created_at": "2022-03-24 00:35:46+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506789557764694023,
+        "text": "All us fans asked for at the deadline was some defensive help. Instead we got nothing. We're still a good team. But we could have been great https://t.co/ghd910BK8t",
+        "created_at": "2022-03-24 00:26:40+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506786529640951817,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506789126745456640,
+        "text": "Jokes btw. I'm gonna watch til the end",
+        "created_at": "2022-03-24 00:24:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506090005407567872,
+        "referenced_tweets": {
+            "id": 1506788600104378368,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506788600104378368,
+        "text": "So jazz nation, any good movie/show suggestions. Rest of my night just freed up #utahjazz #takenote #Celtics https://t.co/iXriNBoDfn",
+        "created_at": "2022-03-24 00:22:51+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506786462406103043,
+        "text": "Feels like it's the 71st time https://t.co/lHuOKA9WeV",
+        "created_at": "2022-03-24 00:14:22+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506784719270289414,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506784878578180098,
+        "text": "@CollegeJazz We're not dead if we get healthy against Phoenix",
+        "created_at": "2022-03-24 00:08:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 801886138432524288,
+        "referenced_tweets": {
+            "id": 1506783560924946433,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506783437792821250,
+        "text": "@davidjsmith1232 Would be great to stage a huge come back and get the people talking",
+        "created_at": "2022-03-24 00:02:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 25782605,
+        "referenced_tweets": {
+            "id": 1506782927463469057,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506782803706347523,
+        "text": "Time to change this (deserved) narrative. 10 games left. Let's go Jazz https://t.co/9PMyMDThEa",
+        "created_at": "2022-03-23 23:59:49+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506782284241948674,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506782390911348740,
+        "text": "Starting a game off 6/6 from 3 is a Steph curry stat. Not the entire Celtics team. At least we're only down 15?",
+        "created_at": "2022-03-23 23:58:11+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506780919952142336,
+        "text": "So the jazz are not playing well at all. But it's tough to compete against perfection which Boston has been so far. 0 missed shots. Boston celtics' turn around this season has been unreal https://t.co/iO4p4Y7Y7a",
+        "created_at": "2022-03-23 23:52:20+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 11,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506777272073613315,
+        "text": "RT @DraftDummies: Here's your nightly, ridiculous, coast to coast dunk from Jaden Ivey\n\nThe defense is back and it just doesn't matter at a\u2026",
+        "created_at": "2022-03-23 23:37:50+00:00",
+        "public_metrics": {
+            "retweet_count": 64,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473102965128892417,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506771523134140417,
+        "text": "@epaschall Eric Paschall getting the start tonight https://t.co/a0NuMfyh5d",
+        "created_at": "2022-03-23 23:15:00+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 207723015,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506762378834153477,
+        "text": "@HallieOop It's not Christmas tho",
+        "created_at": "2022-03-23 22:38:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 991557323238723587,
+        "referenced_tweets": {
+            "id": 1506761671431188480,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506747132757241860,
+        "text": "@stevejones20 All the talent in the world",
+        "created_at": "2022-03-23 21:38:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 39927213,
+        "referenced_tweets": {
+            "id": 1506462466141736966,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506744350247583748,
+        "text": "@JazzCultureBR Ele \u00e9 importante para nos. Precisamos estar saudaveis",
+        "created_at": "2022-03-23 21:27:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1372718718506139656,
+        "referenced_tweets": {
+            "id": 1506743934516609027,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506743652894183427,
+        "text": "@BostonStrongBR @UtahJazzBrasil @tdgarden @NBA Uma boa prova antes dos playoffs",
+        "created_at": "2022-03-23 21:24:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1120744332905066497,
+        "referenced_tweets": {
+            "id": 1506742909286158336,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506739558259470343,
+        "text": "Bojan Bogdanovic's last 5 games he's averaging: 23 ppg, 4 rpg, and 2 apg\nOn great shooting 49/51/90 (fg/3pt/ft)\nCan't wait for him to be back healthy \ud83d\udd25 https://t.co/v6RcH2xQk3",
+        "created_at": "2022-03-23 21:07:59+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 81,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506732102833750025,
+        "text": "The tank is real. Save some effort by saying left for everything https://t.co/RtH89gRT4I",
+        "created_at": "2022-03-23 20:38:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506687995856011264,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506718871964688386,
+        "text": "@Dom_2k Basically like Bradley Beal getting traded to pacers",
+        "created_at": "2022-03-23 19:45:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2300503298,
+        "referenced_tweets": {
+            "id": 1506696032331124748,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506716658668167169,
+        "text": "A reminder that Donovan Mitchell is just 6'1, but as Yoda says: Size matters not. #utahjazz #TakeNote @spidadmitchell https://t.co/mF3BguBbNr",
+        "created_at": "2022-03-23 19:36:59+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506713068851531776,
+        "text": "@utahjazz social media team on \ud83d\udd25\nBanger on their tik tok of Mike Conley putting KD on the floor https://t.co/vO4eCKgdgx",
+        "created_at": "2022-03-23 19:22:43+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 18360370,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506711997903097859,
+        "text": "@utahjazz social media team going crazy with these tik toks \ud83d\udd25 Mike Conley put KD on the floor https://t.co/VMFkeE2Sg4",
+        "created_at": "2022-03-23 19:18:28+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 18360370,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506708618732707841,
+        "text": "Don't give up hope jazz nation. We've won 3 of our last 4 and Mitchell is just getting cooking. Let's go Jazz https://t.co/KB7NQiR0XI",
+        "created_at": "2022-03-23 19:05:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506708002119696386,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506707085173551105,
+        "text": "He's the 4th best player to wear a Lakers uniform. So not sure how he could be top 3 all time... https://t.co/c15hFeHXJU",
+        "created_at": "2022-03-23 18:58:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506468540605517825,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506706142579200002,
+        "text": "@statmuse @CHAHornetsMuse If you need any Donovan Mitchell propaganda, I'm here",
+        "created_at": "2022-03-23 18:55:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2772543750,
+        "referenced_tweets": {
+            "id": 1506705048994123776,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506705659814838274,
+        "text": "@HallieOop He's worth the money. He gets the most out of the roster",
+        "created_at": "2022-03-23 18:53:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 991557323238723587,
+        "referenced_tweets": {
+            "id": 1506705512418537472,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506701900695031811,
+        "text": "@BostonStrongBR @UtahJazzBrasil @tdgarden @NBA Mitchel contra Tatum. Vamos ver um bom jogo. Boa sorte!",
+        "created_at": "2022-03-23 18:38:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1120744332905066497,
+        "referenced_tweets": {
+            "id": 1506641914845663236,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506699687813779463,
+        "text": "@TheHoopCentral He's currently 11th in the league in scoring. To go with 5 rpg and 5 apg. That just doesn't get you into the mvp conversation when guys like jokic are averaging 26, 14, and 8 on better efficiency",
+        "created_at": "2022-03-23 18:29:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3022889996,
+        "referenced_tweets": {
+            "id": 1506414579076661250,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506698222219108352,
+        "text": "@statmuse @CHAHornetsMuse W",
+        "created_at": "2022-03-23 18:23:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2772543750,
+        "referenced_tweets": {
+            "id": 1506694721543974914,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506697806358069251,
+        "text": "Jazz defensive rating without gobert on floor: 120.8\nJazz defense with gobert on the floor:\n102.6\nSeems like he's gonna be 4x dpoy to me\n#TakeNote https://t.co/SW8iHD0iha",
+        "created_at": "2022-03-23 18:22:04+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506696271737679874,
+        "text": "Warriors giving the Jazz even more reason to go all out down the stretch. Just need to make up 2 games. Could get one tonight. We don't want to be the 4 seed. https://t.co/xWVfHuyTgw",
+        "created_at": "2022-03-23 18:15:58+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506685257663320083,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506671678692093956,
+        "text": "Donovan Mitchell is just 132 three pointers made from becoming the jazz's all time franchise leader. He averages 3.6 per game so it should take 37 more games for him to pass Joe Ingles",
+        "created_at": "2022-03-23 16:38:15+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 22,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506516891455479809,
+        "text": "@nuggets W",
+        "created_at": "2022-03-23 06:23:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 26074296,
+        "referenced_tweets": {
+            "id": 1506486402346672131,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506495616867741697,
+        "text": "@M2Semple @SpencerKeele Lmao Draymond!?",
+        "created_at": "2022-03-23 04:58:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3296831411,
+        "referenced_tweets": {
+            "id": 1506494928435752962,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506463604924575746,
+        "text": "Avoids the rim protector with the HIGH floater. incredible stuff from spida #TakeNote https://t.co/buMvA3Od1R",
+        "created_at": "2022-03-23 02:51:26+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506462441466589185,
+        "text": "@HallieOop Said he was still gonna win dpoy",
+        "created_at": "2022-03-23 02:46:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 991557323238723587,
+        "referenced_tweets": {
+            "id": 1506455556050984961,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506457157239119875,
+        "text": "@DrGuru_ But he has a better team and is sub .500",
+        "created_at": "2022-03-23 02:25:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1111768307886145537,
+        "referenced_tweets": {
+            "id": 1506447851584466944,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506451580886786053,
+        "text": "Donovan Mitchell has been extending his range more and more as his career goes along. Also becoming elite on off the screen pull ups as seen here. https://t.co/qk0u44MhmI",
+        "created_at": "2022-03-23 02:03:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506447960678096900,
+        "text": "@alchimistballer I think it will be soon",
+        "created_at": "2022-03-23 01:49:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1176913978070638593,
+        "referenced_tweets": {
+            "id": 1506447126993285121,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506445110673772545,
+        "text": "The Jazz getting closer to the 3 seed with the warriors loss to the magic. A win tomorrow at Boston would leave them just 1.5 games back with 9 games to go",
+        "created_at": "2022-03-23 01:37:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506444021702410244,
+        "text": "@ORLmuse @OrlandoMagic Dynasty",
+        "created_at": "2022-03-23 01:33:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 33,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506015876780335104,
+        "referenced_tweets": {
+            "id": 1506443791477223425,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506439952153800706,
+        "text": "The Utah Jazz lead the NBA in offensive rating at 116.2. The Jazz also lead the NBA in efg%. Say what you want about Quin Snyder, but he's done nothing but good for this team and this franchise. Not liking the reports he might leave\ud83d\ude45\ud83c\udffe https://t.co/pgsHlP6CZQ",
+        "created_at": "2022-03-23 01:17:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

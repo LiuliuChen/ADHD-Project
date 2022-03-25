@@ -1,0 +1,95 @@
+[
+    {
+        "tweet_id": 1507068087601934347,
+        "text": "@hbomax Hey I'm looking to get HBO because you guys have Our Flag Means Death. Is there a season 2 coming? If yes I'll get it right away",
+        "created_at": "2022-03-24 18:53:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 89090040,
+        "referenced_tweets": {
+            "id": 1507054648779321348,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506988086202454016,
+        "text": "@PARKCHANWCCK It's all gay",
+        "created_at": "2022-03-24 13:35:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 905759216,
+        "referenced_tweets": {
+            "id": 1506987557220982798,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501000584027123714,
+        "text": "@solaropposites When is season 3??? Please baby girl I'm desperate",
+        "created_at": "2022-03-08 01:03:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1034477913234583552,
+        "referenced_tweets": {
+            "id": 1495797263612145665,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496290198422011905,
+        "text": "@MythicalChef Why do you looks so much like vigilante??? \ud83e\udddc\u200d\u2642\ufe0f",
+        "created_at": "2022-02-23 01:05:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1653650822,
+        "referenced_tweets": {
+            "id": 1496242798076776449,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480325354699079680,
+        "text": "@SHO_Dexter Cancelling my @Showtime tonight. Absolute vile garbage. What a way to say you think the fans are stupid scum",
+        "created_at": "2022-01-09 23:47:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15458833,
+        "referenced_tweets": {
+            "id": 1479934127864524803,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480311561331916800,
+        "text": "#dexter #DexterNewBlood what a way to say \"fuck you\" to the fans. Why couldn't @Showtime just tell us they hated us and left it. There was no need to heap vile hatred at us by giving us a horrific ending. You really couldn't let us have a happy ending after a pandemic. Disgusting",
+        "created_at": "2022-01-09 22:52:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

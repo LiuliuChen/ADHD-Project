@@ -1,0 +1,73 @@
+[
+    {
+        "tweet_id": 1507068282674765831,
+        "text": "I want to b\nhttps://t.co/lTi4BzCmiX\n \nGive me a liter\n\u00ef\u00bb\u00bf https://t.co/4Jrllr0RGV",
+        "created_at": "2022-03-24 18:54:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507068186755223565,
+        "text": "What's heartbreaking isn't that we can't be together. It'\u061f\n?\n \nI\n  \u0646\u0648\u0646\n  \nhttps://t.co/vDnLWQ6bzR",
+        "created_at": "2022-03-24 18:53:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1507067703781171201,
+        "referenced_tweets": {
+            "id": 1507068167033659401,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068167033659401,
+        "text": "To be happy, think about happiness,\nI'll just have them change the entry in the demonology \n\nCOPY : KM11\nCOPY : KM11\nCOPY : KM11\nCOPY : KM11\nhttps://t.co/rLNegfDI4G https://t.co/vXAHgFvLMf",
+        "created_at": "2022-03-24 18:53:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507068109886210053,
+        "text": "For the Javanese...the purpose of knowledge (kaweruh) i\u061f? \nI  \u0646\u0645\u0634\u064a   \nhttps://t.co/vDnLWQ6bzR",
+        "created_at": "2022-03-24 18:53:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1507067703781171201,
+        "referenced_tweets": {
+            "id": 1507068079578177541,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068079578177541,
+        "text": "I know the resolution. I know the end of the story \u061f? \nI  \u0646\u0648\u0646 https://t.co/iWEy5d5a5j",
+        "created_at": "2022-03-24 18:53:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

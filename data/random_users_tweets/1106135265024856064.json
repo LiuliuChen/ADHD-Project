@@ -1,0 +1,1392 @@
+[
+    {
+        "tweet_id": 1507068066533978116,
+        "text": "Unfortunately i don\u2019t care anymore.",
+        "created_at": "2022-03-24 18:53:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506955399337025539,
+        "text": "\u0627\u0644\u0644\u0647\u0645 \u0631\u0628 \u0627\u0644\u0633\u064e\u0644\u0627\u0645 \u0647\u0627\u062f\u064a \u0627\u0644\u0623\u0646\u0627\u0645 \u060c \u0623\u0646\u0632\u0644 \u0637\u0645\u0623\u0646\u064a\u0646\u062a\u0643 \u0639\u0644\u0649 \u0643\u064f\u0644 \u062c\u0633\u062f \u0623\u0631\u0647\u0642\u062a\u0647 \u0627\u0644\u062d\u064a\u0627\u0629 \u060c \u0627\u0644\u0644\u0647\u0645 \u0623\u0646\u0632\u0644 \u0639\u0627\u0641\u0650\u064a\u062a\u0643 \u0639\u0644\u0649 \u0643\u064f\u0644 \u0645\u0631\u064a\u0636 \u064a\u0634\u0643\u0648\u0627 \u0627\u0644\u062a\u0639\u0628 \u060c \u0627\u0644\u0644\u0647\u064f\u0645 \u0627\u0634\u0641\u064a \u0643\u0644 \u0645\u0631\u064a\u0636 \u0634\u0641\u0627\u0621 \u0644\u0627 \u064a\u063a\u0627\u062f\u0631 \u0633\u0642\u0645\u0627\u064b ..\n\n\u0627\u0644\u0644\u0647\u0645 \u0627\u0646\u064a \u0641\u0648\u0636\u062a \u0623\u0645\u0631\u064a \u0625\u0644\u064a\u0643",
+        "created_at": "2022-03-24 11:25:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1106135265024856064,
+        "referenced_tweets": {
+            "id": 1497170104861089795,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506945775028346880,
+        "text": "@hhnwd___ .",
+        "created_at": "2022-03-24 10:47:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1497907567502131201,
+        "referenced_tweets": {
+            "id": 1506943588902580224,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506945743826964483,
+        "text": "RT @hhnwd___: \u0642\u0631\u0648\u0628 \u0633\u0648\u0627\u0644\u0641 \ud83c\udde6\ud83c\uddea ( . ) \u0648 \u0631\u062a",
+        "created_at": "2022-03-24 10:47:17+00:00",
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506943588902580224,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506581744534839302,
+        "text": "RT @itsubabyy: \u0627\u0643\u0631\u0647 \u0627\u0633\u0648\u0644\u0641 \u0648\u064a \u062d\u062f \u0628\u062d\u0645\u0627\u0633 \u0648\u064a\u0631\u062f \u0639\u0644\u064a \u0628\u0628\u0631\u0648\u062f",
+        "created_at": "2022-03-23 10:40:53+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506579810415529985,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506519474341613569,
+        "text": "10 people followed me and 8 people unfollowed me // automatically checked by https://t.co/KyThGQIZaP",
+        "created_at": "2022-03-23 06:33:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506472259724185600,
+        "text": "@The4mash .",
+        "created_at": "2022-03-23 03:25:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1385969184388091906,
+        "referenced_tweets": {
+            "id": 1505566175530467331,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506471464094027784,
+        "text": "\u062f\u0627\u0645 \u062d\u0628\u0643 \u0645\u0627\u0644\u0647 \u0627\u0648\u0644 \u0637\u0628\u064a\u0639\u064a \u0645\u0627\u0644 \u0627\u062e\u0631",
+        "created_at": "2022-03-23 03:22:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505664897664880640,
+        "text": "lol everything isn't fine but still smiling",
+        "created_at": "2022-03-20 21:57:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505659851459944449,
+        "text": "\u0646\u0636\u062d\u0643 \u0648\u0646\u062e\u0641\u064a \u0639\u0646 \u0627\u0644\u0639\u0627\u0644\u0645 \u0645\u0648\u0627\u062c\u0639\u0646\u0627 \ud83d\udc94 .",
+        "created_at": "2022-03-20 21:37:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505641221166874627,
+        "text": "Not everyone likes me but not everyone matters.",
+        "created_at": "2022-03-20 20:23:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505606818713767936,
+        "text": "I don't give a shit anymore",
+        "created_at": "2022-03-20 18:06:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505584087460982786,
+        "text": "RT @salsaedi7: randoms https://t.co/hijrOKw33v",
+        "created_at": "2022-03-20 16:36:33+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505241470093205504,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505095078414630912,
+        "text": "I\u2019m tired of loving you and hoping you\u2019ll do the same.",
+        "created_at": "2022-03-19 08:13:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505078825700450308,
+        "text": "7 people followed me and 3 people unfollowed me // automatically checked by https://t.co/KyThGQIZaP",
+        "created_at": "2022-03-19 07:08:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503940413274664961,
+        "text": "Midnight thoughts (will I ever learn?)",
+        "created_at": "2022-03-16 03:45:11+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503939756316663811,
+        "text": "Silly me, expecting to much from people again.",
+        "created_at": "2022-03-16 03:42:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503938903266541570,
+        "text": "Surrounded by people but I still feel so alone",
+        "created_at": "2022-03-16 03:39:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503938533869957122,
+        "text": "Do you ever wonder if anyone actually sees you?  I think I'm a shadow in my own life.  Invisible and unnecessary",
+        "created_at": "2022-03-16 03:37:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503815194178465800,
+        "text": "\u0644\u064a\u0634 \u0627\u0644\u062d\u064a\u0627\u0629 \u0642\u0627\u0633\u064a\u0629 \u0639\u0644\u064a\u0646\u0627\u061f \u0644\u064a\u0634 \u0643\u0644 \u0634\u064a \u0627\u064a\u064a \u0645\u0631\u0647 \u0648\u062d\u062f\u0647\u061f",
+        "created_at": "2022-03-15 19:27:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503736338394320898,
+        "text": "RT @t23v3: \u201c Don't let people know too much about you. \u201c",
+        "created_at": "2022-03-15 14:14:15+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503734874427072514,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503700008339750916,
+        "text": "\u0643\u0644\u0627\u0645 \u0627\u0644\u062d\u0642 \u064a\u0632\u0639\u0644\u061f",
+        "created_at": "2022-03-15 11:49:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503647809895022596,
+        "text": "@znu3imi \u062e\u0644\u0627\u0635 \u0631\u0627\u062d",
+        "created_at": "2022-03-15 08:22:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1082286649223061505,
+        "referenced_tweets": {
+            "id": 1503647682149113861,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503606462668496897,
+        "text": "I cant send anything on dm whhy????",
+        "created_at": "2022-03-15 05:38:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503485563990679553,
+        "text": "a beautiful feeling when someone tells you \u201ci wish i knew you earlier\u201d",
+        "created_at": "2022-03-14 21:37:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502943097977806848,
+        "text": "I am not perfect but I am always real and that is enough",
+        "created_at": "2022-03-13 09:42:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502939548023672840,
+        "text": "I lost myself trying to please everyone else. Now I\u2019m losing everyone while I\u2019m trying to find myself.",
+        "created_at": "2022-03-13 09:28:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502930383993806853,
+        "text": "\u0627\u0639\u0645\u0627\u0631\u0643\u0645 \u0645\u0646 15 \u0644\u064a\u0646 18 \u0648\u062a\u0633\u0648\u0646 \u0641\u064a\u0647\u0627 \u0627\u0646\u062a\u0648 \u0627\u0644\u062d\u0628\u064a\u0628\u0647 \u0648\u0628\u0639\u062f\u064a\u0646 \u064a\u0633\u0648\u0646 \u0627\u0639\u0645\u0627\u0631\u0647\u0645 \u0647\u0645 \u0627\u0644\u0645\u062c\u0631\u0648\u062d\u064a\u0646 \u0627\u0644\u0644\u064a \u0645\u062d\u062f \u064a\u062d\u0628\u0647\u0645 \u0639\u0644\u0649 \u0627\u0633\u0627\u0633 \u0643\u0627\u0646 \u0645\u062a\u0648\u0642\u0639 \u0627\u0646 \u0628\u062a\u0643\u0648\u0646 \u0627\u0644\u0646\u0647\u0627\u064a\u0629 \u0641\u0644\u0645 \u0631\u0648\u0645\u0646\u0633\u064a \u0648\u0627\u0646\u0643\u0645 \u0628\u062a\u062a\u0632\u0648\u062c\u0648\u0646 \u062a\u0631\u0627 \u0645\u0628 \u0627\u064a \u062d\u062f \u0642\u0627\u0644\u0643 \u0643\u0644\u0627\u0645 \u062d\u0644\u0648 \u062e\u0644\u0627\u0635 \u062a\u062a\u0639\u0644\u0642 \u0641\u064a\u0647 \u0639\u0627\u062f\u064a \u0645\u062b\u0644 \u0645\u0627 \u062d\u0628\u0648\u0643\u0645 \u0639\u0634\u0627\u0646 \u0643\u0644\u0627\u0645\u0643\u0645 \u0627\u0644\u062d\u0644\u0648 \u0628\u064a\u064a \u063a\u064a\u0631\u0643\u0645 \u0648\u0628\u064a\u0642\u0648\u0644 \u0643\u0644\u0627\u0645 \u0627\u062d\u0644\u0649 \u0648\u0628\u064a\u0633\u062d\u0628\u0648\u0646 \u0639\u0644\u064a\u0643\u0645",
+        "created_at": "2022-03-13 08:51:41+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502774994400645124,
+        "text": "pretending to be fine when I am struggling.",
+        "created_at": "2022-03-12 22:34:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502773366956171266,
+        "text": "I don\u2019t know wtf I feel anymore",
+        "created_at": "2022-03-12 22:27:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502736197654880264,
+        "text": "RT @mryo0mvip: \u0634\u0648\u0641 \u0627\u0644\u062c\u0628\u0644 \u0648\u0627\u0642\u0641 \u0648 \u0644\u0627 \u0647\u0632\u062a\u0647 \u0631\u064a\u062d \ud83d\udc9c #\u0646\u0627\u062f\u064a_\u0627\u0644\u0639\u064a\u0646 https://t.co/9wbL3i4SrO",
+        "created_at": "2022-03-12 20:00:03+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502726140200374278,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502391688811192321,
+        "text": "\u0645\u0646 \u0643\u062b\u0631 \u0627\u0644\u0644\u064a \u062c\u0631\u062d\u0648\u0646\u064a \u0645\u0627 \u0627\u0630\u0643\u0631\u0647\u0645",
+        "created_at": "2022-03-11 21:11:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502017636758167557,
+        "text": "\u0627\u0647 \u0645\u0646 \u0634\u064a\u0621\u064d \u0628\u0642\u0644\u0628\u064a \u0639\u0646 \u0627\u0644\u0646\u0627\u0633 \u0645\u0633\u062a\u0648\u0631 .",
+        "created_at": "2022-03-10 20:24:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502012114583621637,
+        "text": "\u0639\u0644\u0649 \u0630\u0645\u0647 \u0627\u0644\u0646\u0633\u064a\u0627\u0646 .. \u062e\u0644\u0650\u064a\u062a\u0644\u0643 \u0630\u0643\u0631\u0649 .",
+        "created_at": "2022-03-10 20:02:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501661311226236938,
+        "text": "I\u2019d say go to hell, but I never want to see you again.",
+        "created_at": "2022-03-09 20:48:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500575642752008198,
+        "text": "Share songs with me when u have nothing to say",
+        "created_at": "2022-03-06 20:54:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500440487873945604,
+        "text": "\u0633\u064a\u0623\u062a\u064a \u0627\u0644\u0639\u0648\u0636\u060c \u0627\u0644\u0639\u0648\u0636 \u0627\u0644\u0630\u064a \u0644\u0627 \u0646\u0639\u0644\u0645\u064f \u0645\u062f\u0627\u0647 \u0648\u0644\u0627 \u0646\u062a\u0642\u0646 \u062d\u062c\u0645 \u062a\u062f\u0628\u064a\u0631\u0647\u060c \u0641\u0642\u0637 \u0646\u0624\u0645\u0646\u064f \u0628\u0647 \u0643\u064a\u0641\u0645\u0627 \u0643\u0627\u0646\u060c \u0648\u0639\u0644\u0649 \u0623\u064a \u0634\u0627\u0643\u0644\u0629\u064d \u0623\u062a\u0649\u061b \u0641\u0642\u0637 \u0644\u0623\u0646\u0647 \u0645\u0646 \u0627\u0644\u0644\u0647",
+        "created_at": "2022-03-06 11:57:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500233002617647105,
+        "text": "\u0648\u0634 \u062d\u064a\u0644\u0629 \u0627\u0644\u0645\u0634\u062a\u0627\u0642 \u061f\u061f",
+        "created_at": "2022-03-05 22:13:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500206527788974083,
+        "text": "\u0623\u0635\u0639\u0628 \u0645\u0627 \u064a\u0645\u0643\u0646 \u0623\u0646 \u064a\u0643\u0648\u0646 \u0641\u064a \u0647\u0630\u0647 \u0627\u0644\u062d\u064a\u0627\u0629 \u0623\u0646 \u062a\u0641\u0627\u0631\u0642 \u0645\u0646 \u062a\u062d\u0628 \u062f\u0648\u0646 \u0623\u0646 \u062a\u0648\u062f\u0639\u0647\u060c \u0648\u062f\u0648\u0646 \u0623\u0646 \u062a\u0639\u0644\u0645 \u0628\u0645\u0648\u0639\u062f \u0631\u062d\u064a\u0644\u0647.",
+        "created_at": "2022-03-05 20:28:03+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500194738670129174,
+        "text": "@ra72_ \ud83d\udc94\ud83c\udfc3\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude02",
+        "created_at": "2022-03-05 19:41:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 766591454798090240,
+        "referenced_tweets": {
+            "id": 1500116426514124801,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499697113462095873,
+        "text": "Take my advice, I don't use it",
+        "created_at": "2022-03-04 10:43:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499693761965834241,
+        "text": "I love you, that means I\u2019m not just here for the pretty parts. I\u2019m here no matter what.",
+        "created_at": "2022-03-04 10:30:30+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499693663466803200,
+        "text": "Sometimes what you\u2019re most afraid of doing the very thing that will set you free.",
+        "created_at": "2022-03-04 10:30:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499690379834273797,
+        "text": "@_9aiet @7_hlv @Ma__yj @_qih0 @_s9ki \u0627\u0646\u0627\u061f \u0641\u062f\u064a\u062a\u0646\u064a \u0648\u0627\u0644\u0644\u0647",
+        "created_at": "2022-03-04 10:17:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 826987512006598658,
+        "referenced_tweets": {
+            "id": 1499664434565992448,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499385381950685185,
+        "text": "@ranaixv @privzg @tmii11x @iBinA__ @zm_bty \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-03 14:05:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1398655708338417664,
+        "referenced_tweets": {
+            "id": 1499385286043713540,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499385168473346055,
+        "text": "@ranaixv @privzg @tmii11x @iBinA__ @zm_bty \u0647\u0630\u064a \u0634\u0648 \u062a\u0628\u0627 \u0643\u0644 \u0645\u0643\u0627\u0646 \u0637\u0627\u0644\u0639\u062a\u0644\u064a",
+        "created_at": "2022-03-03 14:04:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1398655708338417664,
+        "referenced_tweets": {
+            "id": 1499384953024311298,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499374523854032903,
+        "text": "\u0627\u0644\u0639\u0634\u0631\u0647 \u0645\u0627 \u062a\u0647\u0648\u0646 \u0627\u0644\u0627 \u0639\u0644\u0649 \u0627\u0628\u0646 \u0627\u0644\u062d\u0631\u0627\u0645",
+        "created_at": "2022-03-03 13:21:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499359534581575680,
+        "text": "@ranaixv \u062e\u0644\u0627\u0635 \u0648\u0644\u0627 \u062a\u0632\u0639\u0644\u064a\u0646 \u064a\u0648\u0631 \u0645\u0627\u064a \u0643\u0631\u0627\u0634",
+        "created_at": "2022-03-03 12:22:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1398655708338417664,
+        "referenced_tweets": {
+            "id": 1499359111531868160,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499358214726426635,
+        "text": "@ranaixv \u064a\u0644\u0627 \u062a\u062e\u0633\u064a\u0646 \u0645\u0627\u0639\u0646\u062f\u064a \u0634\u063a\u0644\u0647 \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-03 12:17:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1398655708338417664,
+        "referenced_tweets": {
+            "id": 1499358073181581312,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499357939139706884,
+        "text": "\u062d\u0628\u064a\u0628\u064a \u0634\u0646\u0648 \u0641\u064a \u062e\u0644\u0635\u0648 \u0627\u0644\u0646\u0627\u0633",
+        "created_at": "2022-03-03 12:16:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1106135265024856064,
+        "referenced_tweets": {
+            "id": 1499357693592571904,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499357693592571904,
+        "text": "My Twitter Crush is: @ranaixv\n\nFind yours at https://t.co/CMZDkF1SrJ",
+        "created_at": "2022-03-03 12:15:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498902512665075714,
+        "text": "@ranaixv \u0628\u0633 \u062a\u0631\u062a\u064a\u0628 \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-02 06:06:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1398655708338417664,
+        "referenced_tweets": {
+            "id": 1498902366850281472,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498902090797789189,
+        "text": "@ranaixv \u062a\u0639\u0631\u0641\u064a\u0646 \u0645\u062d\u0644 \u064a\u0628\u064a\u0639\u0647\u0645\u061f",
+        "created_at": "2022-03-02 06:04:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1398655708338417664,
+        "referenced_tweets": {
+            "id": 1498901843866701826,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498901677738496000,
+        "text": "@ranaixv \u0643\u0644\u0646\u0627 \u0646\u062d\u062a\u0627\u062c \u0647\u0644 \u0634\u062e\u0635",
+        "created_at": "2022-03-02 06:03:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1398655708338417664,
+        "referenced_tweets": {
+            "id": 1498900526846681089,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498875191673430024,
+        "text": "I am very much in love with no one in particular.",
+        "created_at": "2022-03-02 04:17:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498874098952323074,
+        "text": "Having supportive, nontoxic people\nin your life is such a blessing.",
+        "created_at": "2022-03-02 04:13:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498596455572979714,
+        "text": "RT @3ammerrr: Fuck school",
+        "created_at": "2022-03-01 09:50:12+00:00",
+        "public_metrics": {
+            "retweet_count": 29,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498596344612765696,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498574898075213827,
+        "text": "-          \u064a\u0640\u0640\u0627 \u0632\u0645\u0640\u0640\u0646 \u063a\u0640\u062f\u0627\u0631 \u0648\u064a\u0640\u0640\u0646 \u0627\u0644\u0640\u0640\u0648\u0627\u0641\u0640\u064a\u064a\u0640\u0646       \u061f",
+        "created_at": "2022-03-01 08:24:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498552849856438272,
+        "text": "RT @iSBSaif: \u0627\u0631\u062a\u0641\u0627\u0639 \u0633\u0639\u0631 \u0627\u0644\u0628\u062a\u0631\u0648\u0644 \u0644\u0627 \u064a\u0646\u0633\u064a\u0643\u0645\n\u0645\u0627\u062d\u062f\u062b \u0641\u064a \u0645\u062b\u0644 \u0647\u0630\u0627 \u0627\u0644\u064a\u0648\u0645 1/3:\nhttps://t.co/U29XKsoSQv",
+        "created_at": "2022-03-01 06:56:55+00:00",
+        "public_metrics": {
+            "retweet_count": 25,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498552470695559169,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498495779735961605,
+        "text": "I care but fuck you",
+        "created_at": "2022-03-01 03:10:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 11,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498193789206335488,
+        "text": "6/6 finally done",
+        "created_at": "2022-02-28 07:10:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498078374312480772,
+        "text": "\u0623\u0646\u0627 \u062d\u0631\u0648\u0641\u064a \u062a\u0642\u0635\u064e\u062f\u0643 \u0645\u0646 \u0623\u0648\u064e\u0644\u0643 \u0644\u0640 \u0622\u062e\u0631\u0643.",
+        "created_at": "2022-02-27 23:31:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498077711276945408,
+        "text": "Don\u2019t wander away from yourself to get close to someone else.",
+        "created_at": "2022-02-27 23:28:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498077155070201857,
+        "text": "Please don\u2019t be temporary",
+        "created_at": "2022-02-27 23:26:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497919762977988618,
+        "text": "12 people followed me and 9 people unfollowed me // automatically checked by https://t.co/KyThGQIZaP",
+        "created_at": "2022-02-27 13:01:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497701653486739458,
+        "text": "I am always kidding but i am also always serious. do not underestimate me",
+        "created_at": "2022-02-26 22:34:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497591357661224963,
+        "text": "I\u2019m not scared of loving, I\u2019m scared of losing myself all over again",
+        "created_at": "2022-02-26 15:16:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497356986505175040,
+        "text": "When I will stop giving second chances?",
+        "created_at": "2022-02-25 23:44:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497349927059410946,
+        "text": "now that I think upon why I provide people with the power to ruin me, I realised that it's my \"have to help people\" attitude that's the cause of it all.",
+        "created_at": "2022-02-25 23:16:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497349198190108675,
+        "text": "Fuck the memories that started hunting me again.",
+        "created_at": "2022-02-25 23:14:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497170104861089795,
+        "text": "\u064a\u0627\u0631\u0628 \u0625\u0646 \u0645\u0631\u0636 \u0627\u062e\u064a \u0647\u0632 \u0627\u0636\u0644\u0639\u064a\u060c\u0627\u0644\u0644\u0647\u0645 \u0642\u0648\u0647 \u0648\u0639\u0627\u0641\u064a\u0647 \u0648\u0627\u0639\u0641 \u0639\u0646\u0647\u060c \u0627\u0644\u0644\u0647\u0645 \u0627\u0634\u0641\u064a \u0627\u062e\u064a \u0634\u0641\u0627\u0621\u0627 \u0644\u0627 \u064a\u063a\u0627\u062f\u0631 \u0633\u0642\u0645\u0627\u064b.",
+        "created_at": "2022-02-25 11:22:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1106135265024856064,
+        "referenced_tweets": {
+            "id": 1495856328962678784,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496981082738151425,
+        "text": "\u063a\u0627\u0628\u062a \u0634\u0645\u0633\u0643 \u0639\u0646 \u0633\u0645\u0627\u0626\u064a \u064a\u0627 \u062d\u0628\u064a\u0628\u064a\u060c \u0641\u0623\u0635\u0628\u062d \u0627\u0644\u0643\u0648\u0646 \u0643\u0644\u0651\u0647 \u0638\u0644\u0627\u0645\u064c \u062f\u0627\u0645\u0633\u060c \u0623\u0635\u0628\u062d \u0627\u0644\u0643\u0648\u0646 \u0643\u0644\u0647 \u0645\u0646 \u062f\u0648\u0646 \u0623\u064a\u0651 \u0623\u0644\u0648\u0627\u0646 \u0648\u0645\u0644\u0627\u0645\u062d \u0623\u0648 \u0623\u0635\u0648\u0627\u062a\u060c \u0644\u0645 \u064a\u0639\u062f \u0633\u0648\u0649 \u0635\u062f\u0649 \u0635\u0648\u062a\u0643 \u064a\u0631\u0646\u0651 \u0641\u064a \u0623\u0630\u0646\u064a\u060c \u0644\u0645 \u0623\u0639\u062f \u0623\u0631\u0649 \u0633\u0648\u0649 \u0635\u0648\u0631\u0629 \u0648\u062c\u0647\u0643 \u0627\u0644\u062d\u0628\u064a\u0628\u060c \u0644\u0645 \u0623\u0639\u062f \u0623\u062a\u0630\u0643\u0651\u0631 \u0625\u0644\u0627 \u0635\u0648\u0631\u0629 \u0648\u062c\u0647\u0643\u060c \u0648\u0646\u0638\u0631\u0627\u062a \u0639\u064a\u0646\u064a\u0643 \u0639\u0646\u062f \u0627\u0644\u0648\u062f\u0627\u0639.",
+        "created_at": "2022-02-24 22:51:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496628798728589315,
+        "text": "Sometimes the heart sees what is invisible to the eye.",
+        "created_at": "2022-02-23 23:31:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496484266468954112,
+        "text": "\u0645\u0646 \u0639\u0627\u0634\u0631 \u0627\u0644\u0628\u062f\u0631 \u0635\u0639\u0628 \u062a\u0631\u0636\u064a\u0647 \u0627\u0644\u0646\u062c\u0648\u0645 ..",
+        "created_at": "2022-02-23 13:57:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496381011009155076,
+        "text": "5/6 almost done\ud83d\ude2b (fuck physics)",
+        "created_at": "2022-02-23 07:06:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496250303322198027,
+        "text": "\u0647\u0648 \u0646\u062c\u0645 \u0639\u0645\u0631\u064a \u0627\u0644\u064a \u0641\u0648\u0642 \u060c \u0641\u0648\u0642 \u0627\u0644\u0633\u0645\u0627 \u0644\u0627\u0645\u0639",
+        "created_at": "2022-02-22 22:27:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496219438487683075,
+        "text": "\u0627\u0644\u0644\u064a \u0636\u0627\u0645\u0646 \u0631\u0636\u0627\u0643 \u0628\u064a\u063a\u0644\u0637 \u0645\u0644\u064a\u064a\u064a\u064a\u064a\u064a\u0648\u0646 \u0645\u0631\u0647",
+        "created_at": "2022-02-22 20:24:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496141902600617986,
+        "text": "@_PEX3 @S_aw_2 \ud83d\ude44\ud83d\ude44\ud83d\ude44\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "created_at": "2022-02-22 15:16:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1360710364934139905,
+        "referenced_tweets": {
+            "id": 1496140194264846338,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496089172855201794,
+        "text": "4/6 fuck chemistry",
+        "created_at": "2022-02-22 11:47:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496088907682918408,
+        "text": "I wanna unmeet a lot of people.",
+        "created_at": "2022-02-22 11:46:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495856328962678784,
+        "text": "\u0627\u0644\u0644\u0647\u0645 \u064a\u0627 \u0645\u062d\u0648\u0644 \u0627\u0644\u062d\u0627\u0644 \u0648\u0627\u0644\u0623\u062d\u0648\u0627\u0644 \u062d\u0648\u0644 \u062d\u0627\u0644 \u062d\u0645\u062f \u0627\u0644\u0649 \u0627\u062d\u0633\u0646 \u062d\u0627\u0644 \u064a\u0627\u0631\u0628 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0646 \u0641\u0625\u0646\u0647 \u0644\u0627 \u062d\u0648\u0644 \u0648\u0644\u0627 \u0642\u0648\u0629 \u0644\u0647 \u0627\u0644\u0627 \u0628\u0643.",
+        "created_at": "2022-02-21 20:21:55+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 22,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495757323436015619,
+        "text": "\u0627\u0644\u062f\u0646\u064a\u0627 \u062a\u063a\u064a\u0631\u062a \u0648\u0644\u0627 \u0627\u0644\u0646\u0627\u0633 \u062a\u063a\u064a\u0640\u0631\u0648\u0627\u061f",
+        "created_at": "2022-02-21 13:48:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495641867672821761,
+        "text": "3/6 halfway",
+        "created_at": "2022-02-21 06:09:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495416223017930758,
+        "text": "RT @vv7mdn: Randoms https://t.co/dzRLoj5Po6",
+        "created_at": "2022-02-20 15:13:05+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495414417739350022,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495170384831864834,
+        "text": "\u0630\u0628\u062d\u0646\u064a \u0627\u0644\u0634\u0640\u0648\u0648\u0642 \ud83d\udc94",
+        "created_at": "2022-02-19 22:56:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495169142793674755,
+        "text": "@iliivw \u062d\u0646\u064a\u0646\ud83d\udc94",
+        "created_at": "2022-02-19 22:51:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299783948847984640,
+        "referenced_tweets": {
+            "id": 1495114594641141771,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495075002617671683,
+        "text": "broken inside, smiling outside",
+        "created_at": "2022-02-19 16:37:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495015508248256512,
+        "text": "\u0627\u0644\u0644\u0647\u0645 \u0627\u0646\u064a \u0627\u0639\u0648\u0630 \u0628\u0643 \u0645\u0646 \u0636\u064a\u0642\u0647 \u062a\u0624\u0644\u0645\u0646\u064a \u0648\u0645\u0646 \u0641\u0643\u0631 \u064a\u0642\u0644\u0642\u0646\u064a \u060c \u0627\u0644\u0644\u0647\u0645 \u0627\u0646 \u0646\u0645\u062a \u0639\u0644\u0649 \u0636\u064a\u0642 \u0641\u0623\u064a\u0642\u0638\u0646\u064a \u0639\u0644\u0649 \u0641\u0631\u062d \u060c \u0648\u0625\u0646 \u0646\u0627\u0645\u062a \u0639\u064a\u0646\u064a \u0637\u0648\u064a\u0644\u0627\u064b \u0623\u064a\u0642\u0638\u0646\u064a \u0639\u0644\u0649 \u0646\u0648\u0631 \u062c\u0646\u062a\u0643",
+        "created_at": "2022-02-19 12:40:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1106135265024856064,
+        "referenced_tweets": {
+            "id": 1328574726235676674,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494794879301468161,
+        "text": "\u062e\u0644\u0627\u0627\u0635 \u064a\u0627 \u062f\u0646\u064a\u0627 \u0643\u0627\u0641\u064a \u062d\u0632\u0646.",
+        "created_at": "2022-02-18 22:04:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494710195364188170,
+        "text": "\"pain is temporary\" mf how long???",
+        "created_at": "2022-02-18 16:27:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494656516191780871,
+        "text": "@viin2_ .",
+        "created_at": "2022-02-18 12:54:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1395980612452851714,
+        "referenced_tweets": {
+            "id": 1494630658731245568,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494567477006815251,
+        "text": "\" \u0623\u0645\u0651\u0646 \u064a\u062c\u064a\u0628 \u0627\u0644\u0645\u064f\u0636\u0637\u0631 \u0625\u0630\u0627 \u062f\u0639\u0627\u0647\u064f \" \n\u064a\u0627\u0631\u0628 \u0641\u064a \u064a\u0648\u0645 \u0627\u0644\u062c\u0645\u0639\u0629 \u0627\u0634\u0641\u064a \u062d\u0645\u062f \u0628\u0634\u0641\u0627\u0626\u0643 \u0648 \u0639\u0627\u0641\u0647 \u0645\u0646 \u0628\u0644\u0627\u0626\u0643 \u0627\u0644\u0644\u0647\u0645 \u0623\u0632\u0644 \u0627\u0644\u0628\u0623\u0633 \u0639\u0646\u0647 \u064a\u0627 \u0623\u0631\u062d\u0645 \u0627\u0644\u0631\u0627\u062d\u0645\u064a\u0646.",
+        "created_at": "2022-02-18 07:00:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494565434636619808,
+        "text": "\u0627\u0644\u0644\u0647\u0645 \u0625\u0634\u0641\u064a \u0645\u0646 \u0623\u062d\u0628\u0628\u062a \u064a\u0627\u0631\u0628 \u0648\u0625\u0646 \u0636\u0639\u0641\u062a \u0627\u0644\u0623\u062c\u0633\u0627\u062f \u0641\u0623\u0646\u062a \u0642\u0627\u062f\u0631 \u0639\u0644\u0649 \u0627\u0644\u0634\u0641\u0627\u0621 \u060c \u0627\u0644\u0644\u0647\u0645 \u0623\u0634\u0641\u064a \u0645\u0631\u0636\u0627\u0646\u0627 \u0648\u0645\u0631\u0636\u0649 \u0627\u0644\u0645\u0633\u0644\u0645\u064a\u0646.",
+        "created_at": "2022-02-18 06:52:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494562934110015510,
+        "text": "@vpyg_ https://t.co/sWiq6JaqEf",
+        "created_at": "2022-02-18 06:42:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236105162474864641,
+        "referenced_tweets": {
+            "id": 1493163692262891524,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494364445539188746,
+        "text": "\u0650                  \u0645\u0627 \u0627\u0628\u064a \u063a\u064a\u0640\u0631\u0643 \u0644\u0648 \u063a\u064a\u0640\u0631\u0643 \u0643\u062b\u064a\u0631\n             \u0648\u0634 \u0627\u0628\u0640\u064a \u0628\u0627\u0644\u0646\u062c\u0648\u0645 \u0648\u0627\u0646\u0627 \u0627\u0645\u0644\u0643 \u0627\u0644\u0642\u0645\u0631",
+        "created_at": "2022-02-17 17:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494274233710657540,
+        "text": "@ii3b0dx \u0645\u0627 \u0639\u0646\u062f\u0643 \u0627\u062e\u0648\u0627\u0646",
+        "created_at": "2022-02-17 11:35:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3200186096,
+        "referenced_tweets": {
+            "id": 1494270919015297030,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494231878915743751,
+        "text": "@Almazrouei777_ \u0644\u064a\u0647 \u0631\u0627\u062c\u0639 \u0645\u0646 \u062a\u0628\u064a\u061f \u0639\u0627\u0634\u0642\u0643 \u0630\u0627\u0643 \u0627\u0644\u063a\u0628\u064a",
+        "created_at": "2022-02-17 08:46:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1427697644454006785,
+        "referenced_tweets": {
+            "id": 1494180537409282048,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494214488756793349,
+        "text": "good morning from my bed",
+        "created_at": "2022-02-17 07:37:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494086426794860550,
+        "text": "Thinking more than breathing",
+        "created_at": "2022-02-16 23:08:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494017745511321602,
+        "text": "\u064a\u0642\u0648\u0644 \u062e\u0627\u0644\u062f \u0628\u0646 \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646: \u062c\u0627\u0646\u064a \u0648\u0627\u0646\u0627 \u0645\u0627\u0644\u064a \u0628\u0627\u0644\u0645\u062d\u0628\u0647 \u0645\u064a\u0648\u0644 \u060c \u0648\u062d\u0628\u0628\u0646\u064a \u0641\u064a \u0633\u0648\u0627\u0644\u0641 \u0645\u0627\u0643\u0646\u062a \u0627\u062d\u0628\u0647\u0627",
+        "created_at": "2022-02-16 18:36:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

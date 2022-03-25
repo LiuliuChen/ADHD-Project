@@ -1,0 +1,194 @@
+[
+    {
+        "tweet_id": 1507068084267458560,
+        "text": "@dreamsecretalt I am offended",
+        "created_at": "2022-03-24 18:53:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1488476151781543938,
+        "referenced_tweets": {
+            "id": 1506646978318450694,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499117318131044352,
+        "text": "@sleepypuffy You city gave me asthma",
+        "created_at": "2022-03-02 20:19:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1283331898920644608,
+        "referenced_tweets": {
+            "id": 1499114916086747147,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498550090549628933,
+        "text": "@hhherbs LMAO RIGH",
+        "created_at": "2022-03-01 06:45:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1359711635447959552,
+        "referenced_tweets": {
+            "id": 1498167400029687808,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498549617071464449,
+        "text": "@tommyaltinnit I'd put will in the S tier but otherwise no",
+        "created_at": "2022-03-01 06:44:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1373748437309653004,
+        "referenced_tweets": {
+            "id": 1494076239103070218,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498549227349327874,
+        "text": "@IK1x_ Not true, I've had online friends that lasted more than a year. But the fact is they rarely last.",
+        "created_at": "2022-03-01 06:42:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1447518671388164096,
+        "referenced_tweets": {
+            "id": 1497159309586804750,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490283822793039875,
+        "text": "RT @pokimanelol: hey u. yes, you. i truly hope you find happiness in life. have a good day \u2764\ufe0f",
+        "created_at": "2022-02-06 11:18:46+00:00",
+        "public_metrics": {
+            "retweet_count": 3999,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490090569678266369,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485866431933730817,
+        "text": "@Lizbuggie I used to watch him as a kid..I'm so sorry for what happened",
+        "created_at": "2022-01-25 06:45:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1672494806,
+        "referenced_tweets": {
+            "id": 1485280124467486722,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475772326880985091,
+        "text": "@aqua_031 I never learn",
+        "created_at": "2021-12-28 10:15:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1454723306548912128,
+        "referenced_tweets": {
+            "id": 1456383508616658976,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1460698831797071882,
+        "text": "@perversefamily @AnnadeVilleXXX @BrittanyBardot1 @GeorgeUhlX @XxxBundy @FaunPavel @LydiaBlackXo Twitter shouldn't be an app anymore https://t.co/WWqcaCfCay",
+        "created_at": "2021-11-16 19:58:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083698237100445697,
+        "referenced_tweets": {
+            "id": 1365311578770468865,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1460698168363032584,
+        "text": "@perversefamily @AnnadeVilleXXX @BrittanyBardot1 @GeorgeUhlX @XxxBundy @FaunPavel @LydiaBlackXo I hate my curiosity https://t.co/nap40Dv7Xt",
+        "created_at": "2021-11-16 19:55:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083698237100445697,
+        "referenced_tweets": {
+            "id": 1365311578770468865,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1460697390311260167,
+        "text": "@BrittanyBardot1 @perversefamily @AnnadeVilleXXX @GeorgeUhlX @XxxBundy @FaunPavel @LydiaBlackXo https://t.co/qHIivPfAVI",
+        "created_at": "2021-11-16 19:52:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3423163047,
+        "referenced_tweets": {
+            "id": 1460302093114351617,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1460697278520430592,
+        "text": "@Shams_Zakr @perversefamily THEY LITERALLY ATE SHT LIKE WTF",
+        "created_at": "2021-11-16 19:52:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1269381996037406723,
+        "referenced_tweets": {
+            "id": 1459897973014421510,
+            "type": "replied_to"
+        }
+    }
+]

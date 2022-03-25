@@ -1,0 +1,978 @@
+[
+    {
+        "tweet_id": 1507094833894109189,
+        "text": "@Baby_katehorny Done",
+        "created_at": "2022-03-24 20:39:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1387179633011920897,
+        "referenced_tweets": {
+            "id": 1507092819902873600,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507094798888419336,
+        "text": "RT @Baby_katehorny: Retweet moto kung gusto moko makantot\ud83d\ude0b \n#alterph",
+        "created_at": "2022-03-24 20:39:35+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507092819902873600,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507091855036465183,
+        "text": "RT @Shane04193472: Game!!! \u2728Follow the rules babe\u2728\n\nRt for ayuda\ud83d\ude4a\ud83e\udd7a https://t.co/R4zrmhF9eT",
+        "created_at": "2022-03-24 20:27:53+00:00",
+        "public_metrics": {
+            "retweet_count": 24,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506953702250541060,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507091143267270658,
+        "text": "@vunniella Tagal",
+        "created_at": "2022-03-24 20:25:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1507079683195944960,
+        "referenced_tweets": {
+            "id": 1507082648812134401,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507090401701769216,
+        "text": "@vunniella Done",
+        "created_at": "2022-03-24 20:22:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1507079683195944960,
+        "referenced_tweets": {
+            "id": 1507090217102356480,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507090227604512768,
+        "text": "RT @vunniella: Free onevid of mine pm nalang sa tg:@pi_wie\n\n#alterph",
+        "created_at": "2022-03-24 20:21:25+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507089858871050240,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507090127985655810,
+        "text": "@vunniella Done spam franco name ko",
+        "created_at": "2022-03-24 20:21:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1507079683195944960,
+        "referenced_tweets": {
+            "id": 1507089858871050240,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507088807136411648,
+        "text": "@WardHaily Doen po check pm",
+        "created_at": "2022-03-24 20:15:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506966725769662464,
+        "referenced_tweets": {
+            "id": 1506998279854178306,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507085443598204936,
+        "text": "RT @Paulinemae2002: Game again!!!\ud83d\udca6\u2728 \n\n#alterpinay https://t.co/RFWIHLRq10",
+        "created_at": "2022-03-24 20:02:24+00:00",
+        "public_metrics": {
+            "retweet_count": 33,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506953411358769153,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507085250559557645,
+        "text": "RT @lcfrzuki: oh bilis, ayaw edi don't \ud83d\ude0f\n#alternewbie #alterph #alterpinay #alterphillippines https://t.co/sEbIbWcyQI",
+        "created_at": "2022-03-24 20:01:38+00:00",
+        "public_metrics": {
+            "retweet_count": 24,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506638294180065285,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507083723547688970,
+        "text": "@vunniella Di po kita ma pm telegram naalng po",
+        "created_at": "2022-03-24 19:55:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1478751929526194177,
+        "referenced_tweets": {
+            "id": 1507083603276021767,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507083603276021767,
+        "text": "@vunniella Tg mopo",
+        "created_at": "2022-03-24 19:55:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1507079683195944960,
+        "referenced_tweets": {
+            "id": 1507082648812134401,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507083573643264000,
+        "text": "RT @vunniella: Free 1vid of mine just pm me\n\n#alterph",
+        "created_at": "2022-03-24 19:54:58+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507082648812134401,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507083247972335639,
+        "text": "Damn hot https://t.co/RpwxXzPrni",
+        "created_at": "2022-03-24 19:53:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505806364882313218,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507082871843934216,
+        "text": "@yourkweensam Hindi po sa tg sa twt po mismo",
+        "created_at": "2022-03-24 19:52:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1493512063494148096,
+        "referenced_tweets": {
+            "id": 1507079652090662931,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507082639034896384,
+        "text": "RT @Sarah338823: Hi I'm a princesssarah I'm new alter please do support me\u2764\ufe0f\n\nLets play a game and don't forget to avail my for only 200pes\u2026",
+        "created_at": "2022-03-24 19:51:16+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507080646996348959,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507082263653077004,
+        "text": "@yourkweensam Spam Franco po",
+        "created_at": "2022-03-24 19:49:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1493512063494148096,
+        "referenced_tweets": {
+            "id": 1507079652090662931,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507081834613526548,
+        "text": "@Sarah95529919 Done",
+        "created_at": "2022-03-24 19:48:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1491954794247852035,
+        "referenced_tweets": {
+            "id": 1506536264618876929,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507081794318848001,
+        "text": "RT @Sarah95529919: Follow Retweet comments done para kayo Naman masedan ko\ud83d\udc93\ud83d\ude0a\ud83d\ude0d https://t.co/OtFuqXa24U",
+        "created_at": "2022-03-24 19:47:54+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506536264618876929,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507079496154828831,
+        "text": "RT @UrBabyPauline: Let's play since bored naman ako\n#alterpinay #alterph https://t.co/06UPhGSaEc",
+        "created_at": "2022-03-24 19:38:46+00:00",
+        "public_metrics": {
+            "retweet_count": 39,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506637036299583501,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507079336448315396,
+        "text": "@UrBabyPauline Ako po hehe",
+        "created_at": "2022-03-24 19:38:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1485582001466146819,
+        "referenced_tweets": {
+            "id": 1507079139743846418,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507077710786416659,
+        "text": "RT @Stefh_sweetieee: heart and retweet kung want mo tanggalin sando ko \n\ntry my prem channel lifetime access and vcsex dm for sure availers\u2026",
+        "created_at": "2022-03-24 19:31:41+00:00",
+        "public_metrics": {
+            "retweet_count": 94,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504333258812628992,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068120585818129,
+        "text": "@AlcaldeScarlet Done na po",
+        "created_at": "2022-03-24 18:53:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1505882902726283265,
+        "referenced_tweets": {
+            "id": 1506956722274856960,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068088302321669,
+        "text": "RT @AlcaldeScarlet: do the follow i will send you a 3minutes boobies play and btw im 18 ur student seller! #alterpinay #alternewbie https:/\u2026",
+        "created_at": "2022-03-24 18:53:26+00:00",
+        "public_metrics": {
+            "retweet_count": 38,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506956722274856960,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507062266512162816,
+        "text": "RT @pretty_yumi05: Automatic ignored sa di nakakasunod ng instruction \ud83d\ude09\ud83d\udc95 #alterpinay #alter #alterph #alterManila #alterPhilippines https:/\u2026",
+        "created_at": "2022-03-24 18:30:18+00:00",
+        "public_metrics": {
+            "retweet_count": 71,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506251722162798599,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507061808959410193,
+        "text": "@yourkweensam Imean twitter",
+        "created_at": "2022-03-24 18:28:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1493512063494148096,
+        "referenced_tweets": {
+            "id": 1507061330351575040,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507061727065624589,
+        "text": "@yourkweensam Ate seen ka po chat ko sa tg",
+        "created_at": "2022-03-24 18:28:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1493512063494148096,
+        "referenced_tweets": {
+            "id": 1507061330351575040,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507061407778426885,
+        "text": "@Charmaine2266 Na rt ko na po kanina pa po ako nag chchat sayo sa tg name ko po spam franco",
+        "created_at": "2022-03-24 18:26:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1501235045503148035,
+        "referenced_tweets": {
+            "id": 1507054873073705009,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507059502767493135,
+        "text": "RT @baby_kristine69: Sino want ng finger vids free f all\u201d\ud83d\udca6\ud83e\udd24      \nFOLLOW AND RETWEET\u2019S \u2728\n\n#alterpinay #alter #alterph",
+        "created_at": "2022-03-24 18:19:19+00:00",
+        "public_metrics": {
+            "retweet_count": 76,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507020618750836738,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507057236060766208,
+        "text": "RT @Charmaine2266: Let's play a game everyone follow and rt for free!\ud83d\ude1a\n\nEnjoy!!\ud83d\udda4\ud83d\udda4\n\n#alterpinay  #alter  #alterpinoy  #alterbagets https://t\u2026",
+        "created_at": "2022-03-24 18:10:19+00:00",
+        "public_metrics": {
+            "retweet_count": 20,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507054873073705009,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507056270729113601,
+        "text": "@Kiara_babe10 Doem",
+        "created_at": "2022-03-24 18:06:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1505492782441373703,
+        "referenced_tweets": {
+            "id": 1507054534622732341,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507056041669758977,
+        "text": "RT @Kiara_babe10: Sino pa gising jan!! Free cumshot vid to all!!\ud83e\udd75\ud83d\udca6 Follow the rules \"heart,retweet,follow \" Dm me on telegram @Kiara_babies\u2026",
+        "created_at": "2022-03-24 18:05:34+00:00",
+        "public_metrics": {
+            "retweet_count": 38,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507054534622732341,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507055118339825668,
+        "text": "RT @Sheine221: Let's play a game follow and rt! for free\ud83d\ude1a\n\nDm me on Tg:@Sheine011\n\n#alter  #alternewbie  #alterworld  #alterpinay https://t\u2026",
+        "created_at": "2022-03-24 18:01:54+00:00",
+        "public_metrics": {
+            "retweet_count": 25,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507050524746874880,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507054727032234108,
+        "text": "RT @Jananelatob: Let's play free finger video Dm me in tg:@janelatob rt and follow me\n#alterpinay #AlterManila",
+        "created_at": "2022-03-24 18:00:21+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507052366280810519,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507052914312765459,
+        "text": "RT @ErielBermuda: Just dm me for full video Rt&amp;follow me for more videos and freebies\u2665\ufe0f\ud83d\ude18 #alterpinay #alterph #alternewbie #alterworld #alt\u2026",
+        "created_at": "2022-03-24 17:53:09+00:00",
+        "public_metrics": {
+            "retweet_count": 29,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504657523844198401,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507052444609437696,
+        "text": "RT @ErielBermuda: Free finger vid for all just follow and rt this post! #alterpinay https://t.co/qc3gV9RBBt",
+        "created_at": "2022-03-24 17:51:17+00:00",
+        "public_metrics": {
+            "retweet_count": 79,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506959068778610693,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507052333871423494,
+        "text": "@AlcaldeScarlet Spam Franco",
+        "created_at": "2022-03-24 17:50:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1505882902726283265,
+        "referenced_tweets": {
+            "id": 1506998515892772866,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506939441654362113,
+        "text": "@Maria_Alter_0 @Eclypse11371186 Hi po do you have tg po pls message me po in twt if you don't have tg",
+        "created_at": "2022-03-24 10:22:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1505560466680033281,
+        "referenced_tweets": {
+            "id": 1505567143512862724,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506937421920825349,
+        "text": "@yourkweensam Done",
+        "created_at": "2022-03-24 10:14:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1493512063494148096,
+        "referenced_tweets": {
+            "id": 1505910745380188160,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506936088547368964,
+        "text": "@Clairee699 Tg mopo?",
+        "created_at": "2022-03-24 10:08:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506821304259063810,
+        "referenced_tweets": {
+            "id": 1506916152127090690,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506927961080954885,
+        "text": "@beanna111 Done",
+        "created_at": "2022-03-24 09:36:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1505196805872812032,
+        "referenced_tweets": {
+            "id": 1505199140934156288,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506924056628514816,
+        "text": "@Clairee699 Tg mopo? Btw done https://t.co/xCw48CmGl8",
+        "created_at": "2022-03-24 09:21:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506821304259063810,
+        "referenced_tweets": {
+            "id": 1506824251281932290,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506923867297628162,
+        "text": "@alternhen Tg mo po? https://t.co/vkfOUE6bWu",
+        "created_at": "2022-03-24 09:20:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1494198923967164419,
+        "referenced_tweets": {
+            "id": 1506910604799275008,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506923695331110917,
+        "text": "@Clairee699 Tg mo po?",
+        "created_at": "2022-03-24 09:19:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506821304259063810,
+        "referenced_tweets": {
+            "id": 1506824251281932290,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506923135563538435,
+        "text": "@Clairee699 Tg mo po?",
+        "created_at": "2022-03-24 09:17:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506821304259063810,
+        "referenced_tweets": {
+            "id": 1506916152127090690,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506917492232318985,
+        "text": "@Jazjazzqty How much avail",
+        "created_at": "2022-03-24 08:55:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1505028024432926724,
+        "referenced_tweets": {
+            "id": 1505503537802870784,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506915893250433024,
+        "text": "@Jazjazzqty @jazmineqtt Avail po ako",
+        "created_at": "2022-03-24 08:48:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1505028024432926724,
+        "referenced_tweets": {
+            "id": 1505029714590633988,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506896306802855938,
+        "text": "RT @bbsofie21: Since I'm newbie, free for all\ud83d\udca6\n\nlets start a game\ufffc \u2022follow the instructions! don\u2019t forget follow me\ud83d\ude09\n\n#alternewbie #alterpi\u2026",
+        "created_at": "2022-03-24 07:30:50+00:00",
+        "public_metrics": {
+            "retweet_count": 44,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505450458487222273,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506896272447270916,
+        "text": "RT @bbsofie21: help my channel groww!!\n#alternewbie #alterpinay https://t.co/6jp5dPdMb8",
+        "created_at": "2022-03-24 07:30:42+00:00",
+        "public_metrics": {
+            "retweet_count": 54,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505439502328033284,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506895914106982401,
+        "text": "RT @bbsofie21: pinag papawisan yung kipay ko hahaha rt kung gusto mo makita\ud83d\udca6",
+        "created_at": "2022-03-24 07:29:17+00:00",
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506891021803687938,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506895885577326592,
+        "text": "@bbsofie21 Ate how to avail",
+        "created_at": "2022-03-24 07:29:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1505408853818867712,
+        "referenced_tweets": {
+            "id": 1506891021803687938,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506875903090970626,
+        "text": "@alternayumi Avail po ako pafollowback po para machat kita",
+        "created_at": "2022-03-24 06:09:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1505296938119282689,
+        "referenced_tweets": {
+            "id": 1506590669178998791,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506875347752550405,
+        "text": "@alternayumi https://t.co/tKKKL6t9u5",
+        "created_at": "2022-03-24 06:07:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1478751929526194177,
+        "referenced_tweets": {
+            "id": 1506875242576187392,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506875242576187392,
+        "text": "@alternayumi Done na po",
+        "created_at": "2022-03-24 06:07:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1505296938119282689,
+        "referenced_tweets": {
+            "id": 1506530688853446656,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506874966469320705,
+        "text": "@jeovannaqt Ako po",
+        "created_at": "2022-03-24 06:06:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1504659198159646721,
+        "referenced_tweets": {
+            "id": 1505024966768885769,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506874907770036229,
+        "text": "@jeovannaqt May tg ka po ba?",
+        "created_at": "2022-03-24 06:05:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1504659198159646721,
+        "referenced_tweets": {
+            "id": 1504732322410958850,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506874757412757505,
+        "text": "RT @jeovannaqt: newbie\n#alterpinay #alterphillippines https://t.co/Klziov3HGq",
+        "created_at": "2022-03-24 06:05:13+00:00",
+        "public_metrics": {
+            "retweet_count": 49,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504732322410958850,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506874607793451009,
+        "text": "@Maria_Alter_0 Di pp kuta ma dm may tg ka po ba?",
+        "created_at": "2022-03-24 06:04:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1505560466680033281,
+        "referenced_tweets": {
+            "id": 1506527929907367936,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506827656800571392,
+        "text": "@JavierHoly Donee",
+        "created_at": "2022-03-24 02:58:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1440815796918231040,
+        "referenced_tweets": {
+            "id": 1503672594850930690,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506800310672506883,
+        "text": "@JavierHoly Di kita ma pm",
+        "created_at": "2022-03-24 01:09:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1440815796918231040,
+        "referenced_tweets": {
+            "id": 1506662641594368001,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506800230930386945,
+        "text": "@JavierHoly How to avail?",
+        "created_at": "2022-03-24 01:09:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1440815796918231040,
+        "referenced_tweets": {
+            "id": 1506662641594368001,
+            "type": "replied_to"
+        }
+    }
+]

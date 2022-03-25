@@ -1,0 +1,520 @@
+[
+    {
+        "tweet_id": 1507068726302187523,
+        "text": "like i\u2019m literally crazy why am i so mad about this!!!",
+        "created_at": "2022-03-24 18:55:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507068537508179968,
+        "text": "i\u2019ve never felt like this before",
+        "created_at": "2022-03-24 18:55:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507068123710734338,
+        "text": "private aka y\u2019all don\u2019t know me",
+        "created_at": "2022-03-24 18:53:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1498730004032729098,
+        "referenced_tweets": {
+            "id": 1507068056094314504,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068056094314504,
+        "text": "i\u2019m literally so sad but so happy that i have this private twitter to blab on",
+        "created_at": "2022-03-24 18:53:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504536418919628809,
+        "text": "RT @ella_thereal: Fuck that bond, if they play wit u fuck em",
+        "created_at": "2022-03-17 19:13:29+00:00",
+        "public_metrics": {
+            "retweet_count": 8042,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504367403609772035,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504318423324577800,
+        "text": "all the hype in the tarot cards for THAT",
+        "created_at": "2022-03-17 04:47:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504230920227807232,
+        "text": "RT @theeternal: some eye contacts are unforgettable",
+        "created_at": "2022-03-16 22:59:33+00:00",
+        "public_metrics": {
+            "retweet_count": 27234,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504089469661716484,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504230861704773633,
+        "text": "RT @nirfaaaannn: i need someone who is excited to talk to me every single day",
+        "created_at": "2022-03-16 22:59:19+00:00",
+        "public_metrics": {
+            "retweet_count": 2479,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503986573817237504,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504230837256179715,
+        "text": "RT @nanisxo: i just get prettier every time a man disappoints me",
+        "created_at": "2022-03-16 22:59:13+00:00",
+        "public_metrics": {
+            "retweet_count": 11022,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503917854386651138,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503748652753428483,
+        "text": "replacing old pictures is the hardest part",
+        "created_at": "2022-03-15 15:03:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503422470778408967,
+        "text": "RT @crystalbaee1: \ud83d\ude42",
+        "created_at": "2022-03-14 17:27:03+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503162878697914374,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502892549702402048,
+        "text": "RT @osadfeelingsig: lowkey hurt but oh well that\u2019s life",
+        "created_at": "2022-03-13 06:21:20+00:00",
+        "public_metrics": {
+            "retweet_count": 12524,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502588497462452232,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502887078253764608,
+        "text": "the bitch comes out so quick once u turn on me",
+        "created_at": "2022-03-13 05:59:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502886962650357761,
+        "text": "ur boring that\u2019s y he\u2019s after me",
+        "created_at": "2022-03-13 05:59:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502650729147871234,
+        "text": "i\u2019m in love w someone i shouldn\u2019t be",
+        "created_at": "2022-03-12 14:20:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501945484620881935,
+        "text": "RT @arminvanbuuren: I love the first signs of spring on my jogging route! https://t.co/HoXGkXHt2l",
+        "created_at": "2022-03-10 15:38:02+00:00",
+        "public_metrics": {
+            "retweet_count": 113,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501618830937710592,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501945408796323842,
+        "text": "RT @rednephiIim: You're loved, someone out there loves you more than you think",
+        "created_at": "2022-03-10 15:37:44+00:00",
+        "public_metrics": {
+            "retweet_count": 34,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501616645680283652,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501414089905557505,
+        "text": "RT @crystalbaee1: If you love me, show me.",
+        "created_at": "2022-03-09 04:26:28+00:00",
+        "public_metrics": {
+            "retweet_count": 4658,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501119522992009220,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500539058946289669,
+        "text": "@_slimarella_ @crystalbaee1 if they don\u2019t open it it\u2019s not getting opened",
+        "created_at": "2022-03-06 18:29:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1053287881350041601,
+        "referenced_tweets": {
+            "id": 1500518516612603909,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500538849604296704,
+        "text": "RT @rednephiIim: \"are you okay?\" I eat one meal a day and am busy stressing out over assignments and my future. don't ask me how I am.",
+        "created_at": "2022-03-06 18:28:35+00:00",
+        "public_metrics": {
+            "retweet_count": 120,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500515950847746049,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500122151495651331,
+        "text": "RT @luv_enchanting: I want a new tat \ud83d\ude29",
+        "created_at": "2022-03-05 14:52:46+00:00",
+        "public_metrics": {
+            "retweet_count": 2704,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499774176160362497,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500121926802550789,
+        "text": "RT @dirtyydian: what i rlly mean https://t.co/cMrQC1hiau",
+        "created_at": "2022-03-05 14:51:52+00:00",
+        "public_metrics": {
+            "retweet_count": 5872,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499927556769914886,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500121823249317894,
+        "text": "RT @rednephiIim: tryna kiss her infront of everyone who's ever wanted her.",
+        "created_at": "2022-03-05 14:51:28+00:00",
+        "public_metrics": {
+            "retweet_count": 40,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499995611130646530,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500121644764958725,
+        "text": "RT @crystalbaee1: After we fuck, we fucking again.",
+        "created_at": "2022-03-05 14:50:45+00:00",
+        "public_metrics": {
+            "retweet_count": 2346,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499994989887168512,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499866528543559686,
+        "text": "RT @iiam_niyahh: You don\u2019t want me crazy over you, trust me",
+        "created_at": "2022-03-04 21:57:01+00:00",
+        "public_metrics": {
+            "retweet_count": 2931,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499631529550651395,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499866477704396801,
+        "text": "RT @crystalbaee1: I think I\u2019m insaneeeeeeeeee\ud83d\ude2d",
+        "created_at": "2022-03-04 21:56:49+00:00",
+        "public_metrics": {
+            "retweet_count": 2701,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499814652645105667,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499866295420035074,
+        "text": "RT @noony0g: Before you fwm jus know i act like Kanye bout my feelings \ud83e\udd74",
+        "created_at": "2022-03-04 21:56:05+00:00",
+        "public_metrics": {
+            "retweet_count": 148,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499521112752934912,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499545488462426137,
+        "text": "if ur straightforward so am i",
+        "created_at": "2022-03-04 00:41:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499544473256308739,
+        "text": "ugh i wish u were mine",
+        "created_at": "2022-03-04 00:37:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499100121140768770,
+        "text": "if u have a crush on me u have to tell me new rule",
+        "created_at": "2022-03-02 19:11:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499098033878880257,
+        "text": "jk everyone\u2019s in love w me",
+        "created_at": "2022-03-02 19:03:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1498730004032729098,
+        "referenced_tweets": {
+            "id": 1499097726679715843,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499097726679715843,
+        "text": "they all think someone has a crush on me???i promise no one\u2019s in love w me",
+        "created_at": "2022-03-02 19:02:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498737670536810497,
+        "text": "otherwise that\u2019s EMBARRASSING",
+        "created_at": "2022-03-01 19:11:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1498730004032729098,
+        "referenced_tweets": {
+            "id": 1498737607341191170,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498737607341191170,
+        "text": "i hope i\u2019m in ur head like u are always in mine",
+        "created_at": "2022-03-01 19:11:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498732262661271554,
+        "text": "r u thinking what i\u2019m thinking???",
+        "created_at": "2022-03-01 18:49:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

@@ -1,0 +1,1167 @@
+[
+    {
+        "tweet_id": 1506603172902715396,
+        "text": "@jonmbauer @solace @JessKubis 1991. The others may have more artists, but we had the best \u201cno-conflicts\u201d lineup ever.",
+        "created_at": "2022-03-23 12:06:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 90665991,
+        "referenced_tweets": {
+            "id": 1506323190334824454,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506047551463727118,
+        "text": "@AuMayeung Sinclair BASIC",
+        "created_at": "2022-03-21 23:18:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 581341543,
+        "referenced_tweets": {
+            "id": 1505328780495138819,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503758321664339972,
+        "text": "@jonmbauer You can pry my copy of \"Guilty\" from my cold, dead hands.  But gently, please... my hands are cold.  And dead.",
+        "created_at": "2022-03-15 15:41:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 90665991,
+        "referenced_tweets": {
+            "id": 1503548264414654464,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502701335229120521,
+        "text": "@larainenewman \u201cThe Village\u201d",
+        "created_at": "2022-03-12 17:41:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2727532069,
+        "referenced_tweets": {
+            "id": 1502582540799946753,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498182713626574852,
+        "text": "RT @Dictionarycom: @RepClayHiggins We\u2019re not entirely sure what this tweet is supposed to mean, and we\u2019re literally the dictionary.",
+        "created_at": "2022-02-28 06:26:08+00:00",
+        "public_metrics": {
+            "retweet_count": 40237,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498033493561032710,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495611803006652419,
+        "text": "@wytten Wider shoulders keep the proletariats at bay.",
+        "created_at": "2022-02-21 04:10:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 33113007,
+        "referenced_tweets": {
+            "id": 1495544694117261314,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495537386167615488,
+        "text": "@rad_milk That guy who invented Clippy?",
+        "created_at": "2022-02-20 23:14:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 39291341,
+        "referenced_tweets": {
+            "id": 1495536859619168256,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495536600180215808,
+        "text": "@GGGEORGEGGGG Et tu, Danton? ;)",
+        "created_at": "2022-02-20 23:11:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1398282299326746627,
+        "referenced_tweets": {
+            "id": 1495536292116975625,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494873015422750722,
+        "text": "@0xluminous @dlancashi @richard_parris ...there's a lot of talk noting that nodes which provide value will be incentivized. However, I think having a concrete (but small) example that shows some different types of nodes (what value they actually provide), will demystify a lot of the core concepts of Saito.",
+        "created_at": "2022-02-19 03:14:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 12,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1061518439788015619,
+        "referenced_tweets": {
+            "id": 1494871680946262024,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494871680946262024,
+        "text": "@0xluminous @dlancashi @richard_parris I'd love to see a hypothetical example of a small but complete set of nodes and their responsibilities to illustrate how the network's labor and incentives are divided. From the creation of a transaction to the propagation of a block, and the sharing of fees.",
+        "created_at": "2022-02-19 03:09:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1455255253759057921,
+        "referenced_tweets": {
+            "id": 1494821952313167875,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493361098925518853,
+        "text": "@technologypoet To be fair, KYC take about 4 months.",
+        "created_at": "2022-02-14 23:06:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 125101068,
+        "referenced_tweets": {
+            "id": 1493064061050892291,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491532119675490309,
+        "text": "@diazanimation I think this is the best place to start: https://t.co/5EWhIXmwF4",
+        "created_at": "2022-02-09 21:59:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 956875196669071361,
+        "referenced_tweets": {
+            "id": 1491444492003872768,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491000139292745731,
+        "text": "@wickedinvestor The original roadmap is great, but this version implies it\u2019s all going to happen in 2022. Where did that timeline come from?",
+        "created_at": "2022-02-08 10:45:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1384396460246982658,
+        "referenced_tweets": {
+            "id": 1490984115981938691,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487985118073524227,
+        "text": "@JenkinsColby @zooanimal I saw Glass perform this at the Walker Art Center, Sep 22 1989. Brilliant show...",
+        "created_at": "2022-01-31 03:04:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 537471929,
+        "referenced_tweets": {
+            "id": 1487979780720889857,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487906340114735105,
+        "text": "@rennoc420 Challenges blockchains face (scalability, security, self-sufficiency) can be traced back to the consensus mechanism. $SAITO is based upon a unique consensus mech that eliminates graphs of issues by recognizing these are not simply technical problems, but are economic in nature.",
+        "created_at": "2022-01-30 21:51:30+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 18,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1451781401590730753,
+        "referenced_tweets": {
+            "id": 1487859608697794562,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487276526387310592,
+        "text": "@GGGEORGEGGGG I honestly don't understand why anyone cares about the price right now. Sure... if you're a day trader, you would care. But those of us that are investing in the tech; why fret about the price until the coin has permanence? Our investment isn't about today's price.",
+        "created_at": "2022-01-29 04:08:50+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 2,
+            "like_count": 19,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1398282299326746627,
+        "referenced_tweets": {
+            "id": 1487108143029133317,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487275709559148551,
+        "text": "@wickedinvestor I wish I had DCA'd my way to this moment.  I mean, I stand by average cost as being a hell of a bargain, but more $SAITO for my fiat would have been nice :)",
+        "created_at": "2022-01-29 04:05:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1384396460246982658,
+        "referenced_tweets": {
+            "id": 1487236630838919169,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487042516465733634,
+        "text": "@SaitoOfficial \"Where is it?\" There's a QR code for Fireant's Telegram right in the image; that's probably where it's going to be held.",
+        "created_at": "2022-01-28 12:38:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 991556631136645120,
+        "referenced_tweets": {
+            "id": 1486911915159072775,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486859373662158848,
+        "text": "@wickedinvestor For better or worse, I'm single focused. I invest early in the things I believe in, and stick with them until their GA product has been released for a reasonable period. Any market volatility until that point is just noise to me (or DCA opportunities).",
+        "created_at": "2022-01-28 00:31:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1384396460246982658,
+        "referenced_tweets": {
+            "id": 1486782939744460809,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486520596536115207,
+        "text": "@DeRushaEats @breeds50 ... and add \"Pastrami Jacks\" in there too.",
+        "created_at": "2022-01-27 02:05:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1061518439788015619,
+        "referenced_tweets": {
+            "id": 1486518180398907402,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486518180398907402,
+        "text": "@DeRushaEats @breeds50 5) Piccolo\n4) Heartland\n3) Heidi's\n2) La Belle Vie\n**1**) August Moon",
+        "created_at": "2022-01-27 01:55:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 81622836,
+        "referenced_tweets": {
+            "id": 1486476059184934915,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486339395322056713,
+        "text": "This is pretty much my dream job; I believe $SAITO is one of the most forward-thinking blockchains in development. Unfortunately for me, they're looking for people who are awake when I'm asleep. But I know I have some nocturnal friends who would be qualified, so here you go! https://t.co/asqtdTw37H",
+        "created_at": "2022-01-26 14:05:01+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 29,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1486007673372160000,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1486115414463729670,
+        "text": "@AlanStacked I evaluated 4 sites before finding 1 that worked for me (still had to make manual corrections). With all of 'em, it seems like you're locked in once you start. No way to simply export/import a snapshot of where your prev year ended. You'd have to start from the beginning again.",
+        "created_at": "2022-01-25 23:15:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 943954543930494977,
+        "referenced_tweets": {
+            "id": 1486107640509968385,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485973572103426053,
+        "text": "@bragoatski I find it much easier to asses what potential value I see in a coin/token, based on its utility and historic prices of similar technologies. Then I decide what is a good buy price for that potential; I buy at that price &amp; more during the dips. I don't try to identify a \"bottom.\"",
+        "created_at": "2022-01-25 13:51:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463638736286011393,
+        "referenced_tweets": {
+            "id": 1485814124944654337,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485452389062692864,
+        "text": "@morethescarier Count me in! BTW - it\u2019s so awesome to see you on Joe Pera!",
+        "created_at": "2022-01-24 03:20:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2522403490,
+        "referenced_tweets": {
+            "id": 1485418921587060738,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485289233199902735,
+        "text": "@NFTxCryptos @wickedinvestor I'm \"all in\" on $SAITO, but I'm skeptical of those numbers. As I understand it, the max supply is 10 billion. Even if we \"only\" hit $100, the fully diluted market cap would be 1 trillion. If my math is correct (it rarely is), that's over 80% more than the all time high of ETH.",
+        "created_at": "2022-01-23 16:32:03+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 955864010309726209,
+        "referenced_tweets": {
+            "id": 1484975364124418048,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481732598988685321,
+        "text": "@jonmbauer Think of it more like buying a Residents record that everyone has, but yours has a certificate of authority that says it was owned by Hardy Fox.  BTW - I have never purchased an NFT; but I think I finally understand the appeal for others.",
+        "created_at": "2022-01-13 20:59:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 90665991,
+        "referenced_tweets": {
+            "id": 1481731981285154817,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481731558784614406,
+        "text": "@jonmbauer Except that the record of the NFT is in a *distributed* ledger, so you don't have a single, centralized company going out of business... What they described is less like an NFT and more like a Google Doc.",
+        "created_at": "2022-01-13 20:55:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 90665991,
+        "referenced_tweets": {
+            "id": 1481720537814482944,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480368956028424200,
+        "text": "@CryptoMichNL $SAITO",
+        "created_at": "2022-01-10 02:40:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 146008010,
+        "referenced_tweets": {
+            "id": 1480167523114962950,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477800521239044097,
+        "text": "@brenface It\u2019ll always be \u201cKuppernicus\u201d to me\u2026 Sorry to hear that news.",
+        "created_at": "2022-01-03 00:34:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15453342,
+        "referenced_tweets": {
+            "id": 1477782815966056448,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476707252807639041,
+        "text": "@jonmbauer @YouTube \u2026 and a cover at that!",
+        "created_at": "2021-12-31 00:10:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 90665991,
+        "referenced_tweets": {
+            "id": 1476644665738895366,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476673322683232271,
+        "text": "@solace Jesus\u2026",
+        "created_at": "2021-12-30 21:55:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 705533,
+        "referenced_tweets": {
+            "id": 1476667822902321157,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1471131630723301378,
+        "text": "RT @briantylercohen: Cuomo commits journalistic malpractice by advising his brother. He's fired.\n\nHannity, Ingraham and Kilmeade act as a c\u2026",
+        "created_at": "2021-12-15 14:54:47+00:00",
+        "public_metrics": {
+            "retweet_count": 5772,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1470912953499013123,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1467249073510047744,
+        "text": "@jonmbauer https://t.co/hI7x9KKyDJ",
+        "created_at": "2021-12-04 21:46:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 90665991,
+        "referenced_tweets": {
+            "id": 1466890579015573515,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1461908442113884170,
+        "text": "@jonmbauer The UBS?!",
+        "created_at": "2021-11-20 04:05:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 90665991,
+        "referenced_tweets": {
+            "id": 1461410087923298311,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1460751658665795591,
+        "text": "@solace @theholdsteady @TheNational @PearlJam @RustonKelly Beach Boys was my first too. At the State Fair in 1982.",
+        "created_at": "2021-11-16 23:28:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 705533,
+        "referenced_tweets": {
+            "id": 1460740869024276487,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1458460680022020096,
+        "text": "@paper_sleeves Check out the cover with Jimmy Somerville on vocals!",
+        "created_at": "2021-11-10 15:44:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 49224321,
+        "referenced_tweets": {
+            "id": 1458443308825448449,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1458226614827950082,
+        "text": "@solace @DanielswsMN As soon as I hit the \"reply\" button, I *knew* you were going to reference Dusty's \ud83d\ude02",
+        "created_at": "2021-11-10 00:14:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 705533,
+        "referenced_tweets": {
+            "id": 1457662170041290755,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1449514470628372482,
+        "text": "@paper_sleeves Spring Gate Shopping Center!",
+        "created_at": "2021-10-16 23:15:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 49224321,
+        "referenced_tweets": {
+            "id": 1449096949576126465,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1445817335554756609,
+        "text": "RT @deesnider: ATTENTION: I wrote \"We're Not Gonna Take It\" to lift up the downtrodden NOT inspire the oppressors. FUCK anyone who cares on\u2026",
+        "created_at": "2021-10-06 18:24:49+00:00",
+        "public_metrics": {
+            "retweet_count": 1770,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1445529454546067463,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1442234567402917888,
+        "text": "@brenface Only if it\u2019s a weekday. Or a weekend.",
+        "created_at": "2021-09-26 21:08:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15453342,
+        "referenced_tweets": {
+            "id": 1442208025880809472,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1425996913736830980,
+        "text": "RT @ErrataRob: 79/ \nFinal verdict of this \"cyber expert\":\n\nNumber of \"packet captures\" or \"cyber pcaps\" seen = 0\nAmount of \"Absolute Proof\"\u2026",
+        "created_at": "2021-08-13 01:45:32+00:00",
+        "public_metrics": {
+            "retweet_count": 559,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1425913689169928192,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1425788267799142411,
+        "text": "RT @ErrataRob: 1/n\nIf you are wondering if there will be anybody at Mike Lindell's cybersymposium who can confirm or refute his \"packet cap\u2026",
+        "created_at": "2021-08-12 11:56:27+00:00",
+        "public_metrics": {
+            "retweet_count": 519,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1424878450867847181,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1413290089988476931,
+        "text": "@JakeRudh Billy Idol",
+        "created_at": "2021-07-09 00:13:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 114401398,
+        "referenced_tweets": {
+            "id": 1413234667105439747,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1409652792889774083,
+        "text": "@JakeRudh KISS: 6 unique lineups for a total of 13 shows (and that\u2019s not including all of the solo shows I\u2019ve seen).",
+        "created_at": "2021-06-28 23:19:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 114401398,
+        "referenced_tweets": {
+            "id": 1409226885486235650,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1409651003880710152,
+        "text": "@JakeRudh https://t.co/slsg2nCSel",
+        "created_at": "2021-06-28 23:12:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 114401398,
+        "referenced_tweets": {
+            "id": 1409639997053890563,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1406465480391630850,
+        "text": "RT @TimHannan: Any religion that had no problem with Donald Trump for four years but now all of a sudden has found their moral backbone can\u2026",
+        "created_at": "2021-06-20 04:14:36+00:00",
+        "public_metrics": {
+            "retweet_count": 7356,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1406324400245383170,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1401340964912844801,
+        "text": "@JakeRudh \u201cAngst in my Pants\u201d - Sparks",
+        "created_at": "2021-06-06 00:51:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 114401398,
+        "referenced_tweets": {
+            "id": 1401017174869909505,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1394070656946348032,
+        "text": "@ryleywalker This was my XTC related holy grail: https://t.co/yAELYsPYkX",
+        "created_at": "2021-05-16 23:21:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2148759478,
+        "referenced_tweets": {
+            "id": 1393971698387521536,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1374712098924736520,
+        "text": "@jonnyblackout The puzzle is inherently difficult to solve, so that miners are de-incentivized from trying to submit fraudulent blocks to the chain.",
+        "created_at": "2021-03-24 13:17:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1061518439788015619,
+        "referenced_tweets": {
+            "id": 1374711460723634177,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1374711460723634177,
+        "text": "@jonnyblackout The part that makes it computationally \"expensive\" (using a lot of energy), is not the assignment of the ownership, or uniqueness of the \"coin.\"  It's the cryptographic puzzle that \"miners\" must solve to participate in the \"distributed consensus\" process and get paid.",
+        "created_at": "2021-03-24 13:15:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 115585867,
+        "referenced_tweets": {
+            "id": 1374130946132295680,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1371128716517052422,
+        "text": "@brenface I was really into it! Between 2007-08 I logged 68 caches. As others have mentioned the primary \u201cbenefit\u201d was to be shown really beautiful and/or unique places, that I would have never discovered otherwise. There were also lots of different types: puzzles, etc",
+        "created_at": "2021-03-14 15:58:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15453342,
+        "referenced_tweets": {
+            "id": 1370866553646899203,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1364401935579836417,
+        "text": "@jonmbauer Wait. So you didn\u2019t misspell \u201cwind?\u201d",
+        "created_at": "2021-02-24 02:29:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 90665991,
+        "referenced_tweets": {
+            "id": 1364307542696857601,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1358095641126256641,
+        "text": "@JakeRudh The Wire show was the final \"complete\" show I stayed for. I did see a little bit of the \"of Montreal\" show a week later, but didn't stay for much (it was me; not the band).",
+        "created_at": "2021-02-06 16:50:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 114401398,
+        "referenced_tweets": {
+            "id": 1357891628757897217,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1355910743623921665,
+        "text": "@jonnyblackout Except for Phish. We\u2019re still working to get you out!",
+        "created_at": "2021-01-31 16:08:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 115585867,
+        "referenced_tweets": {
+            "id": 1355897842276179972,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1354984974844383235,
+        "text": "@jonnyblackout Ahh. Totally solid MN pizza near you: Pizza Man. I haven\u2019t eaten at that specific location (it\u2019s a chain), but my last employer ordered it weekly for our clients, and I liked it!",
+        "created_at": "2021-01-29 02:49:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 115585867,
+        "referenced_tweets": {
+            "id": 1354927130384203781,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1354924969906548737,
+        "text": "@jonnyblackout Oof. I\u2019m afraid to ask what pizza place you ate at that\u2019s WORSE than LToP!",
+        "created_at": "2021-01-28 22:51:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 115585867,
+        "referenced_tweets": {
+            "id": 1354920612565757954,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1350850804123652098,
+        "text": "@brenface For about 2 minutes, I thought you were referring to a kidney or liver.",
+        "created_at": "2021-01-17 17:01:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15453342,
+        "referenced_tweets": {
+            "id": 1350640005983707137,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1348943705483436033,
+        "text": "@paper_sleeves I did, and you\u2019re right... but \u201cNumber 6,\u201d and \u201cThe Prisoner...\u201d a coincidence if not a tip of the hat.",
+        "created_at": "2021-01-12 10:43:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 49224321,
+        "referenced_tweets": {
+            "id": 1348825737063763972,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1348822002518401027,
+        "text": "@paper_sleeves I wonder if that was named in reference to the McGoohan series (?)",
+        "created_at": "2021-01-12 02:39:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 49224321,
+        "referenced_tweets": {
+            "id": 1348811823349452800,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1347953003916099589,
+        "text": "@jonmbauer 2D Residents?  That seems so last week to me, but whateves.",
+        "created_at": "2021-01-09 17:06:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 90665991,
+        "referenced_tweets": {
+            "id": 1347942406621167618,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1347110605145190401,
+        "text": "RT @AOC: Impeach.",
+        "created_at": "2021-01-07 09:19:31+00:00",
+        "public_metrics": {
+            "retweet_count": 186390,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1346974976977596416,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1347103934800924675,
+        "text": "RT @briantylercohen: Just popping in to say fuck you to @tedcruz.",
+        "created_at": "2021-01-07 08:53:00+00:00",
+        "public_metrics": {
+            "retweet_count": 4850,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1347014711074717696,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1346920707054297094,
+        "text": "RT @gtconway3d: When the Capitol is cleared and secured, and the joint session of Congress and the electoral vote count is completed, the H\u2026",
+        "created_at": "2021-01-06 20:44:55+00:00",
+        "public_metrics": {
+            "retweet_count": 67431,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1346909780808409089,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1342687173049536512,
+        "text": "RT @JonathanTCasey: This thread will debunk \"the judges didn't look at evidence\" nonsense that has been going around. \n\nOver and over again\u2026",
+        "created_at": "2020-12-26 04:22:22+00:00",
+        "public_metrics": {
+            "retweet_count": 1299,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1342303141975515136,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1339222097600651266,
+        "text": "@jonmbauer I kinda stopped following him after The Wings broke up.",
+        "created_at": "2020-12-16 14:53:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 90665991,
+        "referenced_tweets": {
+            "id": 1339214225735094272,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1325129339034345475,
+        "text": "RT @StephenKing: One of the best days of my life.",
+        "created_at": "2020-11-07 17:33:48+00:00",
+        "public_metrics": {
+            "retweet_count": 35869,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1325120024286257159,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1284836714066960386,
+        "text": "@jonmbauer Yes!  They had some great songs... and if you want to hear some really great music, check out this collaboration: https://t.co/95ukheYbDE",
+        "created_at": "2020-07-19 13:05:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 90665991,
+        "referenced_tweets": {
+            "id": 1283462981007880195,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1255825610095689728,
+        "text": "@jonmbauer Two words: Oculus Quest.",
+        "created_at": "2020-04-30 11:45:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 90665991,
+        "referenced_tweets": {
+            "id": 1255570175463755776,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1253775480685309953,
+        "text": "@solace @SandbagLTD The \u201cyour show has been postponed... we\u2019ll let you know later when that date is\u201d (i.e. no refund) is nearly as fantastic.",
+        "created_at": "2020-04-24 19:59:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 705533,
+        "referenced_tweets": {
+            "id": 1253761388973088771,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1249831751242977286,
+        "text": "@jonmbauer @theResidents I finished it on a trip to NYC this past Thanksgiving!  BTW - I also flew back out to NYC to see them perform \"God in Three Persons\"! https://t.co/mdj65VqOC5",
+        "created_at": "2020-04-13 22:48:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 90665991,
+        "referenced_tweets": {
+            "id": 1249535644117991431,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1248686015281278978,
+        "text": "@KISSopolis @kiss @rushtheband W.A.S.P. in 1986 - though David Lee Roth on the current tour was pretty awesome.",
+        "created_at": "2020-04-10 18:55:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19195936,
+        "referenced_tweets": {
+            "id": 1248284588075556866,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1212385407683432449,
+        "text": "Keep fighting the good fight, brother!  https://t.co/koCnp5Fjf5",
+        "created_at": "2020-01-01 14:49:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

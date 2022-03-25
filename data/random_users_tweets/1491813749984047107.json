@@ -1,0 +1,236 @@
+[
+    {
+        "tweet_id": 1507136526609698822,
+        "text": "@KaijuFrenz \n\nhttps://t.co/m8LBvcYl5t\n\n#NFTGiveaways #NFTs",
+        "created_at": "2022-03-24 23:25:23+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1467866741413855236,
+        "referenced_tweets": {
+            "id": 1507049008304463884,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507130999263608837,
+        "text": "@KaijuFrenz https://t.co/m8LBvcYl5t",
+        "created_at": "2022-03-24 23:03:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1467866741413855236,
+        "referenced_tweets": {
+            "id": 1507049008304463884,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507130962131443714,
+        "text": "@KaijuFrenz https://t.co/m8LBvcYl5t",
+        "created_at": "2022-03-24 23:03:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1467866741413855236,
+        "referenced_tweets": {
+            "id": 1507049008304463884,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507130931093643266,
+        "text": "@OFFICIAL_SWLC @KaijuFrenz https://t.co/m8LBvcYl5t",
+        "created_at": "2022-03-24 23:03:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1496482586134134786,
+        "referenced_tweets": {
+            "id": 1507049008304463884,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507130902983454727,
+        "text": "@KaijuFrenz https://t.co/m8LBvcYl5t",
+        "created_at": "2022-03-24 23:03:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1467866741413855236,
+        "referenced_tweets": {
+            "id": 1507049008304463884,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507130865717071878,
+        "text": "@KaijuFrenz @WonderPals https://t.co/m8LBvcYl5t",
+        "created_at": "2022-03-24 23:02:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1467866741413855236,
+        "referenced_tweets": {
+            "id": 1507049008304463884,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507130841083826177,
+        "text": "@imredelephant @KaijuFrenz https://t.co/m8LBvcYl5t",
+        "created_at": "2022-03-24 23:02:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 395780756,
+        "referenced_tweets": {
+            "id": 1507049008304463884,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507130814726873088,
+        "text": "@KaijuFrenz https://t.co/m8LBvcYl5t",
+        "created_at": "2022-03-24 23:02:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1467866741413855236,
+        "referenced_tweets": {
+            "id": 1507049008304463884,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507068055922397189,
+        "text": "RT @MrTyleer3351: My girlfriend and I painted the wall of our room for the collaboration of KaijuFrenz and Antonym. It took 1 day to make t\u2026",
+        "created_at": "2022-03-24 18:53:19+00:00",
+        "public_metrics": {
+            "retweet_count": 91,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506225608996835328,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507058889317040136,
+        "text": "RT @MrTyleer3351: @KaijuFrenz I made one last cartoon hours before the Mint date. It was my dream.I will always love kaiju. If I get Frenz\u2026",
+        "created_at": "2022-03-24 18:16:53+00:00",
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507058626845986822,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507049008304463884,
+        "text": "My fanart works for our @KaijuFrenz family. I hope you will like it. @Xi_web3 @imredelephant @kovdya @JunnieLong @DegenShiro @Woogie_33 @Nhan_ETH @hxence @bungeejumpy @nftbawsa https://t.co/C5rpf9u1KM",
+        "created_at": "2022-03-24 17:37:37+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 7,
+            "like_count": 14,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504254935122251779,
+        "text": "RT @kopel53: I learned a new program and made this painting with the best effort I could. I hope you will like it. \n@tofueth @LykeIsland ht\u2026",
+        "created_at": "2022-03-17 00:34:58+00:00",
+        "public_metrics": {
+            "retweet_count": 27,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504232741046525964,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503509105327149062,
+        "text": "RT @azelca43: Although I haven't been able to log in to the Discord server yet, it's a project I've been following for a long time. I sugge\u2026",
+        "created_at": "2022-03-14 23:11:19+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503500653792047104,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498348044101857289,
+        "text": "@shamanzs My fanart work for the shaman family. I hope you will like it \ud83d\ude4f\n#NFTs #NFTCommunity https://t.co/A9TF0bSI43",
+        "created_at": "2022-02-28 17:23:06+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1473640616647180294,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491973927303892994,
+        "text": "@azelca43 @TheApiens \ud83d\ude0d",
+        "created_at": "2022-02-11 03:14:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1452096078199894018,
+        "referenced_tweets": {
+            "id": 1491973686454374417,
+            "type": "replied_to"
+        }
+    }
+]

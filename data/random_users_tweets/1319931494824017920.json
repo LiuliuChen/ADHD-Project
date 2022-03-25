@@ -1,0 +1,2560 @@
+[
+    {
+        "tweet_id": 1507068070879244302,
+        "text": "RT @M51haa: whatever happens, i hope u stay\ud83d\ude29",
+        "created_at": "2022-03-24 18:53:22+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507019663812702211,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505646756775833608,
+        "text": "RT @itswords_: Sleep is the perfect escape from everything.",
+        "created_at": "2022-03-20 20:45:35+00:00",
+        "public_metrics": {
+            "retweet_count": 8861,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505504936901361667,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505254336150085643,
+        "text": "19/03/22 https://t.co/zR0xtfnLux",
+        "created_at": "2022-03-19 18:46:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504911836478676996,
+        "text": "18/03/22 https://t.co/SR0K87VfVG",
+        "created_at": "2022-03-18 20:05:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504584179857641485,
+        "text": "RT @girlsstanacc: heart shaped pasta https://t.co/RjihdV88i5",
+        "created_at": "2022-03-17 22:23:16+00:00",
+        "public_metrics": {
+            "retweet_count": 10493,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504258253429030917,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504525506967920642,
+        "text": "RT @sax3q_: Miss you.",
+        "created_at": "2022-03-17 18:30:08+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504496720255889414,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502572652480843778,
+        "text": "frank ocean&gt;&gt;",
+        "created_at": "2022-03-12 09:10:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500885558771474439,
+        "text": "RT @mslexxx_: i just wanna sleep for a month straight",
+        "created_at": "2022-03-07 17:26:16+00:00",
+        "public_metrics": {
+            "retweet_count": 178,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500667242588999684,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500152621360979968,
+        "text": "birthday\ud83e\udd0d. https://t.co/XyT1dfto6F",
+        "created_at": "2022-03-05 16:53:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499986414049628161,
+        "text": "it\u2019s my birthday \ud83c\udf89.",
+        "created_at": "2022-03-05 05:53:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 12,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499821207927070722,
+        "text": "RT @aficioonadoo: I need a vaccine against overthinking.",
+        "created_at": "2022-03-04 18:56:55+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499818614647672839,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499672561411670016,
+        "text": "RT @itsJaysturn: Twitter, tiktok &gt;&gt;&gt;&gt;&gt; the other apps",
+        "created_at": "2022-03-04 09:06:15+00:00",
+        "public_metrics": {
+            "retweet_count": 291,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499498575247593475,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499498132715020289,
+        "text": "i hate this feeling",
+        "created_at": "2022-03-03 21:33:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498685179598102528,
+        "text": "random reassurance \ud83e\udec2\ud83e\udec2\ud83e\udec2\ud83e\udec2.",
+        "created_at": "2022-03-01 15:42:45+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497499967216365569,
+        "text": "RT @_8ixxs: tired, sad and overthinking.",
+        "created_at": "2022-02-26 09:13:09+00:00",
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497402309684477956,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497293902998605833,
+        "text": "RT @eugene126412: do u ever get those random moods where ur not urself for like a week straight",
+        "created_at": "2022-02-25 19:34:19+00:00",
+        "public_metrics": {
+            "retweet_count": 2618,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497040517011583005,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497191333081063430,
+        "text": "RT @idontgivafahk: fall in love with someone who will never stop choosing you.",
+        "created_at": "2022-02-25 12:46:44+00:00",
+        "public_metrics": {
+            "retweet_count": 1582,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496919384480444417,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497156617376350208,
+        "text": "thursday\ud83e\udec2. https://t.co/Q8VgH7jav5",
+        "created_at": "2022-02-25 10:28:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496958724761690112,
+        "text": "RT @idontgivafahk: i wanna fall in love n never break up",
+        "created_at": "2022-02-24 21:22:26+00:00",
+        "public_metrics": {
+            "retweet_count": 1815,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496665612965146625,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494943850300854275,
+        "text": "goodmorning\ud83e\udd0d. https://t.co/TXcFSrTpr3",
+        "created_at": "2022-02-19 07:56:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494617461060157451,
+        "text": "RT @jaredisnumb: \u201cwyd\u201d overthinking EVERYTHING",
+        "created_at": "2022-02-18 10:19:06+00:00",
+        "public_metrics": {
+            "retweet_count": 16578,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494519905747570689,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1492208292482981892,
+        "text": "movie \ud83e\udec2. https://t.co/9n5KPvtyco",
+        "created_at": "2022-02-11 18:45:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490460132840460288,
+        "text": "cant stop smiling what\u2019s happening\ud83e\udec2.",
+        "created_at": "2022-02-06 22:59:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489343101344829452,
+        "text": "RT @zs_54: If I\u2019m texting u while I\u2019m out your special",
+        "created_at": "2022-02-03 21:00:40+00:00",
+        "public_metrics": {
+            "retweet_count": 94,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489222855082618887,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489183431732908034,
+        "text": "RT @syrinexn: having your mom as your bsf&gt;&gt;&gt;&gt;",
+        "created_at": "2022-02-03 10:26:12+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489150683710431233,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488409026882945026,
+        "text": "RT @llsll__v: You will always be my favorite notification.",
+        "created_at": "2022-02-01 07:08:59+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488397518170107907,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488185582857732097,
+        "text": "RT @itspureluv: it's so cute when someone remembers small details about u",
+        "created_at": "2022-01-31 16:21:06+00:00",
+        "public_metrics": {
+            "retweet_count": 40760,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487930870333857797,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488100377757196291,
+        "text": "RT @_malt28: Sometimes all I think about is you",
+        "created_at": "2022-01-31 10:42:32+00:00",
+        "public_metrics": {
+            "retweet_count": 19,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487852110289022990,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487484222394834944,
+        "text": "RT @rou9aaa: finna wanna punch her until her nose breaks",
+        "created_at": "2022-01-29 17:54:09+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487474608504807424,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487088057421549568,
+        "text": "pretty pt2. https://t.co/7Vv73DVcrA",
+        "created_at": "2022-01-28 15:39:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 11,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486007530136477704,
+        "text": "RT @mrry1mm: him&gt;&gt;&gt; anyone",
+        "created_at": "2022-01-25 16:06:18+00:00",
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485635929297588227,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1486002097049018372,
+        "text": "this week is going too slow. it\u2019s only tuesday.",
+        "created_at": "2022-01-25 15:44:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485584199717470213,
+        "text": "been 4 days and i haven\u2019t napped\ud83d\udcaa\ud83c\udffd",
+        "created_at": "2022-01-24 12:04:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484538833521815560,
+        "text": "it\u2019s getting colder and colder yay",
+        "created_at": "2022-01-21 14:50:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 12,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484538573126836227,
+        "text": "if i\u2019m not talking to him i\u2019m sleeping literally.",
+        "created_at": "2022-01-21 14:49:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484115055465611268,
+        "text": "RT @ayeshapatelx: drowning yourself in perfume every time you leave the house &gt;&gt;&gt;",
+        "created_at": "2022-01-20 10:46:17+00:00",
+        "public_metrics": {
+            "retweet_count": 443,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483755841094365192,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483853868874219525,
+        "text": "RT @333diti: dont talk to me if u not him",
+        "created_at": "2022-01-19 17:28:25+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483534521165565952,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483843341028577281,
+        "text": "his heart is so pure i\u2019m gunna cry.",
+        "created_at": "2022-01-19 16:46:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483086143914749952,
+        "text": "RT @muxvrr: hearing your voice is my therapy",
+        "created_at": "2022-01-17 14:37:45+00:00",
+        "public_metrics": {
+            "retweet_count": 24,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1482926924393771009,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1482731399027302400,
+        "text": "reassurance&gt;&gt;&gt;&gt;",
+        "created_at": "2022-01-16 15:08:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482710467881623554,
+        "text": "this weather&gt;&gt;&gt;",
+        "created_at": "2022-01-16 13:44:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482259326509199364,
+        "text": "you make my days better.",
+        "created_at": "2022-01-15 07:52:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482015974027055111,
+        "text": "RT @youusssssef: \u201ci\u2019ll sleep when you sleep\u201d &gt;&gt;&gt;&gt;",
+        "created_at": "2022-01-14 15:45:17+00:00",
+        "public_metrics": {
+            "retweet_count": 56,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1481694570425507845,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481696514133180416,
+        "text": "RT @R8ALM_: Date to marry , that\u2019s it .",
+        "created_at": "2022-01-13 18:35:52+00:00",
+        "public_metrics": {
+            "retweet_count": 92,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1481313867468787713,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481677458990678022,
+        "text": "RT @3ammerrr: talking until we fall asleep together &gt;&gt;&gt;",
+        "created_at": "2022-01-13 17:20:09+00:00",
+        "public_metrics": {
+            "retweet_count": 60,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1481616384769593349,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481322865983205381,
+        "text": "RT @ghlvwy: you're so special to me",
+        "created_at": "2022-01-12 17:51:07+00:00",
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1480966749093003266,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481187380832919555,
+        "text": "it\u2019s the little things.",
+        "created_at": "2022-01-12 08:52:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480590361659691016,
+        "text": "how can something make me this happy.",
+        "created_at": "2022-01-10 17:20:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480530591732936710,
+        "text": "when they tell u they\u2019re gunna go do smt instead of leaving u on delivered &gt;&gt;",
+        "created_at": "2022-01-10 13:22:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480490548192550912,
+        "text": "RT @heluvtat: as a girlfriend i really will do anything for u.",
+        "created_at": "2022-01-10 10:43:47+00:00",
+        "public_metrics": {
+            "retweet_count": 16131,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479264544694456321,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1480459385784700928,
+        "text": "RT @amyxluvv_: when he still texts u when he\u2019s out&gt;&gt;",
+        "created_at": "2022-01-10 08:39:57+00:00",
+        "public_metrics": {
+            "retweet_count": 11169,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1480047655329828864,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1480208502668808197,
+        "text": "i\u2019m a big simp for him and idc.",
+        "created_at": "2022-01-09 16:03:02+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479877431905374216,
+        "text": "RT @elrou9a: he\u2019s the only person I care about",
+        "created_at": "2022-01-08 18:07:29+00:00",
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479728362117812226,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479842399476142081,
+        "text": "i pause my netflix for him. what\u2019s happening.",
+        "created_at": "2022-01-08 15:48:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479784119890493446,
+        "text": "RT @mlrvx: you\u2019ll always be my favorite",
+        "created_at": "2022-01-08 11:56:41+00:00",
+        "public_metrics": {
+            "retweet_count": 40,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479539813195948036,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479783354509713409,
+        "text": "other girls finding him cute makes me feel sick.",
+        "created_at": "2022-01-08 11:53:39+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479556933065584640,
+        "text": "RT @yazyyyh: When they make nicknames for you &gt;&gt;&gt;&gt;",
+        "created_at": "2022-01-07 20:53:56+00:00",
+        "public_metrics": {
+            "retweet_count": 94,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479229834035355650,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479166067742318596,
+        "text": "RT @jaredisnumb: you all i really want tbh",
+        "created_at": "2022-01-06 19:00:46+00:00",
+        "public_metrics": {
+            "retweet_count": 8194,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478941020377153537,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478950015317983232,
+        "text": "everything he does is cute.",
+        "created_at": "2022-01-06 04:42:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 11,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478809123877793793,
+        "text": "RT @rou9aaa: if u arent him stfu",
+        "created_at": "2022-01-05 19:22:24+00:00",
+        "public_metrics": {
+            "retweet_count": 24,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478660616588087296,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478762083055390722,
+        "text": "need a frank ocean album.",
+        "created_at": "2022-01-05 16:15:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478706664433930242,
+        "text": "RT @pisceswrId: if there\u2019s one thing a pisces is gonna do\u2026 it\u2019s sleep",
+        "created_at": "2022-01-05 12:35:16+00:00",
+        "public_metrics": {
+            "retweet_count": 2452,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478558983753551874,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478654722378715138,
+        "text": "he\u2019s so pretty i wanna cry",
+        "created_at": "2022-01-05 09:08:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478442024911220742,
+        "text": "i may have corona but at least the weekends dropping an album this week.",
+        "created_at": "2022-01-04 19:03:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478403969194110976,
+        "text": "@nour_82003 same\ud83e\udd72",
+        "created_at": "2022-01-04 16:32:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1415565547618570243,
+        "referenced_tweets": {
+            "id": 1478402845430796290,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478325315638374405,
+        "text": "the weathers so nice and i can\u2019t even go out cuz i have corona\ud83e\udd72",
+        "created_at": "2022-01-04 11:19:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478323810755649546,
+        "text": "RT @genmnz: yes i\u2019m sensitive and cry over everything what\u2019s the problem???",
+        "created_at": "2022-01-04 11:13:57+00:00",
+        "public_metrics": {
+            "retweet_count": 7803,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478260027416715266,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478322869646069761,
+        "text": "RT @heluvtat: unexpected reassurance literally melts my heart",
+        "created_at": "2022-01-04 11:10:12+00:00",
+        "public_metrics": {
+            "retweet_count": 6977,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478086102623866882,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477719414082527236,
+        "text": "it\u2019s so pretty. https://t.co/eQru1BGe0f",
+        "created_at": "2022-01-02 19:12:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 30,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477579926333177857,
+        "text": "RT @heluvtat: he so fine i can\u2019t breathe",
+        "created_at": "2022-01-02 09:58:01+00:00",
+        "public_metrics": {
+            "retweet_count": 3895,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1477371473878736900,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477382978791780358,
+        "text": "RT @M51haa: You make my days so much better\ud83e\udec2",
+        "created_at": "2022-01-01 20:55:25+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1477054685567672329,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477348815514521605,
+        "text": "RT @M51haa: I'm so in love with you And I hope you know &lt;33",
+        "created_at": "2022-01-01 18:39:40+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1477268755923320838,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477294586447941632,
+        "text": "the only 2 things i want is a nice side profile and him.",
+        "created_at": "2022-01-01 15:04:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476598022922543108,
+        "text": "RT @urfavqatari: Will you be S to my akram? &lt;3",
+        "created_at": "2021-12-30 16:56:17+00:00",
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1476145968282275843,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1476473936640684032,
+        "text": "RT @heavenbrat: i hope u find someone that keeps all ur pinky promises",
+        "created_at": "2021-12-30 08:43:12+00:00",
+        "public_metrics": {
+            "retweet_count": 7182,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1476254306152161281,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1476473877354229761,
+        "text": "RT @jaredisnumb: ur smile be making me fall for u",
+        "created_at": "2021-12-30 08:42:58+00:00",
+        "public_metrics": {
+            "retweet_count": 2742,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1476291166165368836,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1476257437904687104,
+        "text": "RT @prettypdabrat: Imma simp fr when i like you i really like you.",
+        "created_at": "2021-12-29 18:22:55+00:00",
+        "public_metrics": {
+            "retweet_count": 9324,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1475618338353070083,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1476257414198571019,
+        "text": "RT @heluvtat: i\u2019d stay up all night just to talk to him",
+        "created_at": "2021-12-29 18:22:49+00:00",
+        "public_metrics": {
+            "retweet_count": 986,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1475956691971813385,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1476255628721102851,
+        "text": "RT @ihyjuju: girls be like \u201cok bye\u201d then expect 300 texts 50 emails and 200 missed calls",
+        "created_at": "2021-12-29 18:15:44+00:00",
+        "public_metrics": {
+            "retweet_count": 3639,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1475940292100440064,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1475542442074157065,
+        "text": "RT @_maseehaismail: gorgeous gorgeous girls cry a lot",
+        "created_at": "2021-12-27 19:01:47+00:00",
+        "public_metrics": {
+            "retweet_count": 92,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1475177745709678595,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1474335664946794505,
+        "text": "RT @heluvtat: leave my soulmate alone u whores",
+        "created_at": "2021-12-24 11:06:29+00:00",
+        "public_metrics": {
+            "retweet_count": 26080,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474027668605747206,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1472979442444161027,
+        "text": "RT @playboimartiii: hoodies on leggings\ud83d\udc93\ud83d\udc9e\ud83d\udc97\ud83d\udc98\ud83d\udc9e\ud83d\udc9e",
+        "created_at": "2021-12-20 17:17:20+00:00",
+        "public_metrics": {
+            "retweet_count": 276,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1472157331739885568,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1467845697332518913,
+        "text": "RT @heluvtat: if ur not him idc at all",
+        "created_at": "2021-12-06 13:17:40+00:00",
+        "public_metrics": {
+            "retweet_count": 13574,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1467600811920343050,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1467720429410340865,
+        "text": "RT @heluvtat: \u201cwhat do u want for christmas?\u201d a frank ocean album",
+        "created_at": "2021-12-06 04:59:53+00:00",
+        "public_metrics": {
+            "retweet_count": 1240,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1465086617249538058,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1467184797965594625,
+        "text": "RT @imnotclip: free my girls from da bare minimum",
+        "created_at": "2021-12-04 17:31:29+00:00",
+        "public_metrics": {
+            "retweet_count": 52590,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1460093382118805507,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1467086257855545351,
+        "text": "RT @janaaelmokadem: the feminine urge to compliment every pretty girl you meet",
+        "created_at": "2021-12-04 10:59:55+00:00",
+        "public_metrics": {
+            "retweet_count": 205,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1466816359254433797,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1465347228189483015,
+        "text": "the feminine urge to stab every female that talks to him.",
+        "created_at": "2021-11-29 15:49:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465346870323171332,
+        "text": "RT @genmnz: Lord, if he\u2019s not for me\u2026 force him to be \u2764\ufe0f",
+        "created_at": "2021-11-29 15:48:13+00:00",
+        "public_metrics": {
+            "retweet_count": 6825,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1464677596751269891,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1465346799275855879,
+        "text": "RT @heluvtat: he gets finer n finer every time i see him",
+        "created_at": "2021-11-29 15:47:56+00:00",
+        "public_metrics": {
+            "retweet_count": 6430,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1465035802812030977,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1462514395087613959,
+        "text": "RT @m3aruf: \"are u ok?\" of course not next question",
+        "created_at": "2021-11-21 20:12:58+00:00",
+        "public_metrics": {
+            "retweet_count": 125,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1462466335284342790,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1462475373040517125,
+        "text": "RT @heluvtat: i think a piercing is calling my name",
+        "created_at": "2021-11-21 17:37:55+00:00",
+        "public_metrics": {
+            "retweet_count": 7535,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1462105622460211204,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1462121013873983489,
+        "text": "RT @maybeeevirgo: the feminine urge to say \u201cit\u2019s okay\u201d when nothing is ok",
+        "created_at": "2021-11-20 18:09:49+00:00",
+        "public_metrics": {
+            "retweet_count": 33551,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1461069774692229130,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1462120978171969540,
+        "text": "RT @sarahelashram: maturing is realizing that the less you know the better",
+        "created_at": "2021-11-20 18:09:40+00:00",
+        "public_metrics": {
+            "retweet_count": 664,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1461620249032372224,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1457245642913419267,
+        "text": "RT @brian2grimey: i wanna delete all my socials soooo bad but tf am i gonna do? go for a walk \ud83d\ude2d?",
+        "created_at": "2021-11-07 07:16:50+00:00",
+        "public_metrics": {
+            "retweet_count": 70263,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1456742082681393159,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1449776521502134281,
+        "text": "i\u2019m a walking green flag wys",
+        "created_at": "2021-10-17 16:37:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1447974993103568908,
+        "text": "@iinataly yes rn like rn",
+        "created_at": "2021-10-12 17:18:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1250033660499300356,
+        "referenced_tweets": {
+            "id": 1447922337895100426,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1445792426673655818,
+        "text": "RT @heluvtat: he feels like home",
+        "created_at": "2021-10-06 16:45:50+00:00",
+        "public_metrics": {
+            "retweet_count": 990,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1445387633153265669,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1442705116721725443,
+        "text": "RT @malikaadawy: Girls know girls who know girls that know other girls, that will find out what you did",
+        "created_at": "2021-09-28 04:17:58+00:00",
+        "public_metrics": {
+            "retweet_count": 131,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1442116371953995778,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1440360881385132037,
+        "text": "RT @dirtyydian: \u201cAre you okay?\u201d no bro my stomach always hurts",
+        "created_at": "2021-09-21 17:02:49+00:00",
+        "public_metrics": {
+            "retweet_count": 13311,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1439804351174807553,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1439131724538073088,
+        "text": "RT @axxbzn: ur in his dms (leave)",
+        "created_at": "2021-09-18 07:38:35+00:00",
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1438951067182505986,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1434782131440467968,
+        "text": "RT @luvmdrea: woke up w 0 hoes, feels great man",
+        "created_at": "2021-09-06 07:34:51+00:00",
+        "public_metrics": {
+            "retweet_count": 8881,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1434204318333390851,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1431216593225330690,
+        "text": "RT @robinugh: if she cries at everything wife her",
+        "created_at": "2021-08-27 11:26:41+00:00",
+        "public_metrics": {
+            "retweet_count": 241,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1430659776095076356,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1430973904928006147,
+        "text": "it\u2019s a tough life\ud83d\ude2a\ud83d\ude2a\ud83d\ude2a https://t.co/dM8nz8hAUE",
+        "created_at": "2021-08-26 19:22:19+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1430773455402766337,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1430938043226247168,
+        "text": "RT @JeffHardyStan: Anyone who says that they don\u2019t have hoes is lying",
+        "created_at": "2021-08-26 16:59:49+00:00",
+        "public_metrics": {
+            "retweet_count": 32,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1430418638172008452,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1429513131114516487,
+        "text": "@nour_82003 rn?",
+        "created_at": "2021-08-22 18:37:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1415565547618570243,
+        "referenced_tweets": {
+            "id": 1429512723918954502,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1429512422323367944,
+        "text": "@nour_82003 i will",
+        "created_at": "2021-08-22 18:34:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1415565547618570243,
+        "referenced_tweets": {
+            "id": 1428862370068238336,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1429512145293750277,
+        "text": "RT @delightinCHANEL: the packaging of Dior makeup &gt;&gt;&gt;&gt; https://t.co/9vxhnTCiBh",
+        "created_at": "2021-08-22 18:33:49+00:00",
+        "public_metrics": {
+            "retweet_count": 1124,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1429162005580111882,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1428046215002873859,
+        "text": "RT @nusrxt_a: \u201cYou attract what you fear\u201d https://t.co/pfTB5upUIW",
+        "created_at": "2021-08-18 17:28:44+00:00",
+        "public_metrics": {
+            "retweet_count": 7850,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1426887721478508544,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1414310042510274565,
+        "text": "what is this ref doing\ud83e\udd28",
+        "created_at": "2021-07-11 19:46:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1412037106222960654,
+        "text": "RT @sexcsarahh: soulmate wya they doin me dirty out here\ud83d\ude44",
+        "created_at": "2021-07-05 13:14:15+00:00",
+        "public_metrics": {
+            "retweet_count": 2162,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1411555544494530563,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1406678066559135759,
+        "text": "RT @fatmaisbored: if you give me a bracelet or a necklace i\u2019m keeping it till i die",
+        "created_at": "2021-06-20 18:19:20+00:00",
+        "public_metrics": {
+            "retweet_count": 533,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1405942824332365825,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1404844159786270720,
+        "text": "RT @DeeGBP: When the fit looks exactly like you planned in your head &gt;&gt;&gt;",
+        "created_at": "2021-06-15 16:52:03+00:00",
+        "public_metrics": {
+            "retweet_count": 10419,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1404132211885056004,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1403585953378275330,
+        "text": "RT @malakwktaba: hot people havent got covid yet",
+        "created_at": "2021-06-12 05:32:23+00:00",
+        "public_metrics": {
+            "retweet_count": 254,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1403427129623253000,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1399640041325006848,
+        "text": "RT @mister_ade5: We need a Shazam for perfumes.",
+        "created_at": "2021-06-01 08:12:44+00:00",
+        "public_metrics": {
+            "retweet_count": 35830,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1399291381605093376,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1399614783888953345,
+        "text": "RT @YeDropYandhi: Niggas be like \u201cdeez\u201d this \u201cdeez\u201d that, mf deez days keep getting harder and harder",
+        "created_at": "2021-06-01 06:32:22+00:00",
+        "public_metrics": {
+            "retweet_count": 432,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1399236840448839685,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1399035159698186241,
+        "text": "RT @h1heffner: I prefer not to proof read my work it is what it is, I don\u2019t have time for stress.",
+        "created_at": "2021-05-30 16:09:09+00:00",
+        "public_metrics": {
+            "retweet_count": 4525,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1397919912937410569,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1398550329961193475,
+        "text": "RT @lolaminah: best friend soulmates are definitely a real thing",
+        "created_at": "2021-05-29 08:02:37+00:00",
+        "public_metrics": {
+            "retweet_count": 117,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1398319559317274630,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1398207941690499072,
+        "text": "RT @genmnz: i miss feeling butterflies now all i get is stomach aches",
+        "created_at": "2021-05-28 09:22:05+00:00",
+        "public_metrics": {
+            "retweet_count": 13505,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1397785911480373249,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1397808006931357700,
+        "text": "RT @XXL: Lil Baby posted up at the White House today in support of George Floyd\u2019s family \u270a https://t.co/nLUifyw26N",
+        "created_at": "2021-05-27 06:52:53+00:00",
+        "public_metrics": {
+            "retweet_count": 2334,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1397384577748963329,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1397042208763695107,
+        "text": "RT @MalikaSorour: Nothings worse than accidentally refreshing your fyp while searching for a tiktok to rewatch",
+        "created_at": "2021-05-25 04:09:53+00:00",
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1396423965053181956,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1396390327720812546,
+        "text": "RT @faridatamerf: girls who sleep with a bra are not normal",
+        "created_at": "2021-05-23 08:59:32+00:00",
+        "public_metrics": {
+            "retweet_count": 157,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1396169080730705922,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1395331814873608196,
+        "text": "RT @mayspinkberry: woke up w a fat ass again\ud83e\udd26 so embarrassed",
+        "created_at": "2021-05-20 10:53:23+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1395304022085709824,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1394966226133258240,
+        "text": "RT @liveinacastle: girls don\u2019t want boys, girls want mini kellys https://t.co/lSYb7omrXt",
+        "created_at": "2021-05-19 10:40:40+00:00",
+        "public_metrics": {
+            "retweet_count": 3336,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1394753298385629184,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1394952547161489410,
+        "text": "i\u2019m girls\ud83d\ude24 https://t.co/5DeYBCpboj",
+        "created_at": "2021-05-19 09:46:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1394733465648570371,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1394316148989173764,
+        "text": "RT @realasysk: isreal? more like isfake",
+        "created_at": "2021-05-17 15:37:29+00:00",
+        "public_metrics": {
+            "retweet_count": 27,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1392161424554741762,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1393950986889273353,
+        "text": "RT @aishabagel: Toronto.\ud83c\uddf5\ud83c\uddf8\ud83c\uddf5\ud83c\uddf8 https://t.co/gRZbKo2qR4",
+        "created_at": "2021-05-16 15:26:28+00:00",
+        "public_metrics": {
+            "retweet_count": 15504,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1393757332039942148,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1393949340914397187,
+        "text": "#freepalestine https://t.co/bJ5vF25BZq",
+        "created_at": "2021-05-16 15:19:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1393917633028841472,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1392500703898345475,
+        "text": "RT @omarfrfrfr: do not disturb is the best feature ever created",
+        "created_at": "2021-05-12 15:23:33+00:00",
+        "public_metrics": {
+            "retweet_count": 166,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1392238578240004103,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1390189646387322883,
+        "text": "@yosxef i wanna go back to november",
+        "created_at": "2021-05-06 06:20:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 999803284981334016,
+        "referenced_tweets": {
+            "id": 1390092219470729221,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1390180110196674560,
+        "text": "RT @raazanmohamed: i hate people who never admit that theyre wrong w they always turn tables",
+        "created_at": "2021-05-06 05:42:21+00:00",
+        "public_metrics": {
+            "retweet_count": 170,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1389894885843611649,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1389544159728521222,
+        "text": "RT @livandorder: i wonder how much money i could save if i wasn\u2019t a fucking idiot",
+        "created_at": "2021-05-04 11:35:18+00:00",
+        "public_metrics": {
+            "retweet_count": 71720,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1388970156899065861,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1389100733665095681,
+        "text": "RT @cIutchs: Me: I\u2019m not gonna think about it anymore \n\nAlso me: https://t.co/mGr4Xy1bZh",
+        "created_at": "2021-05-03 06:13:17+00:00",
+        "public_metrics": {
+            "retweet_count": 4471,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1389011641925242881,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1387078191416762374,
+        "text": "online shopping is my therapy \ud83d\ude2b",
+        "created_at": "2021-04-27 16:16:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1386916654815252480,
+        "text": "RT @Hamzino29: sick and tired of being sick and tired",
+        "created_at": "2021-04-27 05:34:32+00:00",
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1386727422507339783,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1386614764831453189,
+        "text": "RT @curlyheadgio: It\u2019s always \u201cwyd\u201d never let\u2019s drive around and blast drake",
+        "created_at": "2021-04-26 09:34:56+00:00",
+        "public_metrics": {
+            "retweet_count": 4945,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1386443824088502272,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1386359789794566148,
+        "text": "RT @aerongrcia_: if i cried in front of you, i swear i have reached my limitations",
+        "created_at": "2021-04-25 16:41:45+00:00",
+        "public_metrics": {
+            "retweet_count": 17473,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1385924050824822785,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1385136743758839809,
+        "text": "@habibaaax1 same omg",
+        "created_at": "2021-04-22 07:41:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1155574866961141760,
+        "referenced_tweets": {
+            "id": 1384931461032288256,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1384906929009565698,
+        "text": "RT @linabdelrahman: boys crying is the saddest thing ever",
+        "created_at": "2021-04-21 16:28:36+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1384670891569725441,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1384561600825339907,
+        "text": "RT @babikerrr: bitmojis are supposed to be based on what u look like not what u wanna look like",
+        "created_at": "2021-04-20 17:36:24+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1384532711369445381,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1384561576238256129,
+        "text": "RT @McBatates: hot girls listen to drake",
+        "created_at": "2021-04-20 17:36:18+00:00",
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1384215541330501635,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1384049092058247169,
+        "text": "RT @digitaIrem: https://t.co/gzntCgnokg",
+        "created_at": "2021-04-19 07:39:52+00:00",
+        "public_metrics": {
+            "retweet_count": 40261,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1382868670234394628,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1383081343555399682,
+        "text": "RT @KvngSuki: Y\u2019all relationships inspire me to be single\ud83d\ude02",
+        "created_at": "2021-04-16 15:34:23+00:00",
+        "public_metrics": {
+            "retweet_count": 21444,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1382698961958486025,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1383031704298864641,
+        "text": "@sPiCeY_fRiEs \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2021-04-16 12:17:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1158481040593301505,
+        "referenced_tweets": {
+            "id": 1383022258055229442,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1382994925344686083,
+        "text": "RT @Sadcrib: reaI mfs never eat they food untiI they find the right video",
+        "created_at": "2021-04-16 09:50:59+00:00",
+        "public_metrics": {
+            "retweet_count": 966,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1382753917876932608,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1382385600460959744,
+        "text": "RT @amiri0v0: It\u2019s a cum or get cummed on world stay safe y\u2019all",
+        "created_at": "2021-04-14 17:29:45+00:00",
+        "public_metrics": {
+            "retweet_count": 495,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1382149694747508736,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1382355515624333317,
+        "text": "RT @yslvalerie: if u lose me thats a https://t.co/LvCl67cqaP",
+        "created_at": "2021-04-14 15:30:12+00:00",
+        "public_metrics": {
+            "retweet_count": 11285,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1381644947581984774,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1382042495002017795,
+        "text": "RT @aishaa_salem: big friend groups are fake, half of you dont even like each other",
+        "created_at": "2021-04-13 18:46:22+00:00",
+        "public_metrics": {
+            "retweet_count": 70,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1381903504634228736,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1381874085395828744,
+        "text": "RT @whoskumba: snapchat is basically a competition to see who can makes you cringe the hardest",
+        "created_at": "2021-04-13 07:37:10+00:00",
+        "public_metrics": {
+            "retweet_count": 207,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1381626141388255234,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1381306590108745729,
+        "text": "@bayzoll @yosxef and i have more dick than u\ud83d\ude33",
+        "created_at": "2021-04-11 18:02:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1163190664273846272,
+        "referenced_tweets": {
+            "id": 1381306466011873282,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1381306363599523841,
+        "text": "@yosxef @bayzoll what he said",
+        "created_at": "2021-04-11 18:01:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 999803284981334016,
+        "referenced_tweets": {
+            "id": 1381222698181873664,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1381306088012845064,
+        "text": "RT @Sadcrib: if u Ioud in the morning I automaticaIIy don\u2019t like you",
+        "created_at": "2021-04-11 18:00:09+00:00",
+        "public_metrics": {
+            "retweet_count": 611,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1381282431123214352,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1381219519352467460,
+        "text": "@yosxef i wonder why\ud83d\ude33\ud83d\ude33",
+        "created_at": "2021-04-11 12:16:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 999803284981334016,
+        "referenced_tweets": {
+            "id": 1381145462091231234,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1381218985048485888,
+        "text": "RT @sabrinawxm: \u201cu got snap?\u201d i got pen &amp; paper u can use to write me love letters mf, act grown",
+        "created_at": "2021-04-11 12:14:02+00:00",
+        "public_metrics": {
+            "retweet_count": 21902,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1380975587691528195,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1380968763751854081,
+        "text": "RT @spillthesasss: \"text me when you're home\" is a love language &lt;3",
+        "created_at": "2021-04-10 19:39:45+00:00",
+        "public_metrics": {
+            "retweet_count": 12169,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1380539467631501313,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1380913794071863299,
+        "text": "RT @zuzuzzuzzz: men deserve periods",
+        "created_at": "2021-04-10 16:01:19+00:00",
+        "public_metrics": {
+            "retweet_count": 1212,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1379429390254153744,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1380614576597782532,
+        "text": "RT @textstagram_: listening to music is lowkey therapy",
+        "created_at": "2021-04-09 20:12:20+00:00",
+        "public_metrics": {
+            "retweet_count": 1775,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1380466991538991109,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1380193183842324480,
+        "text": "RT @gngchar: once i send you one Tiktok i don\u2019t stop",
+        "created_at": "2021-04-08 16:17:52+00:00",
+        "public_metrics": {
+            "retweet_count": 42444,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1379866910322479106,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1380193094688256002,
+        "text": "RT @uglygod_geno: Baby I'm two totally different people when i care and when i don't",
+        "created_at": "2021-04-08 16:17:31+00:00",
+        "public_metrics": {
+            "retweet_count": 22357,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1379468025951367168,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1380078950672633860,
+        "text": "RT @teymiim: Songs really do hit different when you have experienced what they\u2019re talking about",
+        "created_at": "2021-04-08 08:43:57+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1379803996936933380,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1379145844331585541,
+        "text": "RT @Wewewd5: @LILOSRECORDS @7thbby I didn't remember that lilo's big sister was thick like that https://t.co/PkzcdAD4b3",
+        "created_at": "2021-04-05 18:56:07+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1379132192341786626,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1378982421710913537,
+        "text": "@sofia4dietzold IM DYINGNGNGN SOFIA\ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2021-04-05 08:06:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1124047356125745152,
+        "referenced_tweets": {
+            "id": 1378799059037732865,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1378823743334662151,
+        "text": "RT @Sensei1van: I\u2019m an overthinker so if you don\u2019t give me an answer, I\u2019ll come up with one.",
+        "created_at": "2021-04-04 21:36:12+00:00",
+        "public_metrics": {
+            "retweet_count": 32154,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1378742305809694723,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1377528185278042114,
+        "text": "RT @trvisXX: Nah I\u2019m not gon lie who be putting mayo on fries...?",
+        "created_at": "2021-04-01 07:48:07+00:00",
+        "public_metrics": {
+            "retweet_count": 7093,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1377326101349892097,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1377191873509523456,
+        "text": "RT @bkiplxxi: if my mama ok with it i really don\u2019t give a damn who else ain\u2019t \ud83e\udd23",
+        "created_at": "2021-03-31 09:31:44+00:00",
+        "public_metrics": {
+            "retweet_count": 47700,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1376566568084193283,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1376865467000893440,
+        "text": "how do people eat without watching anything\ud83d\ude10",
+        "created_at": "2021-03-30 11:54:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1376221958388514816,
+        "text": "RT @taylorgeeeee: me when I do 5 squats and my ass still isn\u2019t fat https://t.co/0LFaEZcH81",
+        "created_at": "2021-03-28 17:17:38+00:00",
+        "public_metrics": {
+            "retweet_count": 20114,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1375684137353351171,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1376221287362727937,
+        "text": "RT @geleyim12: Y'all ever postpone an  outfit?",
+        "created_at": "2021-03-28 17:14:58+00:00",
+        "public_metrics": {
+            "retweet_count": 127,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1376169060275195907,
+            "type": "retweeted"
+        }
+    }
+]

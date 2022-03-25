@@ -1,0 +1,1518 @@
+[
+    {
+        "tweet_id": 1507239378862682116,
+        "text": "RT @SEGAwhisperer: @Azzurri_En Alexa play: https://t.co/VZEV4OLRTy",
+        "created_at": "2022-03-25 06:14:05+00:00",
+        "public_metrics": {
+            "retweet_count": 69,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507117139223883783,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507093378709827585,
+        "text": "RT @FootyAccums: You won't see a much better hit free kick this week than this... \ud83d\ude80\n\nWales. Golf. Madrid. \ud83d\ude05\n\n\ud83c\udfa5 @SkyFootball https://t.co/p7\u2026",
+        "created_at": "2022-03-24 20:33:56+00:00",
+        "public_metrics": {
+            "retweet_count": 555,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507089610505175040,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507093001474088972,
+        "text": "@TheKopHQ So good with his head \ud83d\udd25",
+        "created_at": "2022-03-24 20:32:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 57085805,
+        "referenced_tweets": {
+            "id": 1507092780430016525,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507088845808062480,
+        "text": "Oooof https://t.co/LUFd3QsNKj",
+        "created_at": "2022-03-24 20:15:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507074618003234823,
+        "text": "Haha class this \ud83e\udd23\ud83d\udc4c https://t.co/PvM0Tku45J",
+        "created_at": "2022-03-24 19:19:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506729662298431499,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507068064914890755,
+        "text": "RT @TheLFCTicketMen: As I haven't been on the account for over a month and I'm feeling generous, who would like a shootouts from myself to\u2026",
+        "created_at": "2022-03-24 18:53:21+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507064062399680516,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507064572208984070,
+        "text": "@TheLFCTicketMen Go on then lad",
+        "created_at": "2022-03-24 18:39:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 951959807971528707,
+        "referenced_tweets": {
+            "id": 1507064062399680516,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507058181746343944,
+        "text": "RT @lfcspares45: \ud83d\udea8GIVEAWAY TIME\ud83d\udea8 \n\nGiving away a pair of Watford tickets to one lucky winner \n\nTo enter, follow @lfcspares45, like &amp; retwee\u2026",
+        "created_at": "2022-03-24 18:14:04+00:00",
+        "public_metrics": {
+            "retweet_count": 260,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507056930774298635,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507023372856827919,
+        "text": "@LFCTickets090 How much mate ?",
+        "created_at": "2022-03-24 15:55:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1232711574395199490,
+        "referenced_tweets": {
+            "id": 1507022603776536579,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507003286573965312,
+        "text": "Gonna be no chance for Watford tickets is there, seen hundreds asking  \ud83d\ude43 #LFCTickets #LFCSpares",
+        "created_at": "2022-03-24 14:35:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506910837939843079,
+        "text": "RT @LFCtickets5: \ud83d\udea8WATFORD PAIR GIVEAWAY!\n\n2\ufe0f\u20e3 Steps to enter:\n\n- Be following me.\n- Retweet this tweet.\n\nWinner announced randomly on 1st A\u2026",
+        "created_at": "2022-03-24 08:28:35+00:00",
+        "public_metrics": {
+            "retweet_count": 669,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502960015354863617,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506648606320828424,
+        "text": "@lfcticketscheap Let\u2019s hope he can seal another European cup for old times sake \ud83d\ude4c",
+        "created_at": "2022-03-23 15:06:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 291239046,
+        "referenced_tweets": {
+            "id": 1506648200945545221,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506647994099277834,
+        "text": "@LFC That\u2019s good, is there any chance some of us can actually get one though? I\u2019ll be 6 foot under at this rate.",
+        "created_at": "2022-03-23 15:04:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19583545,
+        "referenced_tweets": {
+            "id": 1506647200843153411,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506625141136056329,
+        "text": "@AnfieldWatch Robbie Keane",
+        "created_at": "2022-03-23 13:33:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2525206496,
+        "referenced_tweets": {
+            "id": 1506622964170727429,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506609191074549764,
+        "text": "RT @TheAnfieldTalk: Next season's #LFC away kit according to https://t.co/iNvz4jrfqn... https://t.co/NJRHC1FwMM",
+        "created_at": "2022-03-23 12:29:57+00:00",
+        "public_metrics": {
+            "retweet_count": 230,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506608042158264320,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506602723503972354,
+        "text": "@LFCSpares Haha how on earth you gonna pick here \ud83d\ude48 it\u2019s impossible.",
+        "created_at": "2022-03-23 12:04:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2383717191,
+        "referenced_tweets": {
+            "id": 1506601194751463427,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506551966146641928,
+        "text": "RT @BetVictor: Stockport County FC haven't lost a National League game since December last year. \n\nSince then:\n\nWWWWWWWWDWWWWWWWW\n\n76 point\u2026",
+        "created_at": "2022-03-23 08:42:33+00:00",
+        "public_metrics": {
+            "retweet_count": 40,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506387550147067906,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506543514951340039,
+        "text": "@lfcticketscheap \ud83e\udd23\ud83e\udd23",
+        "created_at": "2022-03-23 08:08:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 291239046,
+        "referenced_tweets": {
+            "id": 1506542217569071107,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506368792590495751,
+        "text": "@aroundliv Why\u2019s nobody told her to shut her awful gob and why\u2019s nobody just laid one on her chin?",
+        "created_at": "2022-03-22 20:34:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 531731287,
+        "referenced_tweets": {
+            "id": 1506316297067499521,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506362468024651784,
+        "text": "RT @OptaJoe: 33 - @MoSalah holds the record for most consecutive winning appearances in the Premier League, a run of 33 straight victories\u2026",
+        "created_at": "2022-03-22 20:09:33+00:00",
+        "public_metrics": {
+            "retweet_count": 845,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506276686303739928,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506337541674389518,
+        "text": "RT @btsportfootball: Shankly. Paisley. Fagan. Dalglish. Evans.\n\nThese Anfield legends elevated @LFC from second-tier obscurity to dominate\u2026",
+        "created_at": "2022-03-22 18:30:30+00:00",
+        "public_metrics": {
+            "retweet_count": 660,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506315115880140804,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506336919109648389,
+        "text": "@lfcticketscheap another one here lad. https://t.co/foH1qIvulm",
+        "created_at": "2022-03-22 18:28:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 291239046,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506307151714824204,
+        "text": "@lfcticketscheap Not all heroes wear capes \ud83d\ude4c",
+        "created_at": "2022-03-22 16:29:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 291239046,
+        "referenced_tweets": {
+            "id": 1506306812722790411,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506285617491107851,
+        "text": "@__chrisday__ @Ordinar27248366 @lfcticketscheap \ud83e\udd23\ud83e\udd23\ud83e\udd23 he even put a love heart on the ticket \ud83d\ude48 https://t.co/tHRf01To6b",
+        "created_at": "2022-03-22 15:04:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1363157394868600832,
+        "referenced_tweets": {
+            "id": 1506285340432211975,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506282763342819333,
+        "text": "@lfcticketscheap \ud83e\udd23\ud83e\udd23",
+        "created_at": "2022-03-22 14:52:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 291239046,
+        "referenced_tweets": {
+            "id": 1506282677015658509,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506282685349642246,
+        "text": "@__chrisday__ @lfcticketscheap Haha \ud83e\udd23\ud83e\udd23",
+        "created_at": "2022-03-22 14:52:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1363157394868600832,
+        "referenced_tweets": {
+            "id": 1506280753398693889,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506277143352913923,
+        "text": "@__chrisday__ @lfcticketscheap \ud83e\udd23\ud83e\udd23 he almost had me with that line \ud83d\ude4a\ud83e\udd23\ud83d\ude44",
+        "created_at": "2022-03-22 14:30:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1363157394868600832,
+        "referenced_tweets": {
+            "id": 1506276415813074953,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506275744804134922,
+        "text": "@lfcticketscheap Just tried blagging me https://t.co/fwsZX7YkuG",
+        "created_at": "2022-03-22 14:24:57+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 291239046,
+        "referenced_tweets": {
+            "id": 1506275636020666369,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506257697389355012,
+        "text": "@Z6Pcvxkedd @SkySportsPL Your mum and the morning after pill.",
+        "created_at": "2022-03-22 13:13:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1376506188012093441,
+        "referenced_tweets": {
+            "id": 1506035748730187779,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506256150173560847,
+        "text": "@WeAreLiv3rpool Get to them ruins bars \ud83d\udc4c top night.",
+        "created_at": "2022-03-22 13:07:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1384132428021702656,
+        "referenced_tweets": {
+            "id": 1506254540844281862,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506236832467537924,
+        "text": "@TheKop_com Berger",
+        "created_at": "2022-03-22 11:50:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 890119581699895297,
+        "referenced_tweets": {
+            "id": 1506201219039117313,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506236710291660801,
+        "text": "@talkSPORT Close between Maddison or Matip",
+        "created_at": "2022-03-22 11:49:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15332636,
+        "referenced_tweets": {
+            "id": 1506214100216524802,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506215485536456709,
+        "text": "Need a spare for Watford desperately #LFCTickets",
+        "created_at": "2022-03-22 10:25:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505990062839902220,
+        "text": "@BenitezSucks @talkSPORT Haha ok mate \ud83e\udd23 just because he\u2019s a footballer doesn\u2019t mean he can\u2019t have a life.",
+        "created_at": "2022-03-21 19:29:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1427539255086178306,
+        "referenced_tweets": {
+            "id": 1505986614551621639,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505919962673729541,
+        "text": "The level of hype when Liverpool get a decision is mad \ud83e\udd23",
+        "created_at": "2022-03-21 14:51:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505919835263352838,
+        "text": "@PaulBrownEFC You do this for every team that gets a decision ? Strange bunch. You won\u2019t have it in the championship anyway so don\u2019t worry \ud83d\udc4d",
+        "created_at": "2022-03-21 14:50:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 157493089,
+        "referenced_tweets": {
+            "id": 1505632194898845698,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505919386741350402,
+        "text": "I don\u2019t mind flying, but when you see shit like that happening in this day and age it does make you think, imagine being 30 thousand up and then something like that happens \ud83d\ude29",
+        "created_at": "2022-03-21 14:48:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505917755031183361,
+        "text": "@lfcticketscheap I\u2019ll pick you up if you sort me a ticket \ud83e\udd23\ud83e\udd23",
+        "created_at": "2022-03-21 14:42:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 291239046,
+        "referenced_tweets": {
+            "id": 1505912589108359172,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505917652895735810,
+        "text": "@jmoors @talkSPORT \ud83e\udd23\ud83e\udd23",
+        "created_at": "2022-03-21 14:42:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15144292,
+        "referenced_tweets": {
+            "id": 1505917595463172100,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505916758418505732,
+        "text": "@SkySportsPL Should be a retrospective ban for cheating. Little fanny.",
+        "created_at": "2022-03-21 14:38:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 713993413,
+        "referenced_tweets": {
+            "id": 1505914878808117249,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505907410581565450,
+        "text": "@talkSPORT Christ it\u2019s football, what they supposed to do ? Hide all the time when they lose.",
+        "created_at": "2022-03-21 14:01:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15332636,
+        "referenced_tweets": {
+            "id": 1505903302231343111,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505906928945356804,
+        "text": "RT @FabrizioRomano: Dybala will leave Juventus as free agent. There was full verbal agreement last October for \u20ac8m plus \u20ac2m net salary unti\u2026",
+        "created_at": "2022-03-21 13:59:24+00:00",
+        "public_metrics": {
+            "retweet_count": 4043,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505898174736904194,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505906772237852675,
+        "text": "@ladbible I try to say good bye and I choke, try to walk away and I stumble, though I try to hide it it\u2019s clear\u2026\u2026..I wear goggles when you are not here.",
+        "created_at": "2022-03-21 13:58:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 331311644,
+        "referenced_tweets": {
+            "id": 1505896576518176768,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505862820692434950,
+        "text": "RT @RealRajanjha: Major #planecrash in #China, Boeing 737 plane crashed into the mountains, 132 passengers were on board. \nwe can see the f\u2026",
+        "created_at": "2022-03-21 11:04:08+00:00",
+        "public_metrics": {
+            "retweet_count": 747,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505847090471063555,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505824493075369986,
+        "text": "@TheKopHQ Need to get that tie won in benfica if we can.",
+        "created_at": "2022-03-21 08:31:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 57085805,
+        "referenced_tweets": {
+            "id": 1505823076071657474,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505651410641334283,
+        "text": "Forest fans are rats \ud83d\udc4d",
+        "created_at": "2022-03-20 21:04:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505648966641373188,
+        "text": "@NathanPT93 @talkSPORT Jib it you melt",
+        "created_at": "2022-03-20 20:54:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 261453444,
+        "referenced_tweets": {
+            "id": 1505633849442775044,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505648499840495625,
+        "text": "This platform is fucking grim. Wish I could track down some of the cunts on here.",
+        "created_at": "2022-03-20 20:52:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505633612158353411,
+        "text": "Get in red men! \ud83d\udd34",
+        "created_at": "2022-03-20 19:53:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505593592512925697,
+        "text": "RT @Sam1Poundsta: Quality @KurtZouma https://t.co/OMNVp35e85",
+        "created_at": "2022-03-20 17:14:19+00:00",
+        "public_metrics": {
+            "retweet_count": 379,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505591716614742024,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505586727582421009,
+        "text": "Wow the f1 \ud83d\ude2f",
+        "created_at": "2022-03-20 16:47:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505565657722933248,
+        "text": "RT @GBoatsy: So proud Charlie gets a last minute winner in the qtr final well done boys\u2764\ufe0fone down one to go\ud83d\ude4f\u26bd\ufe0f https://t.co/4uW2ASfDzn",
+        "created_at": "2022-03-20 15:23:19+00:00",
+        "public_metrics": {
+            "retweet_count": 2477,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505541793634467841,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505545191658303494,
+        "text": "@FabrizioRomano Nobody gives a shit",
+        "created_at": "2022-03-20 14:02:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 330262748,
+        "referenced_tweets": {
+            "id": 1505543386853699584,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505527819803181060,
+        "text": "@talkSPORT What is it with this notion you can\u2019t celebrate a result it\u2019s weird.",
+        "created_at": "2022-03-20 12:52:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15332636,
+        "referenced_tweets": {
+            "id": 1505517546468003841,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505290472109101057,
+        "text": "That molly elbow, oooof \u26a1\ufe0f",
+        "created_at": "2022-03-19 21:09:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505286269307346949,
+        "text": "@PlayersTrombone Michael, can\u2019t stand the wooden prick.",
+        "created_at": "2022-03-19 20:53:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1144290007638773761,
+        "referenced_tweets": {
+            "id": 1505283094848413700,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505261962602721281,
+        "text": "@FootyAccums Palace city Liverpool \ud83d\udc4d",
+        "created_at": "2022-03-19 19:16:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 263257931,
+        "referenced_tweets": {
+            "id": 1505259763122200576,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505218530689658880,
+        "text": "Stockport county are flying, what a comeback \ud83d\udd35",
+        "created_at": "2022-03-19 16:23:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505212965909377026,
+        "text": "Ferrari \ud83d\udd25",
+        "created_at": "2022-03-19 16:01:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505169987497082887,
+        "text": "@SportsCenter Hahahahaha what is that",
+        "created_at": "2022-03-19 13:11:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 26257166,
+        "referenced_tweets": {
+            "id": 1504614031688192008,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505132476838166528,
+        "text": "@mr2sly @kareem142365 @AnfieldWatch Never normally more than 3.5k unless cup games",
+        "created_at": "2022-03-19 10:42:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 70121418,
+        "referenced_tweets": {
+            "id": 1505131164822028289,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505128430186250244,
+        "text": "Reduced allocation for city game, fuckers.",
+        "created_at": "2022-03-19 10:25:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505128327652200448,
+        "text": "RT @WeAreLiv3rpool: This is only going to cause more trouble as no doubt liverpool fans will pick up tickets for the home end #lfc https://\u2026",
+        "created_at": "2022-03-19 10:25:31+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505090785389260800,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505128030909382658,
+        "text": "@kareem142365 @mr2sly @AnfieldWatch No where near that amount.",
+        "created_at": "2022-03-19 10:24:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1207075593763864577,
+        "referenced_tweets": {
+            "id": 1505127768798941189,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505127541908119552,
+        "text": "@talkSPORT Hope so they add entertainment to the league \ud83d\udc4c",
+        "created_at": "2022-03-19 10:22:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15332636,
+        "referenced_tweets": {
+            "id": 1504942398174121987,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504804598627901447,
+        "text": "@Evertxn Wool",
+        "created_at": "2022-03-18 12:59:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 900205400,
+        "referenced_tweets": {
+            "id": 1504782047965032473,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504804218980421640,
+        "text": "@OliverKay Hahahaha",
+        "created_at": "2022-03-18 12:57:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 114755833,
+        "referenced_tweets": {
+            "id": 1504367952916848646,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504803796995780611,
+        "text": "@BBCSport That\u2019s a man and it\u2019s cheating simple as that. Absolutely horrendous they allow that to happen.",
+        "created_at": "2022-03-18 12:55:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 265902729,
+        "referenced_tweets": {
+            "id": 1504793489657278466,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504778723312218124,
+        "text": "Good draw that \ud83d\udc4c",
+        "created_at": "2022-03-18 11:16:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504471458273120260,
+        "text": "Why is everyone so arsed about haaland and his fat agent, greedy bastards following the money \ud83d\udc4d",
+        "created_at": "2022-03-17 14:55:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504455313017212928,
+        "text": "@PaulWalford9 @talkSPORT Haha you arguing with yourself here lad",
+        "created_at": "2022-03-17 13:51:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1417390247831298057,
+        "referenced_tweets": {
+            "id": 1504416016499195909,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504455091629301760,
+        "text": "That horse can go fuck it self, and so can Cheltenham.",
+        "created_at": "2022-03-17 13:50:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504219022262513664,
+        "text": "@FootyAccums Gonna be some battle with city now \ud83d\udc4c",
+        "created_at": "2022-03-16 22:12:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 263257931,
+        "referenced_tweets": {
+            "id": 1504217605174968324,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504217241704935427,
+        "text": "9 straight wins as well \ud83d\ude0d",
+        "created_at": "2022-03-16 22:05:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504217048494354434,
+        "text": "Monumental win.",
+        "created_at": "2022-03-16 22:04:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504209524760137728,
+        "text": "Bobbbbby \ud83d\udd25\ud83d\ude0d",
+        "created_at": "2022-03-16 21:34:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504207587306348544,
+        "text": "There he is diogoal",
+        "created_at": "2022-03-16 21:26:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504200107218161665,
+        "text": "@TheKopHQ Been off for a few games jota, really ineffective at the minute.",
+        "created_at": "2022-03-16 20:57:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 57085805,
+        "referenced_tweets": {
+            "id": 1504199801088483338,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504175659836485641,
+        "text": "@JamesPearceLFC Haha I know I know, was just saying that\u2019s all \ud83d\ude00\ud83d\udd34",
+        "created_at": "2022-03-16 19:19:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 265653022,
+        "referenced_tweets": {
+            "id": 1504173584444448773,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504172830715523073,
+        "text": "@AnfieldWatch @JamesPearceLFC He\u2019s on bench \ud83d\ude43",
+        "created_at": "2022-03-16 19:08:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2525206496,
+        "referenced_tweets": {
+            "id": 1504098453646819331,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504163259821219848,
+        "text": "Nervous for this game \ud83d\ude2b\ud83d\udd34",
+        "created_at": "2022-03-16 18:30:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504100621561090062,
+        "text": "@tariqpanja He\u2019s a football manager and that\u2019s how it should be, what goes on around the world isn\u2019t his issue.",
+        "created_at": "2022-03-16 14:21:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 63450028,
+        "referenced_tweets": {
+            "id": 1504063334987059200,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504002288460914696,
+        "text": "RT @AnfieldWatch: NEW: Luis Suarez's foot was once swollen so badly - he couldn't fit it in his own boots and was told he couldn't play aga\u2026",
+        "created_at": "2022-03-16 07:51:03+00:00",
+        "public_metrics": {
+            "retweet_count": 772,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503993663633776643,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503991641727774721,
+        "text": "RT @StockportCounty: Simply sensational from start to finish. County make it 17 wins and a draw in the last 18 games, and go seven points c\u2026",
+        "created_at": "2022-03-16 07:08:44+00:00",
+        "public_metrics": {
+            "retweet_count": 75,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503847720779493382,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503847796348235776,
+        "text": "Nice one Bournemouth had an 183 pound cash out on the 82nd min and you couldn\u2019t hold on to fucking reading.",
+        "created_at": "2022-03-15 21:37:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503838232378855424,
+        "text": "@AnfieldWatch Gomez and vvd were unreal together during the league win, no way we can let him go.",
+        "created_at": "2022-03-15 20:59:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 58,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2525206496,
+        "referenced_tweets": {
+            "id": 1503835025892126727,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503836487774842886,
+        "text": "@GaryLineker You gonna cry mate ?",
+        "created_at": "2022-03-15 20:52:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 471287735,
+        "referenced_tweets": {
+            "id": 1503829422159319040,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503836348746186757,
+        "text": "@GraemeKelly1 Both shit Graeme lad, Madrid are way off what they ever were, they\u2019ve no legs. We\u2019d steam them now.",
+        "created_at": "2022-03-15 20:51:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 335841301,
+        "referenced_tweets": {
+            "id": 1503834657137340426,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503830391513403392,
+        "text": "Honestly atletico are awful.",
+        "created_at": "2022-03-15 20:27:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503830265856208902,
+        "text": "@TheKopHQ Fucking dreadful aren\u2019t they \ud83d\ude34",
+        "created_at": "2022-03-15 20:27:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 57085805,
+        "referenced_tweets": {
+            "id": 1503829802096148490,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503801579505340417,
+        "text": "RT @racingblogger: You meet some characters in the bookies don't you! \ud83d\ude02\n\n#CheltenhamFestival \n\nhttps://t.co/EAMATQIJhe",
+        "created_at": "2022-03-15 18:33:30+00:00",
+        "public_metrics": {
+            "retweet_count": 444,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503441986455547909,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503798173483126784,
+        "text": "So paddy power con you in by leading you to deposit with Apple Pay, then in small print says that\u2019s not acceptable to qualify for your free bets, it has to be card. Haha cunts.",
+        "created_at": "2022-03-15 18:19:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503737387230318596,
+        "text": "@paddypower Your free bet offer is fucked already! Thanks for that.",
+        "created_at": "2022-03-15 14:18:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14387275,
+        "referenced_tweets": {
+            "id": 1503737005917839361,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503733791873024001,
+        "text": "Ah shock paddy power new customer offer isn\u2019t working. So no bet for the second race \ud83d\udc4d sound lads.",
+        "created_at": "2022-03-15 14:04:08+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503703719325622278,
+        "text": "@2ulhusn1 @sportbible This haunts me more than anything \ud83d\ude2b",
+        "created_at": "2022-03-15 12:04:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 429554876,
+        "referenced_tweets": {
+            "id": 1503698182001561602,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503655340600180736,
+        "text": "Two tough games on the agenda for us now, Arsenal away weds then forest in the cup which won\u2019t be easy, win both and it well and truly could be a memorable season.",
+        "created_at": "2022-03-15 08:52:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503649971513573379,
+        "text": "@FootyAccums Just deflecting some pressure nothing to see really.",
+        "created_at": "2022-03-15 08:31:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 263257931,
+        "referenced_tweets": {
+            "id": 1503647797563830276,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503649301133672449,
+        "text": "Pep blaming the grass last night, you won\u2019t hear much though because it wasn\u2019t Klopp.",
+        "created_at": "2022-03-15 08:28:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503461153711742987,
+        "text": "@paulskezred @haritsyusuf21 @Lfc_Hrob @Watch_LFC An oil Tycoon that will throw millions like city no doubt?",
+        "created_at": "2022-03-14 20:00:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1306907966839443461,
+        "referenced_tweets": {
+            "id": 1503460180784254977,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503431330293596160,
+        "text": "@talkSPORT @bisping Both vicious, but raining down elbows on a man already defenceless is the brutality part.",
+        "created_at": "2022-03-14 18:02:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15332636,
+        "referenced_tweets": {
+            "id": 1503353249264414720,
+            "type": "replied_to"
+        }
+    }
+]

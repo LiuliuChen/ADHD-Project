@@ -1,0 +1,1297 @@
+[
+    {
+        "tweet_id": 1507291922678878209,
+        "text": "Yay! https://t.co/wCutzbZHN0",
+        "created_at": "2022-03-25 09:42:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507122494032986115,
+        "text": "RT @Wyrwal: Od p\u00f3\u0142tora miesi\u0105ca nie gra\u0142em w szachy. A tu takie klocki!",
+        "created_at": "2022-03-24 22:29:38+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507102407204954115,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507091870010298373,
+        "text": "@Wyrwal I nie mo\u017cna powiedzie\u0107 \u201eprzecie\u017c nie odwa\u017cy si\u0119  u\u017cy\u0107 broni chemicznej\u2026\u201d bo ten schemat ju\u017c przerabiali\u015bmy, w Syrii a teraz po raz drugi na Ukrainie\u2026",
+        "created_at": "2022-03-24 20:27:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 60385221,
+        "referenced_tweets": {
+            "id": 1507076263202246661,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507081205505675264,
+        "text": "Really? Who else is there on the ground? https://t.co/snhpBCK5VS",
+        "created_at": "2022-03-24 19:45:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507069308207345670,
+        "text": "@LatestAnonPress And what is the common denominator? Oh they are all French\u2026 \ud83e\udd14",
+        "created_at": "2022-03-24 18:58:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 939486738543796224,
+        "referenced_tweets": {
+            "id": 1506780380162146305,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068062234722314,
+        "text": "@W85850613 @ukhomeoffice I lived through Blair/Brown/Cameron/May/Johnson and no, I don\u2019t feel the same. The issue is that there are people who need help, and we need to help them. Simples.",
+        "created_at": "2022-03-24 18:53:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1395298306973122560,
+        "referenced_tweets": {
+            "id": 1506991015193890819,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507050422372081670,
+        "text": "RT @campbellclaret: In refusing to accept his wife\u2019s business dealings are relevant to his work as Chancellor in time of war and sanctions\u2026",
+        "created_at": "2022-03-24 17:43:14+00:00",
+        "public_metrics": {
+            "retweet_count": 5570,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506935477923942408,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507050147561328647,
+        "text": "@Wyrwal https://t.co/R360JphiWo",
+        "created_at": "2022-03-24 17:42:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 60385221,
+        "referenced_tweets": {
+            "id": 1506985418767708168,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507031112647860228,
+        "text": "RT @KyivIndependent: \u26a1\ufe0fZelensky to NATO: Don't say Ukraine's army doesn't meet Alliance's standards.\n\nIn a virtual address to NATO, Preside\u2026",
+        "created_at": "2022-03-24 16:26:31+00:00",
+        "public_metrics": {
+            "retweet_count": 13119,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506955120885604356,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507030581539966989,
+        "text": "This is interesting, apparently Belarus is changing their rules on VAT on gold, if they are still allowed to trade then it\u2019s going to be a wasted effort. War in Ukraine: UK unveils new Russia sanctions as PM aims at gold reserves https://t.co/w8oNRWS2PK",
+        "created_at": "2022-03-24 16:24:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507029929275314189,
+        "text": "As much as I admire his persistence- now is not the time\u2026 Brian May: 'Boris Johnson, please end the badger cull' https://t.co/y9lvrw8UGQ",
+        "created_at": "2022-03-24 16:21:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506899682240380928,
+        "text": "RT @LatestAnonPress: Anonymous hacks Russia's Central Bank and more than 35,000 files will be exposed in 48 hours. https://t.co/0VUhqVmo89",
+        "created_at": "2022-03-24 07:44:15+00:00",
+        "public_metrics": {
+            "retweet_count": 17500,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506779235565944841,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506773754793369604,
+        "text": "RT @Ziya_Meral: Poll: Finland Backs Joining NATO, Massive Shift After Ukraine Invasion https://t.co/M7wOMLWkOD",
+        "created_at": "2022-03-23 23:23:52+00:00",
+        "public_metrics": {
+            "retweet_count": 1211,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506714199988264966,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506772318994980883,
+        "text": "RT @OTregub: My mood before the NATO summit. What are your expectations? https://t.co/TtTVyiAtyG",
+        "created_at": "2022-03-23 23:18:09+00:00",
+        "public_metrics": {
+            "retweet_count": 123,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506745185446866945,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506734890586456065,
+        "text": "@JkmMikke Miecze \u015bwietlne s\u0105 te\u017c bardzo futurystyczne i dobrze pasuj\u0105 do laser\u00f3w!",
+        "created_at": "2022-03-23 20:49:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2858025183,
+        "referenced_tweets": {
+            "id": 1506667146373443589,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506734034004717577,
+        "text": "@W85850613 @ukhomeoffice What\u2019s this? Russian bot? In the interest of the fight against the disinformation and nonsense- millions of people are fleeing a country that was invaded by Russia, it is our moral duty to help them. End of.",
+        "created_at": "2022-03-23 20:46:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1395298306973122560,
+        "referenced_tweets": {
+            "id": 1506595986969346058,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506731907488391170,
+        "text": "This is important as it will be used as a reference for any future discussions around the sex vs gender is, I\u2019ll be watching very closely how the story develops. To me @MForstater is an amazing advocate of common sense. https://t.co/32tlPeJ93l",
+        "created_at": "2022-03-23 20:37:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506623757762408451,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506731279588503552,
+        "text": "RT @MForstater: Right. That's a wrap. \n\nThank you to everyone involved (and to all who have kept me sane).\n\nBack to work -  Sex Matters! @S\u2026",
+        "created_at": "2022-03-23 20:35:05+00:00",
+        "public_metrics": {
+            "retweet_count": 182,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506623757762408451,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506730821771837448,
+        "text": "@jk_rowling We love your plots, just keep going, please\u2026",
+        "created_at": "2022-03-23 20:33:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 62513246,
+        "referenced_tweets": {
+            "id": 1506664967256301568,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506726963268009987,
+        "text": "@Szczery2015 Ma Racj\u0119, ale to nas tylko pogr\u0105\u017ca. Wypatruj\u0119 z ut\u0119sknieniem polityka z charyzm\u0105 kt\u00f3ry rozwinie opozycji skrzyd\u0142a, jeszcze troch\u0119 poczekam\u2026",
+        "created_at": "2022-03-23 20:17:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 830822616952889346,
+        "referenced_tweets": {
+            "id": 1506660628525629451,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506726187468476417,
+        "text": "@BeschlossDC Not sure why the Time magazine is supposed to add glory to the late giant of politics, especially that in 2007 Putin was Times man of the year\u2026",
+        "created_at": "2022-03-23 20:14:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 874916178,
+        "referenced_tweets": {
+            "id": 1506700647911014401,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506724091822321667,
+        "text": "@Wyrwal To ciekawe, nawet bardzo!",
+        "created_at": "2022-03-23 20:06:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 60385221,
+        "referenced_tweets": {
+            "id": 1506721135186092047,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506648586574045184,
+        "text": "RT @Klitschko: Help Ukraine. Save Europe.",
+        "created_at": "2022-03-23 15:06:29+00:00",
+        "public_metrics": {
+            "retweet_count": 9230,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506623225417318402,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506602426853384193,
+        "text": "@JolyonMaugham \u2026.and is the committee going to cost \u00a35bn to run?",
+        "created_at": "2022-03-23 12:03:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 406842374,
+        "referenced_tweets": {
+            "id": 1506265051187093509,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506593881554665474,
+        "text": "@ukhomeoffice 15800? Really? 4m Ukrainians escaped to date\u2026 it\u2019s embarrassing.",
+        "created_at": "2022-03-23 11:29:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 138037459,
+        "referenced_tweets": {
+            "id": 1506574749215989767,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506588752075972610,
+        "text": "RT @Wyrwal: Informacja drogowa dla kierowc\u00f3w jad\u0105cych z Charkowa do Kijowa: \"Ruskije na ch...\" https://t.co/tCFBOnLTkt",
+        "created_at": "2022-03-23 11:08:44+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506582015843389443,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506586300350189582,
+        "text": "RT @ruskin147: Extraordinary letter in @ft from former UK defence attach\u00e9 at Moscow embassy - we warned you about Putin but you listened to\u2026",
+        "created_at": "2022-03-23 10:58:59+00:00",
+        "public_metrics": {
+            "retweet_count": 19508,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506539085669748744,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506585620818370566,
+        "text": "@SchwertnerPL Chyba ju\u017c czas\u2026",
+        "created_at": "2022-03-23 10:56:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2416005648,
+        "referenced_tweets": {
+            "id": 1506547706021437442,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506585017522216968,
+        "text": "@GuyReuters Is it such a good move? I would rather have access to what they produce and challenge it as it comes out. Isolating them creates a thicker bubble and no way of unpacking their propaganda.",
+        "created_at": "2022-03-23 10:53:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1398114660,
+        "referenced_tweets": {
+            "id": 1506576584999854086,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506419389993824258,
+        "text": "RT @NewVoiceUkraine: War is still war. Love is still love. \n\nPhoto: Sergei Supinsky https://t.co/QGukxZsZQD",
+        "created_at": "2022-03-22 23:55:45+00:00",
+        "public_metrics": {
+            "retweet_count": 803,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506226179715616769,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506416024119353349,
+        "text": "@WaszczykowskiW @prezydentpl @MorawieckiM @RauZbigniew @MSZ_RP No w\u0142a\u015bnie, jaka jest tu logika nie wydalenia go z Polski?",
+        "created_at": "2022-03-22 23:42:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1112654747994071040,
+        "referenced_tweets": {
+            "id": 1506190359474360322,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506415597541892102,
+        "text": "@WaszczykowskiW @DWielowieyska LNG port budowano zdaje si\u0119 za rz\u0105d\u00f3w upiornych przeciwnik\u00f3w? A za Baltic pipe \u201eszacun\u201d.",
+        "created_at": "2022-03-22 23:40:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1112654747994071040,
+        "referenced_tweets": {
+            "id": 1506243848208584712,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506414207113256971,
+        "text": "RT @JackDetsch: NEW: U.S. has indications that Ukraine is now \"able and willing\" to take back territory overtaken by the Russian military:\u2026",
+        "created_at": "2022-03-22 23:35:09+00:00",
+        "public_metrics": {
+            "retweet_count": 4217,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506288701076291589,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506412905012551687,
+        "text": "RT @navalny: 9 years. Well, as the characters of my favorite TV series \u201cThe Wire\u201d used to say: \u201cYou only do two days. That's the day you go\u2026",
+        "created_at": "2022-03-22 23:29:59+00:00",
+        "public_metrics": {
+            "retweet_count": 20789,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506247694804783113,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506409462214668293,
+        "text": "RT @Exen: Polecam tego zawodnika na TikToku. Pokazuje i m\u00f3wi, jak jest. Od 7 lat w Polsce, teraz wr\u00f3ci\u0142 si\u0119 bi\u0107. \"Tak nast\u0119puje ruski mir\"\u2026",
+        "created_at": "2022-03-22 23:16:18+00:00",
+        "public_metrics": {
+            "retweet_count": 135,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506358105155776526,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506407564694728704,
+        "text": "RT @Tsihanouskaya: We receive information about a possible invasion of Belarusian troops into Ukraine. I addressed Belarusian military pers\u2026",
+        "created_at": "2022-03-22 23:08:45+00:00",
+        "public_metrics": {
+            "retweet_count": 3087,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506343623318814726,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506404438558269453,
+        "text": "@SchwertnerPL Tata obserwacja - cz\u0119sto na onecie podawane s\u0105 informacje bez chocia\u017c wzgl\u0119dnie pe\u0142nego cytowania \u017ar\u00f3d\u0142a ale za to przepe\u0142nione analiz\u0105 \u201eonetow\u0105\u201d. Jako czytelnik  chcia\u0142bym mie\u0107 mo\u017cliwo\u015b\u0107 przeprowadzenia samodzielnie analizy i ewentualnie por\u00f3wnania z proponowan\u0105 przez medium.",
+        "created_at": "2022-03-22 22:56:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2416005648,
+        "referenced_tweets": {
+            "id": 1506299051834331139,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506403467065270283,
+        "text": "@Wyrwal M\u00f3j dziadek mia\u0142by w tym roku 101 lat, prze\u017cy\u0142 wojn\u0119, dwa razy ucieka\u0142 z sowieckiego poci\u0105gu, i przez reszt\u0119 \u017cycia mia\u0142 strach przed wojn\u0105. Cz\u0119sto teraz my\u015bl\u0119 o nim i co musia\u0142by czu\u0107 gdyby \u017cy\u0142. Pan Borys czu\u0142 pewnie dok\u0142adnie to samo \ud83d\ude22",
+        "created_at": "2022-03-22 22:52:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 60385221,
+        "referenced_tweets": {
+            "id": 1506262829858447361,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506402580469104656,
+        "text": "@Wyrwal Na pewno s\u0105 willing \ud83d\ude42, \u017ceby tylko byli able jak najd\u0142u\u017cej.",
+        "created_at": "2022-03-22 22:48:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 60385221,
+        "referenced_tweets": {
+            "id": 1506308217709735943,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506402338038243329,
+        "text": "RT @Wyrwal: Wojska rosyjskie na przedmie\u015bciach Kijowa s\u0105 wyczerpane i os\u0142abione, trwa specjalna operacja denazyfikacji i defaszyzacji armii\u2026",
+        "created_at": "2022-03-22 22:47:59+00:00",
+        "public_metrics": {
+            "retweet_count": 142,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506330317421957129,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506401735358955520,
+        "text": "RT @AmbDanFried: Everywhere in Warsaw are signs of support for Ukrainians &amp; Ukrainians. Flags. Food &amp; clothing collection points. Poles are\u2026",
+        "created_at": "2022-03-22 22:45:35+00:00",
+        "public_metrics": {
+            "retweet_count": 2992,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506259481839157249,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506373696503660558,
+        "text": "RT @RALee85: Soldiers from the Ukrainian 54th Mechanized Brigade receiving new DJI Mavic UAVs and thermal imagers. \nhttps://t.co/OSOTSSz8IE\u2026",
+        "created_at": "2022-03-22 20:54:10+00:00",
+        "public_metrics": {
+            "retweet_count": 1287,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506352358070136848,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506373077956972555,
+        "text": "RT @ignis_fatu: \ud83d\uded1\ud83d\uded1\ud83d\uded1#Putin regime terrorists burning documents in their embassy in #Warsaw , #Poland. Same thing happens in #Kyiv the night\u2026",
+        "created_at": "2022-03-22 20:51:43+00:00",
+        "public_metrics": {
+            "retweet_count": 714,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506339962979069954,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506372609273118720,
+        "text": "RT @mikegalsworthy: Ex-Pres of Ukraine tears Boris Johnson a new one over his comparison of Ukraine with Brexit.\n\nRemember- Ukraine is figh\u2026",
+        "created_at": "2022-03-22 20:49:51+00:00",
+        "public_metrics": {
+            "retweet_count": 4601,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506335268038758413,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506371842814193666,
+        "text": "@LatestAnonPress Renault next? Please\u2026.",
+        "created_at": "2022-03-22 20:46:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 939486738543796224,
+        "referenced_tweets": {
+            "id": 1506296105088262146,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506371763386650633,
+        "text": "RT @LiteMods: \u26a0\ufe0fReal Anons don't ask for donations. Do not donate to anyone claiming to be Anonymous while asking for donations. \u26a0\ufe0f https:/\u2026",
+        "created_at": "2022-03-22 20:46:30+00:00",
+        "public_metrics": {
+            "retweet_count": 1037,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506300667132092417,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506371622051188749,
+        "text": "RT @LatestAnonPress: BREAKING NEWS: Hacker group Anonymous has released 10 GB of data from Swiss company Nestl\u00e9.  This is the collective's\u2026",
+        "created_at": "2022-03-22 20:45:56+00:00",
+        "public_metrics": {
+            "retweet_count": 13425,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506296105088262146,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506371448482504712,
+        "text": "RT @CatharinaFelke: We found Russian assets worth more than $17 billion around the world. Mansions, castles, yachts, private planes, apartm\u2026",
+        "created_at": "2022-03-22 20:45:15+00:00",
+        "public_metrics": {
+            "retweet_count": 23916,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505945634783830017,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506370307585626125,
+        "text": "@Forbes Fucking joke",
+        "created_at": "2022-03-22 20:40:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 91478624,
+        "referenced_tweets": {
+            "id": 1506256229210984456,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506370276547780611,
+        "text": "RT @Forbes: French car maker Renault and Finnish tire maker Nokian Tyres both defended their continuation of business in Russia this week,\u2026",
+        "created_at": "2022-03-22 20:40:35+00:00",
+        "public_metrics": {
+            "retweet_count": 287,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506256229210984456,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506366836174209025,
+        "text": "@POTUS ACT now! NATO didn\u2019t respond in 2014 and now we have an escalation, how is this going to end? How can Ukraine accept any compromise? NATO must help to push back the Russian invader!",
+        "created_at": "2022-03-22 20:26:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1349149096909668363,
+        "referenced_tweets": {
+            "id": 1506340342815248392,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506365549340680208,
+        "text": "@RoryStewartUK I lived in Warsaw in the 80s, in the very center of the city we used to play on red brick remaining of a building, it wasn\u2019t until early 2000 that new buildings took over\u2026 it takes decades to re-build a a city. @WarInUkraine22 \ud83d\ude22",
+        "created_at": "2022-03-22 20:21:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 131926473,
+        "referenced_tweets": {
+            "id": 1506286737408077833,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506364149814767624,
+        "text": "@Jeremy_Hunt Explanation? Probably a bit more than that\u2026",
+        "created_at": "2022-03-22 20:16:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 112398730,
+        "referenced_tweets": {
+            "id": 1506161155231952897,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506006204803424260,
+        "text": "RT @EmineDzheppar: For the third day in a row, activists on #Polish-#Belarusian border have been blocking trucks heading to #Belarus &amp; #Rus\u2026",
+        "created_at": "2022-03-21 20:33:54+00:00",
+        "public_metrics": {
+            "retweet_count": 905,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505988875726069764,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505657009613516804,
+        "text": "RT @AVindman: Must watch! @ZelenskyyUa\u2069 with a powerful message. Ukraine was beautiful\u2026 Ukraine will win\u2026 Ukraine will rebuilt. In English.\u2026",
+        "created_at": "2022-03-20 21:26:19+00:00",
+        "public_metrics": {
+            "retweet_count": 9998,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505596106503180288,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505656957771862028,
+        "text": "RT @lapatina_: Russians killed 56 people at nursing home in Kreminna, Luhansk oblast, also kidnapping 15 survivors on March 11. \u201cThey just\u2026",
+        "created_at": "2022-03-20 21:26:07+00:00",
+        "public_metrics": {
+            "retweet_count": 9875,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505520823351885824,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505656197697110016,
+        "text": "RT @olgatokariuk: Russia is suffering huge losses in Ukraine. This is an undeniable fact, confirmed by Western intelligence. Ukraine should\u2026",
+        "created_at": "2022-03-20 21:23:05+00:00",
+        "public_metrics": {
+            "retweet_count": 3162,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505529125238419456,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505642309555298307,
+        "text": "Fucking joke. Leroy Merlin nie tylko zostaje w Rosji. Firma odci\u0119\u0142a pracownik\u00f3w z Ukrainy od systemu komunikacji\nhttps://t.co/6lyMO2XPD5",
+        "created_at": "2022-03-20 20:27:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505580539817906181,
+        "text": "RT @BBCWorld: War in Ukraine: Anti-war opinions can cost Russians their jobs https://t.co/aH8fqhcHp9",
+        "created_at": "2022-03-20 16:22:27+00:00",
+        "public_metrics": {
+            "retweet_count": 255,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505347137906757632,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505570644049776643,
+        "text": "@olliecarroll What a relief \ud83d\ude00\ud83d\ude00",
+        "created_at": "2022-03-20 15:43:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 22799257,
+        "referenced_tweets": {
+            "id": 1505503903202385920,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505569794451460098,
+        "text": "RT @johnsweeneyroar: #KyivDiary Day 25\nThe war is going badly in the South.\nBrexit was a Kremlin project. \nIf Boris Johnson comes to Kyiv,\u2026",
+        "created_at": "2022-03-20 15:39:45+00:00",
+        "public_metrics": {
+            "retweet_count": 4346,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505464849769373702,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505550667930345480,
+        "text": "RT @campbellclaret: The fucking camera can run faster than that.",
+        "created_at": "2022-03-20 14:23:45+00:00",
+        "public_metrics": {
+            "retweet_count": 848,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505544822681124864,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505476821420290048,
+        "text": "RT @FedorovMykhailo: A new batch of Starlink stations! While Russia is blocking access to the Internet, Ukraine is becoming more open to th\u2026",
+        "created_at": "2022-03-20 09:30:19+00:00",
+        "public_metrics": {
+            "retweet_count": 6733,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504907257624109057,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505313575354744835,
+        "text": "RT @NeillFo: @campbellclaret @Jacob_Rees_Mogg Yet again\u2026. https://t.co/NlU64jmwBr",
+        "created_at": "2022-03-19 22:41:38+00:00",
+        "public_metrics": {
+            "retweet_count": 126,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505261725238583303,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505268799972552705,
+        "text": "RT @campbellclaret: To those minded to think Putin wouldn\u2019t go further here is his Ambassador to Sarajevo https://t.co/whsdFrjr1B",
+        "created_at": "2022-03-19 19:43:43+00:00",
+        "public_metrics": {
+            "retweet_count": 133,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505190656536424453,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505265340116344838,
+        "text": "RT @campbellclaret: Yesterday @Jacob_Rees_Mogg said Ukraine reminded us politics was serious. Today Johnson reminded us we do not have a se\u2026",
+        "created_at": "2022-03-19 19:29:58+00:00",
+        "public_metrics": {
+            "retweet_count": 2525,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505261475832684554,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505265064823119879,
+        "text": "Nie takie znowu tajne je\u017celi Onet o nich pisze\u2026.  Tajne \u0107wiczenia we Lwowie. Ochotnicy przygotowuj\u0105 si\u0119 do walk\nhttps://t.co/F6aePXRIx3.",
+        "created_at": "2022-03-19 19:28:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505246111170187273,
+        "text": "RT @MarinaPurkiss: Someone tell that prick Johnson\u2026\n\nThat the only similarity between Putin\u2019s invasion of Ukraine and Brexit \n\nIs that Puti\u2026",
+        "created_at": "2022-03-19 18:13:33+00:00",
+        "public_metrics": {
+            "retweet_count": 6614,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505220026810486786,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505243600220794890,
+        "text": "RT @lesiavasylenko: #Kyiv is the legendary capital. The best. Because #Kyiv doesn\u2019t attack anyone. Unlike #Russia. Russia is stupid and mea\u2026",
+        "created_at": "2022-03-19 18:03:35+00:00",
+        "public_metrics": {
+            "retweet_count": 315,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505188030994386949,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505237921028358147,
+        "text": "This is such a clumsy attempt by BJ to dilute reality, pathetic really. https://t.co/aQkgjyZw5o",
+        "created_at": "2022-03-19 17:41:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505185664635125767,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505237070335328266,
+        "text": "@jk_rowling I saw a donkey, damn\u2026",
+        "created_at": "2022-03-19 17:37:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 62513246,
+        "referenced_tweets": {
+            "id": 1505217194015309831,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505116099884556288,
+        "text": "Have been thinking\u2026 this Russian invasion in Ukraine is like a play of Chess where your opponent tells you which pieces you can\u2019t play or he is going to get crossed and throw his toys\u2026 utterly ridiculous.",
+        "created_at": "2022-03-19 09:36:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505114547203497986,
+        "text": "RT @Klitschko: Every day that passes, more civilians are killed. Every business relationship with Russia means more money to finance this g\u2026",
+        "created_at": "2022-03-19 09:30:46+00:00",
+        "public_metrics": {
+            "retweet_count": 16931,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504774418446303232,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505113955827605504,
+        "text": "@paulocoelho If anything, the Russian invasion made us all more aware of how little freedom the Russians have and there is a lot of sympathy for them for that. What you\u2019ve written is misleading.",
+        "created_at": "2022-03-19 09:28:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 5520952,
+        "referenced_tweets": {
+            "id": 1502204539751088133,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504937196872208394,
+        "text": "I can\u2019t see anything Kindergarten level about it\u2026 Diplomats spar over 'edited' Russian letter https://t.co/h9qC6mGqUE",
+        "created_at": "2022-03-18 21:46:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504915864272973826,
+        "text": "@RoryStewartUK @campbellclaret @RestIsPolitics Looks a little bit like a stunt, perhaps all private education entities should be funding a free school as part of their privilege?",
+        "created_at": "2022-03-18 20:21:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 131926473,
+        "referenced_tweets": {
+            "id": 1504881856231190534,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504912439552495618,
+        "text": "@joepike This government has a very good track record of acting without checking their facts - this is no exception\u2026",
+        "created_at": "2022-03-18 20:07:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15196454,
+        "referenced_tweets": {
+            "id": 1504868192312872966,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504911893668024322,
+        "text": "RT @joepike: It seems like Grant Shapps and Kwasi Kwarteng have written strongly worded letters to a man who resigned as P&amp;O chairman on 16\u2026",
+        "created_at": "2022-03-18 20:05:30+00:00",
+        "public_metrics": {
+            "retweet_count": 4727,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504868192312872966,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504579953454727178,
+        "text": "@GaryLineker Yeah, same here\u2026",
+        "created_at": "2022-03-17 22:06:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 471287735,
+        "referenced_tweets": {
+            "id": 1504365873909452803,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504539199457923075,
+        "text": "@campbellclaret @RestIsPolitics @RoryStewartUK Finland have no grammar schools either- would be interesting to have @RestIsPolitics views on grammar schools as well. Next week catchup on education?",
+        "created_at": "2022-03-17 19:24:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19644592,
+        "referenced_tweets": {
+            "id": 1504485515822739456,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504050982359117827,
+        "text": "Good\u2026 the more tech we can deploy the better. I haven\u2019t heard of any recent successes of \u2066@AnonymusNews_\u2069 - hope they are working hard.      Ukraine offered tool to search billions of faces https://t.co/NiwPoqFxAv",
+        "created_at": "2022-03-16 11:04:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504050219662692354,
+        "text": "I would love to listen to how he raises the human rights while begging for an increase in oil exports\u2026 https://t.co/Gjiq8VEH2Y",
+        "created_at": "2022-03-16 11:01:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503649291172261888,
+        "text": "Mateusz Morawiecki i Jaros\u0142aw Kaczy\u0144ski lec\u0105 dzi\u015b do Kijowa\nhttps://t.co/NkAwgNqgmK",
+        "created_at": "2022-03-15 08:28:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

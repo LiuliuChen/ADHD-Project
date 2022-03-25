@@ -1,0 +1,416 @@
+[
+    {
+        "tweet_id": 1507072292085387289,
+        "text": "@KannyEagor Do you want to fall in love with your day?",
+        "created_at": "2022-03-24 19:10:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2169369329,
+        "referenced_tweets": {
+            "id": 1506212834945945606,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068086641430534,
+        "text": "@atiku Please, PETER OBI, just declared what do you have to say...  ??  I think you don\u2019t have anything to offer not power and electricity, how do you make it work at 75 years.",
+        "created_at": "2022-03-24 18:53:26+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 177583133,
+        "referenced_tweets": {
+            "id": 1507062189357780998,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507066227595829250,
+        "text": "I am following the first 10 people to like this tweet https://t.co/G4Plxfo6rS",
+        "created_at": "2022-03-24 18:46:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507064149381103623,
+        "text": "@women_democracy Follow. Back.",
+        "created_at": "2022-03-24 18:37:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1380465866924511238,
+        "referenced_tweets": {
+            "id": 1507062876724350988,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507063481576607754,
+        "text": "@KannyEagor Follow back \ud83d\ude4f\ud83d\ude4f",
+        "created_at": "2022-03-24 18:35:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2169369329,
+        "referenced_tweets": {
+            "id": 1507062410972176390,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507062386599071745,
+        "text": "@women_democracy I vote",
+        "created_at": "2022-03-24 18:30:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1380465866924511238,
+        "referenced_tweets": {
+            "id": 1507062013733720065,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507061000515858436,
+        "text": "Nigeria have been in dark decades, just Vote Peter obi, and it will be solved.",
+        "created_at": "2022-03-24 18:25:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507050100044058628,
+        "text": "@wilsonjade9 At least you can support him!!!",
+        "created_at": "2022-03-24 17:41:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1127504568735105024,
+        "referenced_tweets": {
+            "id": 1507049370272903176,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507049466859245568,
+        "text": "Peter obi, start his campaign long before now, through his clean track record.. #peterobi2023",
+        "created_at": "2022-03-24 17:39:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507049191838830597,
+        "text": "Incoming president of \ud83c\uddf3\ud83c\uddec https://t.co/oKXNqnbh78",
+        "created_at": "2022-03-24 17:38:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507048430341959680,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507048961554665481,
+        "text": "@wilsonjade9 Are you sure?",
+        "created_at": "2022-03-24 17:37:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1127504568735105024,
+        "referenced_tweets": {
+            "id": 1507048752107995143,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499765734196629508,
+        "text": "#NewProfilePic https://t.co/kNSasrbPGJ",
+        "created_at": "2022-03-04 15:16:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493546633849679873,
+        "text": "@RachelG73288582 So sorry!! I send you my love wish, stay strong",
+        "created_at": "2022-02-15 11:24:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1419671849705697282,
+        "referenced_tweets": {
+            "id": 1492687740969705473,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493546240608555009,
+        "text": "@Heather_crypto_ @BG2780 @TheMoonCarl You are right!! Jett like some people don\u2019t believe until it moon.",
+        "created_at": "2022-02-15 11:22:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1464529496271372289,
+        "referenced_tweets": {
+            "id": 1493542461720956930,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1403983346431004672,
+        "text": "@kaptencrypto707 @binance If bnb is not legal tinder, @kaptencrypto707 why do you trade in it @cz_binance",
+        "created_at": "2021-06-13 07:51:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1105345042493906944,
+        "referenced_tweets": {
+            "id": 1402525968476999686,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1403981992182501377,
+        "text": "\ud83c\udd71\ufe0f",
+        "created_at": "2021-06-13 07:46:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1382216486173937665,
+        "text": "Good night!!! \ud83d\ude80\ud83d\ude80\ud83d\ude80\u263a\ufe0f\u263a\ufe0f",
+        "created_at": "2021-04-14 06:17:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1381968390277922816,
+        "text": "@ClaudioMatosBr @ovicksonline @anzaii93 @binance Yes, keep watching.",
+        "created_at": "2021-04-13 13:51:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1316894771122753537,
+        "referenced_tweets": {
+            "id": 1381967308139110406,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1381966146866343942,
+        "text": "@ovicksonline @ClaudioMatosBr @anzaii93 @binance Bnb!! Will hit 1000$",
+        "created_at": "2021-04-13 13:42:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1105167049679089666,
+        "referenced_tweets": {
+            "id": 1381948157433643008,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1381581208707031045,
+        "text": "@TammyMa53106735 Ok good!!",
+        "created_at": "2021-04-12 12:13:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1375645815381839875,
+        "referenced_tweets": {
+            "id": 1381328878686384134,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1381263323946233863,
+        "text": "@TammyMa53106735 @BeckyNCKFan You are right.. enjoy your day.",
+        "created_at": "2021-04-11 15:10:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1375645815381839875,
+        "referenced_tweets": {
+            "id": 1381250667281547265,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1380524711264796672,
+        "text": "@gee_bux You don\u2019t have to get back to fight.. some fight you need to ignore them..",
+        "created_at": "2021-04-09 14:15:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1211305311371284480,
+        "referenced_tweets": {
+            "id": 1380499996827648003,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1380033483158982657,
+        "text": "@lyssachiarello Not a bird!!",
+        "created_at": "2021-04-08 05:43:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 950863390842351617,
+        "referenced_tweets": {
+            "id": 1379963501729357826,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1379837059586793474,
+        "text": "@chrystadawn Hahaha... I like that, better to have more time for ya self.",
+        "created_at": "2021-04-07 16:42:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4174444695,
+        "referenced_tweets": {
+            "id": 1379303029879537664,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1379801694331146240,
+        "text": "RT @news_of_bsc: The BSC's De-Fi landscape continues its expansion with 6 new projects added to this weeks installment. Take a look at our\u2026",
+        "created_at": "2021-04-07 14:22:14+00:00",
+        "public_metrics": {
+            "retweet_count": 111,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1379177283110326273,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1379797729497481218,
+        "text": "RT @binance: #Binance Adds 39 New Tokens to the Convert &amp; OTC Portal!\n\n\u27a1\ufe0f https://t.co/jido92bujw https://t.co/WzufW9APyj",
+        "created_at": "2021-04-07 14:06:28+00:00",
+        "public_metrics": {
+            "retweet_count": 212,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1379788250181685252,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1379788822217625602,
+        "text": "@chrystadawn @emtothea Where can I take the note??",
+        "created_at": "2021-04-07 13:31:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4174444695,
+        "referenced_tweets": {
+            "id": 1379537923939299328,
+            "type": "replied_to"
+        }
+    }
+]

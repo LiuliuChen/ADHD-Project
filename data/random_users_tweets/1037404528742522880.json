@@ -1,0 +1,883 @@
+[
+    {
+        "tweet_id": 1507072200615993344,
+        "text": "@MarcDClair Yeah, I think we all knew that...",
+        "created_at": "2022-03-24 19:09:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 68501435,
+        "referenced_tweets": {
+            "id": 1507068828899057668,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068058145198081,
+        "text": "@MarcDClair No specific course, per se, but ours discussed it in English, History and even Chemistry/Physics... anyway, I have to troll you and Brian each at least once per day.",
+        "created_at": "2022-03-24 18:53:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 68501435,
+        "referenced_tweets": {
+            "id": 1507065296787488770,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507063919319273482,
+        "text": "@MarcDClair Looks like someone learned some high school philosophy!",
+        "created_at": "2022-03-24 18:36:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 68501435,
+        "referenced_tweets": {
+            "id": 1507022571274919942,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506682943200137216,
+        "text": "@MarcDClair Why isn't pandemic in quotes?",
+        "created_at": "2022-03-23 17:23:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 68501435,
+        "referenced_tweets": {
+            "id": 1506671584567865351,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506666146560299008,
+        "text": "@manceraymond @LionsofLiberty @MarcDClair @cyprianous You'd have to ask the \"human\" who posted it.",
+        "created_at": "2022-03-23 16:16:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1342642197422891011,
+        "referenced_tweets": {
+            "id": 1506621606789095424,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506664626091569156,
+        "text": "@MarcDClair Holy moly",
+        "created_at": "2022-03-23 16:10:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 68501435,
+        "referenced_tweets": {
+            "id": 1506634978779611142,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506354776363048960,
+        "text": "@LionsofLiberty @MarcDClair @manceraymond @cyprianous Why is pandemic in quotes?",
+        "created_at": "2022-03-22 19:39:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 408244773,
+        "referenced_tweets": {
+            "id": 1506348232980549634,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505566022790754311,
+        "text": "@MarcDClair #WealthTax",
+        "created_at": "2022-03-20 15:24:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 68501435,
+        "referenced_tweets": {
+            "id": 1505563882034765829,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505296458731311105,
+        "text": "RT @BrianLynch: Let\u2019s watch an under appreciated gem https://t.co/TkTcFYg8MQ",
+        "created_at": "2022-03-19 21:33:37+00:00",
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505017318652317698,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504458243078119427,
+        "text": "@BrianMcWilliams Happy Saint Patrick's Day!",
+        "created_at": "2022-03-17 14:02:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 22187608,
+        "referenced_tweets": {
+            "id": 1504456709019865090,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504458100962521088,
+        "text": "@BrianMcWilliams You people...",
+        "created_at": "2022-03-17 14:02:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 22187608,
+        "referenced_tweets": {
+            "id": 1504456709019865090,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504118076018634758,
+        "text": "@MarcDClair You should take Scott Adam's just about as seriously as you take the Dilbert comic.",
+        "created_at": "2022-03-16 15:31:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 68501435,
+        "referenced_tweets": {
+            "id": 1504105567954083851,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504112163501215756,
+        "text": "@iamleowik Damn right. Real men only drink Bacon Milk.\nhttps://t.co/0necoQSep9",
+        "created_at": "2022-03-16 15:07:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1319708993908924416,
+        "referenced_tweets": {
+            "id": 1503463248653287425,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503785344839286792,
+        "text": "RT @JamesMelville: Very true. https://t.co/KYoQzQxb9d",
+        "created_at": "2022-03-15 17:28:59+00:00",
+        "public_metrics": {
+            "retweet_count": 3234,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500797969708331009,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503784890629722115,
+        "text": "@Sulla547633481 @POTUS You'll start a war here at home.",
+        "created_at": "2022-03-15 17:27:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1430173915213615104,
+        "referenced_tweets": {
+            "id": 1503734515696652290,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503022981588553728,
+        "text": "@nntaleb @joe_shipman How is it an aphorism? Was it meant tongue-in-cheek?",
+        "created_at": "2022-03-13 14:59:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 381289719,
+        "referenced_tweets": {
+            "id": 1503000694957219843,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502876996719636480,
+        "text": "So #spiders can FLY now??? https://t.co/CQOhqWgwTl",
+        "created_at": "2022-03-13 05:19:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501985242655039494,
+        "text": "@TsarKastik Do you have proof it's the same girl other than that they look vaguely similar?",
+        "created_at": "2022-03-10 18:16:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2162764543,
+        "referenced_tweets": {
+            "id": 1501905570055561222,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501936220657520659,
+        "text": "@arjununcle What's this nonsense. \"Martin\" was a GREAT show!",
+        "created_at": "2022-03-10 15:01:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19700532,
+        "referenced_tweets": {
+            "id": 1501266492372836355,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501629941812645889,
+        "text": "@AJamesMcCarthy This is great! Well done.",
+        "created_at": "2022-03-09 18:44:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2492039959,
+        "referenced_tweets": {
+            "id": 1501605017605664769,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501451581769666560,
+        "text": "https://t.co/bE2QlEcnjH",
+        "created_at": "2022-03-09 06:55:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501371547251970048,
+        "text": "@MarcDClair Uh oh.... Malfunction! https://t.co/wJEWSqYz47",
+        "created_at": "2022-03-09 01:37:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 68501435,
+        "referenced_tweets": {
+            "id": 1501368984054214658,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501254003262296065,
+        "text": "@JustinRYoung If this is all they've got to motivate the powers that be, I don't think we have anything to worry about.",
+        "created_at": "2022-03-08 17:50:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 5538252,
+        "referenced_tweets": {
+            "id": 1501228318473228290,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501229408614420487,
+        "text": "@PeterSchiff Oh FUD! You got any gold you could sell me for US dollars?",
+        "created_at": "2022-03-08 16:12:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 56562803,
+        "referenced_tweets": {
+            "id": 1501204269537583106,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501225057850327043,
+        "text": "@PathBitcoin @PeterSchiff @CNBC Oopsie doopsies!",
+        "created_at": "2022-03-08 15:55:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1464169352882802718,
+        "referenced_tweets": {
+            "id": 1501215123159105539,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501217957669707786,
+        "text": "@BrianMcWilliams I can't wait to see what's up that butthole.",
+        "created_at": "2022-03-08 15:27:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 22187608,
+        "referenced_tweets": {
+            "id": 1501195575072493569,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501055915620921344,
+        "text": "@cyprianous No one is claiming ownership of a number. If they did, that's like saying instead of owning buried treasure, they own the coordinates to the buried treasure.",
+        "created_at": "2022-03-08 04:43:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 221519905,
+        "referenced_tweets": {
+            "id": 1499470148415066113,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501055009617707009,
+        "text": "@cyprianous Ownership is a social construct. The general population considers 'exclusive knowledge of a private key which points to a balance on a decentralized ledger we call Bitcoin', \"ownership\" of Bitcoin. The OP was pointing out that this cannot be taken away by force.",
+        "created_at": "2022-03-08 04:39:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 221519905,
+        "referenced_tweets": {
+            "id": 1499470148415066113,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500859644142489603,
+        "text": "@TeslaNakamoto \"Always do what your friends tell you to!\" - Great rule of thumb",
+        "created_at": "2022-03-07 15:43:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1474085529641635840,
+        "referenced_tweets": {
+            "id": 1500514851357020162,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500628051146670081,
+        "text": "RT @elonmusk: Also nuclear is vastly better for global warming than burning hydrocarbons for energy",
+        "created_at": "2022-03-07 00:23:02+00:00",
+        "public_metrics": {
+            "retweet_count": 14070,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500621510188285956,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500617118236110849,
+        "text": "@MarcDClair Well, I agree you can't own arithmetic or an isosceles triangle, but I think you can own yerself some #Bitcoin",
+        "created_at": "2022-03-06 23:39:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 68501435,
+        "referenced_tweets": {
+            "id": 1500605564186943490,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500602312338784260,
+        "text": "@MarcDClair Are you saying that when you have Bitcoin you don't actually own anything?",
+        "created_at": "2022-03-06 22:40:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 68501435,
+        "referenced_tweets": {
+            "id": 1500581440320421894,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500588832084815876,
+        "text": "@MarcDClair Sorry, I guess in a sense I did say that you \"own\" the private key. But my point was the accessibility can't be taken away. And that's the way I interpreted \"ownership\" in the context of the OP. And I can't immediately think of anything else like that!",
+        "created_at": "2022-03-06 21:47:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 68501435,
+        "referenced_tweets": {
+            "id": 1500581440320421894,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500585921531445250,
+        "text": "@elonmusk Liked for the shameless self promotion!",
+        "created_at": "2022-03-06 21:35:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44196397,
+        "referenced_tweets": {
+            "id": 1500330068228280321,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500583470304665602,
+        "text": "@MarcDClair I never said you do. If you can remember it, you have access to it. And no one can take away the knowledge of that key.",
+        "created_at": "2022-03-06 21:25:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 68501435,
+        "referenced_tweets": {
+            "id": 1500581440320421894,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500578001796284417,
+        "text": "@MarcDClair I'd tend to agree with him actually on the basis you'd include other most other crypto. If one can remember 32 bytes of data, there's no force that can take that private key away. Assuming the network is accessible it's yours to do with what you wish. What else is like this?",
+        "created_at": "2022-03-06 21:04:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 68501435,
+        "referenced_tweets": {
+            "id": 1499481211118530574,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499812007654014977,
+        "text": "RT @PHLEaglesNation: Who is the greatest #Eagles Head Coach of all time? https://t.co/BkaGYznRTm",
+        "created_at": "2022-03-04 18:20:22+00:00",
+        "public_metrics": {
+            "retweet_count": 50,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499555080244183040,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499476928469745680,
+        "text": "@_Colin_Mangan_ @EricRWeinstein Just shared this video myself...",
+        "created_at": "2022-03-03 20:08:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1455608139261399040,
+        "referenced_tweets": {
+            "id": 1499467757896839172,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498911202864336898,
+        "text": "@MarcDClair What's a yemen?",
+        "created_at": "2022-03-02 06:40:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 68501435,
+        "referenced_tweets": {
+            "id": 1498662879452663809,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498885498915340289,
+        "text": "RT @Go_Sixers_Go: Biden just said Embiid is the clear cut MVP.",
+        "created_at": "2022-03-02 04:58:45+00:00",
+        "public_metrics": {
+            "retweet_count": 197,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498852448362024966,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498746578336567302,
+        "text": "@AndrewMayne I just listened to the excellent tribute you and the guys did on Weird Things. I saw him myself in Vegas and glad to know he was just as much of a treasure off stage.",
+        "created_at": "2022-03-01 19:46:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 5548212,
+        "referenced_tweets": {
+            "id": 1497369482695634945,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498719872070533122,
+        "text": "@Peter21945805 @PeterSchiff Well good thing Pete is selling it! Selling it almost as if he values dollars more than gold!",
+        "created_at": "2022-03-01 18:00:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1396484026567995395,
+        "referenced_tweets": {
+            "id": 1498714942677078026,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498717989763309581,
+        "text": "Getting there! #JWST\nhttps://t.co/jnh6SRB38s",
+        "created_at": "2022-03-01 17:53:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496580284896014340,
+        "text": "@BrianMcWilliams @OscarHealth What's diverticulitis? Lemme Google that.... https://t.co/4w9CyWMERM",
+        "created_at": "2022-02-23 20:18:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 22187608,
+        "referenced_tweets": {
+            "id": 1496578383123079168,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496544091773050891,
+        "text": "RT @SiaSynn: I'm losing my beautiful, brilliant husband. My beep beeps. He's not responsive &amp; our home hospice  nurses say he's at his end\u2026",
+        "created_at": "2022-02-23 17:54:50+00:00",
+        "public_metrics": {
+            "retweet_count": 136,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496313259460546565,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495125218850869249,
+        "text": "@strxwmxn @alicemtwonder @ldpowers86 @joerogan I wouldn't trust his as my doctor either!",
+        "created_at": "2022-02-19 19:56:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1111993528719237120,
+        "referenced_tweets": {
+            "id": 1485665899273142274,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494754097190240256,
+        "text": "@BrianMcWilliams \"Debate\" is the wrong word here... What Joe is asking these guys to do is explain how they reached their conclusions and try to reach an understanding. Calling it a debate immediately creates a precedent that these two \"adversaries\" disagree and will always disagree...",
+        "created_at": "2022-02-18 19:22:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 22187608,
+        "referenced_tweets": {
+            "id": 1494700096096587782,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466293579219804161,
+        "text": "@TheSandboxGame \"Like, OW, man!\" https://t.co/U0LcmzuEjm",
+        "created_at": "2021-12-02 06:30:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 347831597,
+        "referenced_tweets": {
+            "id": 1466059688479535105,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1465750127776186379,
+        "text": "@TheSandboxGame @SnoopDogg Snooooop! https://t.co/anEXc5704q",
+        "created_at": "2021-11-30 18:30:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 347831597,
+        "referenced_tweets": {
+            "id": 1465742593271087104,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1465557967814627328,
+        "text": "@TheSandboxGame @TheSandboxGame Would love that sweet Alpha pass to explore this amazing game!!! Help a cyborg out? https://t.co/BpxPZt8Qm0",
+        "created_at": "2021-11-30 05:47:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 347831597,
+        "referenced_tweets": {
+            "id": 1465385757544222728,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1458870863181205531,
+        "text": "Question for the #Cryptos crowd... What do you appreciate more in an #NFT:",
+        "created_at": "2021-11-11 18:54:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1458843505770438667,
+        "text": "@beeple This is such an awesome piece! You continue to inspire.",
+        "created_at": "2021-11-11 17:06:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34097500,
+        "referenced_tweets": {
+            "id": 1458792243674943489,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1451283783450193952,
+        "text": "@arweaveRover SMH \ud83d\ude44",
+        "created_at": "2021-10-21 20:26:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1393175436268539909,
+        "referenced_tweets": {
+            "id": 1451283099942219803,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1451283015204696069,
+        "text": "I'm verifying my Arweave address rpwC0dOxZay5By3aqbdh5r4d-pJwuFDs3LZuZ1IHaTo",
+        "created_at": "2021-10-21 20:23:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1418625285386166274,
+        "text": "@JustinRYoung @danacarvey You're right that he's absolutely a genius, but have you ever seen Kyle Dunnigan's impression of Joe Biden? Way better and funnier that Carvey's IPO.",
+        "created_at": "2021-07-23 17:33:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 5538252,
+        "referenced_tweets": {
+            "id": 1418532987000573960,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1267485308712398849,
+        "text": "@realDonaldTrump I love that show!",
+        "created_at": "2020-06-01 15:57:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 25073877,
+        "referenced_tweets": {
+            "id": 1267227396341669889,
+            "type": "replied_to"
+        }
+    }
+]

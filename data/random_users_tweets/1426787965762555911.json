@@ -1,0 +1,604 @@
+[
+    {
+        "tweet_id": 1507180206544498692,
+        "text": "RT @peeqaboo_: \u307e\u308a\u3093\u3061\u3083\u3093\u3068\u4e94\u6761\u304f\u3093\ud83d\ude0d\n#\u7740\u305b\u604b\n#\u559c\u591a\u5ddd\u6d77\u5922\n#\u305d\u306e\u7740\u305b\u66ff\u3048\u4eba\u5f62\u306f\u604b\u3092\u3059\u308b https://t.co/pIH8wO4Hjo",
+        "created_at": "2022-03-25 02:18:57+00:00",
+        "public_metrics": {
+            "retweet_count": 28,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506924252896759808,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507037540460552195,
+        "text": "doodle rkgk https://t.co/G2xQZ4x6n4",
+        "created_at": "2022-03-24 16:52:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507006676724985862,
+        "text": "@WCHYY2h6lmh2bOX \u3042\u308a\u304c\u3068\u3046",
+        "created_at": "2022-03-24 14:49:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1329381532109205504,
+        "referenced_tweets": {
+            "id": 1506967906017415171,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506924252896759808,
+        "text": "\u307e\u308a\u3093\u3061\u3083\u3093\u3068\u4e94\u6761\u304f\u3093\ud83d\ude0d\n#\u7740\u305b\u604b\n#\u559c\u591a\u5ddd\u6d77\u5922\n#\u305d\u306e\u7740\u305b\u66ff\u3048\u4eba\u5f62\u306f\u604b\u3092\u3059\u308b https://t.co/pIH8wO4Hjo",
+        "created_at": "2022-03-24 09:21:53+00:00",
+        "public_metrics": {
+            "retweet_count": 28,
+            "reply_count": 2,
+            "like_count": 152,
+            "quote_count": 3
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504164070877904897,
+        "text": "@DizzyHungry Thank you. \ud83e\udd70",
+        "created_at": "2022-03-16 18:33:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1134469572067766275,
+        "referenced_tweets": {
+            "id": 1504155146984599557,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504045519110242304,
+        "text": "\u4e7e\u5fc3\u5bff\u306e\u30b3\u30b9\u30d7\u30ec\u554f\u984c\nShinju Inui's Cosplay Malfunction\n#\u7740\u305b\u604b\n#\u559c\u591a\u5ddd\u6d77\u5922\n#\u305d\u306e\u7740\u305b\u66ff\u3048\u4eba\u5f62\u306f\u604b\u3092\u3059\u308b https://t.co/LhOxyQ7RAR",
+        "created_at": "2022-03-16 10:42:50+00:00",
+        "public_metrics": {
+            "retweet_count": 23,
+            "reply_count": 1,
+            "like_count": 103,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502294595996028929,
+        "text": "\u5922\u82bd\u3092\u30a2\u30ab\u30cd\u306b\u5909\u3048\u307e\u3057\u305f\u3002\u5199\u771f\u3092\u64ae\u3063\u3066\u3044\u308b\u306e\u306f\u4eca\u5922\u82bd\u3067\u3059\u3002I changed, who was previously Yume, to Akane. Yume's the one taking a picture now.",
+        "created_at": "2022-03-11 14:45:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1426787965762555911,
+        "referenced_tweets": {
+            "id": 1502293258751201284,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502293258751201284,
+        "text": "WIP \n\u3053\u308c\u3092\u30dc\u30fc\u30eb\u30c8\u306b\u5165\u308c\u308b\u524d\u306b\u3001\u3044\u304f\u3064\u304b\u306e\u8a73\u7d30\u3092\u8ffd\u52a0\u3057\u307e\u3057\u305f\u3002\u3053\u308c\u304c\u7d42\u308f\u308b\u307e\u3067\u3057\u3070\u3089\u304f\u6642\u9593\u304c\u304b\u304b\u308a\u307e\u3059\u3002Added some details before I sent this to the  vault. Will be awhile before I finish this.\n#SSSS_GRIDMAN \n#SSSS_DYNAZENON \n#GRIDMAN_UNIVERSE https://t.co/woraDsJCU3",
+        "created_at": "2022-03-11 14:39:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 16,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502184052027125760,
+        "text": "@yoshikadu2010 \u3053\u306e\u30bb\u30c3\u30c8\u30a2\u30c3\u30d7\u306f\u7d20\u6674\u3089\u3057\u304f\u898b\u3048\u307e\u3059",
+        "created_at": "2022-03-11 07:26:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 230129557,
+        "referenced_tweets": {
+            "id": 1502181930888216578,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496781340368269316,
+        "text": "\u4e43\u7fbd\u3061\u3083\u3093 \ud83c\udf6d\n#\u7740\u305b\u604b\n#\u559c\u591a\u5ddd\u6d77\u5922\n#\u305d\u306e\u7740\u305b\u66ff\u3048\u4eba\u5f62\u306f\u604b\u3092\u3059\u308b https://t.co/pu6s7B3EfI",
+        "created_at": "2022-02-24 09:37:35+00:00",
+        "public_metrics": {
+            "retweet_count": 42,
+            "reply_count": 0,
+            "like_count": 165,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493544307927650304,
+        "text": "\u6c34\u7740\u5317\u5ddd\u4e00\u4eba\u79f0\n#\u7740\u305b\u604b\n#\u559c\u591a\u5ddd\u6d77\u5922\n#\u305d\u306e\u7740\u305b\u66ff\u3048\u4eba\u5f62\u306f\u604b\u3092\u3059\u308b https://t.co/mO8aeMgwcY",
+        "created_at": "2022-02-15 11:14:46+00:00",
+        "public_metrics": {
+            "retweet_count": 69,
+            "reply_count": 1,
+            "like_count": 384,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490576636567162880,
+        "text": "Nice, first time I got one. #pixiv https://t.co/Adf8izPmDQ",
+        "created_at": "2022-02-07 06:42:18+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 2,
+            "like_count": 25,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489815778572791811,
+        "text": "\u30b9\u30c8\u30c3\u30ad\u30f3\u30b0 / \u30b9\u30c8\u30c3\u30ad\u30f3\u30b0\u306a\u3057\nstocking on / off https://t.co/R6uM92rfRi",
+        "created_at": "2022-02-05 04:18:55+00:00",
+        "public_metrics": {
+            "retweet_count": 44,
+            "reply_count": 2,
+            "like_count": 173,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489547217991917572,
+        "text": "https://t.co/MLtOIuDNiy",
+        "created_at": "2022-02-04 10:31:45+00:00",
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 130,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1426787965762555911,
+        "referenced_tweets": {
+            "id": 1489543533367156739,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489543533367156739,
+        "text": "https://t.co/cLPz5hWIv6",
+        "created_at": "2022-02-04 10:17:07+00:00",
+        "public_metrics": {
+            "retweet_count": 159,
+            "reply_count": 3,
+            "like_count": 723,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483379570690588672,
+        "text": "@ArtMark88 That's the crazy part.",
+        "created_at": "2022-01-18 10:03:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2831037031,
+        "referenced_tweets": {
+            "id": 1483378906665156609,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483376394092507138,
+        "text": "@yan_0992 Thank you. I'm so grateful to hear that.",
+        "created_at": "2022-01-18 09:51:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1222763369838436352,
+        "referenced_tweets": {
+            "id": 1483375896782569474,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483374829621297152,
+        "text": "@ArtMark88 Thanks. I procrastinate too long on the BGs. haha",
+        "created_at": "2022-01-18 09:44:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2831037031,
+        "referenced_tweets": {
+            "id": 1483372763075125250,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483373438630649861,
+        "text": "\u6587\u5b57\u304c\u306a\u3044 ver. https://t.co/hhDFU9nUWj",
+        "created_at": "2022-01-18 09:39:22+00:00",
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 61,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1426787965762555911,
+        "referenced_tweets": {
+            "id": 1483372591674839041,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483372591674839041,
+        "text": "\u79c1\u670d\u30e0\u30b8\u30ca\n#SSSS_GRIDMAN \n#SSSS_DYNAZENON \n#\u65b0\u6761\u30a2\u30ab\u30cd\u5c55 https://t.co/b36MNx8ing",
+        "created_at": "2022-01-18 09:36:00+00:00",
+        "public_metrics": {
+            "retweet_count": 143,
+            "reply_count": 3,
+            "like_count": 423,
+            "quote_count": 2
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482344218563547137,
+        "text": "@sinocx5 \u30b3\u30ca\u30f3\u304c\u4e38\u307f\u3092\u5e2f\u3073\u305f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30c7\u30b6\u30a4\u30f3\u3092\u3057\u3066\u3044\u305f\u3068\u304d\u3001\u305d\u308c\u304c\u597d\u304d\u3067\u3059\u3002",
+        "created_at": "2022-01-15 13:29:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1333370847839494147,
+        "referenced_tweets": {
+            "id": 1482339812086792195,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479724538929709057,
+        "text": "@on_18416 @yunomiminoyu @kasen3244 @taoru20000 \u5c06\u6765\u3001\u3053\u308c\u3092\u30aa\u30f3\u30e9\u30a4\u30f3\u3067\u8cfc\u5165\u3059\u308b\u3053\u3068\u306f\u53ef\u80fd\u3067\u3059\u304b\uff1f",
+        "created_at": "2022-01-08 07:59:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 924919254,
+        "referenced_tweets": {
+            "id": 1475020118401118208,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475089543418105859,
+        "text": "@NewFace_HIDE \u30a4\u30e9\u30b9\u30c8\u306b\u306f\u3069\u306e\u30d6\u30e9\u30b7\u3092\u4f7f\u7528\u3057\u3066\u3044\u307e\u3059\u304b\uff1f",
+        "created_at": "2021-12-26 13:02:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2653045134,
+        "referenced_tweets": {
+            "id": 1474994829646233600,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472701293869211649,
+        "text": "#2021\u5e74\u81ea\u5206\u304c\u9078\u3076\u4eca\u5e74\u306e4\u679a https://t.co/cdhb2l7Xt5",
+        "created_at": "2021-12-19 22:52:04+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 53,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1470326596997316609,
+        "text": "RT @SSSS_PROJECT: \u300cGRIDMAN\u00d7DYNAZENON\u300d\u5b8c\u5168\u65b0\u4f5c\u5287\u5834\u7248\uff08\u4eee\u79f0\uff09\u5236\u4f5c\u6c7a\u5b9a\uff01\n\n\u539f\u4f5c\uff1a\u30b0\u30ea\u30c3\u30c9\u30de\u30f3\n\u76e3\u7763\uff1a\u96e8\u5bae\u54f2\n\u811a\u672c\uff1a\u9577\u8c37\u5ddd\u572d\u4e00\n\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30c7\u30b6\u30a4\u30f3\uff1a\u5742\u672c\u52dd\n\u97f3\u697d\uff1a\u9dfa\u5de3\u8a69\u90ce\n\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u5236\u4f5c\uff1aTRIGGER\n\nhttps://t.co/vr0\u2026",
+        "created_at": "2021-12-13 09:35:52+00:00",
+        "public_metrics": {
+            "retweet_count": 32525,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1470325688565923840,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1461338423457771520,
+        "text": "@varon666 \u3069\u306e\u30d6\u30e9\u30b7\u3092\u4f7f\u3063\u3066\u63cf\u304d\u307e\u3059\u304b\uff1f",
+        "created_at": "2021-11-18 14:20:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 147033343,
+        "referenced_tweets": {
+            "id": 1461183823136182274,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1454637815707308035,
+        "text": "https://t.co/MZ2hhOEvdI",
+        "created_at": "2021-10-31 02:34:15+00:00",
+        "public_metrics": {
+            "retweet_count": 25,
+            "reply_count": 2,
+            "like_count": 93,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1426787965762555911,
+        "referenced_tweets": {
+            "id": 1454636847930372100,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1454636847930372100,
+        "text": "\u30d2\u30ed\u30a4\u30f3\u30d0\u30c8\u30eb\uff01\u5b9d\u591a\u516d\u82b1vs\u30e0\u30b8\u30ca\u3001\u5357\u5922\u82bdvs\u65b0\u6761\u30a2\u30ab\u30cd\n#SSSS_GRIDMAN \n#SSSS_DYNAZENON \n#GRIDMAN_UNIVERSE https://t.co/gPYrvQ3JQb",
+        "created_at": "2021-10-31 02:30:25+00:00",
+        "public_metrics": {
+            "retweet_count": 117,
+            "reply_count": 2,
+            "like_count": 359,
+            "quote_count": 2
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1453065638243622918,
+        "text": "@key_kun_anime \u30a4\u30e1\u30fc\u30b8\u30dc\u30fc\u30c9\u306f\u3044\u3064\u3082\u898b\u3066\u3044\u3066\u9762\u767d\u3044\u3067\u3059\u3002",
+        "created_at": "2021-10-26 18:26:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1110368277144829953,
+        "referenced_tweets": {
+            "id": 1452978803865653252,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1448161405308260354,
+        "text": "@ArtMark88 You wont need your magnifying glass to see the concept art this time round.",
+        "created_at": "2021-10-13 05:39:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2831037031,
+        "referenced_tweets": {
+            "id": 1448159942775480322,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1448159028530483203,
+        "text": "\u3082\u30461\u3064\u3002\nAnother one.\n#SSSS_GRIDMAN \n#SSSS_GRIDMAN3\u5468\u5e74 \n#SSSS_DYNAZENON https://t.co/3HUjt5GnSs",
+        "created_at": "2021-10-13 05:29:52+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 28,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1447035011102699522,
+        "text": "https://t.co/h2UuobMLxs",
+        "created_at": "2021-10-10 03:03:25+00:00",
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 70,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1426787965762555911,
+        "referenced_tweets": {
+            "id": 1447031473706467332,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1447034018935967746,
+        "text": "https://t.co/VXnogl19l9",
+        "created_at": "2021-10-10 02:59:29+00:00",
+        "public_metrics": {
+            "retweet_count": 29,
+            "reply_count": 2,
+            "like_count": 137,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1426787965762555911,
+        "referenced_tweets": {
+            "id": 1447031473706467332,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1447031473706467332,
+        "text": "\u5b9d\u591a\u516d\u82b1\u3068\u5357\u5922\u82bd\n#SSSS_GRIDMAN \n#SSSS_GRIDMAN3\u5468\u5e74 \n#SSSS_DYNAZENON https://t.co/pWURHV2p0Z",
+        "created_at": "2021-10-10 02:49:22+00:00",
+        "public_metrics": {
+            "retweet_count": 256,
+            "reply_count": 3,
+            "like_count": 814,
+            "quote_count": 2
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1445386452305600513,
+        "text": "@ArtMark88 Ah thanks, there's more concept art in this one than Gridman's Uchusen. Though the image is just as small.",
+        "created_at": "2021-10-05 13:52:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2831037031,
+        "referenced_tweets": {
+            "id": 1445332449462919184,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1445232918758969344,
+        "text": "@yan_0992 It arrived way earlier than it suppose to, Good luck.",
+        "created_at": "2021-10-05 03:42:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1222763369838436352,
+        "referenced_tweets": {
+            "id": 1445231295777234944,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1445230521403928581,
+        "text": "\u8cb7\u3063\u305f\u3002\nBought it.\n#SSSS_DYNAZENON https://t.co/w15tTtAnAR",
+        "created_at": "2021-10-05 03:33:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 14,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1443774644645892117,
+        "text": "\u30d4\u30f3\u30af\u3001\u30a4\u30a8\u30ed\u30fc\u3001\u30b0\u30ea\u30fc\u30f3\u306e\u30d7\u30e9\u30b0\u30b9\u30fc\u30c4\u3067\u307f\u3069\u308a\u3001\u307e\u3084\u3001\u308a\u3064\u3053\u3092\u63cf\u304d\u307e\u3057\u305f\u3002#\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3 #Evangelion https://t.co/96Ls6eHucw",
+        "created_at": "2021-10-01 03:07:53+00:00",
+        "public_metrics": {
+            "retweet_count": 32,
+            "reply_count": 2,
+            "like_count": 105,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1432646877627891720,
+        "text": "\u518d\u63b2:\u6d77\u3078\u884c\u3053\u3046\uff01\uff01\uff01 2/2\n#SSSS_DYNAZENON #SSSS_GRIDMAN https://t.co/fp0EWl7cxp",
+        "created_at": "2021-08-31 10:10:07+00:00",
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 74,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1426787965762555911,
+        "referenced_tweets": {
+            "id": 1432646572966170629,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1432646572966170629,
+        "text": "\u518d\u63b2: \u4eca\u3053\u305d\u7dca\u5f35\u3092\u307b\u3050\u3057\u3066\u30fb\u30fb\u30fb 1/2\n#SSSS_DYNAZENON #SSSS_GRIDMAN https://t.co/kCvOk9SvpH",
+        "created_at": "2021-08-31 10:08:54+00:00",
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 1,
+            "like_count": 74,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1432639996171735044,
+        "text": "\u30a8\u30eb\u30de\u3068\u30c8\u30fc\u30eb\u301c\n\n#\u5c0f\u6797\u3055\u3093\u3061\u306e\u30e1\u30a4\u30c9\u30e9\u30b4\u30f3 \n#maidragon https://t.co/j4vxJFyX3r",
+        "created_at": "2021-08-31 09:42:46+00:00",
+        "public_metrics": {
+            "retweet_count": 110,
+            "reply_count": 0,
+            "like_count": 408,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

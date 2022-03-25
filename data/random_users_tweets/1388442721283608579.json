@@ -1,0 +1,374 @@
+[
+    {
+        "tweet_id": 1507077613369663497,
+        "text": "@CarlyDelzell Agree with you",
+        "created_at": "2022-03-24 19:31:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1162095020,
+        "referenced_tweets": {
+            "id": 1507076572976660490,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068084653277190,
+        "text": "Social work has many bases, it is an interdisciplinary science, but I think the main thing is the psychological basis. \nWhat do you think about that as a social worker?",
+        "created_at": "2022-03-24 18:53:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506553740781830144,
+        "text": "My article about social work and sustainable development goals. Read it in Armenian \ud83c\udde6\ud83c\uddf2\nhttps://t.co/s3lYICsWoV https://t.co/Z1VzNTJagw",
+        "created_at": "2022-03-23 08:49:36+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506277379035049987,
+        "text": "The medical basis of social work about the hereditary arrangement of our health. Read it in Armenian \ud83c\udde6\ud83c\uddf2\nhttps://t.co/62Q3WDD9co",
+        "created_at": "2022-03-22 14:31:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506243044638703621,
+        "text": "RT @newsocialworker: NEW video for #SocialWorkMonth! You have supported many in response to #COVID19, stood on front lines for social justi\u2026",
+        "created_at": "2022-03-22 12:15:01+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506242804074352647,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501182743455088648,
+        "text": "@Batoyan \ud83c\udf38\ud83d\udc9a https://t.co/n4kbVDhKBM",
+        "created_at": "2022-03-08 13:07:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 72008182,
+        "referenced_tweets": {
+            "id": 1501099379784093699,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1499124526872989707,
+        "text": "Dear @newsocialworker \nThank you too for your being in social work.\nHappy social work month from Armenia \ud83c\udde6\ud83c\uddf2 https://t.co/Cfksl2vz8m",
+        "created_at": "2022-03-02 20:48:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498303777337708545,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1499124265538531339,
+        "text": "RT @newsocialworker: #SocialWorkMonth starts TOMORROW! Thank YOU for all you do, whether the day before, after, or during our special month\u2026",
+        "created_at": "2022-03-02 20:47:31+00:00",
+        "public_metrics": {
+            "retweet_count": 24,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498303777337708545,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499122925332480004,
+        "text": "\ud83d\udc9f https://t.co/aMBf22EU9i",
+        "created_at": "2022-03-02 20:42:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498712469073797121,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1494756789883179009,
+        "text": "RT @armenia: Fabulous #dusk against the backdrop of the mountains of #Meghri\ud83c\udde6\ud83c\uddf2\n#Armeniannature #BeautiesofArmenia\n\n\ud83d\udcf8: Peter https://t.co/6a\u2026",
+        "created_at": "2022-02-18 19:32:44+00:00",
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494708543596945415,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490208937077100545,
+        "text": "RT @ArmSarkissian: The Monastery of #Dadivank (9th\u201313th c.) in #Artsakh: one of the jewels of the Armenian medieval sacred heritage. https:\u2026",
+        "created_at": "2022-02-06 06:21:11+00:00",
+        "public_metrics": {
+            "retweet_count": 51,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489949626622885891,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489224235801358337,
+        "text": "RT @armenia: Don\u2019t you mind to admire this view in #summer evenings? Surely want\u203c\ufe0f\ud83d\ude3b\n\n\ud83d\udcf8: Photos Art https://t.co/31LUlMn2qO",
+        "created_at": "2022-02-03 13:08:20+00:00",
+        "public_metrics": {
+            "retweet_count": 20,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488919907802750990,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488909268006887429,
+        "text": "RT @ArmenianAMuseum: Beautiful day at the Armenian American Museum construction site! We are making great progress on the Foundation Phase.\u2026",
+        "created_at": "2022-02-02 16:16:46+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488664230341402625,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487494886656024583,
+        "text": "RT @Batoyan: As the National Assembly convened hearings on #education reforms my concern was if the new reforms would not leave children wi\u2026",
+        "created_at": "2022-01-29 18:36:31+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1486660382919958532,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1484214972683104265,
+        "text": "RT @GaroPaylan: 15 y\u0131l oldu\u2026\nHrant Dink\u2019e adalet bor\u00e7luyuz.\n15 \u057f\u0561\u0580\u056b \u0561\u0576\u0581\u0561\u0582\u0589\n\u0540\u0580\u0561\u0576\u0564 \u054f\u056b\u0576\u0584\u056b\u0576 \u0561\u0580\u0564\u0561\u0580\u0578\u0582\u0569\u056b\u055b\u0582\u0576 \u0565\u0576\u0584 \u057a\u0561\u0580\u057f\u0561\u056f\u0561\u0576:\n#HrantDink https://t.co/\u2026",
+        "created_at": "2022-01-20 17:23:19+00:00",
+        "public_metrics": {
+            "retweet_count": 417,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483752841353252868,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483151863323189255,
+        "text": "RT @armenia: \u27a1\ufe0f #Belgian #LeVif Weekend online journal has published list of the 51 best architectural monuments relating to heritage of An\u2026",
+        "created_at": "2022-01-17 18:58:54+00:00",
+        "public_metrics": {
+            "retweet_count": 24,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483091436967014408,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1444995653701095430,
+        "text": "RT @NicoSchermers: \u0547\u0576\u0578\u0580\u0570\u0561\u057e\u0578\u0580, congratulations!",
+        "created_at": "2021-10-04 11:59:45+00:00",
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1444994959795490817,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1443294829987966980,
+        "text": "RT @Eurovision: We\u2019re very sorry to hear of the passing of Armenian artist Hayko.\n\nHayko represented his country at Eurovision 2007 where h\u2026",
+        "created_at": "2021-09-29 19:21:17+00:00",
+        "public_metrics": {
+            "retweet_count": 194,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1443174012574748675,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1442515387019501570,
+        "text": "RT @armenia: 27.09.2020 #Azerbaijan unleashed aggression agnst #Artsakh launching #44daywar. United &amp; resolute we will overcome challenges\u2026",
+        "created_at": "2021-09-27 15:44:03+00:00",
+        "public_metrics": {
+            "retweet_count": 74,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1442458921080348674,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1435272427496484869,
+        "text": "RT @armenia: A truly charismatic moment\u2026 \n#Lori #DailyArmenia #TuesdayVibes\n\n\ud83d\udcf8: Vahe Aghamyan https://t.co/AgeVjVFy78",
+        "created_at": "2021-09-07 16:03:07+00:00",
+        "public_metrics": {
+            "retweet_count": 45,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1435125007206727683,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1430987304915582976,
+        "text": "RT @NicoSchermers: Today we opened community centre in #Lusashogh to support #equalrights for girls #SDG5 \ud83c\udde6\ud83c\uddf2\ud83c\uddf3\ud83c\uddf1 cooperation \u0531\u0575\u057d\u0585\u0580 \u0574\u0565\u0580 \u057b\u0561\u0576\u0584\u0565\u0580\u2026",
+        "created_at": "2021-08-26 20:15:34+00:00",
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1430936095576006668,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1429063946682703873,
+        "text": "RT @Batoyan: Elina Danielian is the European Women's Champion 2021. The #Armenian Grandmaster went through the tournament undefeated and wo\u2026",
+        "created_at": "2021-08-21 12:52:50+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1428814871131561989,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1428578764913614848,
+        "text": "RT @armenia: On the pic is depicted Mother &amp; Child statuette, 3rd century BC, which was excavated in #Armavir region, #Armenia. https://t.c\u2026",
+        "created_at": "2021-08-20 04:44:53+00:00",
+        "public_metrics": {
+            "retweet_count": 34,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1428434834473558017,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1424089980402548741,
+        "text": "@Batoyan never and never give up \ud83d\udc99\nhttps://t.co/wZsG3KyQdO",
+        "created_at": "2021-08-07 19:28:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 72008182,
+        "referenced_tweets": []
+    }
+]

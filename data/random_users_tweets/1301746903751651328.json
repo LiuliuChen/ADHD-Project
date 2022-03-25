@@ -1,0 +1,3170 @@
+[
+    {
+        "tweet_id": 1507068194275696648,
+        "text": "RT @theeternal: home is u",
+        "created_at": "2022-03-24 18:53:52+00:00",
+        "public_metrics": {
+            "retweet_count": 10939,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506822991576981505,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068176445677574,
+        "text": "RT @TemptingFoodNow: Donuts https://t.co/svN4If3kNW",
+        "created_at": "2022-03-24 18:53:47+00:00",
+        "public_metrics": {
+            "retweet_count": 506,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506870772958212098,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068171714502665,
+        "text": "RT @deeptxtmsgs: i have the worst attitude when i\u2019m mad.",
+        "created_at": "2022-03-24 18:53:46+00:00",
+        "public_metrics": {
+            "retweet_count": 5694,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506843247477465088,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068153116958728,
+        "text": "RT @PoemHeaven: it was hard letting you go. https://t.co/8GFvFurldV",
+        "created_at": "2022-03-24 18:53:42+00:00",
+        "public_metrics": {
+            "retweet_count": 2778,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506906771159404545,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068141142171652,
+        "text": "RT @deeptxtmsgs: i hate it when i\u2019m so excited for something but ended up not happening.",
+        "created_at": "2022-03-24 18:53:39+00:00",
+        "public_metrics": {
+            "retweet_count": 6857,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506933843625873411,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068112847392770,
+        "text": "RT @PoemHeaven: it truly does. https://t.co/b5A0IS8pV7",
+        "created_at": "2022-03-24 18:53:32+00:00",
+        "public_metrics": {
+            "retweet_count": 13863,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506985156200091659,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068100923076610,
+        "text": "RT @vincefelixx: no forcing, what flows, flows.",
+        "created_at": "2022-03-24 18:53:29+00:00",
+        "public_metrics": {
+            "retweet_count": 21060,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506986996946055169,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068083239800833,
+        "text": "RT @sadtxtmessages: I wanna be someone\u2019s fave person.",
+        "created_at": "2022-03-24 18:53:25+00:00",
+        "public_metrics": {
+            "retweet_count": 7631,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506992181529255939,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068058988339200,
+        "text": "RT @deeptxtmsgs: i like dates. i like quality time. i like reassurance. i like reciprocated energy.",
+        "created_at": "2022-03-24 18:53:19+00:00",
+        "public_metrics": {
+            "retweet_count": 5088,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506994250977886208,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068041691074569,
+        "text": "RT @PoemHeaven: it\u2019s okay to not be okay. https://t.co/4abqh0clgv",
+        "created_at": "2022-03-24 18:53:15+00:00",
+        "public_metrics": {
+            "retweet_count": 8414,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506997900525592576,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068027094847498,
+        "text": "RT @mariaxxnn: being a toddler\u2019s favorite person is such a flex",
+        "created_at": "2022-03-24 18:53:12+00:00",
+        "public_metrics": {
+            "retweet_count": 556,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507000935096238081,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067927282991110,
+        "text": "RT @PoemHeaven: https://t.co/hQDcCKG87Y",
+        "created_at": "2022-03-24 18:52:48+00:00",
+        "public_metrics": {
+            "retweet_count": 2359,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507047558471897089,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067906131206147,
+        "text": "RT @freecashcom: $250.00 #Bitcoin Giveaway\n\n- Follow us\n- Retweet\n\nRolling in 24h",
+        "created_at": "2022-03-24 18:52:43+00:00",
+        "public_metrics": {
+            "retweet_count": 2360,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507039548559089679,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067878603993102,
+        "text": "RT @smooyacs: Celebratory giveaway since I'm trialing for @ITBesports\n- retweet this post\n- follow @smooyacs &amp; @ITBesports \n\nWinner rolled\u2026",
+        "created_at": "2022-03-24 18:52:36+00:00",
+        "public_metrics": {
+            "retweet_count": 2619,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504566668781047812,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067861910577164,
+        "text": "@Roobet @patricialagomme @Zolak09",
+        "created_at": "2022-03-24 18:52:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1034166571932045313,
+        "referenced_tweets": {
+            "id": 1504668922078932992,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507067838653153282,
+        "text": "RT @Roobet: $2,500 Giveaway! \n\n5 Winners - $500 EACH!\n\n-Follow\n-Like and RT\u2764\ufe0f\n-Tag 2 friends\n-Comment your Roobet Username\ud83e\udd98\n\nWinners announ\u2026",
+        "created_at": "2022-03-24 18:52:27+00:00",
+        "public_metrics": {
+            "retweet_count": 5831,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504668922078932992,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067829119557633,
+        "text": "@Lucky7Bonus @patricialagomme",
+        "created_at": "2022-03-24 18:52:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1099137416252796929,
+        "referenced_tweets": {
+            "id": 1504502825941876748,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507067797234405377,
+        "text": "RT @Lucky7Bonus: GIVEAWAY | Un iPad mini\ud83c\udf81\n\nOu l'\u00e9quivalent en cash (560\u20ac).\n\nPour participer : \n1\u20e3RT + Follow @Lucky7Bonus   \n2\u20e3Tag 1 ami\n\n\u23f3\u2026",
+        "created_at": "2022-03-24 18:52:17+00:00",
+        "public_metrics": {
+            "retweet_count": 4509,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504502825941876748,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067780637601795,
+        "text": "@skinclubmedia @patricialagomme",
+        "created_at": "2022-03-24 18:52:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 925795551186247681,
+        "referenced_tweets": {
+            "id": 1503784251497533443,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507067734848331778,
+        "text": "RT @skinclubmedia: \ud83d\ude80 Tag The Best Friend &amp; Like\n\u26a1\ufe0f Follow us\n\u2600\ufe0f Retweet this post\n\u231b\ufe0fEnds in 6 days \n\n#skinclub #csgo #csgoskin #csgoskins #\u2026",
+        "created_at": "2022-03-24 18:52:02+00:00",
+        "public_metrics": {
+            "retweet_count": 1597,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503784251497533443,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067717895041029,
+        "text": "RT @anomalyxd: \ud83c\udf81 SKELETON CRIMSON WEB MINIMAL WEAR ($1155)\ud83d\udc8e\n\n\u2705 RETWEET\n\u2705 FOLLOW @SkinBaronEN\n\u2705 FOLLOW @anomalyxd\n\nWinner picked in 7 days,\u2026",
+        "created_at": "2022-03-24 18:51:58+00:00",
+        "public_metrics": {
+            "retweet_count": 5735,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504002448784084992,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067707371536384,
+        "text": "RT @DaddyskinsCSGO: $100 Daddyskins balance. RT/Follow. GLHF",
+        "created_at": "2022-03-24 18:51:56+00:00",
+        "public_metrics": {
+            "retweet_count": 865,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504865223106129922,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067701017124875,
+        "text": "RT @sku11ster: \u2b50\ufe0f NAVAJA KNIFE SLAUGHTER GIVEAWAY ($106) \u2b50\ufe0f\n\nTo enter:\n\u2705- RT &amp; Like\n\u2705- Follow me &amp; @WAXPEER \n\u2705- Visit: https://t.co/Rkk4ihS\u2026",
+        "created_at": "2022-03-24 18:51:54+00:00",
+        "public_metrics": {
+            "retweet_count": 1092,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506287544912203784,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067682868322313,
+        "text": "@Maniac_CSGO @BitcasinoE @BitcasinoCSGO @patricialagomme @Zolak09",
+        "created_at": "2022-03-24 18:51:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2231302969,
+        "referenced_tweets": {
+            "id": 1506332270394851338,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507067643899129874,
+        "text": "RT @Maniac_CSGO: CSGO GIVEAWAY | I\u2019m giving away a M9 Bayonet Crimson Web MW! \ud83c\udf81\n\n\ud83c\udf81 To participate:\n\u2705 Retweet this post\n\u2705 Follow @Maniac_CSG\u2026",
+        "created_at": "2022-03-24 18:51:40+00:00",
+        "public_metrics": {
+            "retweet_count": 1472,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506332270394851338,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067631190388743,
+        "text": "@felperaa @SkinWorldgg @patricialagomme @Zolak09",
+        "created_at": "2022-03-24 18:51:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3519938177,
+        "referenced_tweets": {
+            "id": 1505938031538286603,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507067604887818246,
+        "text": "RT @felperaa: \ud83d\udce2 SKINWORLD GIVEAWAY \ud83d\udce2\n\n\u2605 Falchion Knife | Doppler FN (260$) \ud83d\udd25\n\nComo participar? \n\u2705 Me seguir \n\u2705 Seguir @SkinWorldgg\n\u2705 Curtir\u2026",
+        "created_at": "2022-03-24 18:51:31+00:00",
+        "public_metrics": {
+            "retweet_count": 956,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505938031538286603,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067530363514886,
+        "text": "@KrimboCS @SkinBaronDE @BIGCLANgg @patricialagomme",
+        "created_at": "2022-03-24 18:51:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4361254943,
+        "referenced_tweets": {
+            "id": 1505204952863498240,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507067467092434946,
+        "text": "RT @KrimboCS: \u1d42\u1d31\u1d3f\u1d2e\u1d41\u1d3a\u1d33\nTo celebrate the good news, I am giving away this knife with SkinBaron! To enter:\n\n\ud83d\udd01 Retweet\n\u2705 Follow @SkinBaronDE, @\u2026",
+        "created_at": "2022-03-24 18:50:58+00:00",
+        "public_metrics": {
+            "retweet_count": 2323,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505204952863498240,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742780685930513,
+        "text": "RT @MattLMorgan: Do what is right. Not easy.",
+        "created_at": "2022-03-15 14:39:51+00:00",
+        "public_metrics": {
+            "retweet_count": 270,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503728806498082819,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742771710025742,
+        "text": "RT @deeptxtmsgs: i gave wrong people the right pieces of me.",
+        "created_at": "2022-03-15 14:39:49+00:00",
+        "public_metrics": {
+            "retweet_count": 4187,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503732750540496899,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742766345560072,
+        "text": "RT @yafavputa_: sometimes, home is a person",
+        "created_at": "2022-03-15 14:39:48+00:00",
+        "public_metrics": {
+            "retweet_count": 1277,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503732850792800258,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742757550055438,
+        "text": "RT @yadailymoodsss: Clingy but mature partner, I WANT THAT! \ud83e\udd7a",
+        "created_at": "2022-03-15 14:39:46+00:00",
+        "public_metrics": {
+            "retweet_count": 380,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503736449233047558,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742743029469186,
+        "text": "RT @httpxellise: Imagine being enough for someone.",
+        "created_at": "2022-03-15 14:39:42+00:00",
+        "public_metrics": {
+            "retweet_count": 4874,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503733959284252678,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742734812782593,
+        "text": "RT @imovercryingIG: do u ever miss your own energy. like damn what happened to me.",
+        "created_at": "2022-03-15 14:39:40+00:00",
+        "public_metrics": {
+            "retweet_count": 5310,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503736479205449731,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742721734987783,
+        "text": "RT @wildflowerdaysi: https://t.co/WNbLSjQock",
+        "created_at": "2022-03-15 14:39:37+00:00",
+        "public_metrics": {
+            "retweet_count": 3071,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503739337430630400,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742710007664649,
+        "text": "RT @JAMNXZ: I love how you get on twitter and all your thoughts are already in someone else\u2019s tweet.",
+        "created_at": "2022-03-15 14:39:34+00:00",
+        "public_metrics": {
+            "retweet_count": 5598,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503740577061421056,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742700247465992,
+        "text": "RT @hell0erick: I'm not a permanent person in anyone life, but I assure you to be the best temporary you'll ever meet.",
+        "created_at": "2022-03-15 14:39:32+00:00",
+        "public_metrics": {
+            "retweet_count": 640,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503740584846327812,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742692018294785,
+        "text": "RT @PoemHeaven: have you ever done that? https://t.co/XuLn3mBSbP",
+        "created_at": "2022-03-15 14:39:30+00:00",
+        "public_metrics": {
+            "retweet_count": 4325,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503742029351854091,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742665254387719,
+        "text": "@JuicyFruityyy https://t.co/iX1wlBe6xo",
+        "created_at": "2022-03-15 14:39:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090456117,
+        "referenced_tweets": {
+            "id": 1503476065028788231,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503742639635636238,
+        "text": "RT @JuicyFruityyy: FT ST BUTTERFLY KNIFE SLAUGHTER\n($850)\n*cannot be exchanged for crypto*\n\nTo Enter:\n\n-RT\n-Like this video:\nhttps://t.co/2\u2026",
+        "created_at": "2022-03-15 14:39:18+00:00",
+        "public_metrics": {
+            "retweet_count": 2731,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503476065028788231,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742632228442121,
+        "text": "@JuicyFruityyy https://t.co/02cOFGH8Jr",
+        "created_at": "2022-03-15 14:39:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090456117,
+        "referenced_tweets": {
+            "id": 1503113671077244931,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503742605401759750,
+        "text": "RT @JuicyFruityyy: AK-47 FIRE SERPENT MW GIVEAWAY!\n($1000)\n*cannot be exchanged for crypto*\n\nTo Enter:\n\n-RT\n-Like this video:\nhttps://t.co/\u2026",
+        "created_at": "2022-03-15 14:39:09+00:00",
+        "public_metrics": {
+            "retweet_count": 2778,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503113671077244931,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742594282622976,
+        "text": "@JuicyFruityyy https://t.co/Ft9UBPwhHH",
+        "created_at": "2022-03-15 14:39:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090456117,
+        "referenced_tweets": {
+            "id": 1502751289255604225,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503742572644257803,
+        "text": "RT @JuicyFruityyy: FN DESERT EAGLE BLAZE GIVEAWAY!\n($450)\n*cannot be exchanged for crypto*\n\nTo Enter:\n\n-RT\n-Like this video:\nhttps://t.co/S\u2026",
+        "created_at": "2022-03-15 14:39:02+00:00",
+        "public_metrics": {
+            "retweet_count": 2365,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502751289255604225,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742560447213568,
+        "text": "@JuicyFruityyy https://t.co/YoLuQ8QFMP",
+        "created_at": "2022-03-15 14:38:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090456117,
+        "referenced_tweets": {
+            "id": 1502388901398388736,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503742535109332992,
+        "text": "RT @JuicyFruityyy: ST FN NOMAD KNIFE SLAUGHTER GIVEAWAY!\n($450)\n*cannot be exchanged for crypto*\n\nTo Enter:\n\n-RT\n-Like this video:\nhttps://\u2026",
+        "created_at": "2022-03-15 14:38:53+00:00",
+        "public_metrics": {
+            "retweet_count": 2420,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502388901398388736,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742526188097544,
+        "text": "@JuicyFruityyy https://t.co/MKmnQSVt9H",
+        "created_at": "2022-03-15 14:38:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090456117,
+        "referenced_tweets": {
+            "id": 1501664125771997189,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503742498165960706,
+        "text": "RT @JuicyFruityyy: M9 BAYONET DOPPLER FN GIVEAWAY!\n($550)\n*cannot be exchanged for crypto*\n\nTo Enter:\n\n-RT\n-Like this video:\nhttps://t.co/W\u2026",
+        "created_at": "2022-03-15 14:38:44+00:00",
+        "public_metrics": {
+            "retweet_count": 2598,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501664125771997189,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742488238080001,
+        "text": "@JuicyFruityyy https://t.co/6T2MpbACGI",
+        "created_at": "2022-03-15 14:38:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090456117,
+        "referenced_tweets": {
+            "id": 1502026514069655556,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503742458903121920,
+        "text": "RT @JuicyFruityyy: TALON KNIFE TIGER TOOTH FN GIVEAWAY!\n($500)\n*cannot be exchanged for crypto*\n\nTo Enter:\n\n-RT\n-Like this video:\nhttps://t\u2026",
+        "created_at": "2022-03-15 14:38:35+00:00",
+        "public_metrics": {
+            "retweet_count": 2412,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502026514069655556,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742444327870477,
+        "text": "RT @CompBrosCrypto: $1000 in 48 hours:\n\nRetweet + follow @FossyGFX",
+        "created_at": "2022-03-15 14:38:31+00:00",
+        "public_metrics": {
+            "retweet_count": 15052,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503415836882739206,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742429471690752,
+        "text": "@VGORefsgg @CSGO500 @patricialagomme @Zolak09",
+        "created_at": "2022-03-15 14:38:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 998918264897011712,
+        "referenced_tweets": {
+            "id": 1503360976984420352,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503742409372585984,
+        "text": "RT @VGORefsgg: $130.00 GIVEAWAY! \ud83c\udf89\n\nNomad Knife | Forest DDPAT\n\n\u2705 Follow us &amp; @CSGO500 \n\u2705 Retweet + Like\n\u2705 Tag your friends\n\nEnds in 72-HOU\u2026",
+        "created_at": "2022-03-15 14:38:23+00:00",
+        "public_metrics": {
+            "retweet_count": 1726,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503360976984420352,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742402238025730,
+        "text": "RT @FossyGFX: $500 #BTC GIVEAWAY\n\nRT + FOLLOW ME\n\nWinner in 24h",
+        "created_at": "2022-03-15 14:38:21+00:00",
+        "public_metrics": {
+            "retweet_count": 10609,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503415816439713799,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742388216471554,
+        "text": "@farmskins @patricialagomme @Zolak09",
+        "created_at": "2022-03-15 14:38:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 747403610238099456,
+        "referenced_tweets": {
+            "id": 1503362260445581316,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503742367874039819,
+        "text": "RT @farmskins: \ud83d\udd25GIVEAWAY\ud83d\udd25\nAK-47 |  Fire Serpent (Field-Tested)\n\nOnly 72 hours \n\nFew rules:\n\nFOLLOW+RETWEET\nTAG FRIEND\u2764\ufe0f https://t.co/FwcIu7\u2026",
+        "created_at": "2022-03-15 14:38:13+00:00",
+        "public_metrics": {
+            "retweet_count": 2262,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503362260445581316,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742355496747014,
+        "text": "RT @Xposed: When Tom Brady wins another Super Bowl this year I\u2019ll give 20 people who retweet this and are following me @xposed $1000. \n\n$20\u2026",
+        "created_at": "2022-03-15 14:38:10+00:00",
+        "public_metrics": {
+            "retweet_count": 5387,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503155531036430337,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742339831025676,
+        "text": "@AyeZeeCasino @AyeZeeVIP @patricialagomme @Zolak09",
+        "created_at": "2022-03-15 14:38:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1578572623,
+        "referenced_tweets": {
+            "id": 1503249539037384704,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503742317416652813,
+        "text": "RT @AyeZeeCasino: \ud83d\udcb0 $1000 #BTC  GIVEAWAY \n\n\ud83c\udfaf Follow @AyeZeeVIP &amp; @AyeZeeCasino \n\u267b\ufe0f Retweet\n\u2665\ufe0f Tag 2 friends\n\nRolling in 2 weeks",
+        "created_at": "2022-03-15 14:38:01+00:00",
+        "public_metrics": {
+            "retweet_count": 2005,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503249539037384704,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742304301027342,
+        "text": "@AyeZeeVIP @patricialagomme @Zolak09",
+        "created_at": "2022-03-15 14:37:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502730511864762373,
+        "referenced_tweets": {
+            "id": 1502745015633780739,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503742284306821131,
+        "text": "RT @AyeZeeVIP: \ud83d\udcb0 $1000 #BTC  GIVEAWAY \n\n\ud83c\udfaf Follow \n\u267b\ufe0f Retweet\n\u2665\ufe0f Tag 2 friends\n\nRolling 19th March!",
+        "created_at": "2022-03-15 14:37:53+00:00",
+        "public_metrics": {
+            "retweet_count": 4435,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502745015633780739,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742277671399440,
+        "text": "RT @Pimp_CSGO: It's time for another Pimped giveaway!\ud83c\udf81\n\nGiving away a Flip Knife Tiger Tooth FN!\ud83d\udc2f\n\nFollow the steps below to enter:\n\n\u2705Follo\u2026",
+        "created_at": "2022-03-15 14:37:51+00:00",
+        "public_metrics": {
+            "retweet_count": 4079,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502280895490834436,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742262731280385,
+        "text": "@AyeZeeCasino @rollbitcom @patricialagomme @Zolak09",
+        "created_at": "2022-03-15 14:37:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1578572623,
+        "referenced_tweets": {
+            "id": 1502874122115764225,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503742241935929345,
+        "text": "RT @AyeZeeCasino: \ud83d\udea8GIVEAWAY TIME \n\nWith the upcoming V2 Rollbot sale, I will be giving away 50 whitelist spots that you normally have to ea\u2026",
+        "created_at": "2022-03-15 14:37:43+00:00",
+        "public_metrics": {
+            "retweet_count": 1400,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502874122115764225,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742231513120773,
+        "text": "RT @AyeZeeCasino: \ud83e\uddf5 Time to dive a little bit deeper here into my V1 Rollbot investment on @rollbitcom ahead of V2 Sports Rollbot's launch\u2026",
+        "created_at": "2022-03-15 14:37:40+00:00",
+        "public_metrics": {
+            "retweet_count": 1060,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502557957048963075,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742219844476941,
+        "text": "RT @DaddyskinsCSGO: 100% KNIFE CASE #2\n\n\u2705 RT/Follow us https://t.co/EYM7vmvq0f",
+        "created_at": "2022-03-15 14:37:38+00:00",
+        "public_metrics": {
+            "retweet_count": 1365,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502917380304826368,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742209291603979,
+        "text": "RT @Casedrop_eu: RARE GIVEAWAY\n\n\ud83d\udd25 Like the post &amp; Follow us @Casedrop_eu\n\ud83d\udc8e Retweet!\n\u231a\ufe0f Wait 7 days!\n\n\ud83d\udd25 The winner of the last rare giveaway\u2026",
+        "created_at": "2022-03-15 14:37:35+00:00",
+        "public_metrics": {
+            "retweet_count": 883,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502288370155806720,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742196725469184,
+        "text": "@felperaa @SkinWorldgg @patricialagomme @Zolak09",
+        "created_at": "2022-03-15 14:37:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3519938177,
+        "referenced_tweets": {
+            "id": 1502314656026615809,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503742160050569217,
+        "text": "@Roobet @patricialagomme @Zolak09",
+        "created_at": "2022-03-15 14:37:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1034166571932045313,
+        "referenced_tweets": {
+            "id": 1502102006831497235,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503742136419864585,
+        "text": "RT @Roobet: $2,500 Giveaway! \n\n5 Winners - $500 EACH!\n\n-Follow\n-Like and RT\u2764\ufe0f\n-Tag 2 friends\n-Comment your Roobet Username\ud83e\udd98\n\nWinners announ\u2026",
+        "created_at": "2022-03-15 14:37:18+00:00",
+        "public_metrics": {
+            "retweet_count": 4759,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502102006831497235,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742127125184516,
+        "text": "RT @VGORefsgg: $50.00 GIVEAWAY! \ud83c\udf84\n\n\u2705 Follow us &amp; @DaddyskinsCSGO \n\u2705 Retweet &amp; Like\n\u2705 Login https://t.co/3MB0An8rAy\n\n48-HOURS! \ud83d\udc4d https://t.c\u2026",
+        "created_at": "2022-03-15 14:37:15+00:00",
+        "public_metrics": {
+            "retweet_count": 538,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503355273393541125,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503742107810418697,
+        "text": "RT @hyuslive: $100 giveaway \ud83d\ude0b\n\n\u27a1\ufe0fFollow me\n\u27a1\ufe0fLike &amp; RT\n\u27a1\ufe0f*Optional* if you want to subscribe to my youtube channel and show love on my new\u2026",
+        "created_at": "2022-03-15 14:37:11+00:00",
+        "public_metrics": {
+            "retweet_count": 654,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502427658403160067,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285919134621706,
+        "text": "RT @httpxellise: unexpected reassurance hits different, tbh.",
+        "created_at": "2022-03-11 14:10:48+00:00",
+        "public_metrics": {
+            "retweet_count": 19252,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502269704999776266,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285909198311426,
+        "text": "RT @wiseconnector: Note to self: https://t.co/TmFbxWUwmX",
+        "created_at": "2022-03-11 14:10:46+00:00",
+        "public_metrics": {
+            "retweet_count": 9624,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502275707069771776,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285902999130120,
+        "text": "RT @potatosaysss: clear communication is so damn attractive",
+        "created_at": "2022-03-11 14:10:45+00:00",
+        "public_metrics": {
+            "retweet_count": 921,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502277205551984643,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285892962205701,
+        "text": "RT @imovercryingIG: I wish happiness was permanent.",
+        "created_at": "2022-03-11 14:10:42+00:00",
+        "public_metrics": {
+            "retweet_count": 6092,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502277695383740424,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285884913246209,
+        "text": "RT @DrippyKru: \"im so proud of you\" just hits different",
+        "created_at": "2022-03-11 14:10:40+00:00",
+        "public_metrics": {
+            "retweet_count": 585,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502278897664151554,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285877455855622,
+        "text": "RT @MattLMorgan: \u201cAre you awake?\u201d\nMe: yeah\nMe after hitting send: https://t.co/jMQhsqVQQS",
+        "created_at": "2022-03-11 14:10:38+00:00",
+        "public_metrics": {
+            "retweet_count": 1072,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502276571033387015,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285866634461198,
+        "text": "RT @violet_cares: friendly reminder &lt;3 https://t.co/PoEutA5ASP",
+        "created_at": "2022-03-11 14:10:36+00:00",
+        "public_metrics": {
+            "retweet_count": 4604,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502280587624984585,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285856337448960,
+        "text": "RT @Afroqweenz: Clear Skin, good health, more money, peace of mind.",
+        "created_at": "2022-03-11 14:10:33+00:00",
+        "public_metrics": {
+            "retweet_count": 676,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502281046796156928,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285848401825795,
+        "text": "RT @thepureluv: if you could read my mind, you\u2019d be in tears",
+        "created_at": "2022-03-11 14:10:32+00:00",
+        "public_metrics": {
+            "retweet_count": 10763,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502282410519584768,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285840814333956,
+        "text": "RT @deeptxtmsgs: nobody knows how many times i\u2019ve cried myself silently.",
+        "created_at": "2022-03-11 14:10:30+00:00",
+        "public_metrics": {
+            "retweet_count": 9103,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502283213611302914,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285830739709955,
+        "text": "RT @_uwa2: tired, but i have goals",
+        "created_at": "2022-03-11 14:10:27+00:00",
+        "public_metrics": {
+            "retweet_count": 777,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502284092158717952,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285786632368129,
+        "text": "RT @FossyGFX: QUICK $500 GIVEAWAY \ud83d\udcb5\n\nRT + FOLLOW ME\nCHECK OUT https://t.co/tUkeyJLuF1\ud83d\udc99",
+        "created_at": "2022-03-11 14:10:17+00:00",
+        "public_metrics": {
+            "retweet_count": 2698,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500873987370459145,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285769146257412,
+        "text": "RT @DaddyskinsCSGO: \ud83d\udd2a 100% KNIFE CASE \ud83d\udd2a\n\n\u2705 RT/Follow us https://t.co/kUfTpEqzbH",
+        "created_at": "2022-03-11 14:10:13+00:00",
+        "public_metrics": {
+            "retweet_count": 1325,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501588144487084034,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285755699413005,
+        "text": "RT @Rambofight: Exactly 5 years ago we founded our company RamboTrades to offer a fast, safe and trustworthy way to cash out skins.\n\nTo cel\u2026",
+        "created_at": "2022-03-11 14:10:09+00:00",
+        "public_metrics": {
+            "retweet_count": 1662,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500099973114908676,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285744970379271,
+        "text": "RT @sku11ster: \ud83c\udf81 $162 Flip Knife Bright Water \n#CSGOGiveaway  \ud83d\udc99\n\nTo Enter:\n\u2705-Retweet\n\u2705-Follow: @WaflH + @sku11ster\n\nGood luck \ud83c\udf40-Ends in 10\u2026",
+        "created_at": "2022-03-11 14:10:07+00:00",
+        "public_metrics": {
+            "retweet_count": 1410,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501270974167236611,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285733687668740,
+        "text": "RT @fl0mtv: Last one went super smooth and was chill so lets run it back\n\nLets give this away in a week.\n\n1. Follow @fl0mtv\n2. Like this po\u2026",
+        "created_at": "2022-03-11 14:10:04+00:00",
+        "public_metrics": {
+            "retweet_count": 5431,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501226247917080578,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285715257843716,
+        "text": "@SkinBaronEN @SkinBaronDE @patricialagomme @Zolak09",
+        "created_at": "2022-03-11 14:10:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1007222892294262795,
+        "referenced_tweets": {
+            "id": 1499776686694543364,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502285688980623360,
+        "text": "RT @SkinBaronEN: It's time for another giveaway! \ud83c\udf81\n\nToday we give away an AK-47 | Panthera Onca in Minimal Wear condition. \ud83d\udc2f\ud83e\udd73\n\nFollow the s\u2026",
+        "created_at": "2022-03-11 14:09:54+00:00",
+        "public_metrics": {
+            "retweet_count": 1559,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499776686694543364,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285671934869508,
+        "text": "@SkinBaronDE @SkinBaronEN @patricialagomme @Zolak09",
+        "created_at": "2022-03-11 14:09:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 760067762651881472,
+        "referenced_tweets": {
+            "id": 1499776692381884420,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502285649357025287,
+        "text": "RT @SkinBaronDE: Es ist wieder Zeit f\u00fcr ein Giveaway! \ud83c\udf81\n\nHeute verlosen wir eine AK-47 | Panthera Onca (MW). \ud83d\udc2f\ud83e\udd73\n\nSo k\u00f6nnt ihr teilnehmen:\n\u2705\u2026",
+        "created_at": "2022-03-11 14:09:44+00:00",
+        "public_metrics": {
+            "retweet_count": 1005,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499776692381884420,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285635830403079,
+        "text": "@SkinBaronPL @SkinBaronEN @patricialagomme @Zolak09",
+        "created_at": "2022-03-11 14:09:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1030409280623706113,
+        "referenced_tweets": {
+            "id": 1499776683578052608,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502285611973197826,
+        "text": "RT @SkinBaronPL: To czas na kolejny giveaway! \ud83c\udf81\nDzisiaj mamy dla Was AK-47 | Panthera Onca MW. \ud83d\udc2f\ud83e\udd73\n\nCo zrobi\u0107, by wzi\u0105\u0107 udzia\u0142:\n\u2705Obserwuj @S\u2026",
+        "created_at": "2022-03-11 14:09:35+00:00",
+        "public_metrics": {
+            "retweet_count": 494,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499776683578052608,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285591874084866,
+        "text": "@JuicyFruityyy https://t.co/kswAR8xob5",
+        "created_at": "2022-03-11 14:09:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090456117,
+        "referenced_tweets": {
+            "id": 1499489801497628682,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502285564799819779,
+        "text": "RT @JuicyFruityyy: SKELETON KNIFE SLAUGHTER MW GIVEAWAY! \n($800)\n*cannot be exchanged for crypto*\n\nTo Enter:\n\n-RT\n-Like this video:\nhttps:/\u2026",
+        "created_at": "2022-03-11 14:09:24+00:00",
+        "public_metrics": {
+            "retweet_count": 2606,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499489801497628682,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285553697439746,
+        "text": "@JuicyFruityyy https://t.co/h2yLn17XCC",
+        "created_at": "2022-03-11 14:09:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090456117,
+        "referenced_tweets": {
+            "id": 1499852179682869252,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502285525520158722,
+        "text": "RT @JuicyFruityyy: 1000$ ETH GIVEAWAY\n\nTo Enter:\n\n-RT\n-Like this video:\nhttps://t.co/McQmSdFzpI\n(MUST SHOW PROOF OF LIKE WITH SCREENSHOT BE\u2026",
+        "created_at": "2022-03-11 14:09:15+00:00",
+        "public_metrics": {
+            "retweet_count": 1974,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499852179682869252,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285514610814976,
+        "text": "@JuicyFruityyy https://t.co/9i7QGCtcr6",
+        "created_at": "2022-03-11 14:09:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090456117,
+        "referenced_tweets": {
+            "id": 1501301738430603264,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502285485540003841,
+        "text": "RT @JuicyFruityyy: HAND WRAPS CAUTION MW GIVEAWAY!\n($550)\n*cannot be exchanged for crypto*\n\nTo Enter:\n\n-RT\n-Like this video:\nhttps://t.co/c\u2026",
+        "created_at": "2022-03-11 14:09:05+00:00",
+        "public_metrics": {
+            "retweet_count": 3218,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501301738430603264,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285474643296256,
+        "text": "@JuicyFruityyy https://t.co/0qeX2r3jcs",
+        "created_at": "2022-03-11 14:09:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090456117,
+        "referenced_tweets": {
+            "id": 1499127408145821700,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502285444033265668,
+        "text": "RT @JuicyFruityyy: BUTTERFLY KNIFE GAMMA DOPPLER FN GIVEAWAY!\n($1500)\n*cannot be exchanged for crypto*\n\nTo Enter:\n\n-RT\n-Like this video:\nht\u2026",
+        "created_at": "2022-03-11 14:08:55+00:00",
+        "public_metrics": {
+            "retweet_count": 7385,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499127408145821700,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285219050790918,
+        "text": "@JuicyCSG https://t.co/HeicDv2XtY",
+        "created_at": "2022-03-11 14:08:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4550320212,
+        "referenced_tweets": {
+            "id": 1501621541863309313,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502285173152432135,
+        "text": "RT @JuicyCSG: \ud83d\udea8$600 Talon Knife Tiger Tooth GIVEAWAY\ud83d\udea8\n\n\u2705 Follow Me @JuicyCSG \ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1\n\u2705 Retweet This Tweet\n\u2705 Subscribe &amp; Turn on Post-Notifica\u2026",
+        "created_at": "2022-03-11 14:07:51+00:00",
+        "public_metrics": {
+            "retweet_count": 1908,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501621541863309313,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502285157562212356,
+        "text": "RT @ProdigyDDK: $5000 GIVEAWAY\n\n\u2705RETWEET\n\n\u2705FOLLOW ME ON TWITCH\nhttps://t.co/j3h1Vas747",
+        "created_at": "2022-03-11 14:07:47+00:00",
+        "public_metrics": {
+            "retweet_count": 12454,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501686749608787979,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500205367262912519,
+        "text": "RT @BlackEspanolito: \u00bfClip del a\u00f1o? https://t.co/HmHNthE0wg",
+        "created_at": "2022-03-05 20:23:26+00:00",
+        "public_metrics": {
+            "retweet_count": 977,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500176211867283457,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500205341501538309,
+        "text": "RT @imhandrew: rihanna was absolutely unhinged on twitter back in the early 2010\u2019s\ud83d\udc80 https://t.co/5d3gOSLs9v",
+        "created_at": "2022-03-05 20:23:20+00:00",
+        "public_metrics": {
+            "retweet_count": 39576,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499865365039534085,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500205268646477832,
+        "text": "RT @NostalgicVG: Windows XP User Login (2001) https://t.co/hHDjbiCJFs",
+        "created_at": "2022-03-05 20:23:03+00:00",
+        "public_metrics": {
+            "retweet_count": 13209,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499799331569901581,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500205236476067841,
+        "text": "RT @itswords_: i can only wish.. https://t.co/kPwJnyR8IU",
+        "created_at": "2022-03-05 20:22:55+00:00",
+        "public_metrics": {
+            "retweet_count": 5419,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499871054491111424,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500205188988215303,
+        "text": "RT @smooyacs: i am just a broken man",
+        "created_at": "2022-03-05 20:22:44+00:00",
+        "public_metrics": {
+            "retweet_count": 55,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500165606435434506,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500205122697236481,
+        "text": "RT @TDM_Jesus: \ud83d\udc8eBOWIE KNIFE SAPPHIRE GIVEAWAY\ud83e\udd76\n\n\u27a1\ufe0fTO ENTER:\n1. RETWEET \ud83d\udd03\n2. LIKE \u2764\ufe0f\n3. FOLLOW @MyNamesJAQ and @TDM_Jesus \n\nGIVEAWAY ENDS IN\u2026",
+        "created_at": "2022-03-05 20:22:28+00:00",
+        "public_metrics": {
+            "retweet_count": 3909,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498957918762598400,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500205107497082892,
+        "text": "@HAVUgaming @SkinBaronEN @patricialagomme",
+        "created_at": "2022-03-05 20:22:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 848174726073724928,
+        "referenced_tweets": {
+            "id": 1498594639124877316,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500205065998671882,
+        "text": "RT @HAVUgaming: HAVU x SkinBaron Giveaway: Stiletto | Slaughter (Minimal Wear)\n\n1. Follow @HAVUgaming \n2. Follow @SkinBaronEN \n3. RT &amp; tag\u2026",
+        "created_at": "2022-03-05 20:22:14+00:00",
+        "public_metrics": {
+            "retweet_count": 2307,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498594639124877316,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500205033941614594,
+        "text": "RT @SkinBid: As you might know https://t.co/uIHKGw8n1F has introduced 0% fee for all of March \ud83d\udc40\n\nHow about a M4A1-S Hot Rod giveaway too?\u2026",
+        "created_at": "2022-03-05 20:22:07+00:00",
+        "public_metrics": {
+            "retweet_count": 2627,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498970571354382339,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500205022704975875,
+        "text": "RT @freecashcom: $1000 Giveaway\n\n- Follow us\n- Retweet\n- Visit Freecash (Earn free #Bitcoin)\n\nRolling in 7 days",
+        "created_at": "2022-03-05 20:22:04+00:00",
+        "public_metrics": {
+            "retweet_count": 9125,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498704618834079744,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500205013301399553,
+        "text": "RT @anomalyskins: \ud83c\udf81 DESERT EAGLE BLAZE GIVEAWAY ($365) \ud83d\udc8e\n\n\u2705 RETWEET\n\u2705 FOLLOW @Skinport\n\u2705 FOLLOW @anomalyskins \n\u2705 Use my code on Skinport (l\u2026",
+        "created_at": "2022-03-05 20:22:02+00:00",
+        "public_metrics": {
+            "retweet_count": 2156,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498299869689266176,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500204998814273541,
+        "text": "@fELIXSAn92 @Skinport @patricialagomme @Zolak09",
+        "created_at": "2022-03-05 20:21:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 750756692493758464,
+        "referenced_tweets": {
+            "id": 1498341661105131524,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500204976269934592,
+        "text": "RT @fELIXSAn92: Diesen Monat gibt es f\u00fcr euch nat\u00fcrlich auch wieder ein sch\u00f6nes Knife-Giveaway vom @Skinport \ud83d\ude42 Der Gewinner wird am 14.03.2\u2026",
+        "created_at": "2022-03-05 20:21:53+00:00",
+        "public_metrics": {
+            "retweet_count": 1194,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498341661105131524,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500204967327580163,
+        "text": "RT @smooyacs: Little giveaway to celebrate #IEMKatowice\u2665\ufe0f\n\n- Please retweet this post!\ud83d\udd01\n- Follow @smooyacs &amp; @Whaazz\ud83e\udd72\n\nI'll be rolling on t\u2026",
+        "created_at": "2022-03-05 20:21:51+00:00",
+        "public_metrics": {
+            "retweet_count": 3627,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498072461442699267,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500204954040115200,
+        "text": "@BitSkinsCom @KinguinNet @patricialagomme",
+        "created_at": "2022-03-05 20:21:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3533419573,
+        "referenced_tweets": {
+            "id": 1497149661861326873,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500204918359175172,
+        "text": "RT @BitSkinsCom: Together with our close partner @KinguinNet, we are giving away 100 Gift cards for $10 USD! \n\nHow to join? It's simple.\n\u2705\u2026",
+        "created_at": "2022-03-05 20:21:39+00:00",
+        "public_metrics": {
+            "retweet_count": 976,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497149661861326873,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500204903444238342,
+        "text": "@IdleHeroesTT @appLootBear @patricialagomme",
+        "created_at": "2022-03-05 20:21:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 80776812,
+        "referenced_tweets": {
+            "id": 1498327133067923458,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500204868107223044,
+        "text": "RT @IdleHeroesTT: \ud83d\udc3170$ Hydra Gloves | Mangrove BS GIVEAWAY\ud83d\udc31\n\n\u25b6\ufe0fFollow @appLootBear + Me\n\u25b6\ufe0fRT + Tag 1 Friend\n\u25b6\ufe0fVisit https://t.co/fDX02MUqPb\u2026",
+        "created_at": "2022-03-05 20:21:27+00:00",
+        "public_metrics": {
+            "retweet_count": 1107,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498327133067923458,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500204683293515782,
+        "text": "@JuicyFruityyy https://t.co/C32hHEcTr6",
+        "created_at": "2022-03-05 20:20:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090456117,
+        "referenced_tweets": {
+            "id": 1496953078221791233,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500204645733523456,
+        "text": "RT @JuicyFruityyy: M9 BAYONET FREEHAND GIVEAWAY!\n($300)\n*cannot be exchanged for crypto*\n\nTo Enter:\n\n-RT\n-Like this video:\nhttps://t.co/ALX\u2026",
+        "created_at": "2022-03-05 20:20:34+00:00",
+        "public_metrics": {
+            "retweet_count": 2120,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496953078221791233,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500204637743427592,
+        "text": "@JuicyFruityyy https://t.co/10fgKmaykT",
+        "created_at": "2022-03-05 20:20:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090456117,
+        "referenced_tweets": {
+            "id": 1497681753858883584,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500204611424169988,
+        "text": "RT @JuicyFruityyy: KARAMBIT DOPPLER FN P3 GIVEAWAY! ($750)\n*cannot be exchanged for crypto*\n\nTo Enter:\n\n-RT\n-Like this video:\nhttps://t.co/\u2026",
+        "created_at": "2022-03-05 20:20:26+00:00",
+        "public_metrics": {
+            "retweet_count": 2323,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497681753858883584,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500204604977520650,
+        "text": "@JuicyFruityyy https://t.co/Ca1DRtnXkU",
+        "created_at": "2022-03-05 20:20:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090456117,
+        "referenced_tweets": {
+            "id": 1498040242527477761,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500204571246923778,
+        "text": "RT @JuicyFruityyy: ANOTHER FN DESERT EAGLE BLAZE GIVEAWAY!\n($400)\n*cannot be exchanged for crypto*\n\nTo Enter:\n\n-RT\n-Like this video:\nhttps:\u2026",
+        "created_at": "2022-03-05 20:20:16+00:00",
+        "public_metrics": {
+            "retweet_count": 2122,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498040242527477761,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500204567958634501,
+        "text": "@JuicyFruityyy https://t.co/Cy9wz5iaCf",
+        "created_at": "2022-03-05 20:20:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090456117,
+        "referenced_tweets": {
+            "id": 1498402635254145028,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500204526644645901,
+        "text": "RT @JuicyFruityyy: ANOTHER FN M4A1S HOT ROD GIVEAWAY\n($450)\n*cannot be exchanged for crypto*\n\nTo Enter:\n\n-RT\n-Like this video:\nhttps://t.co\u2026",
+        "created_at": "2022-03-05 20:20:06+00:00",
+        "public_metrics": {
+            "retweet_count": 2153,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498402635254145028,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500204524455305219,
+        "text": "@JuicyFruityyy https://t.co/PcIplFo67Z",
+        "created_at": "2022-03-05 20:20:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1090456117,
+        "referenced_tweets": {
+            "id": 1498765020955508739,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500204487138496512,
+        "text": "RT @JuicyFruityyy: FLIP KNIFE GAMMA DOPPLER FN GIVEAWAY!\n($350)\n*cannot be exchanged for crypto*\n\nTo Enter:\n\n-RT\n-Like this video:\nhttps://\u2026",
+        "created_at": "2022-03-05 20:19:56+00:00",
+        "public_metrics": {
+            "retweet_count": 2150,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498765020955508739,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497607631707508736,
+        "text": "@AyeZeeCasino @Lucky_2147 @patricialagomme @Zolak09",
+        "created_at": "2022-02-26 16:20:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1578572623,
+        "referenced_tweets": {
+            "id": 1495591531067191307,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497607616524079111,
+        "text": "RT @AyeZeeCasino: \ud83d\udcb0 $1000 #BTC\u00a0  GIVEAWAY \n\n\ud83c\udfaf Follow @Lucky_2147 and I\n\u267b\ufe0f Retweet\n\u2665\ufe0f Tag 2 friends\n\nRolling in 1 week",
+        "created_at": "2022-02-26 16:20:54+00:00",
+        "public_metrics": {
+            "retweet_count": 1513,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495591531067191307,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497607558722428933,
+        "text": "@AyeZeeCasino @Lucky_2147 @patricialagomme @Zolak09",
+        "created_at": "2022-02-26 16:20:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1578572623,
+        "referenced_tweets": {
+            "id": 1495237159342809090,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497607542897266699,
+        "text": "RT @AyeZeeCasino: \ud83d\udcb0 $1000 #Solana   GIVEAWAY \n\n\ud83c\udfaf Follow me &amp; @Lucky_2147 \n\u267b\ufe0f Retweet\n\u2665\ufe0f Tag 2 friends",
+        "created_at": "2022-02-26 16:20:37+00:00",
+        "public_metrics": {
+            "retweet_count": 1859,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495237159342809090,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497607472114188295,
+        "text": "@AyeZeeCasino @patricialagomme @Zolak09",
+        "created_at": "2022-02-26 16:20:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1578572623,
+        "referenced_tweets": {
+            "id": 1495217479492284426,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497607454984658947,
+        "text": "RT @AyeZeeCasino: \ud83d\udcb0 $1000 #BTC  GIVEAWAY \n\n\ud83c\udfaf Follow \n\u267b\ufe0f Retweet\n\u2665\ufe0f Tag 2 friends",
+        "created_at": "2022-02-26 16:20:16+00:00",
+        "public_metrics": {
+            "retweet_count": 4671,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495217479492284426,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497607406414667779,
+        "text": "RT @flashyflashycom: \ud83d\udd25 24H GIVEAWAY !!! \ud83c\udfc6 M4A4 Asiimov !\n\nTo win:\n\u2714\ufe0f Visit for free codes: https://t.co/Fonu6EuBpu\n\u2714\ufe0f Retweet\n\u2714\ufe0f Follow us\u2026",
+        "created_at": "2022-02-26 16:20:04+00:00",
+        "public_metrics": {
+            "retweet_count": 1081,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497285266482077702,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497607391625592839,
+        "text": "RT @flashyflashycom: \ud83d\udd2a Gut Knife Fade FN - 7D GIVEAWAY !!! \n\nTo win - support us:\n\n\u2714\ufe0f Visit: https://t.co/u8Q8ROZzxz\n&gt;&gt; free code: flashyfl\u2026",
+        "created_at": "2022-02-26 16:20:01+00:00",
+        "public_metrics": {
+            "retweet_count": 1408,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495430545622327296,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497607314014191616,
+        "text": "RT @anomalyxd: \ud83d\udcb8 $1400 SOUVENIR PASHA M4A1-S KNIGHT\ud83c\udf81\n\nTo enter just:\n1. LIKE\n2. RETWEET\n3. FOLLOW @MitaoCatCS  and @anomalyxd  \n\nWinner pic\u2026",
+        "created_at": "2022-02-26 16:19:42+00:00",
+        "public_metrics": {
+            "retweet_count": 4330,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496138117186736130,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356375159451654,
+        "text": "RT @relatabletxtmsg: mood: want to say a lot of things but, never mind",
+        "created_at": "2022-02-03 21:53:25+00:00",
+        "public_metrics": {
+            "retweet_count": 13173,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488909995634683904,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356356125609984,
+        "text": "RT @PoemHeaven: i\u2019m in love with you but the vibe is wrong",
+        "created_at": "2022-02-03 21:53:20+00:00",
+        "public_metrics": {
+            "retweet_count": 1166,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488979524599570432,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356349297377280,
+        "text": "RT @TemptingFoodNow: steak and eggs. https://t.co/QsRNqcqdL9",
+        "created_at": "2022-02-03 21:53:19+00:00",
+        "public_metrics": {
+            "retweet_count": 608,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488994085155311625,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356339730071552,
+        "text": "RT @DessertPassion: Coconut cake \ud83c\udf34 https://t.co/rRKFv8CZR7",
+        "created_at": "2022-02-03 21:53:16+00:00",
+        "public_metrics": {
+            "retweet_count": 272,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488998634398130181,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356319274549252,
+        "text": "RT @deeptxtmsgs: i\u2019m both clingy and bully when i\u2019m comfortable with the person.",
+        "created_at": "2022-02-03 21:53:12+00:00",
+        "public_metrics": {
+            "retweet_count": 12132,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489025850414546948,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356307857559560,
+        "text": "RT @timthetatman: hide and seek in warzone is lit",
+        "created_at": "2022-02-03 21:53:09+00:00",
+        "public_metrics": {
+            "retweet_count": 143,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489026597738979328,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356299791917059,
+        "text": "RT @deeptxtmsgs: vibing with someone who has the same goofy energy as you is so therapeutic.",
+        "created_at": "2022-02-03 21:53:07+00:00",
+        "public_metrics": {
+            "retweet_count": 3823,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489056043921408002,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356293227925506,
+        "text": "RT @deeptxtmsgs: it\u2019s better to be lowkey and private. it\u2019s peaceful.",
+        "created_at": "2022-02-03 21:53:05+00:00",
+        "public_metrics": {
+            "retweet_count": 5438,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489086243749179398,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356276467437568,
+        "text": "RT @deeptxtmsgs: the way i care for people makes me wish i had somebody like me in my life.",
+        "created_at": "2022-02-03 21:53:01+00:00",
+        "public_metrics": {
+            "retweet_count": 10766,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489116445350850564,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356268435345409,
+        "text": "RT @deeptxtmsgs: hey warrior, keep going. never give up.",
+        "created_at": "2022-02-03 21:52:59+00:00",
+        "public_metrics": {
+            "retweet_count": 1589,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489146638140522502,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356261644722179,
+        "text": "RT @PoemHeaven: have you ever wondered? https://t.co/g3gGSDL1h7",
+        "created_at": "2022-02-03 21:52:58+00:00",
+        "public_metrics": {
+            "retweet_count": 4558,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489168164445466626,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356230564974596,
+        "text": "RT @deeptxtmsgs: you really know your feelings are genuine when you\u2019re willing to risk it all for that person.",
+        "created_at": "2022-02-03 21:52:50+00:00",
+        "public_metrics": {
+            "retweet_count": 3984,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489176842846175236,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356217491279873,
+        "text": "RT @deeptxtmsgs: believe me when i say i will always be there.",
+        "created_at": "2022-02-03 21:52:47+00:00",
+        "public_metrics": {
+            "retweet_count": 6618,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489207040618622980,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356211195719687,
+        "text": "RT @PoemHeaven: you deserve this. https://t.co/VoT0wWAyQy",
+        "created_at": "2022-02-03 21:52:46+00:00",
+        "public_metrics": {
+            "retweet_count": 7175,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489208181645783041,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356191532781569,
+        "text": "RT @imovercryingIG: It\u2019s hard to \"just be friends\" with someone you fell in love with.",
+        "created_at": "2022-02-03 21:52:41+00:00",
+        "public_metrics": {
+            "retweet_count": 744,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489221993899737089,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356180505993218,
+        "text": "RT @wiseconnector: It's either there or it's not. https://t.co/yDRXHO68Dy",
+        "created_at": "2022-02-03 21:52:38+00:00",
+        "public_metrics": {
+            "retweet_count": 658,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489229743593594887,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356167495172105,
+        "text": "RT @michaeltavon: If you don\u2019t own this book yet..what are you doing? https://t.co/gTtMiE8M8T",
+        "created_at": "2022-02-03 21:52:35+00:00",
+        "public_metrics": {
+            "retweet_count": 696,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489230180036063239,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356160021012485,
+        "text": "RT @mmiicckkkeeyyy: Willy wonka five minutes before opening the gate of his factory \ud83d\ude02 https://t.co/qPinb6UCj7",
+        "created_at": "2022-02-03 21:52:34+00:00",
+        "public_metrics": {
+            "retweet_count": 459,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489232352794533897,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356138764283908,
+        "text": "RT @deeptxtmsgs: be clingy with me, i love that.",
+        "created_at": "2022-02-03 21:52:29+00:00",
+        "public_metrics": {
+            "retweet_count": 10165,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489237245743697922,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356111434162192,
+        "text": "RT @OhTeeHoe: if we ever in a \"DON'T LAUGH\" situation don't look at me \ud83d\ude2d",
+        "created_at": "2022-02-03 21:52:22+00:00",
+        "public_metrics": {
+            "retweet_count": 723,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489240492407672834,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356057361199107,
+        "text": "RT @PoemHeaven: i hope.. https://t.co/pl8tlYqmsj",
+        "created_at": "2022-02-03 21:52:09+00:00",
+        "public_metrics": {
+            "retweet_count": 8231,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489258340743991302,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356044375629825,
+        "text": "RT @deeptxtmsgs: i fixed me because sometimes i was the problem.",
+        "created_at": "2022-02-03 21:52:06+00:00",
+        "public_metrics": {
+            "retweet_count": 14361,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489267436314677251,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489356033667612675,
+        "text": "RT @timthetatman: first time playing wordle went really well https://t.co/dEW3lqUJqC",
+        "created_at": "2022-02-03 21:52:03+00:00",
+        "public_metrics": {
+            "retweet_count": 1547,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489275941226491912,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487859026423656451,
+        "text": "RT @deeptxtmsgs: that breakup saved you.",
+        "created_at": "2022-01-30 18:43:29+00:00",
+        "public_metrics": {
+            "retweet_count": 4771,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487576291645796355,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858999978516484,
+        "text": "RT @deeptxtmsgs: i trusted you, you lied.",
+        "created_at": "2022-01-30 18:43:23+00:00",
+        "public_metrics": {
+            "retweet_count": 5398,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487606489741148167,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858990566584327,
+        "text": "RT @timthetatman: royal rumble is lit",
+        "created_at": "2022-01-30 18:43:21+00:00",
+        "public_metrics": {
+            "retweet_count": 215,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487619715908476931,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858986783227905,
+        "text": "RT @deeptxtmsgs: sometimes your mind can be your worst enemy.",
+        "created_at": "2022-01-30 18:43:20+00:00",
+        "public_metrics": {
+            "retweet_count": 11250,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487636691871416320,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858972455493637,
+        "text": "RT @theeternal: always remember that i will still love you at your worst",
+        "created_at": "2022-01-30 18:43:16+00:00",
+        "public_metrics": {
+            "retweet_count": 12972,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487643660699197441,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858955032604672,
+        "text": "RT @deeptxtmsgs: you know you\u2019re traumatized when someone treats you right and you think they are joking.",
+        "created_at": "2022-01-30 18:43:12+00:00",
+        "public_metrics": {
+            "retweet_count": 5315,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487666888930902018,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858948858388489,
+        "text": "RT @deeptxtmsgs: who cares, do better, move on.",
+        "created_at": "2022-01-30 18:43:11+00:00",
+        "public_metrics": {
+            "retweet_count": 2161,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487697086615363587,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858939521867780,
+        "text": "RT @deeptxtmsgs: Comforting yourself when you\u2019re sad cause you don\u2019t wanna bother anyone.",
+        "created_at": "2022-01-30 18:43:08+00:00",
+        "public_metrics": {
+            "retweet_count": 5721,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487757494235631618,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858933133975558,
+        "text": "RT @PoemHeaven: https://t.co/6za1qtTZSR",
+        "created_at": "2022-01-30 18:43:07+00:00",
+        "public_metrics": {
+            "retweet_count": 6749,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487763142063046656,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858920723034112,
+        "text": "RT @thought_flower: You give me the kind of feelings people write books about.",
+        "created_at": "2022-01-30 18:43:04+00:00",
+        "public_metrics": {
+            "retweet_count": 243,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487763098815676427,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858839806435332,
+        "text": "RT @wiseconnector: Sad but true. https://t.co/VA0Ry4AqEy",
+        "created_at": "2022-01-30 18:42:45+00:00",
+        "public_metrics": {
+            "retweet_count": 3842,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487780159595986945,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858827651395587,
+        "text": "RT @theeternal: we're strangers with plenty of memories",
+        "created_at": "2022-01-30 18:42:42+00:00",
+        "public_metrics": {
+            "retweet_count": 1003,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487806856043147267,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858823444455432,
+        "text": "RT @potatosaysss: Lord please let me have this person for the rest of my life",
+        "created_at": "2022-01-30 18:42:41+00:00",
+        "public_metrics": {
+            "retweet_count": 24104,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487808163235565569,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858818730053639,
+        "text": "RT @theeternal: true friends are family",
+        "created_at": "2022-01-30 18:42:40+00:00",
+        "public_metrics": {
+            "retweet_count": 12064,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487809856127918081,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858757426159621,
+        "text": "RT @deeptxtmsgs: i\u2019m not mad because you don\u2019t want me, i\u2019m mad because sometimes you act like you do and other days you act like i\u2019m nothi\u2026",
+        "created_at": "2022-01-30 18:42:25+00:00",
+        "public_metrics": {
+            "retweet_count": 1224,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487817882767527936,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858642456125445,
+        "text": "RT @deeptxtmsgs: i go for maturity, stability, loyalty and peace.",
+        "created_at": "2022-01-30 18:41:58+00:00",
+        "public_metrics": {
+            "retweet_count": 10357,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487727292608495623,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858625045417984,
+        "text": "RT @BeingSalmanKhan: My brother Bu Nasser \u2026 it was lovely meeting with you .. @turki_alalshikh https://t.co/4zyvhFHWgf",
+        "created_at": "2022-01-30 18:41:53+00:00",
+        "public_metrics": {
+            "retweet_count": 5548,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487795287380807683,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858560931438597,
+        "text": "RT @HamillHimself: Is it egotistical for me to retweet this?",
+        "created_at": "2022-01-30 18:41:38+00:00",
+        "public_metrics": {
+            "retweet_count": 1311,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487549259603791873,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858350742192131,
+        "text": "RT @KimKardashian: \ud83c\udf11 Full moon \ud83c\udf11 https://t.co/jhS4rnA9Pz",
+        "created_at": "2022-01-30 18:40:48+00:00",
+        "public_metrics": {
+            "retweet_count": 2167,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487642567583797254,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858337605632001,
+        "text": "RT @kirawontmiss: Zendaya close friends story funny as shit man \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2022-01-30 18:40:45+00:00",
+        "public_metrics": {
+            "retweet_count": 5094,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487526014922248194,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858329116413960,
+        "text": "RT @rueslovr: little jenna with zendaya https://t.co/yegTP6IPtf",
+        "created_at": "2022-01-30 18:40:43+00:00",
+        "public_metrics": {
+            "retweet_count": 3981,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487530893086539777,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858318345396224,
+        "text": "RT @whoairai: @cinecomical I mean if I saw a mini human scuttling across the floor while baking i\u2019d be scared shitless too",
+        "created_at": "2022-01-30 18:40:40+00:00",
+        "public_metrics": {
+            "retweet_count": 31,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487674737387978757,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858290142834691,
+        "text": "RT @DessertPassion: Chocolate Cake \ud83c\udf70\ud83c\udf6b\ud83c\udf70 https://t.co/ZNPICyIjrp",
+        "created_at": "2022-01-30 18:40:34+00:00",
+        "public_metrics": {
+            "retweet_count": 366,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485728584606130178,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858050199347211,
+        "text": "RT @DessertPassion: Raspberry Cheesecake Stuffed Waffles \ud83e\uddc7 https://t.co/UwhkcS80Ce",
+        "created_at": "2022-01-30 18:39:36+00:00",
+        "public_metrics": {
+            "retweet_count": 517,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487579543753875460,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858037104775172,
+        "text": "RT @LIVEpositivity: Sometimes you just have to stay silent because no words can explain how you feel.",
+        "created_at": "2022-01-30 18:39:33+00:00",
+        "public_metrics": {
+            "retweet_count": 1428,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487581384239685633,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858026304389123,
+        "text": "RT @SeffSaid: \"Some people are like clouds. When they go away, it's a brighter day.\" - Unknown",
+        "created_at": "2022-01-30 18:39:31+00:00",
+        "public_metrics": {
+            "retweet_count": 1469,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487526714322427904,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858010382868482,
+        "text": "RT @LIVEpositivity: Be patient. Everything is coming together.",
+        "created_at": "2022-01-30 18:39:27+00:00",
+        "public_metrics": {
+            "retweet_count": 2905,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487546397679357955,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487858004569509904,
+        "text": "RT @TheQuoteBoook_: The best things happen unexpectedly.",
+        "created_at": "2022-01-30 18:39:26+00:00",
+        "public_metrics": {
+            "retweet_count": 2039,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487596517347188740,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487857999288877060,
+        "text": "RT @SeffSaid: \"Someday you will look back and know exactly why it had to happen.\" - Unknown",
+        "created_at": "2022-01-30 18:39:24+00:00",
+        "public_metrics": {
+            "retweet_count": 2065,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487503058334412800,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487857989222637577,
+        "text": "RT @amorversace: these two looks from Louis F\u00e9raud \u201896 https://t.co/iGps8373ak",
+        "created_at": "2022-01-30 18:39:22+00:00",
+        "public_metrics": {
+            "retweet_count": 1983,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487528385542828032,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487857976933330951,
+        "text": "RT @Nike: Advantage, Nadal.\n\nToday, @rafaelnadal made history by becoming the first male tennis player ever to reach 21 Majors. Rafa has be\u2026",
+        "created_at": "2022-01-30 18:39:19+00:00",
+        "public_metrics": {
+            "retweet_count": 13917,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487791297410715650,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487857957035409408,
+        "text": "RT @bottegalolita: These Dior bags https://t.co/nufJ6L6LkV",
+        "created_at": "2022-01-30 18:39:14+00:00",
+        "public_metrics": {
+            "retweet_count": 4950,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487518871712108549,
+            "type": "retweeted"
+        }
+    }
+]

@@ -1,0 +1,506 @@
+[
+    {
+        "tweet_id": 1507172014779469830,
+        "text": "RT @marginalmarisa: this is the first I\u2019m hearing of this. obviously devastated",
+        "created_at": "2022-03-25 01:46:24+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507163527563431949,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507161231353950216,
+        "text": "i brought @marginalmarisa to the bulls game to break up with them (boo pelicans) https://t.co/yhPJWNGPvk",
+        "created_at": "2022-03-25 01:03:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 1393931694860812294,
+        "referenced_tweets": {
+            "id": 1507154315722604556,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507154315722604556,
+        "text": "gonna go tell stacey king how much i love him",
+        "created_at": "2022-03-25 00:36:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1393931694860812294,
+        "referenced_tweets": {
+            "id": 1507149893969891334,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507149893969891334,
+        "text": "i am AT the BULLS GAME in NEW ORLEANS https://t.co/fJUvyA7gqj",
+        "created_at": "2022-03-25 00:18:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507103338986356739,
+        "text": "(if you think in an internal monologue)",
+        "created_at": "2022-03-24 21:13:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1393931694860812294,
+        "referenced_tweets": {
+            "id": 1507103236536291333,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507103236536291333,
+        "text": "brains say the darndest things",
+        "created_at": "2022-03-24 21:13:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507072104633667592,
+        "text": "my gay bearded dragon and me https://t.co/pab0WrAAyb",
+        "created_at": "2022-03-24 19:09:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1393931694860812294,
+        "referenced_tweets": {
+            "id": 1507070241481924615,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507070241481924615,
+        "text": "my bearded dragon is gay... what should i do?",
+        "created_at": "2022-03-24 19:02:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507069356638941189,
+        "text": "@_pem_pem ooooh shiiiiit",
+        "created_at": "2022-03-24 18:58:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 102417993,
+        "referenced_tweets": {
+            "id": 1507068962596605953,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068784191889412,
+        "text": "@_pem_pem who is that",
+        "created_at": "2022-03-24 18:56:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 102417993,
+        "referenced_tweets": {
+            "id": 1507066590436769793,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068064906592257,
+        "text": "RT @mgrace1179: a weighted blanket is not enough i need to be compressed into a .zip file",
+        "created_at": "2022-03-24 18:53:21+00:00",
+        "public_metrics": {
+            "retweet_count": 35463,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506816355416227842,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507025744093982726,
+        "text": "me in my own brain after hitting the spliff https://t.co/my42qsmaaA",
+        "created_at": "2022-03-24 16:05:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507008894249287680,
+        "text": "read @marginalmarisa\u2019s interview with Yuts, the game\u2019s creator https://t.co/dV5b3lsPsc",
+        "created_at": "2022-03-24 14:58:13+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1393931694860812294,
+        "referenced_tweets": {
+            "id": 1507008516829036551,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507008516829036551,
+        "text": "norco!!!!!! https://t.co/R65gjiGk1V",
+        "created_at": "2022-03-24 14:56:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506696323994640385,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506781526608027653,
+        "text": "@_pem_pem good for you!!!!!",
+        "created_at": "2022-03-23 23:54:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 102417993,
+        "referenced_tweets": {
+            "id": 1506779262812049412,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506778926403698691,
+        "text": "it's tuesday and im alive, therefore feeling funny",
+        "created_at": "2022-03-23 23:44:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506724991001313287,
+        "text": "i am soooooooooooooooooooooooooooooooooooo tired",
+        "created_at": "2022-03-23 20:10:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506713550118694918,
+        "text": "@sahar_m27 lmao i love to hear it",
+        "created_at": "2022-03-23 19:24:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 48157683,
+        "referenced_tweets": {
+            "id": 1506710349759885319,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506648806909165576,
+        "text": "RT @HelenaMorenoLA: If you\u2019d like to help storm victims @UnitedWaySELA is collecting supplies like diapers, baby wipes, feminine hygiene pr\u2026",
+        "created_at": "2022-03-23 15:07:22+00:00",
+        "public_metrics": {
+            "retweet_count": 42,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506605077976567810,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506648431372251140,
+        "text": "RT @whodreamedit: MUTUAL AID RESOURCES - 3/22/22 Tornado Edition. Didn\u2019t want to have to make another one of these threads so soon after Id\u2026",
+        "created_at": "2022-03-23 15:05:52+00:00",
+        "public_metrics": {
+            "retweet_count": 241,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506476015312203780,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506640956690505729,
+        "text": "im gonna test this out at city park https://t.co/2eEMupWnsP",
+        "created_at": "2022-03-23 14:36:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506427339579838469,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506627834634293257,
+        "text": "RT @slater_jona: Just trying to help https://t.co/SNnqahhijU",
+        "created_at": "2022-03-23 13:44:02+00:00",
+        "public_metrics": {
+            "retweet_count": 62590,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506427339579838469,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506465050676060162,
+        "text": "RT @WaterWorksNOLA: @Allison_Good1 Thank you! For now, folks can donate generally to our work here: https://t.co/NI7S9rnHOU\n\nPlease don't s\u2026",
+        "created_at": "2022-03-23 02:57:11+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506463820633550850,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506440938859679747,
+        "text": "RT @FakeChaIamet: my 10 y/o cousin gave me this and said \u201ci drew timoth\u00e9e chalamet for you because you\u2019re in love with him\u201d and i don\u2019t eve\u2026",
+        "created_at": "2022-03-23 01:21:22+00:00",
+        "public_metrics": {
+            "retweet_count": 26237,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505828315021647872,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506434210332135425,
+        "text": "@VanillaSeahorse \ud83d\ude02\ud83d\ude02 tornadoes \u2705 basements \u274c",
+        "created_at": "2022-03-23 00:54:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 392482366,
+        "referenced_tweets": {
+            "id": 1506433509484810248,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506432763200688138,
+        "text": "@ChaseBotwin @Halfasstroknot i\u2019m gonna shoot the tornado",
+        "created_at": "2022-03-23 00:48:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1010060173098901504,
+        "referenced_tweets": {
+            "id": 1506431269256646657,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506370020317749257,
+        "text": "@AllegraEHobbs i didn\u2019t use any today and surprisingly got this look! but i usually use a leave in conditioner (reverie milk), and shampoo and conditioner for curly hair (davines)",
+        "created_at": "2022-03-22 20:39:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 711928331940274176,
+        "referenced_tweets": {
+            "id": 1506357760748777480,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506345495148601348,
+        "text": "RT @GarbageGangHQ: https://t.co/8GajI12A93",
+        "created_at": "2022-03-22 19:02:07+00:00",
+        "public_metrics": {
+            "retweet_count": 982,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506152625649061893,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506345114905493506,
+        "text": "@_pem_pem SSRIs are valid",
+        "created_at": "2022-03-22 19:00:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 102417993,
+        "referenced_tweets": {
+            "id": 1506343145478529030,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506340618410283009,
+        "text": "@Kleekamp i requested 10 times the amount of money in response and then... probably bought drinks",
+        "created_at": "2022-03-22 18:42:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 291442374,
+        "referenced_tweets": {
+            "id": 1506340366475169793,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506340002631929866,
+        "text": "you told me not to talk to you but you never said i couldnt send you money (!!!???)",
+        "created_at": "2022-03-22 18:40:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1393931694860812294,
+        "referenced_tweets": {
+            "id": 1506339885740965889,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506339885740965889,
+        "text": "my friend just reminded me of when this guy sent me money a year after i told him not to talk to me anymore",
+        "created_at": "2022-03-22 18:39:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506323731949441026,
+        "text": "i\u2019m having a large hair day https://t.co/uznvScopBf",
+        "created_at": "2022-03-22 17:35:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 18,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "tweet_id": 1507227339184386118,
+        "text": "RT @Gujaratupda: @collectormahi \nRequest to look int to this ,\nHealth departments proper investigation and help of government required for\u2026",
+        "created_at": "2022-03-25 05:26:15+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507057043210850310,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507227325502566443,
+        "text": "RT @Gujaratupda: @collectormahi \nThis is to inform you , sir\nThere are many cases of GBS appeared in mahisagar particularly in BALASINOR. P\u2026",
+        "created_at": "2022-03-25 05:26:11+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507056937069776897,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068057721589763,
+        "text": "RT @S_Tosif30: @IkbalSh34809911 @collectormahi It's fact many of cases in balasinor in last -2 month I think that's more than -5 death in t\u2026",
+        "created_at": "2022-03-24 18:53:19+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507066827176054784,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067990210011136,
+        "text": "RT @IkbalSh34809911: @collectormahi \nThis is to inform you , sir\nThere are many cases of GBS appeared in mahisagar particularly in BALASINO\u2026",
+        "created_at": "2022-03-24 18:53:03+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507055288800759810,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507057043210850310,
+        "text": "@collectormahi \nRequest to look int to this ,\nHealth departments proper investigation and help of government required for GBS.\n2/2",
+        "created_at": "2022-03-24 18:09:33+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 876737391775502336,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507056937069776897,
+        "text": "@collectormahi \nThis is to inform you , sir\nThere are many cases of GBS appeared in mahisagar particularly in BALASINOR. Patients body get Paralysed and in sum cases death also occurred.GBS s treatment is very expensive and cause of this disease unknown. \n1/2",
+        "created_at": "2022-03-24 18:09:08+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 876737391775502336,
+        "referenced_tweets": []
+    }
+]

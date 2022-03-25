@@ -1,0 +1,995 @@
+[
+    {
+        "tweet_id": 1507198726854557699,
+        "text": "3 of 4 12hr shifts done. I\u2019m tired, stressed and want to cry. I get in my car and Helena blasts on the radio as soon as I turn my car on. Someone knew I needed this. #stillgonnacrymywholedrivehome #is32tooldtoasktobeaborted #askingforafriend",
+        "created_at": "2022-03-25 03:32:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507120307580117004,
+        "text": "@DivaDiabolical It\u2019s not that the job is making me miserable, it\u2019s that I work all this over time and feel like I have nothing to show for it and the mental stress of the things I see daily is a lot.",
+        "created_at": "2022-03-24 22:20:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1267473315909771264,
+        "referenced_tweets": {
+            "id": 1507117957230608389,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068071273504770,
+        "text": "I hate being this stressed. I hate working myself ragged only to still be in the hole. I hate working a job that isn\u2019t the career I went to school for. I hate hating my life so much, I\u2019m just so over it all.",
+        "created_at": "2022-03-24 18:53:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504330924938481666,
+        "text": "@thelittleanimal Living my dream",
+        "created_at": "2022-03-17 05:36:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 573401469,
+        "referenced_tweets": {
+            "id": 1504140062513983494,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498513780589875201,
+        "text": "@DivaDiabolical Well I don\u2019t like your tone!!",
+        "created_at": "2022-03-01 04:21:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1267473315909771264,
+        "referenced_tweets": {
+            "id": 1498471648042917891,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498470787438759942,
+        "text": "@DivaDiabolical EuBOREa?!? What???",
+        "created_at": "2022-03-01 01:30:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1267473315909771264,
+        "referenced_tweets": {
+            "id": 1498441411573817350,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496704347090075659,
+        "text": "@thelittleanimal Please do",
+        "created_at": "2022-02-24 04:31:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 573401469,
+        "referenced_tweets": {
+            "id": 1496682699683246089,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496283234510188546,
+        "text": "@DivaDiabolical Oh no what show?",
+        "created_at": "2022-02-23 00:38:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1267473315909771264,
+        "referenced_tweets": {
+            "id": 1496279878173343745,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495629413353934851,
+        "text": "Why did it take me so long to get into @fleabag and why is the priest so fucking hot? #forgivemefather",
+        "created_at": "2022-02-21 05:20:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492384728623861765,
+        "text": "@thelittleanimal Do it",
+        "created_at": "2022-02-12 06:27:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 573401469,
+        "referenced_tweets": {
+            "id": 1492354036305117184,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492384598499766272,
+        "text": "Yep...over night in the ER is just as weird as I assumed it would be.",
+        "created_at": "2022-02-12 06:26:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491639661365710856,
+        "text": "Zac Efron is playing a dad in a tv show\u2026this is the moment I actually feel myself aging.",
+        "created_at": "2022-02-10 05:06:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480466535865102336,
+        "text": "@ivysoar_ Yes babe you are.",
+        "created_at": "2022-01-10 09:08:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1267473315909771264,
+        "referenced_tweets": {
+            "id": 1479634726747099140,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474896954958262272,
+        "text": "@ivysoar_ Oh my god I love Koala bakery!! Their rose tea boba is crack!",
+        "created_at": "2021-12-26 00:16:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1267473315909771264,
+        "referenced_tweets": {
+            "id": 1474887770350964736,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474302952147980289,
+        "text": "When someone at the bar says you can't say shit about MGK...bro... I'm pretty sure you hit woman.",
+        "created_at": "2021-12-24 08:56:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1457590412542189571,
+        "text": "@thelittleanimal I have two that would love cuddles!",
+        "created_at": "2021-11-08 06:06:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 573401469,
+        "referenced_tweets": {
+            "id": 1457408178962980864,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1438359495172894720,
+        "text": "@ivysoar_ oh really?",
+        "created_at": "2021-09-16 04:30:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1267473315909771264,
+        "referenced_tweets": {
+            "id": 1437263442826702848,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1432281509596221445,
+        "text": "It is 5:55 in the am and I have been up all night finishing The Scottish Boy by @alexdecampi and I regret nothing \ud83d\ude29\ud83d\ude29\ud83d\ude29 How do I make this into a movie/mini series like last week?",
+        "created_at": "2021-08-30 09:58:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1390386241321975811,
+        "text": "@theonlyivysoar I am!",
+        "created_at": "2021-05-06 19:21:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1267473315909771264,
+        "referenced_tweets": {
+            "id": 1390382806346256384,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1390382521691643906,
+        "text": "@theonlyivysoar I\u2019m like half way though season 2...Khat and Mitchell are just getting introduced",
+        "created_at": "2021-05-06 19:06:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1267473315909771264,
+        "referenced_tweets": {
+            "id": 1390056580608110603,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1365812514236362752,
+        "text": "@chrissyteigen What a sick fuck. I really don\u2019t know how people can make comments like this and sleep at night. I\u2019m so sorry you have to deal with shit like this.",
+        "created_at": "2021-02-27 23:54:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 39364684,
+        "referenced_tweets": {
+            "id": 1365786623183495168,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1354674772467195906,
+        "text": "@IvySoar_ Yes! I love the ASMR of the museum. I wish I could turn of the music and have just the sound of the game.",
+        "created_at": "2021-01-28 06:16:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1267473315909771264,
+        "referenced_tweets": {
+            "id": 1354499990283018245,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1347951540426956801,
+        "text": "@BB_the_tornado @chrissyteigen Fuck off, you act like that pig in the White House knows how lower class people feel. He has never and will never know because daddy payed his way out of all of his problems. At least Chrissy knows that hard word pays off, Trump has never worked a day in his life.",
+        "created_at": "2021-01-09 17:01:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1297565303086280704,
+        "referenced_tweets": {
+            "id": 1347744849626243073,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1332117937860325378,
+        "text": "@IvySoar_ Watch Happiest Season on Hulu, there\u2019s a little surprise that will make you happy and the movie is cute AF",
+        "created_at": "2020-11-27 00:24:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1267473315909771264,
+        "referenced_tweets": {
+            "id": 1331458956854747139,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1331775908441624577,
+        "text": "@IvySoar_ Yeeeessss!! Leftovers!",
+        "created_at": "2020-11-26 01:44:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1267473315909771264,
+        "referenced_tweets": {
+            "id": 1331726379780632578,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1307930762570797057,
+        "text": "I don\u2019t think I realized just how depressed I have been lately and for some reason at 2:30am my brain decides now is the best time to start untangling it all.",
+        "created_at": "2020-09-21 06:32:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1307918919362060288,
+        "text": "@danjlevy you can officially change your name to \u2018Multi Emmy Winning Daniel Levy\u2019 \ud83c\udf89\ud83c\udf8a\ud83d\udc4f\ud83c\udffc",
+        "created_at": "2020-09-21 05:45:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 42451620,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1303003884617633792,
+        "text": "@danjlevy Amen. They are gross anyways, a whole party centered around a babies genitalia. Gross.",
+        "created_at": "2020-09-07 16:15:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 42451620,
+        "referenced_tweets": {
+            "id": 1302991677901148164,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1299236851329499136,
+        "text": "@danjlevy @samsanders Yes. Yes there is. Their red cherry and goat cheese and their prickly pear. Crack in a pint.",
+        "created_at": "2020-08-28 06:46:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 42451620,
+        "referenced_tweets": {
+            "id": 1299058813199417344,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1294071398579798016,
+        "text": "My mom has a little jar that sits on her rolling tray, filled with have smoked joints. I asked her why she has it, she says \u201cidk, I see people put their roaches in jars...thought I\u2019d so it\u201d okay mom, you do you. This is what happens when parents get back into smoking. https://t.co/lWiHTCrVMT",
+        "created_at": "2020-08-14 00:40:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1293632384362065920,
+        "text": "@IvySoar_ It really is. Especially when you know they only got married because you were born.",
+        "created_at": "2020-08-12 19:36:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1267473315909771264,
+        "referenced_tweets": {
+            "id": 1293559654660931585,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1293556816723533824,
+        "text": "Most kids, when their parents get a divorce, they go through a period where they think that they are the reason for the divorce. What about the kids who know their parents are in an unhappy marriage because they \u2018stayed together for the kids\u2019",
+        "created_at": "2020-08-12 14:35:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1293555878445162497,
+        "text": "@ghoulbaby6 I saw that and my first thought \u201cohhh Tash gonna be PISSED\u201d",
+        "created_at": "2020-08-12 14:32:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1100499293419565056,
+        "referenced_tweets": {
+            "id": 1293375971521957897,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1292866081347043331,
+        "text": "@danjlevy When Patrick and David got married, did one of them take the others last name, did they hyphenate their names, or did they kept their own names?\ufffc\ufffc @SchittsCreek",
+        "created_at": "2020-08-10 16:51:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 42451620,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1288229816966291456,
+        "text": "@danjlevy Congratulations. You guys deserve it all!",
+        "created_at": "2020-07-28 21:48:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 42451620,
+        "referenced_tweets": {
+            "id": 1288153209744261122,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1287977811865739267,
+        "text": "A toasted sunflower butter &amp; jelly sandwich and an episode of @SchittsCreek before bed. https://t.co/gJYEykEYVg",
+        "created_at": "2020-07-28 05:06:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1285392826449174533,
+        "text": "@Dakarai_Turner @Phil_Lewis_ Very much real.",
+        "created_at": "2020-07-21 01:55:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 195885430,
+        "referenced_tweets": {
+            "id": 1285339006805442560,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1285376660372508672,
+        "text": "@danjlevy my mom and I have talked. We need you, @jaredkeeso and the @trailerparkboys to get together and do a Canadian small town cross over. #crossover #SchittsCreek #Letterkenny #TrailerParkBoys",
+        "created_at": "2020-07-21 00:50:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 42451620,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1284685121673666560,
+        "text": "@olreid Thank you for the music you have given us. #Gemini #foodforthesoul https://t.co/l1niTZsQhj",
+        "created_at": "2020-07-19 03:02:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2664177324,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1283522794861613056,
+        "text": "@danjlevy is it safe to say that Moria and Johnny\u2019s love is comparable to Gomez and Morticia? #rewatching @SchittsCreek #SchittsCreek #JohnnyandMoria #GomezandMorticia #TheRoseFamily",
+        "created_at": "2020-07-15 22:04:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 42451620,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1283521683677220864,
+        "text": "@Otts3000 @laura898 Lmao I didn\u2019t even think of that when I grabbed that picture!!",
+        "created_at": "2020-07-15 21:59:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 247604517,
+        "referenced_tweets": {
+            "id": 1283521094809518080,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1283515420817920000,
+        "text": "@laura898 Don\u2019t forget leather daddy Dan. https://t.co/mMHqGxJTSY",
+        "created_at": "2020-07-15 21:34:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 42,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 27822624,
+        "referenced_tweets": {
+            "id": 1282792331385597952,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1282795315444228098,
+        "text": "So really for this!!! Sean Evans is such an amazing interviewer so I know this is going to be one of my favorite interviews with @danjlevy https://t.co/wIKOs5KOqu",
+        "created_at": "2020-07-13 21:53:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1282781849517993985,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1282794705386864640,
+        "text": "RT @firstwefeast: This week on #HotOnes we got @danjlevy vs. the wings of death \ud83d\udc80Tune in Thursday @ 11AM ET \ud83d\udd25 https://t.co/h366nbHOXl",
+        "created_at": "2020-07-13 21:51:05+00:00",
+        "public_metrics": {
+            "retweet_count": 39,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1282781849517993985,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1282687061858885636,
+        "text": "@ira And then they kick ass. This movie is perfection in every way.",
+        "created_at": "2020-07-13 14:43:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 20926233,
+        "referenced_tweets": {
+            "id": 1282423618857623552,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1281952688456990720,
+        "text": "@danjlevy can you talk to us about your Inspiration for this look. @SchittsCreek #rewatch #SchittsCreek @trixiemattel #Heman #PrinceValium https://t.co/wx1SDEgHu3",
+        "created_at": "2020-07-11 14:05:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 42451620,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1281462425724882946,
+        "text": "I love Alexis Rose. She makes you realize no matter your age you can go for your dream. @SchittsCreek @danjlevy #SchittsCreek #AlexisRose #rewatching #again",
+        "created_at": "2020-07-10 05:37:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1276744082623213568,
+        "text": "Is 30 to late in life to want to @danjlevy when I grow up? #rewatching #SchittsCreek #again",
+        "created_at": "2020-06-27 05:08:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1276556804827291650,
+        "text": "@sarahramos My favorite movie. This is great.",
+        "created_at": "2020-06-26 16:43:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17685510,
+        "referenced_tweets": {
+            "id": 1276232794692218880,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1273359760495124484,
+        "text": "Dream: To work with @danjlevy on a script.",
+        "created_at": "2020-06-17 20:59:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1267340835416346627,
+        "text": "Just finished Schitt\u2019s Creek \ud83d\ude22 This is the kind of show that made me want to work in film. @danjlevy can I please have the honor of working on your next project.",
+        "created_at": "2020-06-01 06:22:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1243693282322010112,
+        "text": "@DavidDobrik David...don't be playing with my emotions. I just got laid off from a medical job, I thought I was gonna be secure. Venmo: Alexx-Harrison",
+        "created_at": "2020-03-28 00:15:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 325306055,
+        "referenced_tweets": {
+            "id": 1243641803997188096,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1229531441450627073,
+        "text": "@ghoulbaby6 Why I love your mom so much!",
+        "created_at": "2020-02-17 22:21:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1100499293419565056,
+        "referenced_tweets": {
+            "id": 1229481628415807488,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1189762453913165824,
+        "text": "Nothing like the sweet sound of someones car getting repoed outside your bedroom window to lure you to sleep \ud83d\udca4\ud83d\udca4 #repoman",
+        "created_at": "2019-10-31 04:34:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1189298985854537728,
+        "text": "Happy International Cat Day!! The best holiday!! #happycatday #kitty #ThorTheCat #HedwigTheCat #cat @ Farmington Hills, Michigan https://t.co/ZTy84WMnqZ",
+        "created_at": "2019-10-29 21:52:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1188630777262759936,
+        "text": "Halloween Movie 5/13 || Little Monsters #Halloween #movienight #LittleMonsters #Huluween @ Farmington Hills, Michigan https://t.co/nLgl7tws5w",
+        "created_at": "2019-10-28 01:37:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1186082151277584384,
+        "text": "Halloween Movie 4/13 || Midsommar #Halloween #movienight #Midsommar @ Detroit, Michigan https://t.co/ACNm4hEq1U",
+        "created_at": "2019-10-21 00:49:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1186011127974711297,
+        "text": "Halloween movie 3/13 || The Craft #halloween #movies #TheCraft #movienight @ Detroit, Michigan https://t.co/yZ71hzSnD2",
+        "created_at": "2019-10-20 20:07:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1184310177283092480,
+        "text": "A little bed time story. #EltonJohn #Me. #Autobiography #TaronEgerton @ Michigan https://t.co/Yl07ymmGFb",
+        "created_at": "2019-10-16 03:28:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1183527877624492033,
+        "text": "Beautiful Crystal, that you so much for letting be there for your big day. It was such an amazing night filled with so much love. Here is to you and Jason and your eternal happiness. Love you! #wedding #ohmyDarwin\u2026 https://t.co/tuANxKUU6y",
+        "created_at": "2019-10-13 23:40:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1183167322049171456,
+        "text": "Sooooo @deannakapitanec and I is cute!! #caricature #ohmyDarwin #wedding @ Commerce, Michigan https://t.co/Yeyjas37Hg",
+        "created_at": "2019-10-12 23:47:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1182484740013723648,
+        "text": "Halloween movie 2/13 || American Psycho #Halloween #AmericanPsycho #movies #thriller https://t.co/Zkdx4tT5fA",
+        "created_at": "2019-10-11 02:35:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1181719842669371393,
+        "text": "A night at the theater \ud83c\udfad #ComeFromAway #BroadwayInDetroit #theater #musical #FisherTheater #Detroit @ Broadway In Detroit - The Fisher Theatre and more! https://t.co/dSkeZ3rPPc",
+        "created_at": "2019-10-08 23:55:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1180910295138611201,
+        "text": "Another beautiful weekend for the farmers market. #Fall #FarmersMarket #pumpkins #sunflower #freshveggies #PureMichigan @ Farmington Farmers &amp; Artisans Market https://t.co/gmXcgm9U22",
+        "created_at": "2019-10-06 18:18:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1179534024756338689,
+        "text": "A day late, but it\u2019s the best way to start off October.  https://t.co/qbtBA0RNLx",
+        "created_at": "2019-10-02 23:10:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1170586960726855680,
+        "text": "@lizzo Detroit lost it for you tonight and you weren\u2019t even perform. #Lizzo #100percentthatbitch #TruthHurts #Detroit @ Little Caesars Arena https://t.co/cFiMdoqtcu",
+        "created_at": "2019-09-08 06:37:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 323417384,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1170583331693613057,
+        "text": "One of the best concerts I have ever been to. Thank you @jonasbrothers for an incredible night. #concert #JonasBrothers #burninup #detroit #littleceasarsarena https://t.co/vEUNh1bDnp",
+        "created_at": "2019-09-08 06:23:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1170085489510146049,
+        "text": "24 hours and some change and my inner 15 year old is about to lose her shit seeing @jonasbrothers for the first time but my also 30 year old self will remain calm. https://t.co/GmNQdnyk48",
+        "created_at": "2019-09-06 21:24:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1169763843918221312,
+        "text": "Well....Hello Twiter. It's been a long time.",
+        "created_at": "2019-09-06 00:06:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

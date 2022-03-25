@@ -1,0 +1,781 @@
+[
+    {
+        "tweet_id": 1507180764483489793,
+        "text": "@Stxrgeist I am good at shooting people",
+        "created_at": "2022-03-25 02:21:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 897495331788685312,
+        "referenced_tweets": {
+            "id": 1507180653602914307,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068058908643331,
+        "text": "@Jiimothyy1 I think your profile picture says it all",
+        "created_at": "2022-03-24 18:53:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1283320329771917312,
+        "referenced_tweets": {
+            "id": 1507066917663739918,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506794497518145537,
+        "text": "@Jiimothyy1 @Stxrgeist Dude not all lmao, this guy is wack haha",
+        "created_at": "2022-03-24 00:46:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1283320329771917312,
+        "referenced_tweets": {
+            "id": 1506792806681042946,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506765363563929603,
+        "text": "@Stxrgeist Lmao bro",
+        "created_at": "2022-03-23 22:50:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 897495331788685312,
+        "referenced_tweets": {
+            "id": 1506436566805266435,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504692500149252097,
+        "text": "@Kotigami @Jiimothyy1 I don\u2019t think I\u2019ve ever jumped harder at anything",
+        "created_at": "2022-03-18 05:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 723641707393241090,
+        "referenced_tweets": {
+            "id": 1381356941650366464,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501958183585292288,
+        "text": "@Jiimothyy1 Shit dude I still have to see it. Bro if they can use this series to make live action versions of the killing joke and mask of the phantasm\u2026",
+        "created_at": "2022-03-10 16:28:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1283320329771917312,
+        "referenced_tweets": {
+            "id": 1501725694522531841,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501692517003182080,
+        "text": "@FilthyFPS Bro I\u2019m pretty sure people are abusing a bug where you don\u2019t lose RP. It\u2019s why Pred is rising so fast.",
+        "created_at": "2022-03-09 22:52:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1338246594068705283,
+        "referenced_tweets": {
+            "id": 1501618842950410242,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499921359270563844,
+        "text": "@Jiimothyy1 You are going through menopause",
+        "created_at": "2022-03-05 01:34:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1283320329771917312,
+        "referenced_tweets": {
+            "id": 1499905884994027524,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499596469296324623,
+        "text": "@F1icktv @endgamegear Told you bud. God tier claw mouse. Now waiting for slightly lighter and wireless.",
+        "created_at": "2022-03-04 04:03:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1024921650670841856,
+        "referenced_tweets": {
+            "id": 1499536359391961092,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498389459762614279,
+        "text": "@Primo_Dulce @SSafetyy @Jiimothyy1 Straight to the bloodstream baby",
+        "created_at": "2022-02-28 20:07:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 761248570729046016,
+        "referenced_tweets": {
+            "id": 1498356292682981383,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498023938672271361,
+        "text": "@Jiimothyy1 Ik bro I shoulda had 40 kills.",
+        "created_at": "2022-02-27 19:55:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1283320329771917312,
+        "referenced_tweets": {
+            "id": 1498017304986193928,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497885412215377926,
+        "text": "@Primo_Dulce @PVPX_ Don\u2019t even need demotion dude, they just need to revert the game back to d3+ played with masters Pred. They just changed that shit to stroke bad player\u2019s egos.",
+        "created_at": "2022-02-27 10:44:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 761248570729046016,
+        "referenced_tweets": {
+            "id": 1497639921917562896,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497873910364356608,
+        "text": "well that's a decent game. fucked up and died though, woulda had at least another 5 kills before finish :| https://t.co/x0R3jECysb",
+        "created_at": "2022-02-27 09:59:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496218690072817681,
+        "text": "@Di3mension @VoltaicHQ Apex because you literally can\u2019t see half the time. I feel like I\u2019m training to be daredevil in an FPS.",
+        "created_at": "2022-02-22 20:21:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1338295678166962176,
+        "referenced_tweets": {
+            "id": 1495957431511568384,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494579376729604096,
+        "text": "@amnekas_ @TannerSlays Lmao so others have noticed",
+        "created_at": "2022-02-18 07:47:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1170629857631494144,
+        "referenced_tweets": {
+            "id": 1494484021727924224,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493481981887361025,
+        "text": "If you are playing bang right now to abuse that exploit you are admitting you suck",
+        "created_at": "2022-02-15 07:07:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299126961047044096,
+        "referenced_tweets": {
+            "id": 1493481852186906624,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493481852186906624,
+        "text": "Nice to see all these pathetic players in pred lobbies abusing the bang smoke exploit. 1/3 of the teams are literally running away and smoking their feet, and then shooting out of the smoke for free. It's fucking sad.",
+        "created_at": "2022-02-15 07:06:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493120587761389573,
+        "text": "@Jiimothyy1 Joe wouldn\u2019t use it",
+        "created_at": "2022-02-14 07:11:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1283320329771917312,
+        "referenced_tweets": {
+            "id": 1493047893166628868,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493120438838439940,
+        "text": "@moonchildsson @D3nizenIsMe @iDecypherr It is not, it\u2019s always .6. The only time it drops to.4 is when console aim assist is actively changed to .4 in custom tourney lobbies.",
+        "created_at": "2022-02-14 07:10:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1208322774885793792,
+        "referenced_tweets": {
+            "id": 1491989418592276482,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492813569485905923,
+        "text": "Was frying on the first day of the ranked split \u2066@Jiimothyy1\u2069 \u2066@amnekas_\u2069 \u2066@VoltaicHQ\u2069 #ApexLegends #season12 https://t.co/8eyJ9yF0Xn",
+        "created_at": "2022-02-13 10:51:04+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492791396855603201,
+        "text": "@Primo_Dulce ITS PART OF THE GAME, how dare you Primo, you and all of the pros just don't understand and need to stop whining",
+        "created_at": "2022-02-13 09:22:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 761248570729046016,
+        "referenced_tweets": {
+            "id": 1492784011407724544,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492360046965051394,
+        "text": "@amnekas_ LMAO",
+        "created_at": "2022-02-12 04:48:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1170629857631494144,
+        "referenced_tweets": {
+            "id": 1492355729679958023,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489394017590820874,
+        "text": "@SSafetyy Damn i want a saturn. and a EGG XM1 wireless with corepads.",
+        "created_at": "2022-02-04 00:23:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1884458426,
+        "referenced_tweets": {
+            "id": 1489390966784110596,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489390588164194306,
+        "text": "@SSafetyy what did ya get",
+        "created_at": "2022-02-04 00:09:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1884458426,
+        "referenced_tweets": {
+            "id": 1486480533865521153,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483299282664972288,
+        "text": "@SSafetyy not like toproping lol, bouldering indoors",
+        "created_at": "2022-01-18 04:44:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1884458426,
+        "referenced_tweets": {
+            "id": 1483299095573839879,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483299037554094080,
+        "text": "@SSafetyy Try rock climbing my dude",
+        "created_at": "2022-01-18 04:43:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1884458426,
+        "referenced_tweets": {
+            "id": 1483188408289796105,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1399931382869151749,
+        "text": "@Jiimothyy1 @HeyltsSteezy @itsvoltic1 @xEmbber LMAAOOOOOO",
+        "created_at": "2021-06-02 03:30:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1283320329771917312,
+        "referenced_tweets": {
+            "id": 1399907977684004867,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1398802208205033474,
+        "text": "@SSafetyy @JUSTKROOK @LethalGamingGr I do, im actually trying to switch to the soft. I just cant find it in stock anywhere.",
+        "created_at": "2021-05-30 00:43:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1884458426,
+        "referenced_tweets": {
+            "id": 1398801571522154500,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1398801700668968961,
+        "text": "@SSafetyy @JUSTKROOK @LethalGamingGr I can just play more confident on the zero",
+        "created_at": "2021-05-30 00:41:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299126961047044096,
+        "referenced_tweets": {
+            "id": 1398801593894686725,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1398801593894686725,
+        "text": "@SSafetyy @JUSTKROOK @LethalGamingGr it definitely is, my aim on the hien is straight insane sometimes, and others I feel like im bordering on losing control (i.e. when im tired)",
+        "created_at": "2021-05-30 00:41:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1884458426,
+        "referenced_tweets": {
+            "id": 1398801237198442498,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1398801047259385858,
+        "text": "@SSafetyy @JUSTKROOK @LethalGamingGr I think mouse feet also make a HUGE difference on the zero, tiger arc 1/2 can make it feel muddy at times. Corepads and tiger ice feel good.",
+        "created_at": "2021-05-30 00:38:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1884458426,
+        "referenced_tweets": {
+            "id": 1398800219450626049,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1398800910478946305,
+        "text": "@SSafetyy @JUSTKROOK @LethalGamingGr IDK man, sometimes I just aim bad on the hien. \n\nI find it hard to be really consistent when I'm fatigued. Like my kovaaks scores are insane, but I find myself missing shots in Apex. And lowering sensitivity isn't an option. Always makes my shoulder hurt.",
+        "created_at": "2021-05-30 00:38:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1884458426,
+        "referenced_tweets": {
+            "id": 1398800219450626049,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1398800088592531456,
+        "text": "@SSafetyy @JUSTKROOK @LethalGamingGr I think im 100% back on the zero gang",
+        "created_at": "2021-05-30 00:35:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1884458426,
+        "referenced_tweets": {
+            "id": 1398405342317457414,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1397830053816381441,
+        "text": "@inhuman yeah they are aids, and now they are DCing pc ranked lobbies. You should be able to play without console players in your lobby.",
+        "created_at": "2021-05-27 08:20:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4220802274,
+        "referenced_tweets": {
+            "id": 1397829513082454016,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1385754940384088065,
+        "text": "not even the season, just this fucking Split man, I missed out on around 3000 last split too.",
+        "created_at": "2021-04-24 00:38:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299126961047044096,
+        "referenced_tweets": {
+            "id": 1385754128262090754,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1385754128262090754,
+        "text": "RP bug still happening, I guess I don't gain or lose RP in 50% of my games now. I'm over 3000 rp out on the season now. Like I'm still in masters because this shit makes me now want to play. I should be in top 300 rn with my limited playtime lol.",
+        "created_at": "2021-04-24 00:35:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1385329597139521538,
+        "text": "@Gliittcchh @PlayApex @Respawn @lowkeydbjosh @MonsterclipRSPN happens to me on Sao, NA, on steam and origin lol. I cant get away from it.",
+        "created_at": "2021-04-22 20:28:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1144432303684431872,
+        "referenced_tweets": {
+            "id": 1385304128121970688,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1385302700859006977,
+        "text": "@EAHelp Just dmed",
+        "created_at": "2021-04-22 18:41:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 80420672,
+        "referenced_tweets": {
+            "id": 1384402267751649280,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1384275264826347525,
+        "text": "I even had 3 in a row the other day that didnt give me RP. I don't know what to do, and it is making ranked a chore to play. I get a -60, and then win a game which doesnt count, and then another -60. Like cmon man.",
+        "created_at": "2021-04-19 22:38:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299126961047044096,
+        "referenced_tweets": {
+            "id": 1384275005064638465,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1384275005064638465,
+        "text": "PLEASE help me man, my Apex account is so bugged. I literally don't gain or lose RP in half of my games. Half of my wins in Ranked this season have given me 0 RP. I lost out on 3000 RP last split from no RP wins @PlayApex @Respawn @lowkeydbjosh @MonsterclipRSPN",
+        "created_at": "2021-04-19 22:37:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 6,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1381463078596972545,
+        "text": "@Respawn Can you guys please fix my account lmao, 7 ranked games in a row with no RP gained, when I should be up 700. My account is literally stuck on 11,203 for some reason.",
+        "created_at": "2021-04-12 04:23:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 207936757,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1370273930037059585,
+        "text": "@F1icktv @RSPN_Hideouts @RektHimself @C_mitch7 @PeachFps on NA",
+        "created_at": "2021-03-12 07:22:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299126961047044096,
+        "referenced_tweets": {
+            "id": 1370273902803480576,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1370273902803480576,
+        "text": "@F1icktv @RSPN_Hideouts @RektHimself @C_mitch7 @PeachFps He just killed me",
+        "created_at": "2021-03-12 07:22:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1024921650670841856,
+        "referenced_tweets": {
+            "id": 1369781061526429698,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1367011629242732545,
+        "text": "@PVPX_ @RSPN_JayBiebs Shit sucks.",
+        "created_at": "2021-03-03 07:19:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1299126961047044096,
+        "referenced_tweets": {
+            "id": 1367011574297354241,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1367011574297354241,
+        "text": "@PVPX_ @RSPN_JayBiebs Sorry about that dude, and you got hit by my second arc too",
+        "created_at": "2021-03-03 07:18:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 827176049553256450,
+        "referenced_tweets": {
+            "id": 1367003117666066438,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1354929341990367235,
+        "text": "Despite the strength of the Mastiff, the PK should literally NEVER be ground loot again https://t.co/nWzDoCJxYe",
+        "created_at": "2021-01-28 23:08:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1342359409733857280,
+        "text": "@SSafetyy @Jiimothyy1 It's more fun if you do weird shit, like play with the sensitivity randomizer enabled. Or play 1x playlists, which is like 1 run of 30 different scenarios of a similar aim type.",
+        "created_at": "2020-12-25 06:39:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1884458426,
+        "referenced_tweets": {
+            "id": 1342354319019040769,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1342354622233640961,
+        "text": "@VoltaicHQ @KovaaKs @sinizap @SSafetyy \nHey bud, if you want a chance to try something new lol.",
+        "created_at": "2020-12-25 06:20:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1133863339082297344,
+        "referenced_tweets": {
+            "id": 1341916717774213121,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1342354154300305409,
+        "text": "@SSafetyy @Jiimothyy1 Gotta get on the Kovaaks grind my boy. I want to see Voltaic Master.",
+        "created_at": "2020-12-25 06:19:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1884458426,
+        "referenced_tweets": {
+            "id": 1341615219127234560,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1342353049805873154,
+        "text": "RT @VoltaicHQ: To celebrate the holidays we are giving away 15x KovaaK 2.0 Keys, 2x Aim Analysis and 8x Mouse/Mousepad of choice!\n\n\ud83d\udd39 Like &amp;\u2026",
+        "created_at": "2020-12-25 06:14:41+00:00",
+        "public_metrics": {
+            "retweet_count": 490,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1341916717774213121,
+            "type": "retweeted"
+        }
+    }
+]

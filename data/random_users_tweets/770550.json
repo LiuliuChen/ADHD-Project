@@ -1,0 +1,3052 @@
+[
+    {
+        "tweet_id": 1507149718010298374,
+        "text": "Great news as we come out of COVID: in-person networking events. Terrible news: they suck a lot of energy from me.",
+        "created_at": "2022-03-25 00:17:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507049649512669224,
+        "text": "@vmarks I never did Source or Delphi. I'm pretty sure I did all of the rest.",
+        "created_at": "2022-03-24 17:40:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 9130522,
+        "referenced_tweets": {
+            "id": 1507044394033111053,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507038147648970759,
+        "text": "@garyleff If QuantumLink had given equity to heavy forum leaders, I would be very rich",
+        "created_at": "2022-03-24 16:54:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17695697,
+        "referenced_tweets": {
+            "id": 1507033964862750727,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507030228106850309,
+        "text": "The inventor of GIF died. I didn\u2019t know it came out of CompuServe. \n\nSomewhere I still have my CompuServe ID. I racked up hundreds of dollars in phone bills as a kid because it wasn\u2019t clear that the dial in number was a metered toll call. \n\nhttps://t.co/yjdl1EPgu0",
+        "created_at": "2022-03-24 16:23:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507015229753896966,
+        "text": "@gruber \u201cMy dad killed JFK.\u201d",
+        "created_at": "2022-03-24 15:23:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 33423,
+        "referenced_tweets": {
+            "id": 1507008985605443587,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506788085303980041,
+        "text": "Twitter now has sub communities. Join mine. https://t.co/rQPhUMiOCO",
+        "created_at": "2022-03-24 00:20:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506730508725600257,
+        "text": "@maxrogo I'm offended that you think I'd ever allow a merchant to use DCC. \n\nThough I default to AmEx, which doesn't do it at all.",
+        "created_at": "2022-03-23 20:32:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 30628216,
+        "referenced_tweets": {
+            "id": 1506730231700156416,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506729629020614657,
+        "text": "@maxrogo right, but are you using for cash transactions? or you just avoid any place that doesn't take credit?",
+        "created_at": "2022-03-23 20:28:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 30628216,
+        "referenced_tweets": {
+            "id": 1506728575952568323,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506726530143059969,
+        "text": "@maxrogo Using US$ at terrible exchange rates?",
+        "created_at": "2022-03-23 20:16:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 30628216,
+        "referenced_tweets": {
+            "id": 1506722264112267266,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506719307706761216,
+        "text": "@maxrogo How do you get local currency? That's my most frequent use case.",
+        "created_at": "2022-03-23 19:47:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 30628216,
+        "referenced_tweets": {
+            "id": 1506707215767404545,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506691767776600067,
+        "text": "@englishpaulm I give most businesses a phone number that doesn't ring anywhere. \ud83d\ude00\n\nFor my real phone number, I set it to not ring unless it is in contacts. Spouse does the same.\n\nUnfortunately quite the headache when I was in the ER!",
+        "created_at": "2022-03-23 17:58:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14497940,
+        "referenced_tweets": {
+            "id": 1506689885654196229,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506673143947038722,
+        "text": "I wish voicemail would automatically delete anything recording in Chinese. \n\nBut more than that, I wish voicemail would die. https://t.co/V5fBU8pBQU",
+        "created_at": "2022-03-23 16:44:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506617820209156100,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506672440591540226,
+        "text": "@pkedrosky What about playing flight simulator?",
+        "created_at": "2022-03-23 16:41:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1717291,
+        "referenced_tweets": {
+            "id": 1506623283457761283,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506671419312128003,
+        "text": "Yay! Someone else who endorses my belief that psychology is as important (if not more) than technology. Much of FB\u2019s initial success was insight into human behavior. \n\nOf course, at a certain point we discover too much about human nature. https://t.co/NNOvRss5WY",
+        "created_at": "2022-03-23 16:37:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506645391827079168,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506670655445499906,
+        "text": "@robpegoraro Can\u2019t afford to fly private?",
+        "created_at": "2022-03-23 16:34:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 7301572,
+        "referenced_tweets": {
+            "id": 1506649956605734914,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506670283578433542,
+        "text": "@pitdesi Good thing he can tell you where you work.  \n\nStill, way better than the damn DNC which keeps asking me to contribute to races that are not even remotely interesting to me. A local race in Texas? Don\u2019t care.",
+        "created_at": "2022-03-23 16:32:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 6228302,
+        "referenced_tweets": {
+            "id": 1506651831031644162,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506668268181811204,
+        "text": "This is going to be a big lift, but I\u2019d like to get rid of another thing from my wallet. \n\nI really want to get rid of my ATM card, too, but it\u2019s going to be a long time before a sufficient number of ATMs have NFC readers.  https://t.co/tB7sFQtg9a",
+        "created_at": "2022-03-23 16:24:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506475171024048131,
+        "text": "@octal there was a four seasons insignificantly more than $80 a night?",
+        "created_at": "2022-03-23 03:37:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 814667,
+        "referenced_tweets": {
+            "id": 1506372464703643651,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506475004711514112,
+        "text": "RT @mdudas: web3 is here, it's real, it's important, people love it, there's no stopping it\n\n\"the next big thing will start out looking lik\u2026",
+        "created_at": "2022-03-23 03:36:44+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506372879486754818,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506473337228210177,
+        "text": "@mdudas unfortunately the listicle factory is where the money is.",
+        "created_at": "2022-03-23 03:30:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 7184612,
+        "referenced_tweets": {
+            "id": 1506408416780161033,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506473135566045189,
+        "text": "RT @shreyas: I do not know of any product that failed because the team used a sub-optimal sprint process, issue tracking tool, or North Sta\u2026",
+        "created_at": "2022-03-23 03:29:19+00:00",
+        "public_metrics": {
+            "retweet_count": 376,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506413730531209220,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506472686486056970,
+        "text": "@brextonpham when you find an answer to that, can you do twitter next?",
+        "created_at": "2022-03-23 03:27:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 12,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1305948076113231873,
+        "referenced_tweets": {
+            "id": 1506429132409778176,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506472551538561026,
+        "text": "@scottew this looks pretty sweet!\n\nhttps://t.co/2Lf2xiw9oi",
+        "created_at": "2022-03-23 03:26:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15330537,
+        "referenced_tweets": {
+            "id": 1506430860769181696,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506469969680248832,
+        "text": "@AlexisWeill @brextonpham the answer to \"how do we get people to unintentionally invite their entire address book?\u201d was a brilliant growth startegy.",
+        "created_at": "2022-03-23 03:16:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 91,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 168380161,
+        "referenced_tweets": {
+            "id": 1506436138730352645,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506468941543051268,
+        "text": "@scottew says the unsexiest person at $V. \ud83d\ude09",
+        "created_at": "2022-03-23 03:12:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15330537,
+        "referenced_tweets": {
+            "id": 1506468266121723908,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506468818691842049,
+        "text": "@robpegoraro the jig is up!",
+        "created_at": "2022-03-23 03:12:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 7301572,
+        "referenced_tweets": {
+            "id": 1506438995278016512,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506467410231980032,
+        "text": "@scottew My uncool $V has treated me quite well.",
+        "created_at": "2022-03-23 03:06:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15330537,
+        "referenced_tweets": {
+            "id": 1506444585500766209,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506466759213125633,
+        "text": "@gokulr As Gokul says, some of the biggest things will come from outsiders.\n\nI wrote this post a while back about why YouTube could not have been inside Google. Similarly, I doubt Square could\u2019ve been built inside AmEx. (We can\u2019t take Visa!)\n\nhttps://t.co/zRphb6jvTh",
+        "created_at": "2022-03-23 03:03:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1506466372443725825,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506466372443725825,
+        "text": "Great stuff from @gokulr on how to push forward on big things, while breaking the rules. \n\nThere is a lot of stuff that has been done because because of regulatory capture, partner relationships, etc. \n\nhttps://t.co/iWsLW0o0Qc",
+        "created_at": "2022-03-23 03:02:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506424096178860032,
+        "text": "@jameshritz Unrelated to taking pictures. When you use emojis \ud83d\ude00\ud83d\ude06\ud83e\udd72,  you can select skin tone. But if I pick a darker emoji, \ud83d\udc4d\ud83c\udffe, next use goes back to the default.\n\nBut then I would also make the argument that yellow is neutral, given that a minuscule portion of the pop *has* yellow skin",
+        "created_at": "2022-03-23 00:14:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 21419893,
+        "referenced_tweets": {
+            "id": 1506412445996228615,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506351380511875074,
+        "text": "#ux this seems kind of obvious to me: Apple should let me lock in skin tone when I select one. I shouldn\u2019t have to select skin color every time I want to use an emoji.",
+        "created_at": "2022-03-22 19:25:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506340779014254592,
+        "text": "It\u2019s why I was so excited to see @rklau and team build the technology behind CA COVID vaccination database. If they could do the same for DMV or EDD, we\u2019d be in a much better spot.",
+        "created_at": "2022-03-22 18:43:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1506340195372658689,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506340195372658689,
+        "text": "In competitive markets, businesses that don\u2019t adopt new processes will fail. (My recent experience with @usbank makes me wonder how they still exist.)\n\nUnfortunately, the State Department, DMV and many medical providers aren\u2019t in competitive markets.",
+        "created_at": "2022-03-22 18:41:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1506339537974226945,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506339537974226945,
+        "text": "Thoughtful analysis by @om on how stuck certain processes are in the past. He didn\u2019t even mention the F-word: fax. Still used by many businesses in medicine, banking, government and travel. \n https://t.co/npiEhp1gWC",
+        "created_at": "2022-03-22 18:38:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506326155430797316,
+        "text": "@garyleff @RWMann descent profile of UA 93 is interesting. technically intentional, but not really in same bucket. https://t.co/xgarlxIhTY",
+        "created_at": "2022-03-22 17:45:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17695697,
+        "referenced_tweets": {
+            "id": 1506324996276297736,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506325694325813249,
+        "text": "@garyleff @RWMann hm. can\u2019t find that one.\n\nif MU 5735 were intentional, what are the odds we\u2019d hear that?",
+        "created_at": "2022-03-22 17:43:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17695697,
+        "referenced_tweets": {
+            "id": 1506324996276297736,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506324808836943873,
+        "text": "@DanFrakes @cdpinker @amazon I don\u2019t know about google, but amazon is very decentralized",
+        "created_at": "2022-03-22 17:39:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 8259712,
+        "referenced_tweets": {
+            "id": 1506308791272284164,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506323963584016386,
+        "text": "@garyleff @RWMann Aside from 4U 9525 and MS 990, what other flights were reported as intentional?",
+        "created_at": "2022-03-22 17:36:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17695697,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506313838173450244,
+        "text": "Medical debt can also be triggered by other people, which is atypical (outside of fraud):\n\n- If someone calls 911 on your behalf, you get the bill for the paramedics/ambulance/ER.\n\n- If someone shoot you and you go to the hospital, you get billed for that. (Yay, US healthcare!)",
+        "created_at": "2022-03-22 16:56:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1506313255588823041,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506313255588823041,
+        "text": "Very good move, though I wonder why it\u2019s going to take until 2023 to stop reporting debts under $500.\n\nFrom a technology perspective, this should be trivial. \n\nhttps://t.co/4wdnB0bqpa",
+        "created_at": "2022-03-22 16:54:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506291057243439111,
+        "text": "@EmilyRPeck @felixsalmon IIRC, our first meal was at Jean-Georges. \n\nI suspect most people would consider spending $800 on a meal elitist. \ud83d\ude09",
+        "created_at": "2022-03-22 15:25:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 394762955,
+        "referenced_tweets": {
+            "id": 1506233100392611843,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506143405948084230,
+        "text": "The most unintuitive control in the history of UX design. https://t.co/0FjETot4yO",
+        "created_at": "2022-03-22 05:39:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506114163751280640,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506142496824258567,
+        "text": "RT @LarsJohanL: National Geographic Picture of The Year. Black images are shadows of zebras. Zoom in and you will see zebras. https://t.co/\u2026",
+        "created_at": "2022-03-22 05:35:28+00:00",
+        "public_metrics": {
+            "retweet_count": 119537,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505999058825097219,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506067946426175490,
+        "text": "@Greg_Coogan Weren\u2019t you, @dionlisle and I going to see a giants game one summer? How does April 10 look? Sunday afternoon game",
+        "created_at": "2022-03-22 00:39:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 21125777,
+        "referenced_tweets": {
+            "id": 1506040220734550019,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506067615411695617,
+        "text": "@Greg_Coogan I\u2019d be tempted to do a public \u201cart\u201d project on city right of way with an even higher price.",
+        "created_at": "2022-03-22 00:37:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 21125777,
+        "referenced_tweets": {
+            "id": 1506040220734550019,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506062486960701443,
+        "text": "@MarkGraban @EmilyRPeck @felixsalmon My bank (full disclosure: i use the same bank Felix uses) now has a rate of 0.001 percent on their interest checking account.",
+        "created_at": "2022-03-22 00:17:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 18541756,
+        "referenced_tweets": {
+            "id": 1506045470271025157,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506038929232781313,
+        "text": "My favorite gas station and price transparency story involves two gas stations near Orlando airport. \n\nThey didn\u2019t have price signs. When you got there, you found that gas was 2-3x what it cost elsewhere. But faced with alternative of paying $12/gal to hertz, you sucked it up.",
+        "created_at": "2022-03-21 22:43:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1506036756394627076,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506037701992091650,
+        "text": "@felixsalmon @EmilyRPeck I\u2019m saying that comment is elitist. \u2026 As someone who has had that *exact* thought.\n\nMany of us city dwellers take transit (I did when I lived in NYC), drive EVs (I do now), or have short commutes.",
+        "created_at": "2022-03-21 22:39:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 16399949,
+        "referenced_tweets": {
+            "id": 1506036633728081929,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506036756394627076,
+        "text": "Most people don\u2019t have the luxury of ignoring gas prices. Even without the signs, they would feel it when they go to make the charge. It is material. A jump from $50 to $100 is a big deal.",
+        "created_at": "2022-03-21 22:35:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1506036254357422085,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506036254357422085,
+        "text": "#psychology #pricing how much do the giant signs advertising prices in 1 1/2 foot numbers affect our collective view on the economy. @EmilyRPeck brought this up in slate money with @felixsalmon \n\nA thought I\u2019ve had before, but I came to the conclusion that it\u2019s an elitist view. https://t.co/AkM603Js1a",
+        "created_at": "2022-03-21 22:33:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506033007764783104,
+        "text": "@JayWacker @StevenLoi When it comes to payments, the best ones let you do Apple Pay and it\u2019s super simple. \n\nUnfortunately most ask you to type in your CC info.",
+        "created_at": "2022-03-21 22:20:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 29649815,
+        "referenced_tweets": {
+            "id": 1506028515832958981,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505996795683344384,
+        "text": "@JayWacker @StevenLoi You will find that on some, eg those with back end by toast, Olo, etc. (usually QSRs). \n\nBut more often than not it is a pdf you have to constantly scroll left / right / up / down. \n\nAnd by the time the server comes you\u2019ve forgotten and have to do it again.",
+        "created_at": "2022-03-21 19:56:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 29649815,
+        "referenced_tweets": {
+            "id": 1505996283416252417,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505973637194543107,
+        "text": "RT @gibsonbiddle: @shreyas Patti McCord, head of HR/Talent at Netflix, made a career of asking folks who came to her with interpersonal iss\u2026",
+        "created_at": "2022-03-21 18:24:29+00:00",
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505945491716018176,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505971059882803203,
+        "text": "@josephflaherty then we have the micro-region startup that started at Harvard. that seemed to work out ok.",
+        "created_at": "2022-03-21 18:14:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15412900,
+        "referenced_tweets": {
+            "id": 1505958732831805442,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505970391180709890,
+        "text": "@DanFrakes @amazon These things usually only get done when there is a regulatory mandate.\n\nBig companies dropped everything they were doing to make sure they complied with EU GDPR mandate. Didn't want to pay 4% of worldwide revenue for noncompliance.",
+        "created_at": "2022-03-21 18:11:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 8259712,
+        "referenced_tweets": {
+            "id": 1505968734199975944,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505964907476381696,
+        "text": "@Hyatt I requested a points transfer last week so that I can make another booking before rates go up tomorrow. can you expedite? or spot me the 1,241 points so I can make the res?",
+        "created_at": "2022-03-21 17:49:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 61514970,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505964589959184384,
+        "text": "@StevenLoi \"let me reset the router\"",
+        "created_at": "2022-03-21 17:48:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 5548762,
+        "referenced_tweets": {
+            "id": 1505964256230928384,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505964433251524608,
+        "text": "@DanFrakes @amazon Just as likely: not enough people want it that they don't want to spend the engineering effort. But that's a circular feedback chain.",
+        "created_at": "2022-03-21 17:47:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 8259712,
+        "referenced_tweets": {
+            "id": 1505960989283405828,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505964179017986052,
+        "text": "See: https://t.co/478VbpnbIE, https://t.co/yZHysONHyH https://t.co/8TJb6NbL3m",
+        "created_at": "2022-03-21 17:46:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505959067826769926,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505963958582210562,
+        "text": "@StevenLoi I can't wait until those damn things go away. I always ask for a paper menu and usually they will provide them.\n\nFor payments, yes. For menus, no. For those that dump you at a PDF.",
+        "created_at": "2022-03-21 17:46:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 4,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 5548762,
+        "referenced_tweets": {
+            "id": 1505961617736945664,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505952248571990017,
+        "text": "@scottew Stop by before your next trip to visit me. Er, visit the office.",
+        "created_at": "2022-03-21 16:59:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15330537,
+        "referenced_tweets": {
+            "id": 1505950537845407746,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505948126951067656,
+        "text": "@smackerama @robpegoraro Is there a new technology? Looks very different from all of the microwave antennas I\u2019ve seen.",
+        "created_at": "2022-03-21 16:43:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 20207229,
+        "referenced_tweets": {
+            "id": 1505946611926503429,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505947602054877189,
+        "text": "But do you get the extra 3,000 miles? https://t.co/2fGZHE9rDR",
+        "created_at": "2022-03-21 16:41:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505939837907443715,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505944249161826306,
+        "text": "\u2066@scottew\u2069 you been here? https://t.co/w1klpNGc2n",
+        "created_at": "2022-03-21 16:27:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505941871553482753,
+        "text": "Trade shows are another example of the hybrid nature:\n- marketing drives traffic to the booth and events, creates messaging, prepares collateral and collects leads \n- sales takes those leads onto acquire new customers and works with existing customers to nurture relationships.",
+        "created_at": "2022-03-21 16:18:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1505937595380817922,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505937595380817922,
+        "text": "Sales and marketing are also fundamentally different. \n\nIn general (very generally)\n- marketing is more important to B2C\n- sales is more important to B2B\n\nMany companies are hybrid: marketing to consumers to get eyeballs; sales to businesses to sell those eyeballs.",
+        "created_at": "2022-03-21 16:01:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1505936028388843525,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505936028388843525,
+        "text": "Very few people can do all of these well. Especially when you\u2019re trying to use people with the wrong goal or you have a misunderstanding of timelines. Eg if you think you\u2019re going to sell into a major telco in three months, you will be disappointed. (1 year would be phenomenal).",
+        "created_at": "2022-03-21 15:55:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1505935455325683713,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505935455325683713,
+        "text": "If your sales team is full of low-skill people, you\u2019re doing it wrong. \n\nEspecially in B2B, sales teams are key to success. \n\nBut you need to know what you need at each stage: biz development, early-stage sales, inside sales, outside sales, solutions engineering, customer success https://t.co/27NdEICLkQ",
+        "created_at": "2022-03-21 15:52:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505677862162030593,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505691126644154369,
+        "text": "@mdudas I always wanted to knock over people who used sidewalks for other purposes. Not acceptable.\n\nTechnically, riding bikes in downtown SF is illegal, but @sfmta_muni doesn't do anything.",
+        "created_at": "2022-03-20 23:41:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 7184612,
+        "referenced_tweets": {
+            "id": 1505689086077636617,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505685482247647236,
+        "text": "RT @robleathern: \u201cCrypto\u2019s madcap, meme-crazed online culture can make it seem frivolous and shallow. It\u2019s not. Cryptocurrencies, even the\u2026",
+        "created_at": "2022-03-20 23:19:27+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505649410289516544,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505680238369390595,
+        "text": "@mdudas Everyone needs to do sales. Everyone.",
+        "created_at": "2022-03-20 22:58:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 11,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 7184612,
+        "referenced_tweets": {
+            "id": 1505677862162030593,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505676345673625602,
+        "text": "@garyleff @EghosaO @felixsalmon I wonder how much of this is about goosing transaction volumes for the market. \n\nAlmost by definition if someone needs to take out a $10 loan for a burrito, they\u2019re a terrible credit risk.",
+        "created_at": "2022-03-20 22:43:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17695697,
+        "referenced_tweets": {
+            "id": 1505667126534758416,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505675762539532288,
+        "text": "@jameshritz @octal @PreetBharara Most people are terrible at assessing risk. E.g. terrorism. On the other hand, they don\u2019t pay attention to the very real risk of eating like shit. (Diabetes, heart disease, etc.)",
+        "created_at": "2022-03-20 22:40:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 21419893,
+        "referenced_tweets": {
+            "id": 1505674877516222470,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505673723667312641,
+        "text": "@jameshritz @octal @PreetBharara It would be like judging computer graphics today based on the 8-bit images from commodore 64s. \u2026 but then 8-bit graphics somehow seem to be very valuable these days.",
+        "created_at": "2022-03-20 22:32:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1505672341233102850,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505672341233102850,
+        "text": "@jameshritz @octal Yup. \n\nI was listening to some podcast the other day - I think @PreetBharara - where the conversation was about nuclear power. \n\nOne point that struck me: people\u2019s perceptions of nuclear power are based on technology from the 70s and 80s. We can make plants safer and better today",
+        "created_at": "2022-03-20 22:27:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 21419893,
+        "referenced_tweets": {
+            "id": 1505671753405632512,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505665299919499266,
+        "text": "@AlexisWeill That is my best guess. 2011 is when they put up the pay wall.\n\nIf I\u2019m trying to reposition my business to Wall Street, I separate out the declining part of my business so that it can see a growth story.",
+        "created_at": "2022-03-20 21:59:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 168380161,
+        "referenced_tweets": {
+            "id": 1505644495487991808,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505664441131552768,
+        "text": "@jameshritz @octal I\u2019m pretty sure it\u2019s all Homer Simpson",
+        "created_at": "2022-03-20 21:55:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 21419893,
+        "referenced_tweets": {
+            "id": 1505659492565876743,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505623790255960064,
+        "text": "1.3 million subscriber to the @NewYorker. 3 of them have ever finished an article.",
+        "created_at": "2022-03-20 19:14:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1505623644457734149,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505623644457734149,
+        "text": "0.1% of the US population subscribes to the weekday NYT print edition. https://t.co/sa78W1rz54",
+        "created_at": "2022-03-20 19:13:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505612413856477184,
+        "text": "RT @jamesthomson: Kids, this was state of the art in smartwatches in 1985. https://t.co/5I2KTBfddy",
+        "created_at": "2022-03-20 18:29:07+00:00",
+        "public_metrics": {
+            "retweet_count": 71,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505598849456476164,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505608947776040977,
+        "text": "@PreetBharara My brother brought up the eyeglass bully story yesterday and I shared the story from doing justice about it.",
+        "created_at": "2022-03-20 18:15:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 834081571493785600,
+        "referenced_tweets": {
+            "id": 1505398028349358081,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505593355022921729,
+        "text": "What kind of antenna is this! Went up fairly recently. MM wave? \u2066@robpegoraro\u2069 https://t.co/xAfsZNW4Bw",
+        "created_at": "2022-03-20 17:13:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505592097495166976,
+        "text": "@octal Only a matter of time. I bought a wallet recently that had an AirTag space.",
+        "created_at": "2022-03-20 17:08:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 814667,
+        "referenced_tweets": {
+            "id": 1505591881656418306,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505591583814479873,
+        "text": "@rsg How many of those friends are from SF though?\n\nWhen I lived in NYC, I had lots of visitors from SF. Obviously people from SF don\u2019t use my guest room here.",
+        "created_at": "2022-03-20 17:06:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2948211,
+        "referenced_tweets": {
+            "id": 1505565687464480771,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505590569686364163,
+        "text": "@rdoddala Going back: Y2K \n\nNothing happens: good thing you listened to me\nThings blow up: you should have listened to me.",
+        "created_at": "2022-03-20 17:02:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17927731,
+        "referenced_tweets": {
+            "id": 1505569359858704386,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505590223564001284,
+        "text": "@octal See my comments on AirTags for this purpose.",
+        "created_at": "2022-03-20 17:00:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 814667,
+        "referenced_tweets": {
+            "id": 1505573390698291201,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505590056983040000,
+        "text": "@AlexRoy144 This whole thing might end by Putin being deposed internally. \n\nHope he is paying his security really well.",
+        "created_at": "2022-03-20 17:00:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4808581,
+        "referenced_tweets": {
+            "id": 1505576787882954768,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505589501250314241,
+        "text": "@scottew One of my pet peeves. Filters should reflect underlying data. But then maybe there are shoelaces that expensive.",
+        "created_at": "2022-03-20 16:58:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15330537,
+        "referenced_tweets": {
+            "id": 1505579479514578944,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505588571612229636,
+        "text": "@RakeshAgrawal @dflieb Part of the problem of many engineering mindsets is that they want to work on the sexy (AI) vs boring, but extremely useful. Like this and  de-duping.",
+        "created_at": "2022-03-20 16:54:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1505588208880406528,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505588208880406528,
+        "text": "@RakeshAgrawal One of my favorite (and long wished for) features @dflieb",
+        "created_at": "2022-03-20 16:52:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 73623,
+        "referenced_tweets": {
+            "id": 1505587039131127817,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505587780960747521,
+        "text": "Case in point: I\u2019m a co-author of a patent on what is essentially news feed. My employer at the time looked at the available \u201cdata\u201d and decided not to pursue it. \n\nWe all know what happened.",
+        "created_at": "2022-03-20 16:51:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1505585716318769154,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505587053928407044,
+        "text": "@michaelrwolfe Sounds like a feature, not a bug.",
+        "created_at": "2022-03-20 16:48:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 31648475,
+        "referenced_tweets": {
+            "id": 1505425244504276992,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505586815067058176,
+        "text": "This has been a long objection of mine for offices in urban areas. \n1/ it undermines ability of neighborhoods and businesses to develop\n2/ it keeps employees isolated in their bubble \n\nSometimes \u201cinefficiency\u201d is a good thing long term. https://t.co/EPDiUtcrEV",
+        "created_at": "2022-03-20 16:47:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505060272712523783,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505586229252792323,
+        "text": "@agarwal @octal What about IKEA? I\u2019m more skeptical on that one.",
+        "created_at": "2022-03-20 16:45:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15105000,
+        "referenced_tweets": {
+            "id": 1505059070088138752,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505585716318769154,
+        "text": "Great post, but I\u2019m going to disagree on this point. Often the \u201cdata\u201d will tell you the wrong thing.\n\n\u201cOr that the \u2018data\u2019 just shows the current state of the world and they have the ability to change the world to get pulled towards them, versus having to accommodate reality.\u201d https://t.co/xVjqBzxIpv",
+        "created_at": "2022-03-20 16:43:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504557165905788930,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505581322659528705,
+        "text": "@lbsterling @felixsalmon If it is for a non-profit, generally no.",
+        "created_at": "2022-03-20 16:25:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2181141,
+        "referenced_tweets": {
+            "id": 1505481463831175169,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505580926914367491,
+        "text": "@octal It\u2019s unfortunate that a few incidents have so sullied this green energy. Back to my usual complaint about episodic. We can immediately see the impact of a nuclear disaster; the fossil fuel disaster is at least 100x, but it isn\u2019t a big explosion.",
+        "created_at": "2022-03-20 16:23:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 814667,
+        "referenced_tweets": {
+            "id": 1505494490143989765,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505580235487469574,
+        "text": "@triketora I\u2019ve heard @Billbrowder talk on various podcasts. Always insightful, often demoralizing and terror inducing.",
+        "created_at": "2022-03-20 16:21:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19556080,
+        "referenced_tweets": {
+            "id": 1505497338265100289,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505579679146672128,
+        "text": "I\u2019ve always been amazed when working with legal on patents. The great lawyers have sat with me and essentially interviewed me about the concepts and possible prior art. \n\nThen they find a way to expand the claims at least 10x. https://t.co/zh9JsYMwCb",
+        "created_at": "2022-03-20 16:19:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505521897231945729,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505578334188568578,
+        "text": "@gregan8 @rrhoover Got suggestions on which web 3 companies to join immediately?",
+        "created_at": "2022-03-20 16:13:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 225911430,
+        "referenced_tweets": {
+            "id": 1505565965102116869,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505562743935365127,
+        "text": "@mdudas Theranos?",
+        "created_at": "2022-03-20 15:11:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 7184612,
+        "referenced_tweets": {
+            "id": 1505523331038072842,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505561773381861379,
+        "text": "RT @rrhoover: Cruise\u2019s new Recurring Liquidity Opportunity: https://t.co/86FisVkSdV\n\nTo compete for talent, we\u2019ll see more private startups\u2026",
+        "created_at": "2022-03-20 15:07:53+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505541188820029441,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505560082322374661,
+        "text": "@rklau You\u2019re famous.",
+        "created_at": "2022-03-20 15:01:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 901651,
+        "referenced_tweets": {
+            "id": 1505388186440069120,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505308114899247104,
+        "text": "And a burrito isn\u2019t the cheapest thing you can buy with BNPL. \n\n\u201cCredit Karma found that 34 percent of consumers who used BNPL services fell behind on one or more payments.\u201d\n\n\u2066@EghosaO\u2069 \u2066@felixsalmon\u2069  https://t.co/4BokYajf48",
+        "created_at": "2022-03-19 22:19:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505300036929818624,
+        "text": "@MikeCalcagno We might have some for remotes, but those things last forever.",
+        "created_at": "2022-03-19 21:47:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 305238874,
+        "referenced_tweets": {
+            "id": 1505263972978675717,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505260319257497602,
+        "text": "@MikeCalcagno You don\u2019t do rechargeables? I haven\u2019t bought batteries in forever.",
+        "created_at": "2022-03-19 19:10:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 305238874,
+        "referenced_tweets": {
+            "id": 1505240092591460359,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505030031231242241,
+        "text": "@rdoddala What do you attribute that to? Any common thread in the grievance?",
+        "created_at": "2022-03-19 03:54:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17927731,
+        "referenced_tweets": {
+            "id": 1504872207750729756,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504556421802704917,
+        "text": "Oh, and they didn\u2019t get to steal my $500, which was their original goal. \n\nSome common sense in travel would be useful, especially during COVID. @AmericanAir",
+        "created_at": "2022-03-17 20:32:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1504513209130110998,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504548562981437450,
+        "text": "What happens to returns?\n\nGreat watch. \n\nhttps://t.co/DbmnG0ZHMT",
+        "created_at": "2022-03-17 20:01:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504517125926318080,
+        "text": "@pkedrosky lift ticket fraud is a jailable offense at vail? oy.\n\nshould be at most a civil case.\n\nhttps://t.co/6OCVUAEjwb",
+        "created_at": "2022-03-17 17:56:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1717291,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504516873613832211,
+        "text": "@garyleff It does say ER.",
+        "created_at": "2022-03-17 17:55:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17695697,
+        "referenced_tweets": {
+            "id": 1504511462114570243,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504513209130110998,
+        "text": "Assuming that I get my refund, AA:\n- Will have wasted hours of my time.\n- Pissed off a high value customer to the point that it will be dead last in my consideration set. (Yes, below Spirit!)\n- Will have had a lot of public and private criticism from a very frequent flier.",
+        "created_at": "2022-03-17 17:41:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1504512384425086981,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504512384425086981,
+        "text": "- After 45 minutes on hold, a rep tells me the ticket is in a \u201ccontrol status.\u201d\n- She is eventually able to cancel the ticket\u2026 and directs me to a page to request a refund. (I don\u2019t think I\u2019ve had to treat the refund part separately on other carriers.)",
+        "created_at": "2022-03-17 17:37:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1504511977544044551,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504511977544044551,
+        "text": "@AmericanAir - I provided more documentation to AmEx. @AmericanAir lied again.\n- The flights I was booked on were canceled. AA made no notification that they were canceled.\n- I logged into my accout on my own to see they were canceled. (Which I expected, given QF getting back up.)",
+        "created_at": "2022-03-17 17:36:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1504511290772901910,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504511290772901910,
+        "text": "Update on my ongoing dispute with the thiefs at @AmericanAir:\n- I booked a refundable flight on American.\n- They insisted that there was a cancellation fee of $500. \n- They lied to American Express when I challenged the charge. They claimed that the ticket was not refundable.",
+        "created_at": "2022-03-17 17:33:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504495625592733697,
+        "text": "@garyleff my EK F has been downgauged 380 to 777-3.\n\nThat sounds like a big drop, no?",
+        "created_at": "2022-03-17 16:31:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17695697,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504490991402713093,
+        "text": "@garyleff what do you make of ally and citi doing away with NSF? \n\nI find It hard to believe it would just be to play nice with regulators",
+        "created_at": "2022-03-17 16:12:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17695697,
+        "referenced_tweets": {
+            "id": 1504442427079213061,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504243179704311808,
+        "text": "I\u2019m surprised it has taken Netflix this long to crack down. v/@Devindra\n\nhttps://t.co/iq5prh4m3v",
+        "created_at": "2022-03-16 23:48:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504192326280777729,
+        "text": "@ServeRobotics @dee_bosa @jonfortt But food delivery requires a fourth party - restaurants. I\u2019m not convinced that the high rake is sustainable.\n\nOf course $UBER is diversified across the spaces. $LYFT and $DASH currently aren\u2019t.",
+        "created_at": "2022-03-16 20:26:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1504191888928043009,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504191888928043009,
+        "text": "Food delivery and ride hailing will both be significantly affected by automation. Robots like @ServeRobotics will improve unit economics in near term. Longer term, self-driving will improve unit economics of ride hailing. Good intv @dee_bosa @jonfortt\n\nhttps://t.co/NVYTJF4oSK",
+        "created_at": "2022-03-16 20:24:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504141510249385986,
+        "text": "Good to see Amazon go after this important market. You need some powder to blow up the health care oligioplies. from @jtozz\n\nhttps://t.co/HjIrMeRENw",
+        "created_at": "2022-03-16 17:04:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504141006421172224,
+        "text": "#ux seems like a lot of companies use CAPTCHAs/2FA to look important. \n\nThese are major inconveniences. The security should reflect the risk.\n\nTo display news content, you don\u2019t need 2FA. To make a stock trade, you might.",
+        "created_at": "2022-03-16 17:02:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504126553050939394,
+        "text": "\u201cWe have this distorted cross-subsidy where the biggest revenue on checking accounts is coming from the people with the least money, and they\u2019re subsidizing the checking accounts of those with more money.\u201d https://t.co/7F9zr9rHdD",
+        "created_at": "2022-03-16 16:04:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504104728136806402,
+        "text": "Quite the gulf between apple and Samsung. https://t.co/2FppLRTQxu",
+        "created_at": "2022-03-16 14:38:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503882957349539843,
+        "text": "https://t.co/prtvw1LHzW",
+        "created_at": "2022-03-15 23:56:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503807031441952768,
+        "text": "NFT, securities law and accounting. Good stuff from @retheauditors. \n\nhttps://t.co/DwxJlRXf4y",
+        "created_at": "2022-03-15 18:55:10+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503793340046725121,
+        "text": "@ant_murphy - Of course I\u2019m really biased because I\u2019ve launched products in publishing, telecom, search, automotive, speech recognition, hardware integration, fintech.\n\nSourcers/recruiters often view flexibility and diverse industry experience as a negative.",
+        "created_at": "2022-03-15 18:00:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503792731667062786,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503792731667062786,
+        "text": "@ant_murphy - At companies like Google, FB, Amazon, great PMs move around from product to product. That\u2019s an indicator that SME isn\u2019t all that important.",
+        "created_at": "2022-03-15 17:58:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503792391790112773,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503792391790112773,
+        "text": "@ant_murphy - Recruiters aren\u2019t easily able to differentiate good PMs, where are SME is easier to identify. (Especially true of sourcers.)",
+        "created_at": "2022-03-15 17:56:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503792159882813440,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503792159882813440,
+        "text": "On the importance of subject matter experise in product, from @ant_murphy\n\nMy thoughts: SME can sometimes be a handicap because you think in traditional constraints. e.g. someone with strong banking expertise can shoot down ideas because they know SOP.\n\nhttps://t.co/Cekrmhm4wJ",
+        "created_at": "2022-03-15 17:56:04+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503791491814068226,
+        "text": "@dionlisle But if the vast majority of employees only use 5 features - check in, check out, post to folio\u2026 training is much less a concern.",
+        "created_at": "2022-03-15 17:53:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503791197273292804,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503791197273292804,
+        "text": "@dionlisle Yup. In a world of infinite resources, completely.\n\nAnd with a high-turnover industry like travel, it is more important.",
+        "created_at": "2022-03-15 17:52:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 18251284,
+        "referenced_tweets": {
+            "id": 1503787026646138884,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503786490559549440,
+        "text": "If you peer over the counter at the Cosmopolitan in Vegas, you'll see the agent using a green-screen terminal. \n\nOn your side, you see an iPad with professionally shot pictures of suites you can upgrade to, with interfaces that are modern.",
+        "created_at": "2022-03-15 17:33:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503780169940541444,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503784997404045316,
+        "text": "Great stuff from Twitter CMO and my friend @leslieberland \n\n\"A lot of companies worry that every tweet has to be well designed and perfect and make it a piece of marketing collateral. As a company we are weird, messy and silly but raw and authentic.\u201d\n\nhttps://t.co/kfMa8V4CyM",
+        "created_at": "2022-03-15 17:27:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503780169940541444,
+        "text": "Don\u2019t fix what isn\u2019t broken. \n\nIt may look ugly and dated. But if it works, focus your energy elsewhere, like:\n- consumer facing sites/apps where usability is much more important.\n- more sophisticated pricing algos\n- integration with newer distribution\n\nhttps://t.co/8C8wdYlB0B",
+        "created_at": "2022-03-15 17:08:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503552882846494721,
+        "text": "My favorite pi-day story: someone created fake ATM receipt pads with balance of $314,159.26. Giving your number to someone? Write it on the back of the crumpled receipt in your pocket. \n\nAccidentally on purpose, of course.",
+        "created_at": "2022-03-15 02:05:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503549556159512577,
+        "text": "@garyleff I had avis add \u201cNO SUV EVER\u201d to my wizard profile. Mostly worked \n\nThough it did confuse them when I specifically needed an SUV and booked one.",
+        "created_at": "2022-03-15 01:52:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17695697,
+        "referenced_tweets": {
+            "id": 1503540160142663681,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503534946840850434,
+        "text": "@garyleff @united Heh.",
+        "created_at": "2022-03-15 00:54:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17695697,
+        "referenced_tweets": {
+            "id": 1503533504675475459,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503512419632500737,
+        "text": "\"The last time gas prices exceeded $4 a gallon, during the financial crisis of 2008, demand for huge vehicles cratered.\"\n\nI remember going to rental car lots in that time and almost every vehicle was a large SUV because car rental companies bought the excess inventory.",
+        "created_at": "2022-03-14 23:24:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503511286864224257,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503511286864224257,
+        "text": "\"Car shopping site Edmunds reports the number of people searching for hybrid, plug-in hybrid, or electric vehicles jumped 39 percent from February to March and 18 percent over the last week.\"",
+        "created_at": "2022-03-14 23:19:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503460461375025152,
+        "text": "How are McDonald\u2019s, Apple and other retailers messaging about their store closures? \n\nIf you walk by, are there signs that say \u201cTemporarily closed.\u201d Probably can\u2019t say \u201cClosed until Ukraine war ends.\u201d\n\nOr, messages to employees.",
+        "created_at": "2022-03-14 19:58:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503418956635271168,
+        "text": "@tock Please try to have your merchant account re-classified as a restaurant. \n\nAs it is, it's classified as \"business services\" with AmEx. That means we don't get bonus points for restaurant purchases.\n\nGiven how expensive your restaurants are, this is a significant loss.",
+        "created_at": "2022-03-14 17:13:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3233862751,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503415534410293248,
+        "text": "@alexgiess We had str\u00e4va out one of our military facilities.",
+        "created_at": "2022-03-14 16:59:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503412476968198144,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503412476968198144,
+        "text": "@alexgiess Kind of scary than an intelligence office hadn't thought of that as an attack vector.\n\nI wonder how many packages they get anyway.",
+        "created_at": "2022-03-14 16:47:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 8030292,
+        "referenced_tweets": {
+            "id": 1503408070558244869,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503400322558951435,
+        "text": "And, of course, how do you address that problem?",
+        "created_at": "2022-03-14 15:59:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503399333990785026,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503399333990785026,
+        "text": "One of the unintended but foreseeable consequences questions I ask during product interviews:\n\nA toll bridge has peak pricing of $8 between 5 am and 10 am. At other times it has a toll of $6. What was a big negative consequence?",
+        "created_at": "2022-03-14 15:55:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503398061984284672,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503398061984284672,
+        "text": "Good piece on second-order effects and unintended consequences. Important when designing products and services. You can\u2019t necessarily predict them all, but it is good to at least think about them. \n\nhttps://t.co/xpv84uUlm4",
+        "created_at": "2022-03-14 15:50:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503382536222695426,
+        "text": "Funny/not funny: using AirTags to find a secret government agency. This isn\u2019t the usual AirTag scare story. \n\nSomeone who knows German better than my interpretation of google translate results can definitely explain it better. \n\nhttps://t.co/g44yeZY1as",
+        "created_at": "2022-03-14 14:48:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503187154549108739,
+        "text": "@maxrogo The wife has told me to stop complaining about intuit and regulatory capture.",
+        "created_at": "2022-03-14 01:52:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503174569053491205,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503174569053491205,
+        "text": "@maxrogo No doubt citizens united poured an oil tanker of fuel on our corruption.",
+        "created_at": "2022-03-14 01:01:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 30628216,
+        "referenced_tweets": {
+            "id": 1503171178751430657,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503166969973022721,
+        "text": "@maxrogo Is there a developed country so open to corruption through lobbying and campaign finance as the U.S.?",
+        "created_at": "2022-03-14 00:31:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 30628216,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503162264752328704,
+        "text": "@maxrogo @Tpindell @AdrianCJax @deray Because US regulators let them. They show the accurate prices in EU.",
+        "created_at": "2022-03-14 00:13:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 30628216,
+        "referenced_tweets": {
+            "id": 1503082702206951425,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503123369838841858,
+        "text": "These days, co-tenancy requirements can cause a death spiral for a mall and its tenants.",
+        "created_at": "2022-03-13 21:38:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503121834182512640,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503121834182512640,
+        "text": "There was a time when malls tried to get a portion of sales for online orders shipped within their service area. https://t.co/vCrm5wbOP6",
+        "created_at": "2022-03-13 21:32:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503069570508083203,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1503121396427214850,
+        "text": "@sidecarcap @conormyhrvold Malls often have to give rebates to movie theaters if foot traffic falls below a certain level.",
+        "created_at": "2022-03-13 21:30:42+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1008000529,
+        "referenced_tweets": {
+            "id": 1503069570508083203,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503120014353731584,
+        "text": "I love the reviews of national parks who give 1 star because they don\u2019t see bears at Yellowstone.\n\nBut my all time favorite is the 1-star of a restaurant because reviewer\u2019s girlfriend dumped him for the waiter. https://t.co/LMffFAdA2T",
+        "created_at": "2022-03-13 21:25:12+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503096617666240512,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1503115304398127104,
+        "text": "Always know the competitive set. It will help you develop your product. Investors will ask about it.\n\nThe worst answer to that question : \u201cwe don\u2019t have any competition.\" https://t.co/XAARxzXunB",
+        "created_at": "2022-03-13 21:06:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503107063416868867,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1503109709267542016,
+        "text": "Always a fun topic. What happens if people are of the same gender? \n\nBarring size, health, etc., how about just flipping a coin? Or, if there is only one each way, you each get a direction. @garyleff\n\nhttps://t.co/yQm0sYUeOL",
+        "created_at": "2022-03-13 20:44:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503107377746178048,
+        "text": "@vmarks @johnkoetsier Fair. But that's if you do it poorly. \ud83d\ude09",
+        "created_at": "2022-03-13 20:34:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 9130522,
+        "referenced_tweets": {
+            "id": 1503102009968414720,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503101723669196800,
+        "text": "@vmarks @johnkoetsier general content consumption is the one that comes to mind for me.\n\nI don't want to download your app before I can read the story I just came to read.",
+        "created_at": "2022-03-13 20:12:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 9130522,
+        "referenced_tweets": {
+            "id": 1503099271444369409,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503101060423905281,
+        "text": "@johnkoetsier There\u2019s a great series by @rklau on OKRs.\n\nIf he had an OKR for this content, it would likely be \u201cEducate people on how to set OKRs,\u201d not \u201ccreate an app to educate people on how to set OKRs.\u201d",
+        "created_at": "2022-03-13 20:09:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503100477516365826,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503100477516365826,
+        "text": "@johnkoetsier So why do companies invest in apps (and usually 2 apps) when they could do the same with an easier to deploy and maintain mobile site?\n\nOne reason: poorly set OKRs. You get a step toward a promotion by building the app, not doing the best thing to serve the customer.",
+        "created_at": "2022-03-13 20:07:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503099507403198465,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503099507403198465,
+        "text": "@johnkoetsier e.g. Google has an app for search, it also has a mobile site for search. I almost always use the site because the app adds little value.\n\nOTOH, for maps, the app adds tremendous value so I use the app.",
+        "created_at": "2022-03-13 20:03:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503095344913006592,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503095344913006592,
+        "text": "@johnkoetsier Forcing me to install an app for things that don\u2019t require access to specialized  phone capabilities is likely to make me find something that does.",
+        "created_at": "2022-03-13 19:47:11+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503094750907305986,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503094750907305986,
+        "text": "Only 91%?\n\nIf something can easily be done by mobile Web, it\u2019s vanity to try to force people into a mobile app.\n\nMaybe once you\u2019ve delivered value?\n\nhttps://t.co/FHqD6Z8rSw\n\n@johnkoetsier",
+        "created_at": "2022-03-13 19:44:49+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 2,
+            "like_count": 5,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503093751702441986,
+        "text": "@robpegoraro I LOLed at Trump calling to NPR a couple of months ago. Clearly he didn't know anything about the audience.\n\nNot a waste of energy at least.",
+        "created_at": "2022-03-13 19:40:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 7301572,
+        "referenced_tweets": {
+            "id": 1503093426706911235,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503093092336906243,
+        "text": "@skrenta They spend all of their time developing algorithms to avoid dividing the world and suppress misinformation? lol.",
+        "created_at": "2022-03-13 19:38:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1503092820784996354,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503092820784996354,
+        "text": "@skrenta They don't want to invest in it? Seems obvious that you should be able to type @ and search across handle, full name, etc. \n\nIt's easier for me to search google for someone's user name than it is to use twitter search.",
+        "created_at": "2022-03-13 19:37:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14479992,
+        "referenced_tweets": {
+            "id": 1502826516010348545,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502418235278254080,
+        "text": "A compilation by \u2066@PreetBharara\u2069 of some of the great ways people have helped Ukrainian refugees. Caution: may cause tears to form in your eyes.  https://t.co/PqydQXt0wo",
+        "created_at": "2022-03-11 22:56:35+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502336083270332417,
+        "text": "Out of sight, out of mind. Contactless and cashless makes this a lot harder. \n\nhttps://t.co/u5bX9uj5qk",
+        "created_at": "2022-03-11 17:30:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502306874602840070,
+        "text": "@garyleff only 8 days notice this time!",
+        "created_at": "2022-03-11 15:34:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17695697,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500933825022464001,
+        "text": "BUT, I hope that we spend the billions in the broadband infrastructure bill smartly. It shouldn\u2019t be a subsidy to Comcast, Verizon, etc. where the public owns the risk and the profits are privatized. \n\nI hope reporters like @ShiraOvide and @robpegoraro keep apprised.",
+        "created_at": "2022-03-07 20:38:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1500933243943538688,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500932719739432961,
+        "text": "Interesting discussion of the state of internet w/\u2066@felixsalmon\u2069 \u2066@EmilyRPeck\u2069 \u2066@ShiraOvide\u2069 \u2026 if Americans went overseas and used mobile and broadband networks, they wouldn\u2019t tolerate the service and prices we have in the US.  https://t.co/zHuzC4cOq3",
+        "created_at": "2022-03-07 20:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500884313369309184,
+        "text": "The app I really want (which is unlikely to happen) is TiVo app for Apple TV or Chromecast.",
+        "created_at": "2022-03-07 17:21:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1500883280886857732,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500883280886857732,
+        "text": "And the circle is complete? https://t.co/JEUpKC0TEw",
+        "created_at": "2022-03-07 17:17:13+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500883148187467777,
+        "text": "@rsg so all of a sudden you\u2019re an expert on twitter etiquette? \ud83d\ude09",
+        "created_at": "2022-03-07 17:16:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 9,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 2948211,
+        "referenced_tweets": {
+            "id": 1500882961494913024,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500601705888505856,
+        "text": "Yes, please. All of the best places in SF are in Fisherwan\u2019s Wharf! Tourists should spend 3-5 days there. https://t.co/ogAbAdr0Xf",
+        "created_at": "2022-03-06 22:38:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500591256757407744,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1500230139631652867,
+        "text": "Thanks for sharing. I haven't gone this deep on my own challenges, partly in fear of the repercussions. \n\nI know one person who was forced out of their role,  another who was denied opportunities because of this. \n\nUnfortunate that we treat this differently from physical illness. https://t.co/gCmId2JMdy",
+        "created_at": "2022-03-05 22:01:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499898173875048448,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1499845061474877440,
+        "text": "@rsg not mutual exclusive.",
+        "created_at": "2022-03-04 20:31:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2948211,
+        "referenced_tweets": {
+            "id": 1499844246223925249,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499808566487646210,
+        "text": "#travel One good way to cripple Aeroflot: disconnect them from Sabre. It'd be hard for them to function even within Russia.",
+        "created_at": "2022-03-04 18:06:42+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499478791101431828,
+        "text": "\"Internal research shows that a given feature \u2014 such as one that shows people photo memories \u2014 can spark feelings of connection for some and sadness for others.\"\n\nBoth = engagement. So, who cares? https://t.co/Kv9ubzwcLQ",
+        "created_at": "2022-03-03 20:16:17+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499427541479673856,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1499181045723193344,
+        "text": "Who has the stronger brand?",
+        "created_at": "2022-03-03 00:33:09+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499069847157690368,
+        "text": "When @hunterwalk and @joshelman get back from @upfrontvc, I\u2019m pitching them my idea for a platform for ride sharing captured Russian tanks.",
+        "created_at": "2022-03-02 17:11:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1499063329368674307,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499063329368674307,
+        "text": "If I get to Ukraine and can\u2019t capture a tank, I should still be able to claim my travel expenses as schedule c loss against ordinary income, right?",
+        "created_at": "2022-03-02 16:45:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1499061283454259200,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499061283454259200,
+        "text": "Seems like it would be Schedule C self-employment. But then I should be able to deduct my travel expenses.",
+        "created_at": "2022-03-02 16:37:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1499059843914625027,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499059843914625027,
+        "text": "Question for @IRStaxpros: if I, as a US citizen, capture a Russian tank, do I have to declare it under our worldwide taxation? I know Ukraine has said it isn\u2019t taxing it. Thoughts, @crampell ?",
+        "created_at": "2022-03-02 16:31:32+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498461371645579266,
+        "text": "Remember: Google has run tests and found that in some cases, interviewers wouldn't hire themselves if presented with their own credentials.",
+        "created_at": "2022-03-01 00:53:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1498460097265102849,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498460598392086531,
+        "text": "@mdudas @CoopNFT I've heard great things about Bandon Dunes. A bit hard to get to.",
+        "created_at": "2022-03-01 00:50:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 7184612,
+        "referenced_tweets": {
+            "id": 1498448995013869577,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498460097265102849,
+        "text": "And most companies' interview processes (and egos of interviewers) don't allow for the fact that the interviewee may know more than the interviewer on some topics. https://t.co/5JGgCzHqT1",
+        "created_at": "2022-03-01 00:48:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498456734049787906,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1498412942701649921,
+        "text": "Is Zelenskyy's mother Indian? https://t.co/L86QDi4ftF",
+        "created_at": "2022-02-28 21:40:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498011321937412100,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1498140445540425729,
+        "text": "We can have our own Big Mac index. Put these in order Montgomery, AL; San Francisco, CA; East Lansing, MI; Ogden, UT. https://t.co/WDs8aycEtY",
+        "created_at": "2022-02-28 03:38:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498112971217653763,
+        "text": "@rdoddala many crypto bros awfully silent on ability to put money in crypto away from government eyes.",
+        "created_at": "2022-02-28 01:49:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17927731,
+        "referenced_tweets": {
+            "id": 1498100380655304706,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498106374202351617,
+        "text": "Forgot the link.\n\nhttps://t.co/xlyRX0IDd9",
+        "created_at": "2022-02-28 01:22:47+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1498099543778361344,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497963130416091140,
+        "text": "Genius and succinct, @jeffiel. \n\nAlways build from the user, not the technology. \n\nThis should be like the \u201cBELIEVE\u201d sign in Ted Lasso. Posted prominently so everyone sees it, everyday. https://t.co/3URUmGLFHh",
+        "created_at": "2022-02-27 15:53:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497957180686749697,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1497622606102466564,
+        "text": "Google Assistant and Alexa are pronouncing it Kiev. Siri is pronouncing it Kyiv.",
+        "created_at": "2022-02-26 17:20:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496645318506532864,
+        "text": "@stevesi United forces you to pick one of their answers. You need to be able to tell your Warhols from your Pollocks.",
+        "created_at": "2022-02-24 00:37:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 13418072,
+        "referenced_tweets": {
+            "id": 1496630030595596288,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496644165492305920,
+        "text": "Nice update to lounge access for AmEx platinum.\n\nThe Virgin Clubhouses are usually much better than what US carriers offer.\n\nThe LHR one (not included here) is fantastic.\n\nhttps://t.co/HtW9jj9OCI",
+        "created_at": "2022-02-24 00:32:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495991111227445249,
+        "text": "Insulin alone is &gt;$20 billion business. The test strip market is billions more.",
+        "created_at": "2022-02-22 05:17:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770550,
+        "referenced_tweets": {
+            "id": 1495987174466256896,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495987174466256896,
+        "text": "A lot of pharma companies have billions in incentives not to see diabetes cured. https://t.co/7pT4aEblkU",
+        "created_at": "2022-02-22 05:01:51+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 2,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495439319917637637,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1495895299298304003,
+        "text": "@rsg @dwr Lists only here!",
+        "created_at": "2022-02-21 22:56:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2948211,
+        "referenced_tweets": {
+            "id": 1495882536609886216,
+            "type": "replied_to"
+        }
+    }
+]

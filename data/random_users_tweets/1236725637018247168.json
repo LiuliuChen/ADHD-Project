@@ -1,0 +1,3073 @@
+[
+    {
+        "tweet_id": 1507127646915907594,
+        "text": "@punzelita yes yes!",
+        "created_at": "2022-03-24 22:50:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1507117563632709648,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507095942205526021,
+        "text": "@punzelita HEHEHE",
+        "created_at": "2022-03-24 20:44:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1507087067066482692,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507084085474304007,
+        "text": "@punzelita nene and nini \ud83e\udd79",
+        "created_at": "2022-03-24 19:57:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1504586080229552129,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507084003970531336,
+        "text": "@punzelita THANK U PUNZIEEE \ud83e\udd70",
+        "created_at": "2022-03-24 19:56:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1507083839763464192,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507082514812313605,
+        "text": "hehe i drew these https://t.co/X0oGgOOIOZ",
+        "created_at": "2022-03-24 19:50:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507082360084471809,
+        "text": "@punzelita yes!!! \ud83e\udd79\ud83e\udd79\ud83e\udd79",
+        "created_at": "2022-03-24 19:50:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1507082113492799523,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507081154448474118,
+        "text": "@bwallewina HEHEE thank u tt \ud83e\udd7a\ud83e\udd7a",
+        "created_at": "2022-03-24 19:45:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1507079285017919503,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068279596240909,
+        "text": "my carrd didnt turn out the way i wanted &amp; now i wanna redo it  \ud83d\ude2d",
+        "created_at": "2022-03-24 18:54:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507068065317535746,
+        "text": "v thankful for the few i have tho \ud83e\udd79",
+        "created_at": "2022-03-24 18:53:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236725637018247168,
+        "referenced_tweets": {
+            "id": 1507067998426873857,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507067998426873857,
+        "text": "Its me https://t.co/CJhxd7BfFV",
+        "created_at": "2022-03-24 18:53:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505947135971409925,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507067364076044291,
+        "text": "@PureSoftieBaby eee thank u!!",
+        "created_at": "2022-03-24 18:50:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1327360260336717824,
+        "referenced_tweets": {
+            "id": 1507066817411485706,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507065900746346499,
+        "text": "&amp; &amp; a hello kitty boba cup bc me &amp; daddie keep making bobaaa",
+        "created_at": "2022-03-24 18:44:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236725637018247168,
+        "referenced_tweets": {
+            "id": 1507065754067382279,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507065754067382279,
+        "text": "i also got fuzzy belly joelle :D :D",
+        "created_at": "2022-03-24 18:44:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507065652758069254,
+        "text": "nini so happy!!! https://t.co/cxU0bwnx5y",
+        "created_at": "2022-03-24 18:43:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507065455135137797,
+        "text": "@bwallewina i just posted it :)",
+        "created_at": "2022-03-24 18:42:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1507057628396064771,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507065386717663243,
+        "text": "i got the kuromi bag :D https://t.co/ANnXZ9Rhxf",
+        "created_at": "2022-03-24 18:42:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 12,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507052451471499266,
+        "text": "will show pics when i get home hehe",
+        "created_at": "2022-03-24 17:51:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236725637018247168,
+        "referenced_tweets": {
+            "id": 1507052412254760969,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507052412254760969,
+        "text": "nobodys ever gonna guess what i got today :o",
+        "created_at": "2022-03-24 17:51:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 4,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506989570642042882,
+        "text": "good morninggg",
+        "created_at": "2022-03-24 13:41:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506778368888516609,
+        "text": "@irlpwncess ive wanted to do this for so long! i used to have one but it died \ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2022-03-23 23:42:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1444730963255234560,
+        "referenced_tweets": {
+            "id": 1506753006594928648,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506778250206396420,
+        "text": "@irlpwncess hii",
+        "created_at": "2022-03-23 23:41:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1444730963255234560,
+        "referenced_tweets": {
+            "id": 1506777983666765831,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506767664945016842,
+        "text": "RT @cogimyun_sanrio: \u30c1\u30e5\u30fc\u30ea\u30c3\u30d7\u304c\u54b2\u3044\u305f\u307f\u3085\u3093\uff65\uff65\u2661\u304b\u308f\u3044\u3044\u307f\u3085\u3093\uff65\uff65\uff01\n\n#\u3053\u304e\u307f\u3085\u3093\u3000#\u3053\u304e\u307f\u3087\u3093\u3000#\u30c1\u30e5\u30fc\u30ea\u30c3\u30d7 https://t.co/EH38ay7YmV",
+        "created_at": "2022-03-23 22:59:40+00:00",
+        "public_metrics": {
+            "retweet_count": 613,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506465797526667266,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506757421770940430,
+        "text": "@punzelita so cutieeee",
+        "created_at": "2022-03-23 22:18:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1506752637219180549,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506757349964460053,
+        "text": "@mewmwaid i connect w tohru and kyo!!",
+        "created_at": "2022-03-23 22:18:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1409573402202021897,
+        "referenced_tweets": {
+            "id": 1506756875244740611,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506749287883067404,
+        "text": "cant wait for my outfit to come in \ud83d\udcad\ud83c\udf80",
+        "created_at": "2022-03-23 21:46:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506744352915210245,
+        "text": "@mewmwaid i loveee fruits basket!",
+        "created_at": "2022-03-23 21:27:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1409573402202021897,
+        "referenced_tweets": {
+            "id": 1506632560553742336,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506732046370103306,
+        "text": "@mewmwaid @binkiebeIIe i rq! mines @CHARMMYKlTTY",
+        "created_at": "2022-03-23 20:38:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1409573402202021897,
+        "referenced_tweets": {
+            "id": 1506731293861683205,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506728812444360707,
+        "text": "who wants my priv :P",
+        "created_at": "2022-03-23 20:25:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506722868150820866,
+        "text": "@irlpwncess EEE first circleeee",
+        "created_at": "2022-03-23 20:01:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1444730963255234560,
+        "referenced_tweets": {
+            "id": 1506721617459785732,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506722786705870856,
+        "text": "@mewmwaid YESYESYES",
+        "created_at": "2022-03-23 20:01:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1409573402202021897,
+        "referenced_tweets": {
+            "id": 1506722375068495877,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506706434632962057,
+        "text": "@mewmwaid AHHH first circle \ud83e\udd7a",
+        "created_at": "2022-03-23 18:56:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1409573402202021897,
+        "referenced_tweets": {
+            "id": 1506694261747732483,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506692072119619593,
+        "text": "im getting a supa cute pink &amp; white outfit and pink bows im gonna look just like lil marie \ud83c\udf80",
+        "created_at": "2022-03-23 17:59:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506506074786242566,
+        "text": "@pwuncesses sleep well!!",
+        "created_at": "2022-03-23 05:40:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1265443479770955776,
+        "referenced_tweets": {
+            "id": 1506505233383534592,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506505563701657601,
+        "text": "@pwuncesses me too hehhehe",
+        "created_at": "2022-03-23 05:38:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1265443479770955776,
+        "referenced_tweets": {
+            "id": 1506505487751294978,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506505369593565189,
+        "text": "@pwuncesses omg omg that would be so cuteee marie bffs !",
+        "created_at": "2022-03-23 05:37:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1265443479770955776,
+        "referenced_tweets": {
+            "id": 1506505091297202182,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506503406139154434,
+        "text": "@pwuncesses WHERE DID U FIND THESEEE",
+        "created_at": "2022-03-23 05:29:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1265443479770955776,
+        "referenced_tweets": {
+            "id": 1506498205684490243,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506502955905732609,
+        "text": "RT @lsrpup: wan so bad &gt; &lt; https://t.co/SE65Zx2Sg4",
+        "created_at": "2022-03-23 05:27:48+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506456867362549768,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506495424441499649,
+        "text": "RT @Iuvrrusty: hi please hb me if you agree with this person please n thank you &lt;333 /srs https://t.co/4uTeR41P83",
+        "created_at": "2022-03-23 04:57:53+00:00",
+        "public_metrics": {
+            "retweet_count": 27,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506494267006631940,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506494197381144576,
+        "text": "@punzelita @babybwttle @pupwire @lsrpup @SOFTFUSS @buniepet @puffpon @dalilemmy @irlpwncess @oatmealtoddler @tiniiebabiie @PureSoftieBaby @pocketpunzie @momiiscake wow thank you so much punzie ):",
+        "created_at": "2022-03-23 04:53:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1506491504629411840,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506440614438703108,
+        "text": "disney pls pls pls restock",
+        "created_at": "2022-03-23 01:20:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236725637018247168,
+        "referenced_tweets": {
+            "id": 1506440575339409423,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506440575339409423,
+        "text": "i want this so bad ): https://t.co/lKs3HVhe98",
+        "created_at": "2022-03-23 01:19:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506440401586167808,
+        "text": "@punzelita its so good!! ur so talented \ud83e\udd7a",
+        "created_at": "2022-03-23 01:19:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1506440221860147200,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506440103530532869,
+        "text": "RT @punzelita: spring  is  here  . .  !  \ud83c\udf38\ud83c\udf3f\ud83c\udf1f\ud83c\udf80 https://t.co/8neIPXn3NI",
+        "created_at": "2022-03-23 01:18:03+00:00",
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506439462510768130,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506440048656498690,
+        "text": "@punzelita did u draw this :o",
+        "created_at": "2022-03-23 01:17:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1506439462510768130,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506435983918706688,
+        "text": "@bqbytime yesss ur acc is so cute \ud83e\udd7a\ud83e\udd7a",
+        "created_at": "2022-03-23 01:01:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1163723040217341953,
+        "referenced_tweets": {
+            "id": 1506435876162842626,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506435564601491459,
+        "text": "@bqbytime youtube videos helped me a lot in the beginning (:",
+        "created_at": "2022-03-23 01:00:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1163723040217341953,
+        "referenced_tweets": {
+            "id": 1506435367553187848,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506435486830764037,
+        "text": "@bqbytime u are!!",
+        "created_at": "2022-03-23 00:59:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1163723040217341953,
+        "referenced_tweets": {
+            "id": 1506432779613093897,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506435407688482823,
+        "text": "watching aristocats \ud83c\udf7c\ud83e\udd0d\ud83e\udee7 https://t.co/3RFmYR40pa",
+        "created_at": "2022-03-23 00:59:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506426405638316035,
+        "text": "RT @SoftnessDaily: animal ice cream cones \ud83c\udf80 https://t.co/zkNjwMx0KL",
+        "created_at": "2022-03-23 00:23:37+00:00",
+        "public_metrics": {
+            "retweet_count": 4207,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506397746034581510,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506421631333322756,
+        "text": "put it in cofy :3 https://t.co/wXdPANnv5O",
+        "created_at": "2022-03-23 00:04:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506415738910920706,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506415738910920706,
+        "text": "just made boba :P",
+        "created_at": "2022-03-22 23:41:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506353921568251908,
+        "text": "@irlpwncess mines @charmmykltty !!",
+        "created_at": "2022-03-22 19:35:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1444730963255234560,
+        "referenced_tweets": {
+            "id": 1506352617290706951,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506296367584526348,
+        "text": "@mewmwaid omgomg yes pls!!!",
+        "created_at": "2022-03-22 15:46:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1409573402202021897,
+        "referenced_tweets": {
+            "id": 1506293378778120210,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506275266779303947,
+        "text": "@mewmwaid i love able sisters shopping sprees! i just restarted so i dont have the shop yet )):",
+        "created_at": "2022-03-22 14:23:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1409573402202021897,
+        "referenced_tweets": {
+            "id": 1506273461739696134,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506271118939860997,
+        "text": "@mewmwaid ur character is so cuteeee",
+        "created_at": "2022-03-22 14:06:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1409573402202021897,
+        "referenced_tweets": {
+            "id": 1506270022288740360,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506263122474110976,
+        "text": "marie hair clip daddie made for me https://t.co/YGxg83t0Qy",
+        "created_at": "2022-03-22 13:34:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 32,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506070622627110915,
+        "text": "@irlpwncess shes u!!",
+        "created_at": "2022-03-22 00:49:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1444730963255234560,
+        "referenced_tweets": {
+            "id": 1506055485501366284,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506070008945860611,
+        "text": "\u0b68\u0b67 https://t.co/oKwlwIzkpF \u0b68\u0b67 https://t.co/iPKYa6B0Hf",
+        "created_at": "2022-03-22 00:47:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506047967702269964,
+        "text": "and put in effort this time its gonna be so cute &amp; &amp; its gonna be marie themed mhm",
+        "created_at": "2022-03-21 23:19:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236725637018247168,
+        "referenced_tweets": {
+            "id": 1506047884000649230,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506047884000649230,
+        "text": "gonna redo my carrd tonight :P",
+        "created_at": "2022-03-21 23:19:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506035378662354946,
+        "text": "RT @bukemochi: https://t.co/3GzgBwlCGC",
+        "created_at": "2022-03-21 22:29:49+00:00",
+        "public_metrics": {
+            "retweet_count": 295,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506018883056320512,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506025613345247232,
+        "text": "@punzelita ooo yes pls i would love to see them \ud83e\udd7a",
+        "created_at": "2022-03-21 21:51:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1506025446332194819,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506025181457928197,
+        "text": "@punzelita your dress!!!",
+        "created_at": "2022-03-21 21:49:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1506022813223714821,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506020985551859712,
+        "text": "RT @bwallewina: you\u2019re invited to tt\u2019s tinie sweepover..\n\n\ud83e\uddf8\ud83c\udf80\u2601\ufe0f\ud83e\uddf8\ud83c\udf80\u2601\ufe0f\ud83e\uddf8\ud83c\udf80\u2601\ufe0f\ud83e\uddf8\ud83c\udf80\u2601\ufe0f\n\n\u2661 pwaytime wif dollies in pwincess tent\n\u2661 dwess up time in matc\u2026",
+        "created_at": "2022-03-21 21:32:38+00:00",
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506013057331331072,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506020971911647239,
+        "text": "@bwallewina this is so cute!!!\ud83e\udd7a",
+        "created_at": "2022-03-21 21:32:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1506013057331331072,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505989954475859975,
+        "text": "@punzelita eee yes!",
+        "created_at": "2022-03-21 19:29:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1505988715897892864,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505978848588009476,
+        "text": "@bwallewina me too \ud83e\udd7a\ud83e\udd7a one day ill show u my lil marie collection!!",
+        "created_at": "2022-03-21 18:45:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1505978675795267585,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505978579221417990,
+        "text": "RT @mewmwaid: \u2800\u2800 \u2800 pls read before following !\n\ufe4b\ufe4b\ufe4b\ufe4b\ufe4b\ufe4b\ufe4b\ufe4b\ufe4b\ufe4b\ufe4b\ufe4b\ufe4b\ufe4b\ufe4b\ufe4b\n\u2800\u2800welcome to m lil hideout \u0aee\u208d \u02c3\u0335\u0348\u1dc4 . \u02c2\u0335\u0348\u1dc5 \u208e\u10d0 \n\u22c6 \u08ea \ud81a\udc17 \ud83c\udf80 \u02d6 https://t.co/1pmF3i\u2026",
+        "created_at": "2022-03-21 18:44:07+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505977844580720648,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505974423467307015,
+        "text": "@bwallewina omg!!!",
+        "created_at": "2022-03-21 18:27:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1505966940740800517,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505944370918436866,
+        "text": "ANIMAL CROSSING",
+        "created_at": "2022-03-21 16:28:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236725637018247168,
+        "referenced_tweets": {
+            "id": 1505944292476469253,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505944292476469253,
+        "text": "been playing animal w daddie alll morning",
+        "created_at": "2022-03-21 16:27:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505943919116304390,
+        "text": "@punzelita send me lots of pics!!!",
+        "created_at": "2022-03-21 16:26:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1505943678958727174,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505943855526551564,
+        "text": "@bwallewina thank u tt!!! it has baby hello kitty on it \ud83e\udd79\ud83e\udd79 https://t.co/pTVPfbwDkf",
+        "created_at": "2022-03-21 16:26:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1505943633333215247,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505943130536820740,
+        "text": "@bwallewina yayyy im excited!!",
+        "created_at": "2022-03-21 16:23:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1505943041953222664,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505943040002871297,
+        "text": "veggie nuggies and mac and cheese for today \ud83e\udd73 https://t.co/Kj9Sb9CsoF",
+        "created_at": "2022-03-21 16:22:54+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 2,
+            "like_count": 66,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505942806308794373,
+        "text": "@bwallewina ooo show us show us!!",
+        "created_at": "2022-03-21 16:21:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1505942268452257795,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505942718584958978,
+        "text": "@punzelita good mornin punzie!! happy disney day!! \ud83e\udd73\ud83e\udd73",
+        "created_at": "2022-03-21 16:21:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1505942040101543939,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505912428265103361,
+        "text": "RT @SanrioPlushBot: \u3010Hello Kitty\u3011Cherry Blossom 2020 (Sanrio) https://t.co/E00bd2nsmh",
+        "created_at": "2022-03-21 14:21:16+00:00",
+        "public_metrics": {
+            "retweet_count": 51,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505399437379575812,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505892663794573314,
+        "text": "RT @sanrio_ranking: \u30ea\u30dc\u30f3\u304c\u304a\u4f3c\u5408\u3044\u306e #\u30c1\u30e3\u30fc\u30df\u30fc\u30ad\u30c6\u30a3 \u3068 #\u30bf\u30a4\u30cb\u30fc\u30c1\u30e3\u30e0 \u3082\u767b\u5834\uff01\n2\u4eba\u306f\u30ad\u30c6\u30a3\u3068\u3068\u3063\u3066\u3082\u4ef2\u826f\u3057\u306a\u3093\u3060\u3088\u2661 \u30b9\u30c6\u30ad\u306a\u30ea\u30dc\u30f3\u3092\u3064\u3051\u305f\u3089\u3001\u81ea\u7136\u3068\u7b11\u9854\u304c\u3042\u3075\u308c\u3061\u3083\u3046\u306d\u266a\n#\u30b5\u30f3\u30ea\u30aa\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u5927\u8cde https://t.co/xdxgVDiz\u2026",
+        "created_at": "2022-03-21 13:02:43+00:00",
+        "public_metrics": {
+            "retweet_count": 449,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505741019190820864,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505891797062594566,
+        "text": "Need a tent but my room has too much furniture \ud83d\ude2d\ud83d\ude2d https://t.co/QnyM5f5v2h",
+        "created_at": "2022-03-21 12:59:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505253865700171783,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505891455474274306,
+        "text": "@sicklylamb yes!! i dont have many yet cause i just started!!",
+        "created_at": "2022-03-21 12:57:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1448111285967769603,
+        "referenced_tweets": {
+            "id": 1505716067758481409,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505721371783053316,
+        "text": "@puppychii thank you!!",
+        "created_at": "2022-03-21 01:42:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1479170917,
+        "referenced_tweets": {
+            "id": 1505721011001765890,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505709546123235337,
+        "text": "LOL THE MAKERS OF E6000 RTED THIS https://t.co/uU7ryGWD96",
+        "created_at": "2022-03-21 00:55:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505241508013920260,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505690074192785408,
+        "text": "RT @SoftnessDaily: she wanted to show you her new backpack \ud83c\udf80 https://t.co/0Uymwhl4cW",
+        "created_at": "2022-03-20 23:37:42+00:00",
+        "public_metrics": {
+            "retweet_count": 302,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505687909231382531,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505621083558395911,
+        "text": "RT @Wishmemell: \u3075\u3093\u3075\u3093\u3075\u30fc\u3093\u266a https://t.co/5TZZvWiqgm",
+        "created_at": "2022-03-20 19:03:34+00:00",
+        "public_metrics": {
+            "retweet_count": 745,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505423916751208450,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505618153757454337,
+        "text": "i keep tweeting today hehe pls forgive me dadas at work &amp; babies manic &amp; i just have so many thoughts!!",
+        "created_at": "2022-03-20 18:51:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505617777087987716,
+        "text": "@punzelita hehe thank u!!",
+        "created_at": "2022-03-20 18:50:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1505616993692520449,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505617661455175681,
+        "text": "@bwallewina princess playdate in the princess tent!! https://t.co/UJPlLM0nQk",
+        "created_at": "2022-03-20 18:49:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1505616832815935488,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505617093319966721,
+        "text": "RT @puffpon: tinie urge 2 kick feet everytime ur cg comes in 2 da room :&lt;",
+        "created_at": "2022-03-20 18:47:42+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496348014293975050,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505616315343646732,
+        "text": "i made that box :D",
+        "created_at": "2022-03-20 18:44:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236725637018247168,
+        "referenced_tweets": {
+            "id": 1505616191334895624,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505616191334895624,
+        "text": "my babie calico critters :P https://t.co/hqR5AvPNc3",
+        "created_at": "2022-03-20 18:44:07+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 5,
+            "like_count": 106,
+            "quote_count": 2
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505615918914752516,
+        "text": "@bwallewina ahh so jealous!!",
+        "created_at": "2022-03-20 18:43:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1505582589939228673,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505615840930062344,
+        "text": "@bwallewina eeee yes pls!!",
+        "created_at": "2022-03-20 18:42:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1505614008551944200,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505613728322138112,
+        "text": "@bwallewina omg sign me up \ud83e\udd7a\ud83e\udd7a",
+        "created_at": "2022-03-20 18:34:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1505613632952020994,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505612114530119686,
+        "text": "@angelicstrwbrry yes!!! and just being able to be small with someone in person is so relieving and nice \u263a\ufe0f",
+        "created_at": "2022-03-20 18:27:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1294871034512973824,
+        "referenced_tweets": {
+            "id": 1505611893125394437,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505611746408640516,
+        "text": "Ok done ranting who wants to see my baby calico critters :3",
+        "created_at": "2022-03-20 18:26:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505611648790315012,
+        "text": "literally my ex was like \u201ci think pacifiers are hot!\u201d and they were super into ddlg i was so uncomfy ): i couldnt be any more greatful for my fianc\u00e9 and everything theyve done for me. first person ive ever been able to be small w and it makes me so so super happy",
+        "created_at": "2022-03-20 18:26:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236725637018247168,
+        "referenced_tweets": {
+            "id": 1505611261718978571,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505611261718978571,
+        "text": "daddy is the first person who Hasnt sexualized me and/or made me feel weird for regressing &amp; they always make me feel so valid &amp; loved &amp; cared for i couldnt be any happier \ud83e\udd79\ud83e\udd79\ud83e\udd79\ud83e\udd79\ud83e\udd79 https://t.co/ndbi10mfdI",
+        "created_at": "2022-03-20 18:24:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505609272020852740,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505610699334209536,
+        "text": "@angelicstrwbrry having an irl cg is so fun!!",
+        "created_at": "2022-03-20 18:22:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1294871034512973824,
+        "referenced_tweets": {
+            "id": 1505589568845799430,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505609731603324931,
+        "text": "RT @hellokitty: Hello #FirstDayofSpring! Comment with a \ud83c\udf38 if it\u2019s your favorite season. https://t.co/NjZiuKjnrj",
+        "created_at": "2022-03-20 18:18:27+00:00",
+        "public_metrics": {
+            "retweet_count": 977,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505559838088122373,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505609660862189571,
+        "text": "they didnt make one!!! imma try again today https://t.co/lbbdAGgzVs",
+        "created_at": "2022-03-20 18:18:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504886779823988742,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505609272020852740,
+        "text": "ive had a really hard time accepting myself as an age regressor (due to ppl in the past either telling me i\u2019m weird or sexualizing it &amp; just my own insecurities) but!! being here and making friends who also regress has helped so much \ud83e\udd79\ud83e\udd79\ud83e\udd79 very thankful for all of you!",
+        "created_at": "2022-03-20 18:16:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505608409978183684,
+        "text": "@bwallewina omg the hello kitty bread \ud83e\udd79\ud83e\udd79",
+        "created_at": "2022-03-20 18:13:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1505581209006579714,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505608077445419012,
+        "text": "@punzelita hehhe thank u punziebell!! https://t.co/yWFi08J8Gs",
+        "created_at": "2022-03-20 18:11:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1505607614037590018,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505607369618829316,
+        "text": "EVERYONE!!!! look @ my wallet :D https://t.co/jM0aiIt7LP",
+        "created_at": "2022-03-20 18:09:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 15,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505601485865996294,
+        "text": "RT @punzelita: i  \u2661  princess  toiletries  . .  \ud83e\uddf4\ud83c\udf80\ud83c\udf38\ud83e\udee7 https://t.co/LVSJIc8Vls",
+        "created_at": "2022-03-20 17:45:41+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505598865801560065,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505548769731006466,
+        "text": "hello hellooo",
+        "created_at": "2022-03-20 14:16:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505348015606931458,
+        "text": "i have her!! https://t.co/CsWmRrsTBz",
+        "created_at": "2022-03-20 00:58:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505175174165020674,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505340652409827330,
+        "text": "@punzelita of course!!",
+        "created_at": "2022-03-20 00:29:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1505340444276068352,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505339444555100160,
+        "text": "@punzelita oh no!! u can text me if u need to \ud83e\udd7a i hope everythings okay!!",
+        "created_at": "2022-03-20 00:24:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1505336671696404481,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505311070243667973,
+        "text": "RT @vampireenjoyer: If mangle was ur fav as a kid u are not cisgender",
+        "created_at": "2022-03-19 22:31:41+00:00",
+        "public_metrics": {
+            "retweet_count": 453,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504993450952957954,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505310466108649473,
+        "text": "@punzelita ooo do it do it!! im sure ppl will love ur content!! i was scared of this too at first (i stream!!) but u will be surprised by how many ppl will enjoy it!",
+        "created_at": "2022-03-19 22:29:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1505307549133787137,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505304604317257729,
+        "text": "@pupppygrin aww!!! those r so cute",
+        "created_at": "2022-03-19 22:05:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1501831619157524485,
+        "referenced_tweets": {
+            "id": 1505304502890422275,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505304470548369418,
+        "text": "RT @SoftnessDaily: night sky projector \ud83c\udf80 https://t.co/iizXFv31M1",
+        "created_at": "2022-03-19 22:05:27+00:00",
+        "public_metrics": {
+            "retweet_count": 970,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505242714777993219,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505303546232774665,
+        "text": "@pupppygrin yes!!",
+        "created_at": "2022-03-19 22:01:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1501831619157524485,
+        "referenced_tweets": {
+            "id": 1505303367945314304,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505302397664612358,
+        "text": "@irlpwncess yesyes ofc!!",
+        "created_at": "2022-03-19 21:57:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1444730963255234560,
+        "referenced_tweets": {
+            "id": 1505302327904948232,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505301125121122304,
+        "text": "heres a playlist nobody asked for :P https://t.co/TNOBGfH7wg",
+        "created_at": "2022-03-19 21:52:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505293130756669440,
+        "text": "@bwallewina let me know how the art box is!!",
+        "created_at": "2022-03-19 21:20:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1505286380229902341,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505286723726716929,
+        "text": "i need to get better at art so i can make cute stickers mhm",
+        "created_at": "2022-03-19 20:54:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505285952163524611,
+        "text": "@bwallewina awww!! those r so cute!!",
+        "created_at": "2022-03-19 20:51:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1505285548767916044,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505271860623249412,
+        "text": "@bwallewina yess!!",
+        "created_at": "2022-03-19 19:55:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1505268806985392129,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505266516698312705,
+        "text": "@punzelita yayyyyy!! let me know if u see any marie stuff \ud83e\udd7a\ud83e\udd7a",
+        "created_at": "2022-03-19 19:34:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1505255091703455744,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505265179210223620,
+        "text": "@punzelita eeee yes!! https://t.co/nkDXxKQxq7",
+        "created_at": "2022-03-19 19:29:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1505241758040354817,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505241508013920260,
+        "text": "@cozylilpup i use e6000 cause its the best! and i use a little badazzler to put rhinestones on &amp; stuff but u can do it w ur hands!!",
+        "created_at": "2022-03-19 17:55:16+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 1495603866934591490,
+        "referenced_tweets": {
+            "id": 1505226134551674880,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505241339637739521,
+        "text": "@LividYin oooo yes pls",
+        "created_at": "2022-03-19 17:54:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1450644365123129344,
+        "referenced_tweets": {
+            "id": 1505239156674473985,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505241262760378368,
+        "text": "@punzelita bunny plateee",
+        "created_at": "2022-03-19 17:54:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1505223148718870531,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505241121147994115,
+        "text": "i got cottage living on the sims :P",
+        "created_at": "2022-03-19 17:53:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505192726723284997,
+        "text": "@mewmwaid me too!!",
+        "created_at": "2022-03-19 14:41:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1409573402202021897,
+        "referenced_tweets": {
+            "id": 1505191935065083904,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505168134285705217,
+        "text": "@buniepet thank you again for educating me i really appreciate it",
+        "created_at": "2022-03-19 13:03:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463278369051709444,
+        "referenced_tweets": {
+            "id": 1505167410881613828,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505165041166917633,
+        "text": "@buniepet oh wow i didnt realize. thats terrible",
+        "created_at": "2022-03-19 12:51:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463278369051709444,
+        "referenced_tweets": {
+            "id": 1505164870458691586,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505164714728427520,
+        "text": "@buniepet ohhh thank you so much!! /gen!! sorry about that i was super confused. its crazy &amp; sad that the literal definition on google misinforms ppl /:",
+        "created_at": "2022-03-19 12:50:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463278369051709444,
+        "referenced_tweets": {
+            "id": 1505164354047643654,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505163035807203336,
+        "text": "@cozylilpup just buy a paci, some charms, &amp; glue!! i make them all da time!",
+        "created_at": "2022-03-19 12:43:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1495603866934591490,
+        "referenced_tweets": {
+            "id": 1504989865422868487,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505161264179335173,
+        "text": "@buniepet i tried looking it up and thats all i could find\u2026 very confused",
+        "created_at": "2022-03-19 12:36:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236725637018247168,
+        "referenced_tweets": {
+            "id": 1505161002362494980,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505161002362494980,
+        "text": "@buniepet isnt zionism just supporting jewish rights? /gen",
+        "created_at": "2022-03-19 12:35:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463278369051709444,
+        "referenced_tweets": {
+            "id": 1505148157839261701,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504966468953423872,
+        "text": "RT @disneyarchived: princess and the frog \ud83c\udf80 https://t.co/K6Witxh0xB",
+        "created_at": "2022-03-18 23:42:21+00:00",
+        "public_metrics": {
+            "retweet_count": 45,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504894981462499334,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504940093391446018,
+        "text": "@punzelita AHHH we need to have a playdate &amp; then have lunch w them \u0aee\u2e1d\u2e1d&gt; \u032b &lt;\u2e1d\u2e1d \u10d0",
+        "created_at": "2022-03-18 21:57:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1504939717447413762,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504939612321742848,
+        "text": "@punzelita i have the bunny plate!!",
+        "created_at": "2022-03-18 21:55:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1504933141303111680,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504925749467353092,
+        "text": "@punzelita do u mind if i dm? \ud83e\udd7a",
+        "created_at": "2022-03-18 21:00:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1504925554973106178,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504925284931407872,
+        "text": "@punzelita thats good im so proud of u!! i think we used to be moots on our old accs this sounds familiar\u2026 hehe glad i found u again punzie &amp; supa glad u arent letting them get to u!! :3",
+        "created_at": "2022-03-18 20:58:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1504924896307998724,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504924365749735430,
+        "text": "@punzelita thats so weird &amp; obsessive /: go on priv!!",
+        "created_at": "2022-03-18 20:55:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1504923221627342851,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504923126525837316,
+        "text": "i want a tent so bad !!",
+        "created_at": "2022-03-18 20:50:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504923046766862338,
+        "text": "@irlpwncess super duper cute!!",
+        "created_at": "2022-03-18 20:49:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1444730963255234560,
+        "referenced_tweets": {
+            "id": 1504921938392764417,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504915047906254854,
+        "text": "@punzelita aww yes that would be so cuteee!!",
+        "created_at": "2022-03-18 20:18:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1504914677679091712,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504913944451944455,
+        "text": "@punzelita ooo me me!!!",
+        "created_at": "2022-03-18 20:13:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1504912960862531592,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504911801330417668,
+        "text": "@sweetestbone hehe thank u!!",
+        "created_at": "2022-03-18 20:05:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1392225280308256771,
+        "referenced_tweets": {
+            "id": 1504911657461587969,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504911500225490944,
+        "text": "@sweetestbone im nervous to try it out it seems so intimidating",
+        "created_at": "2022-03-18 20:03:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1392225280308256771,
+        "referenced_tweets": {
+            "id": 1504908973945896972,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504911183136055299,
+        "text": "@bab36594950 ooo whats boring ab it?",
+        "created_at": "2022-03-18 20:02:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1467355794559705088,
+        "referenced_tweets": {
+            "id": 1504910088582176777,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504911006652325890,
+        "text": "wanna b friends w oomfies so bad but idk how to start conversationssss",
+        "created_at": "2022-03-18 20:01:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504910688707399683,
+        "text": "@bwallewina yayayay!!",
+        "created_at": "2022-03-18 20:00:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1504910394997055490,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504909965949116428,
+        "text": "@bwallewina ahh that sounds so fun tt!! show us pics of what u get!!",
+        "created_at": "2022-03-18 19:57:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1504909148869345287,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504909593629147149,
+        "text": "@kuromihrtz hehe okay!! \u208d\u1422.  \u032b.\u1422\u208e",
+        "created_at": "2022-03-18 19:56:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1451040440170565639,
+        "referenced_tweets": {
+            "id": 1504909426997829640,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504909423126396936,
+        "text": "@irlpwncess ooo do u know if anything cool is being added :o",
+        "created_at": "2022-03-18 19:55:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1444730963255234560,
+        "referenced_tweets": {
+            "id": 1504908956845711361,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504909242326732805,
+        "text": "@kuromihrtz ty ezzy! i think imma get it!",
+        "created_at": "2022-03-18 19:54:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1451040440170565639,
+        "referenced_tweets": {
+            "id": 1504907954079813632,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504908007410475009,
+        "text": "@irlpwncess ive been thinking ab getting it!!",
+        "created_at": "2022-03-18 19:50:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1444730963255234560,
+        "referenced_tweets": {
+            "id": 1504907850648375318,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504902971099856899,
+        "text": "is genshin fun?",
+        "created_at": "2022-03-18 19:30:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 4,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504899132418408450,
+        "text": "theres only children sizes \ud83d\udc4e\ud83d\udc4e",
+        "created_at": "2022-03-18 19:14:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236725637018247168,
+        "referenced_tweets": {
+            "id": 1504899024855482370,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504899024855482370,
+        "text": "need this !! https://t.co/r0GHI1htgd",
+        "created_at": "2022-03-18 19:14:21+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 1,
+            "like_count": 30,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504898402949242880,
+        "text": "RT @Wishmemell: \u3055\u304f\u3089\u54b2\u3051\u30fb\u30fb\u30fb\u2661 https://t.co/3OQXWGk3iW",
+        "created_at": "2022-03-18 19:11:53+00:00",
+        "public_metrics": {
+            "retweet_count": 1299,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504653851395497988,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504891680939520009,
+        "text": "@punzelita get**",
+        "created_at": "2022-03-18 18:45:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236725637018247168,
+        "referenced_tweets": {
+            "id": 1504891661263986688,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504891661263986688,
+        "text": "@punzelita where did u gat this :O i\u2019m obsessed w aristocats",
+        "created_at": "2022-03-18 18:45:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1504586901428137990,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504889899438288966,
+        "text": "fav sanrio character",
+        "created_at": "2022-03-18 18:38:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236725637018247168,
+        "referenced_tweets": {
+            "id": 1504889860208971776,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504889860208971776,
+        "text": "her \ud83d\udc95 https://t.co/c9ROylvgHU",
+        "created_at": "2022-03-18 18:37:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504888486775689216,
+        "text": "acnh playdates when",
+        "created_at": "2022-03-18 18:32:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504887032291766281,
+        "text": "supa excited https://t.co/JVfGDmxkYO",
+        "created_at": "2022-03-18 18:26:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236725637018247168,
+        "referenced_tweets": {
+            "id": 1504886779823988742,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504886779823988742,
+        "text": "dadas gonna make an acc after work :P",
+        "created_at": "2022-03-18 18:25:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504846970350878753,
+        "text": "@punzelita im good thank u! \ud83e\udd70",
+        "created_at": "2022-03-18 15:47:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1504846679656198144,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504846108094251037,
+        "text": "@punzelita how r u this morning!! \ud83e\udee7\ud83e\udee7",
+        "created_at": "2022-03-18 15:44:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1504845777104900107,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504845277114548240,
+        "text": "@punzelita morning punzie!",
+        "created_at": "2022-03-18 15:40:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1504839270401380352,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504845136756359189,
+        "text": "RT @plwushies: can we talk ab cgs ? ppl who r happy 2 take care of u in ur most vulnerable state. ppl who r happy 2 treat u like a small fr\u2026",
+        "created_at": "2022-03-18 15:40:13+00:00",
+        "public_metrics": {
+            "retweet_count": 65,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504844628381548589,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504829974959861761,
+        "text": "@punzelita ahh thank u urs is too!!",
+        "created_at": "2022-03-18 14:39:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1504829855862460418,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504829706939609090,
+        "text": "Yup https://t.co/l0FSH2UJ07",
+        "created_at": "2022-03-18 14:38:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504807474154643460,
+        "text": "i wanna make pacis again so bad but i lost my glue \ud83d\udc4e",
+        "created_at": "2022-03-18 13:10:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504800066896338946,
+        "text": "@punzelita i\u2019m nini!!",
+        "created_at": "2022-03-18 12:41:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123313208603734016,
+        "referenced_tweets": {
+            "id": 1504646006025060352,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504796390496649217,
+        "text": "RT @bunigwrl: want https://t.co/kM6Lo9MSHp",
+        "created_at": "2022-03-18 12:26:31+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504663700954787845,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504622811415035910,
+        "text": "RT @girlsstanacc: heart shaped pasta https://t.co/RjihdV88i5",
+        "created_at": "2022-03-18 00:56:47+00:00",
+        "public_metrics": {
+            "retweet_count": 10494,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504258253429030917,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504620518871347204,
+        "text": "@kuromihrtz its just gender neutral for ddlg",
+        "created_at": "2022-03-18 00:47:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1451040440170565639,
+        "referenced_tweets": {
+            "id": 1504616952475574275,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504575570969042945,
+        "text": "@pinkbutterflyys hello hello!",
+        "created_at": "2022-03-17 21:49:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1412950628033187841,
+        "referenced_tweets": {
+            "id": 1504574037460021250,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504571256686923777,
+        "text": "@bwallewina i\u2019m good how r u!",
+        "created_at": "2022-03-17 21:31:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1504568998511452163,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504568356854276098,
+        "text": "@bwallewina ahh hi!!",
+        "created_at": "2022-03-17 21:20:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502071593614417921,
+        "referenced_tweets": {
+            "id": 1504567860387065857,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504566421363249154,
+        "text": "hi twt (say hi)",
+        "created_at": "2022-03-17 21:12:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504544414781300738,
+        "text": "@irlpwncess thats what i thought!!",
+        "created_at": "2022-03-17 19:45:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1444730963255234560,
+        "referenced_tweets": {
+            "id": 1504544162926022665,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504483915897049093,
+        "text": "@hellokitty @trualsofapollo",
+        "created_at": "2022-03-17 15:44:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3181561,
+        "referenced_tweets": {
+            "id": 1504472683504832525,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504239822931697665,
+        "text": "i named it moonie and dadas is gonna be  sunnie :P https://t.co/XWvx0qIY5b",
+        "created_at": "2022-03-16 23:34:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504220399218876420,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1504231001375006723,
+        "text": "@rare_that ooo thats super cute maybe maybe",
+        "created_at": "2022-03-16 22:59:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1235371217403736064,
+        "referenced_tweets": {
+            "id": 1504227186173259782,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504220837980913665,
+        "text": "got a squishmallow backpack for this reason https://t.co/eJIJZt8cRj",
+        "created_at": "2022-03-16 22:19:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502804014781517824,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1504220415002136580,
+        "text": "My",
+        "created_at": "2022-03-16 22:17:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236725637018247168,
+        "referenced_tweets": {
+            "id": 1504220399218876420,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504220399218876420,
+        "text": "I GOT MY SWITCHHH what should i name mh island??",
+        "created_at": "2022-03-16 22:17:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 5,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504218278939537416,
+        "text": "RT @jellycatbot: \u2661 Spotty Rattle Kitty (retired 2011) https://t.co/uT8ZDjCKWT",
+        "created_at": "2022-03-16 22:09:19+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503921998350598144,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504209464001536009,
+        "text": "@fairymotels no money \ud83d\udc4e",
+        "created_at": "2022-03-16 21:34:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 806240955275874304,
+        "referenced_tweets": {
+            "id": 1504208587563933709,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504182245589930002,
+        "text": "@fairymotels I want mario kart so bad",
+        "created_at": "2022-03-16 19:46:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 806240955275874304,
+        "referenced_tweets": {
+            "id": 1504177599844597760,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504164991037026315,
+        "text": "i made a fort \u0aee\u2e1d\u2e1d&gt; \u032b &lt;\u2e1d\u2e1d \u10d0",
+        "created_at": "2022-03-16 18:37:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504155201728659467,
+        "text": "@irlpwncess i have one but it died lol i want another so bad !!",
+        "created_at": "2022-03-16 17:58:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1444730963255234560,
+        "referenced_tweets": {
+            "id": 1504154203467440134,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504150199895216136,
+        "text": "i want to make an agere discord server so bad w a little preschool section w activities and coloring pages and host movie nights but im scared i wouldnt keep up w it",
+        "created_at": "2022-03-16 17:38:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 15,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504102124271149064,
+        "text": "me https://t.co/vDmmxecb7Q",
+        "created_at": "2022-03-16 14:27:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503849185346408449,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1504100330329493508,
+        "text": "Bruh i feel exactly like this https://t.co/4CEHAReVa7",
+        "created_at": "2022-03-16 14:20:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503860873839972358,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1504097964674928644,
+        "text": "meow",
+        "created_at": "2022-03-16 14:11:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503900128792489990,
+        "text": "chocolate milk in a sippy cup yup yup",
+        "created_at": "2022-03-16 01:05:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503898527113560064,
+        "text": "@fairymotels Booo \ud83d\udc4e",
+        "created_at": "2022-03-16 00:58:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 806240955275874304,
+        "referenced_tweets": {
+            "id": 1503898458381590528,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503897698503737348,
+        "text": "@fairymotels HEHEHE THANK U",
+        "created_at": "2022-03-16 00:55:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 806240955275874304,
+        "referenced_tweets": {
+            "id": 1503897641687650305,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503896942593593347,
+        "text": "look look https://t.co/oYgLaW28kf",
+        "created_at": "2022-03-16 00:52:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

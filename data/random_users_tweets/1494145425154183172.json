@@ -1,0 +1,1593 @@
+[
+    {
+        "tweet_id": 1507068092404355076,
+        "text": "@Naija_PR God I need your help",
+        "created_at": "2022-03-24 18:53:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1507028869014036482,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507033367388340227,
+        "text": "@Naija_PR \u00c6",
+        "created_at": "2022-03-24 16:35:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1506996428794650630,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506763794743271429,
+        "text": "RT @I_am_Zizzy: I really need a break from all of these worries &amp; stress . I\u2019m tired for real \ud83d\ude2a",
+        "created_at": "2022-03-23 22:44:17+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506711529479192577,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506708304252309520,
+        "text": "@_Anthx_ @gigithefinesser Lol \nI get now",
+        "created_at": "2022-03-23 19:03:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 744212352460013568,
+        "referenced_tweets": {
+            "id": 1506708109913374720,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506706266579689482,
+        "text": "@_Anthx_ @gigithefinesser Make she no sweat? \nI no understand your comment abeg explain",
+        "created_at": "2022-03-23 18:55:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 744212352460013568,
+        "referenced_tweets": {
+            "id": 1506705470077251587,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506705947330236427,
+        "text": "@gigithefinesser @danielszn_ Omo \ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-23 18:54:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1499820142120906758,
+        "referenced_tweets": {
+            "id": 1506702046887612418,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506705857261752328,
+        "text": "@DeetalksSam @gigithefinesser Bad guy \ud83d\ude02\ud83d\ude02\ud83d\ude02 overthinker \ud83d\ude02",
+        "created_at": "2022-03-23 18:54:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482865115594727425,
+        "referenced_tweets": {
+            "id": 1506701896135946249,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506705665414344705,
+        "text": "@Slee499 @gigithefinesser @kanmiey You\u2019d barely find girls that don\u2019t have many male friends or am I wrong ?",
+        "created_at": "2022-03-23 18:53:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1050440509569810434,
+        "referenced_tweets": {
+            "id": 1506699292316258314,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506318206222360578,
+        "text": "@iamjaymizy @_backendbro @Chiomap123 Rest\ud83d\ude02",
+        "created_at": "2022-03-22 17:13:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1059324276900274177,
+        "referenced_tweets": {
+            "id": 1506317674841792526,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506318043592507403,
+        "text": "@iamjaymizy @_backendbro @Chiomap123 Attention seeker\ud83d\ude02",
+        "created_at": "2022-03-22 17:13:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1059324276900274177,
+        "referenced_tweets": {
+            "id": 1506317061294804992,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506317595712045062,
+        "text": "@iamjaymizy @_backendbro @Chiomap123 Leeemao \ud83d\ude02\ud83d\ude02\nShow me one abeg \nBtw where did I mention that she\u2019s dirty?",
+        "created_at": "2022-03-22 17:11:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1059324276900274177,
+        "referenced_tweets": {
+            "id": 1506317061294804992,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506317394091859969,
+        "text": "@iamjaymizy @_backendbro @Chiomap123 Her bf would tell her whether it looks nice or not nau",
+        "created_at": "2022-03-22 17:10:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1059324276900274177,
+        "referenced_tweets": {
+            "id": 1506316814770483200,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506317267767902214,
+        "text": "@iamjaymizy @_backendbro @Chiomap123 I\u2019m not condemning her \nI just gave her ideas that I suppose would help incase she plans to post more of these",
+        "created_at": "2022-03-22 17:09:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1059324276900274177,
+        "referenced_tweets": {
+            "id": 1506316814770483200,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506316585291730945,
+        "text": "@fustinuss @Chiomap123 \ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-22 17:07:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1457059864425992195,
+        "referenced_tweets": {
+            "id": 1506315605657464837,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506316531403264002,
+        "text": "@Chiomap123 @Dreythegoat The young shall grow \ud83d\ude0c",
+        "created_at": "2022-03-22 17:07:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1430616309394558978,
+        "referenced_tweets": {
+            "id": 1506288997206745093,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506316466186035210,
+        "text": "@Chiomap123 @Dreythegoat Fine girl you for just wear another bra wey dem no tie for back and a pant that matches... you might like big \u201cwaist beads \u201c it\u2019s your choice then just use Snapchat the proper way even if you don\u2019t have a good camera \nSwears these pictures would\u2019ve been dope",
+        "created_at": "2022-03-22 17:06:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1430616309394558978,
+        "referenced_tweets": {
+            "id": 1506288997206745093,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506315170796249089,
+        "text": "@adegokematt @Chiomap123 Una fit \ud83d\ude02",
+        "created_at": "2022-03-22 17:01:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1487629950538682368,
+        "referenced_tweets": {
+            "id": 1506311707039256582,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506314988520103940,
+        "text": "@fustinuss @Chiomap123 Your phone go crash comrade \ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-22 17:00:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1457059864425992195,
+        "referenced_tweets": {
+            "id": 1506312486345183235,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506314461707124739,
+        "text": "@MuyiwaOyinloye @Chiomap123 She actually thinks the pictures are cool",
+        "created_at": "2022-03-22 16:58:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2588136681,
+        "referenced_tweets": {
+            "id": 1506313430545932292,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506314200972509200,
+        "text": "@ayoBDB @Chiomap123 We have to tell her the truth (nicely) but not everybody is nice",
+        "created_at": "2022-03-22 16:57:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1041972217599410176,
+        "referenced_tweets": {
+            "id": 1506309149134663680,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506313935137669121,
+        "text": "@_backendbro @Chiomap123 No \nBut it doesn\u2019t look clean \nHer camera is bad too I\u2019m not condemning her and she should of course be proud of her body but she should\u2019ve just dumped the picture in her boyfriend\u2019s dm or something \ud83d\ude2a",
+        "created_at": "2022-03-22 16:56:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1349600918346620928,
+        "referenced_tweets": {
+            "id": 1506309750094508042,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506312872875511824,
+        "text": "@imowayne1 @Chiomap123 \ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-22 16:52:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1494302021167599617,
+        "referenced_tweets": {
+            "id": 1506309088078188556,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506312753656569856,
+        "text": "@zero0vazero @Chiomap123 SMH \ud83d\ude02",
+        "created_at": "2022-03-22 16:52:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1203730088530980864,
+        "referenced_tweets": {
+            "id": 1506297240268197893,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506312590816944137,
+        "text": "@Highestkobi @Chiomap123 Pele o omah lay \ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-22 16:51:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 939203149956571137,
+        "referenced_tweets": {
+            "id": 1506292979769790477,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506097220164231171,
+        "text": "@SIyakwari Nothing \n\ud83d\ude42",
+        "created_at": "2022-03-22 02:35:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1309946520666603526,
+        "referenced_tweets": {
+            "id": 1506096767078735873,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506090472489558018,
+        "text": "Omo...",
+        "created_at": "2022-03-22 02:08:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506082494730452993,
+        "text": "@philip_george70 400k",
+        "created_at": "2022-03-22 01:37:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2839661693,
+        "referenced_tweets": {
+            "id": 1505897851167162368,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505964591574044672,
+        "text": "@OGrichinthiz @Naija_PR Ah \ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-21 17:48:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1490390166330089483,
+        "referenced_tweets": {
+            "id": 1505964412494135296,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505963740671488003,
+        "text": "@OGrichinthiz @Naija_PR https://t.co/sgBqfocndP",
+        "created_at": "2022-03-21 17:45:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1490390166330089483,
+        "referenced_tweets": {
+            "id": 1505961930476949505,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505961523717586945,
+        "text": "@OGrichinthiz @Naija_PR I fit deck you Sha \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2022-03-21 17:36:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1490390166330089483,
+        "referenced_tweets": {
+            "id": 1505961409796100103,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505961064168579073,
+        "text": "@Naija_PR I am broke \ud83d\ude2a",
+        "created_at": "2022-03-21 17:34:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1505942044363137028,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505787588401053697,
+        "text": "@thatdammygirlie https://t.co/5PEOqyvNH1",
+        "created_at": "2022-03-21 06:05:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1102612609205972992,
+        "referenced_tweets": {
+            "id": 1505471927116259329,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505521454238113793,
+        "text": "@ibk_eleja @Naija_PR Bad man looking good in Dior \ud83d\ude02",
+        "created_at": "2022-03-20 12:27:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 762025455260229634,
+        "referenced_tweets": {
+            "id": 1505513295616393218,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505521056185991169,
+        "text": "@arinzeve @Naija_PR I\u2019m randomly remembering olumo rock \ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-20 12:26:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1268651613880750080,
+        "referenced_tweets": {
+            "id": 1505504090436124672,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505048848296779778,
+        "text": "@Shollyps1 @Oladapomikky1 @Naija_PR Toorh",
+        "created_at": "2022-03-19 05:09:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1147772542037483525,
+        "referenced_tweets": {
+            "id": 1505039790315474950,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505026613473329153,
+        "text": "@tosinisq E no sabi say power pass power nii",
+        "created_at": "2022-03-19 03:41:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1480015847779405826,
+        "referenced_tweets": {
+            "id": 1504845338443763712,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505025657004302342,
+        "text": "@yay_tunes Where Dey go wash hand ?\nAs you stand up say you wan go wash hand you go block person view and one hand of eba go land on your head",
+        "created_at": "2022-03-19 03:37:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1497160682441224198,
+        "referenced_tweets": {
+            "id": 1504843410192183296,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505025103293259785,
+        "text": "@Sisinene_of_Eko Ikorodu people \ud83d\udeb6\u200d\u2640\ufe0f\ud83d\udeb6\u200d\u2640\ufe0f",
+        "created_at": "2022-03-19 03:35:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2739193029,
+        "referenced_tweets": {
+            "id": 1504797911401603072,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505024954449993730,
+        "text": "@aridunu27 Happy married life to them o but e sure me say Na Ikorodu people be this or Sango people",
+        "created_at": "2022-03-19 03:34:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1503355934063706120,
+        "referenced_tweets": {
+            "id": 1504797742543085576,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505023571046936583,
+        "text": "8 and 10 \ud83d\ude02 https://t.co/QuTvaAOOY5",
+        "created_at": "2022-03-19 03:29:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504918325737967616,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505022190411997189,
+        "text": "@Oladapomikky1 @Shollyps1 @Naija_PR You\u2019re from kogi and from kwara?",
+        "created_at": "2022-03-19 03:23:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1174799260228997120,
+        "referenced_tweets": {
+            "id": 1504933372069617673,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505021232797954049,
+        "text": "@Naija_PR Kwara state \nOsi Ekiti LGA",
+        "created_at": "2022-03-19 03:19:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1504922123172724743,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505019273609195532,
+        "text": "\ud83d\udccc https://t.co/HL3m3ko4Gn",
+        "created_at": "2022-03-19 03:12:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504913835144237062,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505019110970871810,
+        "text": "@Thefrogkilller All of you should rest abeg I like Wizkid\u2019s songs but I don\u2019t understand his kind of person so no love no hate but you see that Davido ehn Omo I too love am \nI love Davido dieee! Y\u2019all can just accept that we have different choices and stop arguing",
+        "created_at": "2022-03-19 03:11:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1282320630797471745,
+        "referenced_tweets": {
+            "id": 1504759161569136645,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505015333589069824,
+        "text": "@dipsongotya And of course Burna is a boy \ud83d\ude42",
+        "created_at": "2022-03-19 02:56:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770727064580288512,
+        "referenced_tweets": {
+            "id": 1504716769910530048,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505013277931278339,
+        "text": "@Samiel26172568 @delta_freshfish @mR_LorenzoJ @toyor_pr Unilag is fine but they have hostels full of bedbugs and other dirty and smelly areas too ...That red bus is FUOYE\u2019s not UNILORIN\u2019s bus\ud83d\ude44\ud83d\ude44",
+        "created_at": "2022-03-19 02:48:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1271722401718558724,
+        "referenced_tweets": {
+            "id": 1504834054704742408,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505012002837745669,
+        "text": "@WoleDrae @BabaitaHabeebat @toyor_pr @_Ewawunmi @SMiTHiE___ E wan Dey stain my people\ud83d\ude02 I know say e go soon find one comma for our body Sha \ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-19 02:43:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 906877956257173504,
+        "referenced_tweets": {
+            "id": 1504887388761436169,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504965836393660418,
+        "text": "@OGrichinthiz Yours is on strike \ud83d\ude02",
+        "created_at": "2022-03-18 23:39:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1490390166330089483,
+        "referenced_tweets": {
+            "id": 1504915134107590660,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504910956186550281,
+        "text": "@ErikManny2 A talent I have \ud83d\ude0f",
+        "created_at": "2022-03-18 20:01:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1368106910231257089,
+        "referenced_tweets": {
+            "id": 1504700443825520657,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504894515978686472,
+        "text": "@DAMIADENUGA Who I get wey wan send me money",
+        "created_at": "2022-03-18 18:56:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 156563457,
+        "referenced_tweets": {
+            "id": 1504869235754995721,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504893115437617165,
+        "text": "@Ibrahim_Fineman As what ? \nWell I don\u2019t even have friends so this question can\u2019t be for me because a ma fi werey port eh \ud83d\ude02",
+        "created_at": "2022-03-18 18:50:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1097747174421643265,
+        "referenced_tweets": {
+            "id": 1504891893276151810,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504788090719776829,
+        "text": "@_theladymo 2-3 times",
+        "created_at": "2022-03-18 11:53:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1187135845444280320,
+        "referenced_tweets": {
+            "id": 1504526084141953034,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504771175876071430,
+        "text": "@Tony_of_lagoss Shishi no Dey my hand \ud83d\ude2d",
+        "created_at": "2022-03-18 10:46:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1491291249269223425,
+        "referenced_tweets": {
+            "id": 1504429361692397569,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504770576426094602,
+        "text": "@hb_guru No \ud83d\ude2a",
+        "created_at": "2022-03-18 10:43:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 626256793,
+        "referenced_tweets": {
+            "id": 1504021718549028869,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504770513851330563,
+        "text": "@themayorofmilk Simisade \ud83d\ude42",
+        "created_at": "2022-03-18 10:43:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1218477166263963649,
+        "referenced_tweets": {
+            "id": 1504450702004953091,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504770407617998859,
+        "text": "@Senior_pikin Mummy where should I put the cup \nMummy:you can put it on my head \ud83d\ude44",
+        "created_at": "2022-03-18 10:43:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1481627418179813382,
+        "referenced_tweets": {
+            "id": 1504375672323596288,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504769253047742468,
+        "text": "@Alabiistired https://t.co/sU4QpVxhrN",
+        "created_at": "2022-03-18 10:38:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1502910805221777409,
+        "referenced_tweets": {
+            "id": 1504382752753393664,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504768941062856704,
+        "text": "@thy_vanny @ObijuruFelix I just want make e reason am\ud83d\ude02",
+        "created_at": "2022-03-18 10:37:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1430243896995504129,
+        "referenced_tweets": {
+            "id": 1504767395122008067,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504767568975908865,
+        "text": "@RoyalPr21245912 @Naija_PR Toorh",
+        "created_at": "2022-03-18 10:32:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1212633630981230592,
+        "referenced_tweets": {
+            "id": 1504754383283802119,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504767502248730625,
+        "text": "@Olivia_bhay @Naija_PR \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-18 10:31:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1491502969585639430,
+        "referenced_tweets": {
+            "id": 1504578116760616969,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504767034206339073,
+        "text": "@Naija_PR Kindly move on \ud83e\udd7a stop calling me so you would have time for other girls...I\u2019m not coming back b but I want the best for you so please leave me alone \ud83d\ude42",
+        "created_at": "2022-03-18 10:29:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1504564276714954759,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504765870761033729,
+        "text": "@ObijuruFelix Okay! https://t.co/pTFm9M3dWg",
+        "created_at": "2022-03-18 10:25:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1244665754689187842,
+        "referenced_tweets": {
+            "id": 1504589540274618372,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504576995505618958,
+        "text": "@_AsiwajuLerry Allahuakbar",
+        "created_at": "2022-03-17 21:54:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1353862573016428544,
+        "referenced_tweets": {
+            "id": 1504511342266486784,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504575629500592134,
+        "text": "RT @Naija_PR: Who is the thief??? https://t.co/whSlmMpxvV",
+        "created_at": "2022-03-17 21:49:18+00:00",
+        "public_metrics": {
+            "retweet_count": 49,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504435106567569417,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504574845513879553,
+        "text": "@Naija_PR You\u2019re a mumu man \ud83d\ude02",
+        "created_at": "2022-03-17 21:46:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1504461631224434692,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504573975963262980,
+        "text": "@__foluwake see your people\ud83d\ude2d\ud83d\ude02\ud83d\ude02 https://t.co/LKKA2GvLUD",
+        "created_at": "2022-03-17 21:42:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1201424510207102976,
+        "referenced_tweets": {
+            "id": 1504448995258687489,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1504573565819047937,
+        "text": "@Naija_PR He sha gave the wife \ud83d\ude02...he gave what belongs to Cesar to Cesar \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f",
+        "created_at": "2022-03-17 21:41:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1504406747150270469,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504573114499411970,
+        "text": "@Ar1kDfkm 4",
+        "created_at": "2022-03-17 21:39:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1389216496589713413,
+        "referenced_tweets": {
+            "id": 1504367197711384577,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504572401576824838,
+        "text": "@bellareed0 https://t.co/1wfBF7UsVK",
+        "created_at": "2022-03-17 21:36:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 940699840106950657,
+        "referenced_tweets": {
+            "id": 1504220316473643012,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504571465898811402,
+        "text": "@that_baddass @Naija_PR Fb",
+        "created_at": "2022-03-17 21:32:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1503350642185752580,
+        "referenced_tweets": {
+            "id": 1504570095112183808,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504569295426228227,
+        "text": "@Naija_PR Why did you waste his f*cking time for 5 years \ud83d\ude44\ud83d\ude44 if you leave him me wey e no concern sef my God go judge you ...Haba",
+        "created_at": "2022-03-17 21:24:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1504405448853700609,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504567238581526537,
+        "text": "@Naija_PR Alpha",
+        "created_at": "2022-03-17 21:15:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1504511417554292741,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504567206121811970,
+        "text": "@Naija_PR America",
+        "created_at": "2022-03-17 21:15:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1504511417554292741,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504567167420928000,
+        "text": "@Naija_PR Academia",
+        "created_at": "2022-03-17 21:15:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1504511417554292741,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504553980956971009,
+        "text": "@ceejay_okoye @Naija_PR Fb",
+        "created_at": "2022-03-17 20:23:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1467426581496823812,
+        "referenced_tweets": {
+            "id": 1504553852305039362,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504553947348062216,
+        "text": "@ceejay_okoye @Naija_PR Fab",
+        "created_at": "2022-03-17 20:23:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1467426581496823812,
+        "referenced_tweets": {
+            "id": 1504553852305039362,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504553879828115460,
+        "text": "@Naija_PR Rice please",
+        "created_at": "2022-03-17 20:22:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1504553586080030723,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504361089911476228,
+        "text": "@JackDevero I saw a contact B\ud83d\udc8dA\ud83d\udc8dB\ud83d\udc8dY on his phone and I asked him he said she\u2019s his ex and he doesn\u2019t know her name because he\u2019s always been calling her baby but there is nothing between them...Smh",
+        "created_at": "2022-03-17 07:36:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 76011756,
+        "referenced_tweets": {
+            "id": 1503683733781684224,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504337705752309766,
+        "text": "@ademakinwa_paul \ud83d\ude02\u2639\ufe0f\u2728\ud83d\ude42\u2705",
+        "created_at": "2022-03-17 06:03:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1503028430518034435,
+        "referenced_tweets": {
+            "id": 1503982205227446274,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504248043897606144,
+        "text": "@FringyVinicious Happy birthday \u2764\ufe0f\ud83c\udf39",
+        "created_at": "2022-03-17 00:07:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1345841893117227011,
+        "referenced_tweets": {
+            "id": 1504234628084867076,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504232934911397894,
+        "text": "@_Ewawunmi Hmmm...it\u2019s not until I write out my life story before you know I need it \ud83d\ude2a...God knows I need it and I don\u2019t know whether to believe this \u2639\ufe0f",
+        "created_at": "2022-03-16 23:07:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1196750124921344000,
+        "referenced_tweets": {
+            "id": 1504144434841231360,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504223494829133837,
+        "text": "@Auntyadaa @SimisadeKelly",
+        "created_at": "2022-03-16 22:30:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 847285262,
+        "referenced_tweets": {
+            "id": 1504027369048313856,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504221438403883019,
+        "text": "@gyaigyyimii @SimisadeKelly",
+        "created_at": "2022-03-16 22:21:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1382488424,
+        "referenced_tweets": {
+            "id": 1504213740677443584,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504209490949857284,
+        "text": "@OracleJayB @YHUNG_KHALIFAH Okay let\u2019s chill I\u2019ll send screenshots",
+        "created_at": "2022-03-16 21:34:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1150332547,
+        "referenced_tweets": {
+            "id": 1504209134350217216,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504208435893702661,
+        "text": "@OracleJayB @YHUNG_KHALIFAH If he dislikes me because of this wetin make I do you \ud83d\ude2d\ud83d\ude02",
+        "created_at": "2022-03-16 21:30:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1150332547,
+        "referenced_tweets": {
+            "id": 1504199518430007300,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504206652148490251,
+        "text": "@Naija_PR Mood swings",
+        "created_at": "2022-03-16 21:23:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1504202314365771780,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504148522622464000,
+        "text": "Dear lord, I just want to be happy again ...",
+        "created_at": "2022-03-16 17:32:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504140485082087425,
+        "text": "@LeninPark4 Pus*yvores\ud83c\udf1a",
+        "created_at": "2022-03-16 17:00:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1362412133707894787,
+        "referenced_tweets": {
+            "id": 1504002651691929602,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504139741607903240,
+        "text": "@Naija_PR I\u2019m feeding the gods with it \ud83d\ude02",
+        "created_at": "2022-03-16 16:57:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1504016673967333378,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504139407447711751,
+        "text": "Honestly speaking... https://t.co/UUKhfQ5FYi",
+        "created_at": "2022-03-16 16:55:54+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504028604229107713,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1504138654272286720,
+        "text": "@Naija_PR Just leave \ud83d\ude2a",
+        "created_at": "2022-03-16 16:52:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1504013177302011910,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503986002876063745,
+        "text": "@MrMeeyoung @Naija_PR Okay boss\ud83d\ude02",
+        "created_at": "2022-03-16 06:46:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1169895295926161408,
+        "referenced_tweets": {
+            "id": 1503898248108556290,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503985677670694914,
+        "text": "@hotgirlbanks_ @akintonmide Watimagbo \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-16 06:45:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4652734216,
+        "referenced_tweets": {
+            "id": 1503637845600264194,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503898562786209796,
+        "text": "@_funguyzz Kilonso \ud83d\ude02\ud83d\ude02\ud83d\ude02 oniro oshi\ud83d\ude02",
+        "created_at": "2022-03-16 00:58:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1432794303370305538,
+        "referenced_tweets": {
+            "id": 1503657315433689092,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503897538998509570,
+        "text": "@Naija_PR I always have both...they are so different power pass power\ud83d\ude0c",
+        "created_at": "2022-03-16 00:54:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1503651213207867401,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503895844822659077,
+        "text": "@Naija_PR Jesus and money",
+        "created_at": "2022-03-16 00:48:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1503752244981866502,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503893795921932289,
+        "text": "@Naija_PR \ud83d\ude02\u2764\ufe0f\ud83d\udc95\ud83e\udd7a\ud83e\udd17",
+        "created_at": "2022-03-16 00:39:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1901298962,
+        "referenced_tweets": {
+            "id": 1503655167010525187,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503832797022244877,
+        "text": "@OluwaseyiAjay20 @Naija_PR Egbami \ud83d\ude02",
+        "created_at": "2022-03-15 20:37:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1239834839441948673,
+        "referenced_tweets": {
+            "id": 1503825836000096256,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503819368374931459,
+        "text": "I\u2019m wondering why knack is trending \ud83d\ude0f are y\u2019all becoming carpenters?",
+        "created_at": "2022-03-15 19:44:11+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 4,
+            "like_count": 15,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503814617746731009,
+        "text": "@SeniorKelz @Naija_PR \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-15 19:25:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1496788554999021568,
+        "referenced_tweets": {
+            "id": 1503800376876797970,
+            "type": "replied_to"
+        }
+    }
+]

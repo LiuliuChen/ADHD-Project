@@ -1,0 +1,4546 @@
+[
+    {
+        "tweet_id": 1507068072816959500,
+        "text": "@LouBeardsley I'm regretting it \ud83d\ude02",
+        "created_at": "2022-03-24 18:53:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 156996228,
+        "referenced_tweets": {
+            "id": 1507063563030089734,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507052842229633031,
+        "text": "@LouBeardsley Turned it on,turned it straight off again.. embarrassing \ud83d\ude02",
+        "created_at": "2022-03-24 17:52:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 156996228,
+        "referenced_tweets": {
+            "id": 1507051213879230466,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506128632409993216,
+        "text": "@LouiseWraith https://t.co/YYBoSbRein",
+        "created_at": "2022-03-22 04:40:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1506043500479004674,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505908766692327431,
+        "text": "@Justm3x I know the scene you mean in  Gangs of London..Scum was of a time,maybe looks dated now..still a classic worth digging out",
+        "created_at": "2022-03-21 14:06:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 957035972943892481,
+        "referenced_tweets": {
+            "id": 1505908104638181384,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505907579813199872,
+        "text": "@Justm3x Scum..long time since i've seen this",
+        "created_at": "2022-03-21 14:02:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 957035972943892481,
+        "referenced_tweets": {
+            "id": 1505906953058406409,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505901027144441856,
+        "text": "The grandson has had a little trip to hospital,managed to swallow some money, helpfully highlighted here..what a twit \ud83d\ude02 https://t.co/rrgODceQXC",
+        "created_at": "2022-03-21 13:35:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505125746263609350,
+        "text": "RT @masterbates223: People supporting that trans swimmer, ask yourself, would it be fair if a heavyweight boxing champion of the world sudd\u2026",
+        "created_at": "2022-03-19 10:15:16+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505125461235535875,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504906611571187718,
+        "text": "@Notlee34 https://t.co/m8PYHwQtjW",
+        "created_at": "2022-03-18 19:44:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1504904832645271557,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504904669755232269,
+        "text": "@Notlee34 It's a mystery",
+        "created_at": "2022-03-18 19:36:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1504899609700745219,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504881353929768973,
+        "text": "@ReecePotterton On the money then \ud83d\ude02",
+        "created_at": "2022-03-18 18:04:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 257656941,
+        "referenced_tweets": {
+            "id": 1504881114615271430,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504880959325446152,
+        "text": "@ReecePotterton Thanks for your valued input reece \ud83d\ude02",
+        "created_at": "2022-03-18 18:02:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 257656941,
+        "referenced_tweets": {
+            "id": 1504879535875141632,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504855526550781958,
+        "text": "I'm a bellend \ud83d\ude02 https://t.co/hVsHcJcYAz",
+        "created_at": "2022-03-18 16:21:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504843590761172996,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1504215650369261570,
+        "text": "I had to remove a tweet about this earlier because it violated twitter rules..and to think he's walking free after what he did..can't be just me ? https://t.co/k4ETABmKtn",
+        "created_at": "2022-03-16 21:58:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504196945098809344,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1503846677689647105,
+        "text": "@NoContextBrits As if one isn't enough",
+        "created_at": "2022-03-15 21:32:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1377572924413124609,
+        "referenced_tweets": {
+            "id": 1503846162637410307,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503147421936852998,
+        "text": "Even if you don't like golf,watch this..in this crazy world sometimes a light shines bright https://t.co/IjD3JZMHWX",
+        "created_at": "2022-03-13 23:14:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502687528763240454,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1503076021276446722,
+        "text": "@Notlee34 I'd be disappointed if you didn't,in fact I'd block you \ud83d\ude02",
+        "created_at": "2022-03-13 18:30:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1503075749082935305,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503075487761018881,
+        "text": "@Notlee34 Hula hoops eaten off the fingers ?",
+        "created_at": "2022-03-13 18:28:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1503072053796253699,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502607858390781954,
+        "text": "@Notlee34 \ud83d\ude02\ud83d\ude02\ud83d\udc40 course not",
+        "created_at": "2022-03-12 11:30:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1502602878988472323,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502600756788146176,
+        "text": "@Notlee34 Morning fine sir",
+        "created_at": "2022-03-12 11:01:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1502580253277016067,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502352485549330438,
+        "text": "A sign of the times when i have to take my glasses out to read the menu.. Friday night rock and roll",
+        "created_at": "2022-03-11 18:35:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502018905895841794,
+        "text": "@amandmeh https://t.co/1SJjCddpEe",
+        "created_at": "2022-03-10 20:29:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1470405201295253507,
+        "referenced_tweets": {
+            "id": 1502016452223766530,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501930605080154115,
+        "text": "@ess_emm_aitch Pour some wine and let it slide away",
+        "created_at": "2022-03-10 14:38:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2836497035,
+        "referenced_tweets": {
+            "id": 1501928522926931969,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501925975650570240,
+        "text": "@ess_emm_aitch https://t.co/kX0L817JKB",
+        "created_at": "2022-03-10 14:20:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2836497035,
+        "referenced_tweets": {
+            "id": 1501921464290840588,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501302699408728079,
+        "text": "RT @geocon1713: Let's do this again. Just because. \n\nMONKEY RACE!!!\n\n(Please RT. Just because x)",
+        "created_at": "2022-03-08 21:03:51+00:00",
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501300556178014213,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501229261604016130,
+        "text": "@Notlee34 \ud83d\ude02 Plenty of cottaging action  where you are now, especially around the docks",
+        "created_at": "2022-03-08 16:12:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1501228740008820738,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501228644517101569,
+        "text": "@Notlee34 Out cottaging \ud83d\ude02",
+        "created_at": "2022-03-08 16:09:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1501227931326349312,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500949481646342145,
+        "text": "@gdf1973 @Luke__W__ https://t.co/SiZz4Y1E3n",
+        "created_at": "2022-03-07 21:40:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 796040362070511616,
+        "referenced_tweets": {
+            "id": 1500925366461865991,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500874255407460354,
+        "text": "RT @monicagrau: My mom is looking for her friend Maria from Ukraine. I have told her it is impossible to find her having just a picture. Sh\u2026",
+        "created_at": "2022-03-07 16:41:22+00:00",
+        "public_metrics": {
+            "retweet_count": 77826,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500824437947518977,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500563743402512391,
+        "text": "@Notlee34 https://t.co/QzzvGZXmhn",
+        "created_at": "2022-03-06 20:07:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1500562721460396034,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500563484555325445,
+        "text": "RT @forest_fr1ends: - wow simon, that\u2019s the second time this week that you\u2019ve been \u2018pegged\u2019.\n- christ valerie! not in front of the kid\u2026 htt\u2026",
+        "created_at": "2022-03-06 20:06:28+00:00",
+        "public_metrics": {
+            "retweet_count": 222,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498034158253264901,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500483108872859648,
+        "text": "@DavidBu67718114 @Notlee34 @mowermanjimmy Don't encourage him,enough idiots in the town already \ud83d\ude02",
+        "created_at": "2022-03-06 14:47:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1112451895828889601,
+        "referenced_tweets": {
+            "id": 1500478757555118083,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499767942912913413,
+        "text": "The word legend is too easily thrown around but Shane Warne was certainly in that category..the best spinner ever seen and a top pundit.. I'm quite shocked..rip #ShaneWarne",
+        "created_at": "2022-03-04 15:25:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498728164272611329,
+        "text": "@hellymoo https://t.co/OEbzybmuVR",
+        "created_at": "2022-03-01 18:33:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 809114790,
+        "referenced_tweets": {
+            "id": 1498726316509745155,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498417293885325319,
+        "text": "@hellymoo @CarolMaps Don't shout \ud83d\ude02.. expecting pics and everything tt",
+        "created_at": "2022-02-28 21:58:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 809114790,
+        "referenced_tweets": {
+            "id": 1498415919915282438,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498415506273058821,
+        "text": "@hellymoo @CarolMaps Best day of the year",
+        "created_at": "2022-02-28 21:51:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 809114790,
+        "referenced_tweets": {
+            "id": 1498412670193741827,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498414424478162944,
+        "text": "@hellymoo https://t.co/0eoAcwp3HS",
+        "created_at": "2022-02-28 21:46:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 809114790,
+        "referenced_tweets": {
+            "id": 1498408166983356420,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498025747277135872,
+        "text": "@DavidBu67718114 @Notlee34 @ann_butler23 He's from the Midlands,we have to make allowances \ud83d\ude02",
+        "created_at": "2022-02-27 20:02:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1112451895828889601,
+        "referenced_tweets": {
+            "id": 1498024826782556173,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498014728328728577,
+        "text": "@Notlee34 @DavidBu67718114 @ann_butler23 No arguments on that front \ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-02-27 19:18:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1498014346915586048,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498013976893947904,
+        "text": "@Notlee34 @DavidBu67718114 @ann_butler23 I'm shaking \ud83d\ude02",
+        "created_at": "2022-02-27 19:15:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1498013840881209344,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498013613872885763,
+        "text": "@Notlee34 @DavidBu67718114 @ann_butler23 Not on my watch https://t.co/SQg9dPEPwh",
+        "created_at": "2022-02-27 19:14:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1498011556331896834,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497951141212131329,
+        "text": "@bornblonde12 As good a reason as any..bottoms up \ud83d\ude03 https://t.co/1ys0PJxiDQ",
+        "created_at": "2022-02-27 15:05:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1312702516145065985,
+        "referenced_tweets": {
+            "id": 1497950368998768646,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497911953028694020,
+        "text": "@curtiswoodhous8 Very poor decision..he was in complete control..",
+        "created_at": "2022-02-27 12:30:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 770546583125499904,
+        "referenced_tweets": {
+            "id": 1497908670683877384,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496743454260572160,
+        "text": "@ess_emm_aitch https://t.co/dyPsvOMKJr",
+        "created_at": "2022-02-24 07:07:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2836497035,
+        "referenced_tweets": {
+            "id": 1496742627567362051,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496741122176995328,
+        "text": "@sarajcox Anything Marvel related",
+        "created_at": "2022-02-24 06:57:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 33174013,
+        "referenced_tweets": {
+            "id": 1496739608767475712,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495839934900486150,
+        "text": "@ReecePotterton https://t.co/qnKPWj5m0A",
+        "created_at": "2022-02-21 19:16:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 257656941,
+        "referenced_tweets": {
+            "id": 1495837526556393483,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495824394165313545,
+        "text": "Watching Desmond's,takes me back..17 when this came out \ud83d\udc40",
+        "created_at": "2022-02-21 18:15:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495792276223705088,
+        "text": "@didsburygirl Stay safe,hope all is ok,the dog is cute btw \ud83d\ude03",
+        "created_at": "2022-02-21 16:07:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19786718,
+        "referenced_tweets": {
+            "id": 1495784994819776514,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495487702732623878,
+        "text": "@Notlee34 https://t.co/a2fLvRi9lS",
+        "created_at": "2022-02-20 19:57:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1495485277451788292,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495128813440753670,
+        "text": "@daveguitarjones Currahee \ud83d\udc4d",
+        "created_at": "2022-02-19 20:11:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15909326,
+        "referenced_tweets": {
+            "id": 1495115621809467398,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495063796196511744,
+        "text": "@ess_emm_aitch https://t.co/dyglyLUtyc",
+        "created_at": "2022-02-19 15:52:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2836497035,
+        "referenced_tweets": {
+            "id": 1495061618924965888,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494970054055809027,
+        "text": "@bornblonde12 Happy birthday..have a fab time \ud83c\udf89\ud83c\udf82\ud83e\udd42",
+        "created_at": "2022-02-19 09:40:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1312702516145065985,
+        "referenced_tweets": {
+            "id": 1494954343384199173,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494783495691984897,
+        "text": "RT @NoContextBrits: https://t.co/7rJLdIeAE2",
+        "created_at": "2022-02-18 21:18:51+00:00",
+        "public_metrics": {
+            "retweet_count": 457,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494615390844035094,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494777609695158277,
+        "text": "@Awaydays23 Deano on the Jaeger train \ud83d\udc4d",
+        "created_at": "2022-02-18 20:55:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1093132046,
+        "referenced_tweets": {
+            "id": 1494764598641188868,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493326341491630084,
+        "text": "@Notlee34 @DavidBu67718114 Nope,but he obviously knows you're a dickhead \ud83d\ude02",
+        "created_at": "2022-02-14 20:48:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1493325375967047682,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493325142600171522,
+        "text": "@Notlee34 A genuine mystery \ud83d\udc40",
+        "created_at": "2022-02-14 20:43:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1493324740408270849,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493324615036325889,
+        "text": "@Notlee34 You love it really \ud83d\ude02",
+        "created_at": "2022-02-14 20:41:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1493324333552488448,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493324089603379200,
+        "text": "@Notlee34 Dickhead",
+        "created_at": "2022-02-14 20:39:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1493318741324713987,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492560586928005121,
+        "text": "@hellymoo Only just seen this tt..bloody hell that looks sore,hope you're on the mend",
+        "created_at": "2022-02-12 18:05:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 809114790,
+        "referenced_tweets": {
+            "id": 1491014117695516674,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492297292912734212,
+        "text": "A bit of live music, girl had a gravely voice and belted it out..x factor eat your heart out",
+        "created_at": "2022-02-12 00:39:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492164230967083011,
+        "text": "Perfect afternoon's spying \ud83d\udc41\ufe0f https://t.co/bJnGLOETWM",
+        "created_at": "2022-02-11 15:50:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491846285996998661,
+        "text": "@ReecePotterton Filey Saturday,beers and Indian tonight",
+        "created_at": "2022-02-10 18:47:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 257656941,
+        "referenced_tweets": {
+            "id": 1491840577842864128,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491836268229152771,
+        "text": "@ReecePotterton Scarborough,got an apartment,very swish too..a bit of me Reece \ud83d\ude02",
+        "created_at": "2022-02-10 18:07:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 257656941,
+        "referenced_tweets": {
+            "id": 1491835657379004419,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491834302094577666,
+        "text": "@hellymoo https://t.co/a1wxqIo0aT",
+        "created_at": "2022-02-10 17:59:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 809114790,
+        "referenced_tweets": {
+            "id": 1491826764301185046,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491823242688045059,
+        "text": "My view for the weekend https://t.co/jr1ZCtOh7d",
+        "created_at": "2022-02-10 17:15:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491127361408233472,
+        "text": "RT @forest_fr1ends: - what time\u2019s dinner?\n- i don\u2019t know, but you\u2019ll be drinking it through a straw if you don\u2019t stop f**king asking me\u2026 ht\u2026",
+        "created_at": "2022-02-08 19:10:41+00:00",
+        "public_metrics": {
+            "retweet_count": 386,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490408536484061184,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490058152812990465,
+        "text": "@LouiseWraith Apparently I'm not allowed to wish harm on child killers..ffs \ud83d\ude02\ud83d\ude02..had to delete the tweet.. honestly the world's gone soft",
+        "created_at": "2022-02-05 20:22:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1489983424324673542,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489368478616334345,
+        "text": "@Notlee34 @mowermanjimmy @greavste Food of the gods right there",
+        "created_at": "2022-02-03 22:41:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1489366147229229056,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489365987296169993,
+        "text": "RT @christinamartin: Melt Downing Street.\nWaste of a headline.",
+        "created_at": "2022-02-03 22:31:37+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489365625587838977,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489365373300453379,
+        "text": "Got to love strawberry pop tarts https://t.co/hTADYCsv1E",
+        "created_at": "2022-02-03 22:29:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489295751985483783,
+        "text": "@Notlee34 \ud83d\ude02\ud83d\ude02 you're right,the model of politeness..fucking hell \ud83d\ude02",
+        "created_at": "2022-02-03 17:52:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1489290152631492613,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489289472051224576,
+        "text": "@Notlee34 Thanks very much \ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-02-03 17:27:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1489288578274406400,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489284832563798016,
+        "text": "Had to sit on twitter's naughty step for twelve hours for a tweet that was perfectly acceptable in my eyes considering some of the stuff that is posted on here.. censorship at it finest",
+        "created_at": "2022-02-03 17:09:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488980033700077577,
+        "text": "@onthisGTFCday Seen the old photos,heard the tales,but never thought I'd see this ..gonna send this to my dad,he was there",
+        "created_at": "2022-02-02 20:57:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 911293054572785665,
+        "referenced_tweets": {
+            "id": 1488940433866731523,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488941636507906052,
+        "text": "@GyHistoryClub The foreskin inn as a mate used to call it \ud83d\ude00",
+        "created_at": "2022-02-02 18:25:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 846312787,
+        "referenced_tweets": {
+            "id": 1488939707941720067,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488902122234068999,
+        "text": "First day off so taking the missus out for tea at spoons..too good to her i really am \ud83d\ude00",
+        "created_at": "2022-02-02 15:48:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488770566014345216,
+        "text": "@bornblonde12 Sorry,not sorry \ud83d\ude02 https://t.co/lNxXDHNJbg",
+        "created_at": "2022-02-02 07:05:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1312702516145065985,
+        "referenced_tweets": {
+            "id": 1488767860117852163,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488685362897723397,
+        "text": "Look at that for timing @bornblonde12 https://t.co/dpEAY1Zu60",
+        "created_at": "2022-02-02 01:27:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488334362118660096,
+        "text": "@Leighannemila It's good that you're all best friends,proves that you've been doing it right..we all raise our kids different, we're learning to be parents too,no manual is there ..on the night shift so shout out when you want",
+        "created_at": "2022-02-01 02:12:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2428510047,
+        "referenced_tweets": {
+            "id": 1488330242120945666,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488326787411152896,
+        "text": "@Leighannemila Blaming yourself ain't gonna help but you know that..the answers will be there in time..least you putting it out there rather than suffering in silence",
+        "created_at": "2022-02-01 01:42:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2428510047,
+        "referenced_tweets": {
+            "id": 1488324984942518276,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488322353025142791,
+        "text": "@Leighannemila Nobody will tear you apart on here for feeling like you do..bit of time on both sides and things may change",
+        "created_at": "2022-02-01 01:24:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2428510047,
+        "referenced_tweets": {
+            "id": 1488320765627875329,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487799731757670403,
+        "text": "RT @joe_yer99: This is the best and will never not be, the funniest video on the internet EVER.\n\nI cannot watch this and not laugh like fuc\u2026",
+        "created_at": "2022-01-30 14:47:52+00:00",
+        "public_metrics": {
+            "retweet_count": 24,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487557994284040195,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487700565240995841,
+        "text": "#masongreenwood  oh dear,what have you done",
+        "created_at": "2022-01-30 08:13:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487092133165162497,
+        "text": "@PoetSimon Always good to get out for a round even when it's bad",
+        "created_at": "2022-01-28 15:56:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1070402897907732482,
+        "referenced_tweets": {
+            "id": 1487088377606377477,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486747295831969795,
+        "text": "@PoetSimon https://t.co/rJU7FHz6Uf",
+        "created_at": "2022-01-27 17:05:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1070402897907732482,
+        "referenced_tweets": {
+            "id": 1486743816031944710,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486477723849707520,
+        "text": "Kitchen disco time",
+        "created_at": "2022-01-26 23:14:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486471419047432197,
+        "text": "We are the people.. Empire of the sun..never more fitting",
+        "created_at": "2022-01-26 22:49:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486461779811221513,
+        "text": "Mersey Paradise by the Stone Roses has to be up there,it really has.. superb track",
+        "created_at": "2022-01-26 22:11:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486439933493583876,
+        "text": "RT @geocon1713: I understand that the world turns and things move on and modernise. But to remove words relating to the natural world like\u2026",
+        "created_at": "2022-01-26 20:44:31+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1486438413016391685,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1486384278464352265,
+        "text": "@ladbible The missus",
+        "created_at": "2022-01-26 17:03:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 331311644,
+        "referenced_tweets": {
+            "id": 1486383439385223168,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486337362531598338,
+        "text": "@Notlee34 You would drag it down further tbh \ud83d\ude02",
+        "created_at": "2022-01-26 13:56:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1486335152578080768,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486333653701455877,
+        "text": "My home town Grimsby has become a shit hole..dirty old town, can't wait to get back home..sad really",
+        "created_at": "2022-01-26 13:42:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486213262089797632,
+        "text": "@bornblonde12 https://t.co/ZsCd2YNszP",
+        "created_at": "2022-01-26 05:43:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1312702516145065985,
+        "referenced_tweets": {
+            "id": 1486212677546524677,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486103880882601989,
+        "text": "@NR0275 All's well in the world \ud83d\ude00",
+        "created_at": "2022-01-25 22:29:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 849200626349330432,
+        "referenced_tweets": {
+            "id": 1486103365138456576,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486102943933911043,
+        "text": "@NR0275 No idea,just think he'll be gone,never liked him first time around,can't get behind him at all..",
+        "created_at": "2022-01-25 22:25:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 849200626349330432,
+        "referenced_tweets": {
+            "id": 1486102560050229248,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486094476984606729,
+        "text": "@NR0275 He'll be gone tomorrow",
+        "created_at": "2022-01-25 21:51:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 849200626349330432,
+        "referenced_tweets": {
+            "id": 1486092731550208005,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486024352428609538,
+        "text": "@ess_emm_aitch A trifle is no place for bananas,is she mad \ud83d\ude00",
+        "created_at": "2022-01-25 17:13:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2836497035,
+        "referenced_tweets": {
+            "id": 1486022296867418121,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484803714120564738,
+        "text": "@LouiseWraith How cute..what happened \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-01-22 08:22:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1484694012669964292,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483807995356188678,
+        "text": "RT @louieruvolo: I\u2019m Louie - Alcoholic \n\nAt age 17  I became a daily drinker\n\nBy age 37  I was drinking beer and bourbon for breakfast \n\nAg\u2026",
+        "created_at": "2022-01-19 14:26:08+00:00",
+        "public_metrics": {
+            "retweet_count": 7659,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478322485800185859,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483564203227107336,
+        "text": "@hellymoo I am tt,this person needs it \ud83d\ude4f",
+        "created_at": "2022-01-18 22:17:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 809114790,
+        "referenced_tweets": {
+            "id": 1483563256295960579,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483561905943896064,
+        "text": "When you need to reach out to somebody but they live the other side of the country..that",
+        "created_at": "2022-01-18 22:08:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483554784804323330,
+        "text": "@hellymoo \ud83d\udc4d a superb clothing combo",
+        "created_at": "2022-01-18 21:39:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 809114790,
+        "referenced_tweets": {
+            "id": 1483552456441217024,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483532317595521031,
+        "text": "@onthisGTFCday https://t.co/7QZQFMpswX",
+        "created_at": "2022-01-18 20:10:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 911293054572785665,
+        "referenced_tweets": {
+            "id": 1483529421353070592,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483396449643769858,
+        "text": "RT @UberAbdul: Let\u2019s get ready to Uber https://t.co/rRnh0N4Loi",
+        "created_at": "2022-01-18 11:10:48+00:00",
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483380427930968066,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483194840678547459,
+        "text": "@geocon1713 Is your big toe upside down \ud83d\ude02",
+        "created_at": "2022-01-17 21:49:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1042483065900204033,
+        "referenced_tweets": {
+            "id": 1483193254090846214,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483191431615299584,
+        "text": "@DiddlerGames @libsoftiktok I have loads but cunt or nonce are in the top two \ud83d\ude00",
+        "created_at": "2022-01-17 21:36:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1178207297404715008,
+        "referenced_tweets": {
+            "id": 1482610792885219328,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483101987562561539,
+        "text": "@WisdenCricket As big a thrashing as we've just had",
+        "created_at": "2022-01-17 15:40:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 76970560,
+        "referenced_tweets": {
+            "id": 1483099294387228675,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483088643757690884,
+        "text": "@hellymoo In your world maybe \ud83d\ude00",
+        "created_at": "2022-01-17 14:47:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 809114790,
+        "referenced_tweets": {
+            "id": 1483084528902152192,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483078948389109763,
+        "text": "That awkward moment as you keep catching the eye of the car wash boys..\ud83d\ude00..do a cracking job though",
+        "created_at": "2022-01-17 14:09:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483078575033049094,
+        "text": "@mowermanjimmy @PaulLarsenRSG https://t.co/PCSTdRzc5E",
+        "created_at": "2022-01-17 14:07:41+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 929789091046191104,
+        "referenced_tweets": {
+            "id": 1483078180168773638,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482782898017251328,
+        "text": "@CluthaDubh Embrace it big man, happy birthday \ud83c\udf7b",
+        "created_at": "2022-01-16 18:32:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 63593443,
+        "referenced_tweets": {
+            "id": 1482692807324221447,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481711554722779141,
+        "text": "@Notlee34 @mowermanjimmy In-between two slices of white bread,nice and greasy",
+        "created_at": "2022-01-13 19:35:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1481704288929914881,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481668377894658054,
+        "text": "RT @angrypiln: We don\u2019t do Facebook drama, but\u2026",
+        "created_at": "2022-01-13 16:44:04+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1481641247282401290,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481172681189953543,
+        "text": "@ReecePotterton \ud83d\ude02 i slipped through the net",
+        "created_at": "2022-01-12 07:54:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 257656941,
+        "referenced_tweets": {
+            "id": 1481171342653370368,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481170874883526658,
+        "text": "@ReecePotterton \ud83d\ude02 we have standards Reece,no riff raff allowed in Brigg",
+        "created_at": "2022-01-12 07:47:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 257656941,
+        "referenced_tweets": {
+            "id": 1481165309922926592,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481019375385812992,
+        "text": "@_sarahdavies Ta very much,it was lush,well worth the effort \ud83d\ude0b",
+        "created_at": "2022-01-11 21:45:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 20845535,
+        "referenced_tweets": {
+            "id": 1481018362759155714,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481013747917459457,
+        "text": "This is what we need here,Boris and Starmer thrashing each other,win win https://t.co/kwfK5dVVkZ",
+        "created_at": "2022-01-11 21:22:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481011634759946240,
+        "text": "@gresh86 @GNev2 Is that Callan Rydz",
+        "created_at": "2022-01-11 21:14:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 76354475,
+        "referenced_tweets": {
+            "id": 1481009822556434442,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480999919318192134,
+        "text": "@libsoftiktok @usatodaylife Here's the cure for this shit https://t.co/8NKMrEDiGN",
+        "created_at": "2022-01-11 20:27:51+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 129,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1326229737551912960,
+        "referenced_tweets": {
+            "id": 1480998356595867648,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480992350629421057,
+        "text": "@Notlee34 @mowermanjimmy Good point \ud83d\ude02",
+        "created_at": "2022-01-11 19:57:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1480992136363446275,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480991912358301698,
+        "text": "@Notlee34 @mowermanjimmy Ta very much,can't afford cutlery after spunking my money on the beef \ud83d\ude03",
+        "created_at": "2022-01-11 19:56:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1480991432374636544,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480990840998793216,
+        "text": "Crispy chilli beef and a beer to wash it down with, not bad if i say so myself https://t.co/lHdg0oBAi7",
+        "created_at": "2022-01-11 19:51:46+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 3,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480901800890929156,
+        "text": "@hellymoo Show off \ud83d\ude03",
+        "created_at": "2022-01-11 13:57:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 809114790,
+        "referenced_tweets": {
+            "id": 1480900897945403393,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480900078638444547,
+        "text": "The beer man cometh..my night sorted \ud83d\ude00 https://t.co/tkXvKqckT0",
+        "created_at": "2022-01-11 13:51:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480657371139555335,
+        "text": "@gresh86 Can't argue with this..utter dogshit,pains me to say it",
+        "created_at": "2022-01-10 21:46:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 76354475,
+        "referenced_tweets": {
+            "id": 1480656915403321353,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480654610113212422,
+        "text": "@samuelluckhurst He looks like he has the weight of the world on him,looks like he's got issues in his head",
+        "created_at": "2022-01-10 21:35:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 182301693,
+        "referenced_tweets": {
+            "id": 1480652803118936068,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480585600961060865,
+        "text": "@bryansgunn @The_Hex_Blog \ud83d\ude02 Cracking fact,didn't know that",
+        "created_at": "2022-01-10 17:01:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1327670060501045250,
+        "referenced_tweets": {
+            "id": 1480582609340178432,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480582077980495873,
+        "text": "@The_Hex_Blog @bryansgunn Baseball Ground",
+        "created_at": "2022-01-10 16:47:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1359520003167559681,
+        "referenced_tweets": {
+            "id": 1480553836297302016,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480224478957387783,
+        "text": "@hellymoo https://t.co/dymMarKSzb",
+        "created_at": "2022-01-09 17:06:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 809114790,
+        "referenced_tweets": {
+            "id": 1480223648560603136,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480216174998740992,
+        "text": "In the seaside town they forgot to close down https://t.co/DiS0x3PZwd",
+        "created_at": "2022-01-09 16:33:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479944608016646144,
+        "text": "Last night shift,get this out of the way and it's a seaside walk tomorrow, blow the cobwebs off",
+        "created_at": "2022-01-08 22:34:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479912632404611073,
+        "text": "RT @forest_fr1ends: i don\u2019t mind giving it a go but we aren\u2019t using the good stuff. now go downstairs, top shelf in the fridge, and grab th\u2026",
+        "created_at": "2022-01-08 20:27:21+00:00",
+        "public_metrics": {
+            "retweet_count": 221,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479909645305233411,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479826092328374277,
+        "text": "@Justm3x @MilitaryBanter As promised https://t.co/NxIU6lbuPz",
+        "created_at": "2022-01-08 14:43:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 957035972943892481,
+        "referenced_tweets": {
+            "id": 1477424578838372363,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479704927941410817,
+        "text": "@LouiseWraith Good morning and goodnight,heading the other way in five \ud83d\ude34",
+        "created_at": "2022-01-08 06:42:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1479704596260048896,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479481477180149763,
+        "text": "@LouiseWraith It's the QVC chap isn't it",
+        "created_at": "2022-01-07 15:54:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1479480995615326211,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479185170519445507,
+        "text": "@WeePotatoes https://t.co/vXawOeVnZn",
+        "created_at": "2022-01-06 20:16:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 114197198,
+        "referenced_tweets": {
+            "id": 1479182305109360642,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478409143207800855,
+        "text": "@Notlee34 https://t.co/xCehkBeYkv",
+        "created_at": "2022-01-04 16:53:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1478407463418404864,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478406358139609094,
+        "text": "Relight my fire..Take That ft Lulu https://t.co/yzxxRggp9O",
+        "created_at": "2022-01-04 16:41:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478096091782471684,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1478369144076656644,
+        "text": "@LouiseWraith \ud83d\ude02 coward",
+        "created_at": "2022-01-04 14:14:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1478367242844876804,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478359940976812036,
+        "text": "@LouiseWraith Mmm delish..get me outta here \ud83d\ude03",
+        "created_at": "2022-01-04 13:37:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1478358868707139586,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478359706003517443,
+        "text": "@PoetSimon \ud83d\ude02 a wise move",
+        "created_at": "2022-01-04 13:36:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1070402897907732482,
+        "referenced_tweets": {
+            "id": 1478358639689838595,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478347135145893889,
+        "text": "Time to put the hard work in.. Baltic weather though https://t.co/ckp2NUpPm9",
+        "created_at": "2022-01-04 12:46:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478141366748200970,
+        "text": "One of the best feel good films around on BBC 2 now, The Peanut Butter Falcon",
+        "created_at": "2022-01-03 23:08:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478125253217955840,
+        "text": "@Notlee34 Bonne nuit",
+        "created_at": "2022-01-03 22:04:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1478124199982125063,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478101505077137409,
+        "text": "@Quirky_Poppins Lisa been watching that she rates it..it's that Aussie thing isn't it",
+        "created_at": "2022-01-03 20:30:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 261372795,
+        "referenced_tweets": {
+            "id": 1478091575708327940,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478064588507787266,
+        "text": "@LouBeardsley https://t.co/vjVzfOLFVO",
+        "created_at": "2022-01-03 18:03:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 156996228,
+        "referenced_tweets": {
+            "id": 1478063670961840138,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478062073590517760,
+        "text": "RT @NoContextBrits: https://t.co/ul3al9WxrL",
+        "created_at": "2022-01-03 17:53:54+00:00",
+        "public_metrics": {
+            "retweet_count": 491,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478059847476199429,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477983536632188929,
+        "text": "Anybody watched Elves ? Is it worth a look ?",
+        "created_at": "2022-01-03 12:41:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477782938171359238,
+        "text": "RT @mrwtffacts: If you film hanging bats upside down it looks like a goth nightclub. https://t.co/gVSZEWdOYh",
+        "created_at": "2022-01-02 23:24:42+00:00",
+        "public_metrics": {
+            "retweet_count": 1150,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1477347369410867212,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477770098614153221,
+        "text": "@LouiseWraith https://t.co/OhuOGhE3j2",
+        "created_at": "2022-01-02 22:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1477768792612687881,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477767956037726208,
+        "text": "@LouiseWraith It is \ud83d\udc4d",
+        "created_at": "2022-01-02 22:25:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1477767792464121857,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477702207642472460,
+        "text": "@TeaCider @fesshole https://t.co/JqvFJX5Zsq",
+        "created_at": "2022-01-02 18:03:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 422951392,
+        "referenced_tweets": {
+            "id": 1477701026513920003,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477701615167676433,
+        "text": "@PoetSimon We did in the end,for a good five minutes,still laughing now, Freddy the frog..",
+        "created_at": "2022-01-02 18:01:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1070402897907732482,
+        "referenced_tweets": {
+            "id": 1477694438537367557,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477686535575244804,
+        "text": "Absolutely abysmal golf today,my lad deserved the win... highlight of the day was seeing a bloke fall in the pond on the 18th..was biting my arm trying not to laugh \ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-01-02 17:01:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477424274713415683,
+        "text": "@MilitaryBanter @Justm3x I'll post details,he was a mate of my eldest..",
+        "created_at": "2022-01-01 23:39:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1898290184,
+        "referenced_tweets": {
+            "id": 1477417833718026246,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477398133789409284,
+        "text": "@Notlee34 @TheBerwickBear @Biggyraymongo https://t.co/eBfU1uR73k",
+        "created_at": "2022-01-01 21:55:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1477396289528684544,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477395982941925380,
+        "text": "@Notlee34 @TheBerwickBear @Biggyraymongo Been saving it",
+        "created_at": "2022-01-01 21:47:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1477395224737587201,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477395088548446212,
+        "text": "@Notlee34 @TheBerwickBear @Biggyraymongo https://t.co/kYlwdSQokC",
+        "created_at": "2022-01-01 21:43:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1477394152853852163,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477394676843962369,
+        "text": "@Bonbarlos1 Had a fiver on rydz at 8/1 last week..tough call next match",
+        "created_at": "2022-01-01 21:41:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1222571246359142400,
+        "referenced_tweets": {
+            "id": 1477394227554361351,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477393198800646152,
+        "text": "@Bonbarlos1 I can't say a lot,but what on earth is going on with that barnet..does he have a mirror",
+        "created_at": "2022-01-01 21:36:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1222571246359142400,
+        "referenced_tweets": {
+            "id": 1477392654002540544,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477391527353663491,
+        "text": "Top darts",
+        "created_at": "2022-01-01 21:29:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477373345276567556,
+        "text": "@Biggyraymongo One and the same if you ask me \ud83d\ude02",
+        "created_at": "2022-01-01 20:17:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1418924329987977217,
+        "referenced_tweets": {
+            "id": 1477373055727022087,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477372767301476356,
+        "text": "@Biggyraymongo Your dodgy Scottish accent \ud83d\ude02",
+        "created_at": "2022-01-01 20:14:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1418924329987977217,
+        "referenced_tweets": {
+            "id": 1477367535888736264,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477364350788767745,
+        "text": "@Biggyraymongo Needs subtitles \ud83d\ude02",
+        "created_at": "2022-01-01 19:41:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1418924329987977217,
+        "referenced_tweets": {
+            "id": 1477362342904176640,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477358664109416448,
+        "text": "@hellymoo Are you saying i could be surplus \ud83d\ude02..Always well behaved,I know my place.. \ud83d\ude03",
+        "created_at": "2022-01-01 19:18:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 809114790,
+        "referenced_tweets": {
+            "id": 1477356725883875331,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477342138040033282,
+        "text": "The Green Mile on TV tonight.. always worth a watch..",
+        "created_at": "2022-01-01 18:13:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477335298661040131,
+        "text": "@madmunk Feel your rage brother,hope you find them",
+        "created_at": "2022-01-01 17:45:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19625983,
+        "referenced_tweets": {
+            "id": 1477334997686276097,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477334766294913024,
+        "text": "@madmunk Bastard's.. I'd be raging",
+        "created_at": "2022-01-01 17:43:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19625983,
+        "referenced_tweets": {
+            "id": 1477333989950165002,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477328623287820293,
+        "text": "The missus is wanting to move furniture around,hope she's not nesting \ud83d\udc40\ud83d\ude00",
+        "created_at": "2022-01-01 17:19:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477323057454792706,
+        "text": "@CUFFLINKK8 https://t.co/4YbhVNhRfi",
+        "created_at": "2022-01-01 16:57:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 236145743,
+        "referenced_tweets": {
+            "id": 1477321227916165121,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477318199687499776,
+        "text": "Raising a glass to a lad who has left us far too soon..rip doody https://t.co/xPM8SVeiYh",
+        "created_at": "2022-01-01 16:38:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477315316942315521,
+        "text": "We need to get this out in the open..@bornblonde12 https://t.co/XZhXzoyIVy",
+        "created_at": "2022-01-01 16:26:33+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1477270950945202181,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1477313323691646980,
+        "text": "@bornblonde12 100 % ,had a bit of bad news earlier,makes you realise.. people need to talk",
+        "created_at": "2022-01-01 16:18:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1312702516145065985,
+        "referenced_tweets": {
+            "id": 1477304528143851523,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477274103258230785,
+        "text": "Not one for resolutions but improving my golf is a must this year,starting tomorrow..pink balls for the win https://t.co/qg1mPZL39n",
+        "created_at": "2022-01-01 13:42:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477232163162574851,
+        "text": "Drinking lots of Port and Stella is a good way to get a headache..\ud83d\ude02",
+        "created_at": "2022-01-01 10:56:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477071806716690433,
+        "text": "@_sarahdavies Happy New year to you all \ud83c\udf89 https://t.co/vOQRq3G681",
+        "created_at": "2022-01-01 00:18:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 20845535,
+        "referenced_tweets": {
+            "id": 1477068662569897987,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477051805884424193,
+        "text": "@georgegalloway @TheBlairDoc The charlatans walk amongst us.. should be the Hague not a reward, embarrassing",
+        "created_at": "2021-12-31 22:59:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15484198,
+        "referenced_tweets": {
+            "id": 1477047513559576576,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477031355875794947,
+        "text": "@Notlee34 @TheBerwickBear Gay as yellow dusters \ud83d\ude02 happy new year \ud83d\udc96",
+        "created_at": "2021-12-31 21:38:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1477030243424780291,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476999527555022848,
+        "text": "@jslovechild Orange ball,snow covered pitch .. halcyon days",
+        "created_at": "2021-12-31 19:31:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 942484472347361285,
+        "referenced_tweets": {
+            "id": 1476993106490933258,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476976995900796941,
+        "text": "@hellymoo \ud83d\ude02 Back at you both,twitter's finest couple \ud83c\udf7b\ud83c\udf89",
+        "created_at": "2021-12-31 18:02:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 809114790,
+        "referenced_tweets": {
+            "id": 1476974727554121730,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476970087450038275,
+        "text": "@geocon1713 Takeaway and kitchen disco for us..\ud83e\udd43\ud83d\udd7a",
+        "created_at": "2021-12-31 17:34:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1042483065900204033,
+        "referenced_tweets": {
+            "id": 1476968148075048961,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476969212644139011,
+        "text": "@bornblonde12 Wtf is he all about \ud83d\ude02",
+        "created_at": "2021-12-31 17:31:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1312702516145065985,
+        "referenced_tweets": {
+            "id": 1476968685134925828,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476966089494081545,
+        "text": "@CluthaDubh And to you big man",
+        "created_at": "2021-12-31 17:18:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 63593443,
+        "referenced_tweets": {
+            "id": 1476949462283169793,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476681484455100428,
+        "text": "@madchester2000 Fucking hell,what on earth ? \ud83e\udd2e",
+        "created_at": "2021-12-30 22:27:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1175459150282854400,
+        "referenced_tweets": {
+            "id": 1476675491662807044,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476283623779221509,
+        "text": "RT @Catheri32273716: Back to square one through no fault of my own- I\u2019m looking for a job in dairy again.\n\nCv can be given upon request.\n\nI\u2026",
+        "created_at": "2021-12-29 20:06:58+00:00",
+        "public_metrics": {
+            "retweet_count": 83,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1476226982400643079,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1476134516527882246,
+        "text": "A trip to the DIY store and putting shelves up today,living the high life..sure this will gain me brownie points",
+        "created_at": "2021-12-29 10:14:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475972139979354118,
+        "text": "@hellymoo I'm getting all brave again tt \ud83d\ude02",
+        "created_at": "2021-12-28 23:29:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 809114790,
+        "referenced_tweets": {
+            "id": 1475970308406398987,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475969068649828353,
+        "text": "Time for Misery,the film not the missus \ud83d\ude00",
+        "created_at": "2021-12-28 23:17:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475962972447117317,
+        "text": "@didsburygirl https://t.co/4iE2q2Onh9",
+        "created_at": "2021-12-28 22:52:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19786718,
+        "referenced_tweets": {
+            "id": 1475960816126017542,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475949086234796039,
+        "text": "@Bonbarlos1 @gresh86 Cheers Carl",
+        "created_at": "2021-12-28 21:57:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1222571246359142400,
+        "referenced_tweets": {
+            "id": 1475948472738230274,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475945958429106179,
+        "text": "@gresh86 https://t.co/Vp3YxzUdld",
+        "created_at": "2021-12-28 21:45:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1454168353896009730,
+        "referenced_tweets": {
+            "id": 1475945807971074048,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475945807971074048,
+        "text": "@gresh86 I cashed out thinking you would nick one",
+        "created_at": "2021-12-28 21:44:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 76354475,
+        "referenced_tweets": {
+            "id": 1475944861610172419,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475944887526772742,
+        "text": "@fesshole Edgy",
+        "created_at": "2021-12-28 21:40:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1007749631818821638,
+        "referenced_tweets": {
+            "id": 1475940882209726468,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475943758902534151,
+        "text": "@didsburygirl Can you not sneak one to work \ud83d\udc40",
+        "created_at": "2021-12-28 21:36:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19786718,
+        "referenced_tweets": {
+            "id": 1475942915482562567,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475896979020464131,
+        "text": "Just watching the end of Planes,Trains and Automobiles on five..John Candy,a talent taken too soon",
+        "created_at": "2021-12-28 18:30:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475852003435859970,
+        "text": "Well so much for a walk, here i am drinking Guinness,eating chocolate and watching James Bond",
+        "created_at": "2021-12-28 15:31:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475845796000059392,
+        "text": "@Notlee34 @Biggyraymongo He's got that look about him",
+        "created_at": "2021-12-28 15:07:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1475845644418002956,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475845530433503237,
+        "text": "@Notlee34 @Biggyraymongo They're all like that up there,gremlin hooligans",
+        "created_at": "2021-12-28 15:06:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1475845176140644356,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475845330046488577,
+        "text": "@Biggyraymongo @Notlee34 The width of the post and dodgy finishing cost you..get a striker and you'll stay up",
+        "created_at": "2021-12-28 15:05:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1418924329987977217,
+        "referenced_tweets": {
+            "id": 1475844486592970753,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475843773888442376,
+        "text": "@LouiseWraith Jesus Christ woman,what are you trying to do to me ..\ud83d\ude02 https://t.co/Fnm6PPS6Uq",
+        "created_at": "2021-12-28 14:59:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1475841360599166983,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475843124887191558,
+        "text": "@Notlee34 @Biggyraymongo He'll be all excited because that black and white shite managed a point last night \ud83d\ude02",
+        "created_at": "2021-12-28 14:56:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1475840297896665089,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475840002433105927,
+        "text": "@LouiseWraith We can't be friends anymore lou with that sort of comment.. where's the block button \ud83d\ude02",
+        "created_at": "2021-12-28 14:44:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1475839102729740292,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475838140875165702,
+        "text": "@Notlee34 @Biggyraymongo \ud83d\ude02 never even lasted a week,goodwill to all men my arse",
+        "created_at": "2021-12-28 14:36:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1475837887480541188,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475837312986669061,
+        "text": "@Biggyraymongo @Notlee34 It could never last \ud83d\ude02",
+        "created_at": "2021-12-28 14:33:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1418924329987977217,
+        "referenced_tweets": {
+            "id": 1475834944261967873,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475832272637075459,
+        "text": "Far too many cobwebs in the  attic for my liking..didn't stay up there for long..\ud83d\udd78\ufe0f\ud83d\udd77\ufe0f",
+        "created_at": "2021-12-28 14:13:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475631637807472647,
+        "text": "Rubbish #Ashes",
+        "created_at": "2021-12-28 00:56:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475626535415472129,
+        "text": "Need some fresh air and a long walk tomorrow,clear the mind fog,fish and chips could be on the cards",
+        "created_at": "2021-12-28 00:35:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475622838694461443,
+        "text": "@georgiebingham So so close..",
+        "created_at": "2021-12-28 00:21:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 103357357,
+        "referenced_tweets": {
+            "id": 1475622172328660993,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475616293197946881,
+        "text": "@LouiseWraith Brilliant attitude from her,clearly done the trick..",
+        "created_at": "2021-12-27 23:55:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1475614480654548997,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475613834903801863,
+        "text": "Don't see me lasting all night watching the cricket,could only make three o'clock last night..need to pace my drinking,one at a time",
+        "created_at": "2021-12-27 23:45:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475612763712012293,
+        "text": "@LouiseWraith You can rest easy now \ud83d\udc4d",
+        "created_at": "2021-12-27 23:41:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1475612530060009478,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475610072717873153,
+        "text": "Matt Smith is clearly not a cricket presenter.. woeful link man #AshesTest",
+        "created_at": "2021-12-27 23:30:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475609033943957514,
+        "text": "@bornblonde12 https://t.co/Ot7gDZbwZr",
+        "created_at": "2021-12-27 23:26:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1312702516145065985,
+        "referenced_tweets": {
+            "id": 1475607997036613636,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475532167962836997,
+        "text": "@_DHOTYA Superdry purely for a noticeably shorter arm \ud83d\ude02",
+        "created_at": "2021-12-27 18:20:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 816439710478438400,
+        "referenced_tweets": {
+            "id": 1475530719850020870,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475469995559772164,
+        "text": "@LouiseWraith Lucky girl",
+        "created_at": "2021-12-27 14:13:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1475468691378782208,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475467885007020032,
+        "text": "@LouiseWraith What an opportunity for her ..the wee woman needs to wind her neck in \ud83d\ude02",
+        "created_at": "2021-12-27 14:05:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1475461303712034819,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475457111735816197,
+        "text": "@LouiseWraith Brilliant that she's going, she'll be well happy after all the covid concerns..get yourselves up there,free pass \ud83e\udd43\ud83c\udf7b",
+        "created_at": "2021-12-27 13:22:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1475455884675493888,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475238965280223242,
+        "text": "You know age is creeping up when an all nighter nowadays is watching the cricket till dawn..#Ashes",
+        "created_at": "2021-12-26 22:55:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1474834856802762764,
+        "text": "New whisky in a new glass..cheers twitter's \ud83c\udf32 https://t.co/THIDIIPsks",
+        "created_at": "2021-12-25 20:10:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1474816594819825666,
+        "text": "RT @forest_fr1ends: - this one\u2019s for you dave. can you remember what you asked santa for?\n- yes, a line of coke and a freshly greased butt\u2026",
+        "created_at": "2021-12-25 18:57:31+00:00",
+        "public_metrics": {
+            "retweet_count": 273,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474465885020737544,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1474076755073851393,
+        "text": "A drop of the black stuff https://t.co/37USjZ7U43",
+        "created_at": "2021-12-23 17:57:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473892425429102600,
+        "text": "Last early of the year \ud83d\ude00",
+        "created_at": "2021-12-23 05:45:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473892286736093185,
+        "text": "@Notlee34 Good morning fine sir",
+        "created_at": "2021-12-23 05:44:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1473891208976023552,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1473884822238023682,
+        "text": "@hellymoo Good luck tt",
+        "created_at": "2021-12-23 05:14:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 809114790,
+        "referenced_tweets": {
+            "id": 1473872336524824576,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1473735721483743239,
+        "text": "@LouiseWraith https://t.co/QTCN7YFjuN",
+        "created_at": "2021-12-22 19:22:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1473734467047014423,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1473733838769639432,
+        "text": "@LouiseWraith Enjoy \ud83e\udd43",
+        "created_at": "2021-12-22 19:15:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1473733533952876552,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1473731890658127886,
+        "text": "@LouiseWraith https://t.co/asy8eRuMLE",
+        "created_at": "2021-12-22 19:07:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1473727583657332751,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1473639569899859975,
+        "text": "RT @chelseachazza: To anyone who is struggling financially, and has a Pre- Payment Meter\nIf you have less than \u00a34 on your meter, and don\u2019t\u2026",
+        "created_at": "2021-12-22 13:00:27+00:00",
+        "public_metrics": {
+            "retweet_count": 531,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473459252647927818,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473390041636519943,
+        "text": "RT @loopyrizla: What the actual fuck... i'm lost for words.",
+        "created_at": "2021-12-21 20:28:54+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473310875977236481,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473052318442700804,
+        "text": "RT @Romseymark: ROUGH SLEEPERS\n\nIf you are aware of anyone sleeping rough, especially as it is getting colder and we are heading towards Ch\u2026",
+        "created_at": "2021-12-20 22:06:55+00:00",
+        "public_metrics": {
+            "retweet_count": 43,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473007061629870084,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473022752114286593,
+        "text": "Twas the week before Christmas and the washer leaked all over the floor..ffs \ud83d\ude03",
+        "created_at": "2021-12-20 20:09:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472688504186486797,
+        "text": "RT @prodnose: No matter what the evidence, the government haven't the nerve to bring in lock down this close to Christmas. So they will wai\u2026",
+        "created_at": "2021-12-19 22:01:15+00:00",
+        "public_metrics": {
+            "retweet_count": 286,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1472688191081746433,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1472686143749644288,
+        "text": "@Notlee34 @mowermanjimmy @JohnDicko https://t.co/x6EoXCi6EI",
+        "created_at": "2021-12-19 21:51:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1472685586087563264,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472685244629372930,
+        "text": "@Notlee34 @mowermanjimmy @JohnDicko Was thinking more pink wafer for you",
+        "created_at": "2021-12-19 21:48:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1472684680864579588,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472352641665712133,
+        "text": "@Leighannemila I did \ud83d\ude02",
+        "created_at": "2021-12-18 23:46:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2428510047,
+        "referenced_tweets": {
+            "id": 1472237060610301961,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472191604450643970,
+        "text": "Three hours sleep and off out for Christmas drinks,only one way this is heading,rapidly downhill \ud83c\udf32\ud83c\udf7b",
+        "created_at": "2021-12-18 13:06:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1470963023829508101,
+        "text": "@ess_emm_aitch Mine if you don't mind \ud83d\ude02",
+        "created_at": "2021-12-15 03:44:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2836497035,
+        "referenced_tweets": {
+            "id": 1470950373154332673,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1470509069471469575,
+        "text": "Fifty years old and never been to KFC..got the feeling i haven't missed much..random musing",
+        "created_at": "2021-12-13 21:40:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1470503652863483906,
+        "text": "RT @Kirsty7169: The little boy that santa claus forgot... https://t.co/6H6Odi7KK8",
+        "created_at": "2021-12-13 21:19:26+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1470470673395036160,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1470438881657032706,
+        "text": "@Notlee34 Cry me a river",
+        "created_at": "2021-12-13 17:02:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1470413925007216642,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469958658809376771,
+        "text": "RT @JokersWildUK: https://t.co/XRMYCv4zdZ",
+        "created_at": "2021-12-12 09:13:49+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1469955743449337863,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1469778232501276678,
+        "text": "@LouiseWraith Fanks \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "created_at": "2021-12-11 21:16:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1469777684972646410,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469777019592396801,
+        "text": "@LouiseWraith I know right, keeping the country going \ud83d\udc40",
+        "created_at": "2021-12-11 21:12:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1469776142215401475,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469766628552450050,
+        "text": "@PoetSimon Well ta very much \ud83d\ude02..enjoy \ud83d\udc4d",
+        "created_at": "2021-12-11 20:30:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1070402897907732482,
+        "referenced_tweets": {
+            "id": 1469764543421329415,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469762949678047235,
+        "text": "Getting your work gear ready for the morning on Saturday night.. \u2639\ufe0f..plus side is soon be Christmas hols",
+        "created_at": "2021-12-11 20:16:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469760258742620171,
+        "text": "@PoetSimon Saturday superbness",
+        "created_at": "2021-12-11 20:05:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1070402897907732482,
+        "referenced_tweets": {
+            "id": 1469757578699812873,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469759742709014532,
+        "text": "@didsburygirl https://t.co/CGbbvQo4dB",
+        "created_at": "2021-12-11 20:03:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19786718,
+        "referenced_tweets": {
+            "id": 1469758187674943489,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469612412034813954,
+        "text": "@LouiseWraith https://t.co/oPZzaYGJrO",
+        "created_at": "2021-12-11 10:17:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1469611796688515072,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469444407082500097,
+        "text": "@skynewsfotochop On it till we",
+        "created_at": "2021-12-10 23:10:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 300114131,
+        "referenced_tweets": {
+            "id": 1469437265902514182,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469404475907575814,
+        "text": "@Notlee34 @KayBurley @TheBerwickBear https://t.co/D6goz7eTnW",
+        "created_at": "2021-12-10 20:31:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1469403821264801797,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469403659624718347,
+        "text": "@Notlee34 @KayBurley Media driven country,anything to destroy the opposite of what they believe.. Best thing to do is have a gay gin and get some more of that erasure on..",
+        "created_at": "2021-12-10 20:28:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1469402453049286656,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469400540190846983,
+        "text": "@Notlee34 @KayBurley Exactly,no sadness in her eyes",
+        "created_at": "2021-12-10 20:16:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1469399893471117318,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469399562515365892,
+        "text": "@Notlee34 @KayBurley A nasty piece of work..",
+        "created_at": "2021-12-10 20:12:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1469395524780449800,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1468967366184751119,
+        "text": "@Notlee34 First person that came to my mind..\ud83d\ude02",
+        "created_at": "2021-12-09 15:34:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1468966749072592900,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1468954965339082756,
+        "text": "@Notlee34 You're the type she needs to avoid \ud83d\ude02",
+        "created_at": "2021-12-09 14:45:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1468865041399267329,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1468839095292108803,
+        "text": "RT @cjcheesecake: Lol .... https://t.co/4od6Da2irN",
+        "created_at": "2021-12-09 07:05:04+00:00",
+        "public_metrics": {
+            "retweet_count": 32,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1468838941616922635,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1468839002698616839,
+        "text": "Aussie team been very proactive..fearing a white wash here #Ashes2021",
+        "created_at": "2021-12-09 07:04:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468836183706935296,
+        "text": "@Jan53212015 Another hour and we'll be there \ud83d\ude02",
+        "created_at": "2021-12-09 06:53:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1237416871076429824,
+        "referenced_tweets": {
+            "id": 1468835548450152449,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1468834154339082240,
+        "text": "Just been to the garage on the way home,some eastern European girl asked for a lift to York,only 60 miles out of my way \ud83d\ude02..very random.. working girl written all over her \ud83d\udc40",
+        "created_at": "2021-12-09 06:45:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467399046792896512,
+        "text": "@Notlee34 Ta very much \ud83d\ude02 nobhead",
+        "created_at": "2021-12-05 07:42:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1467293587448766464,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1467268959699451909,
+        "text": "Alarm set for seven on a sunday morning ffs..fancy arranging golf early.. dickhead",
+        "created_at": "2021-12-04 23:05:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467169544477327364,
+        "text": "Had so much to do today,yet here i am watching TV and drinking beer,sometimes you have to let the day slide away",
+        "created_at": "2021-12-04 16:30:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467123493854711812,
+        "text": "RT @maybesainsburys: What do we want?\nBenefits for dyslexics\nWhen do we want it?\nOwn.....",
+        "created_at": "2021-12-04 13:27:53+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1467118036545064960,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1466924308421390339,
+        "text": "@LouiseWraith Christmas I'll have one",
+        "created_at": "2021-12-04 00:16:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1466924150551896070,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466921952715722759,
+        "text": "@LouiseWraith \ud83d\udc47 https://t.co/T7IUvNrCRW",
+        "created_at": "2021-12-04 00:07:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1466921149607170050,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466920708357898240,
+        "text": "@LouiseWraith No surprise there \ud83d\udc40\ud83d\ude02",
+        "created_at": "2021-12-04 00:02:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1466919351261569030,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466920567882330112,
+        "text": "@LouiseWraith All too late for him..if it's not for you then so be it",
+        "created_at": "2021-12-04 00:01:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1466918127887912965,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466917450528788486,
+        "text": "@LouiseWraith So so sad,poor little soul.. must have been so difficult a job for you ..made me angry last night",
+        "created_at": "2021-12-03 23:49:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1466907953123012609,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466883503254089732,
+        "text": "@Quirky_Poppins https://t.co/DLhVSwTfxU",
+        "created_at": "2021-12-03 21:34:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 261372795,
+        "referenced_tweets": {
+            "id": 1466881544912519172,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466871925762928640,
+        "text": "Angry Spunkbubble \ud83d\ude03 https://t.co/qK5HxuR1RS",
+        "created_at": "2021-12-03 20:48:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1466835228857667594,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1466865281482072067,
+        "text": "@Quirky_Poppins I have,same rubbish as before \ud83d\ude02",
+        "created_at": "2021-12-03 20:21:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 261372795,
+        "referenced_tweets": {
+            "id": 1466863546646548483,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466762470148775948,
+        "text": "@Notlee34 A complete wanker",
+        "created_at": "2021-12-03 13:33:18+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1449018634215563264,
+        "referenced_tweets": {
+            "id": 1466759873299890186,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466531582785855494,
+        "text": "Watching the news #arthurlabinjohughes  ..hoping his parents get what's coming..these animals should just be taken out and shot",
+        "created_at": "2021-12-02 22:15:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465301006573608969,
+        "text": "After waking in the middle of the night with a dry mouth due to excessive beer,reached for the water only to grab the whisky I'd taken up to room,that was a shock to the system \u2639\ufe0f\ud83d\ude02",
+        "created_at": "2021-11-29 12:45:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464976071208562688,
+        "text": "In Liverpool,first port of call,the pub \ud83d\ude03 https://t.co/2or8Wd3YLy",
+        "created_at": "2021-11-28 15:14:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464558600018403332,
+        "text": "RT @mrdanwalker: I can\u2019t believe it\u2019s been 10 years since Gary Speed\u2019s death. \n\nI hope this helps someone\u2026\n\nhttps://t.co/FeQlkfBBzW",
+        "created_at": "2021-11-27 11:35:55+00:00",
+        "public_metrics": {
+            "retweet_count": 16739,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1464521245660168194,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1463623043201351681,
+        "text": "@LouiseWraith \ud83d\ude02 they're all weird too",
+        "created_at": "2021-11-24 21:38:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1463621289420234755,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1463620687738941449,
+        "text": "@LouiseWraith Weirdo",
+        "created_at": "2021-11-24 21:28:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1463620430556803080,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1463620521220845573,
+        "text": "@LouiseWraith I know you can't, scarred you hasn't it.. I'll have your share,leave it with me \ud83d\ude02",
+        "created_at": "2021-11-24 21:28:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1463619995020275717,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1463618722472644614,
+        "text": "@LouiseWraith Food of the gods",
+        "created_at": "2021-11-24 21:21:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1463618133776814088,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1463617751818330122,
+        "text": "Frankie Bridge will do well #ImACeleb",
+        "created_at": "2021-11-24 21:17:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1463615454765891586,
+        "text": "@LouiseWraith You can hush \ud83d\ude02",
+        "created_at": "2021-11-24 21:08:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1463615111185190914,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1463609413961457668,
+        "text": "Aldis Bread and butter pudding for supper.. superb",
+        "created_at": "2021-11-24 20:44:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1463599801539473412,
+        "text": "RT @bazza080808: This is open to anyone who wants to come and listen or chat. https://t.co/mbOnRoBCc1",
+        "created_at": "2021-11-24 20:05:59+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1463496606137962499,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1463590958969368578,
+        "text": "RT @savs66: First thing he\u2019s blocked all season. https://t.co/8jBnrnJzgS",
+        "created_at": "2021-11-24 19:30:51+00:00",
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1463579387115278344,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1463284928028811266,
+        "text": "Get yourselves on here , absolute quality #SINGYOURDIALECT\n\nhttps://t.co/madVAzB1RQ",
+        "created_at": "2021-11-23 23:14:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1463264990174064643,
+        "text": "@Bonbarlos1 Complete washout of a man",
+        "created_at": "2021-11-23 21:55:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1222571246359142400,
+        "referenced_tweets": {
+            "id": 1463264694836289547,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1463259092072419341,
+        "text": "Ginola rocking it..#ImACeleb",
+        "created_at": "2021-11-23 21:32:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1462860318598742023,
+        "text": "RT @swearclock: Give Meghan Markle's Muff A Sparkle It's 7:00PM",
+        "created_at": "2021-11-22 19:07:33+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1462858458877812740,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1462799676579667973,
+        "text": "The daughter rescued this little fella this morning,off to a hedgehog rescue centre to be released somewhere safe https://t.co/1Hjd44c23l",
+        "created_at": "2021-11-22 15:06:35+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1462087962473156609,
+        "text": "Fish chips and curry sauce for dinner\ud83d\udc4dproper fish as in haddock,none of that cod nonsense",
+        "created_at": "2021-11-20 15:58:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1461804430639181824,
+        "text": "@Leighannemila I have no room to talk but fucking hell,that's a shocker \ud83d\ude02",
+        "created_at": "2021-11-19 21:11:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2428510047,
+        "referenced_tweets": {
+            "id": 1461802501917880323,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1461447390720888837,
+        "text": "@LouiseWraith @mredwards * makes notes",
+        "created_at": "2021-11-18 21:33:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1461446818500333572,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1461443650278281224,
+        "text": "RT @vizcomic: https://t.co/X3OJdKZgwU https://t.co/nfPjU18NhD",
+        "created_at": "2021-11-18 21:18:13+00:00",
+        "public_metrics": {
+            "retweet_count": 210,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1456553373243625475,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1461442719230869508,
+        "text": "@LouiseWraith @mredwards Simmer down Lou \ud83d\ude1c",
+        "created_at": "2021-11-18 21:14:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34747079,
+        "referenced_tweets": {
+            "id": 1461439700036689923,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1461432408050475013,
+        "text": "After a shocker of a shift, decided that going for a few beers would be for the best, how right i was",
+        "created_at": "2021-11-18 20:33:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1461090556797497347,
+        "text": "RT @EmilieS2018: \ud83d\ude01 https://t.co/4HXo8M6JDa",
+        "created_at": "2021-11-17 21:55:09+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1461060031160459272,
+            "type": "retweeted"
+        }
+    }
+]

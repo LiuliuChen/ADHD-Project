@@ -1,0 +1,1401 @@
+[
+    {
+        "tweet_id": 1507078985972273173,
+        "text": "I tried \"tapping\" to beat my sugar addiction \u2014 here's what happened https://t.co/wGQE4S3myc via @NBCNewsBETTER",
+        "created_at": "2022-03-24 19:36:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507072945276932104,
+        "text": "How can this be true? Do fish also get covid? https://t.co/4ifEBRMDhn",
+        "created_at": "2022-03-24 19:12:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506039761747820547,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507072638790750211,
+        "text": "RT @globalnews: According to an analysis by Global News, the resurgence is taking place in Ontario, Alberta, Saskatchewan and parts of Brit\u2026",
+        "created_at": "2022-03-24 19:11:31+00:00",
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507034816474238984,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507072219972718595,
+        "text": "The pitiful 500. Can you donate? https://t.co/57RcD8bqTL",
+        "created_at": "2022-03-24 19:09:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505608866427547652,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507069072520859657,
+        "text": "You can leave ot the \"almost always\" https://t.co/KnrwZfzZhi",
+        "created_at": "2022-03-24 18:57:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507063969118363658,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507068840617787392,
+        "text": "Now here is something you can believe. It's so very true. https://t.co/9KEMYvgef0",
+        "created_at": "2022-03-24 18:56:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507038784172531714,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507068423129354249,
+        "text": "RT @Lidsville: @arthister What authorities in BC are doing on Covid is more akin to Public Relations than Public Health.",
+        "created_at": "2022-03-24 18:54:46+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507064745559355393,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068055578300434,
+        "text": "I have always liked listening to their \"eerie\" in the evening. https://t.co/sCchBrmhbi",
+        "created_at": "2022-03-24 18:53:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507051647532519424,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507067106533134337,
+        "text": "RT @ConservationSP: In this study, Mohammadi et al. developed a system dynamics model which addresses the complexities of social and ecolog\u2026",
+        "created_at": "2022-03-24 18:49:32+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507063155767353353,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507066906607439891,
+        "text": "RT @Clint99105373: Offer Exclusive To Canada... \nGet an Apple Watch 7\n#applewatch7 #Giveaway  #Canada \nhttps://t.co/bJfXh5wH8B https://t.co\u2026",
+        "created_at": "2022-03-24 18:48:45+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507053290642722821,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507066775954870301,
+        "text": "Good Idea https://t.co/inZlRgpsFx",
+        "created_at": "2022-03-24 18:48:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506896669916471297,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506428966499926020,
+        "text": "Managing a Panic Attack at Work https://t.co/hoqKPjncfp",
+        "created_at": "2022-03-23 00:33:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505704190064173057,
+        "text": "Mapped: Global Happiness Levels in 2022 https://t.co/v5CLuyfyMX #happiness",
+        "created_at": "2022-03-21 00:33:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504979459102973953,
+        "text": "4 Expert-Backed Strategies for Managing Anxiety https://t.co/LUyljlxT45",
+        "created_at": "2022-03-19 00:33:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503892585156419590,
+        "text": "Prenatal mindfulness program improves stress response in infants https://t.co/1yuHUoayjA #mindfulness",
+        "created_at": "2022-03-16 00:35:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503524368588042240,
+        "text": "RT @CodeRedEarth: Most people have no idea how bad it is going to get..\n\nThese are people who know the climate crisis.\nWhen climate scienti\u2026",
+        "created_at": "2022-03-15 00:11:58+00:00",
+        "public_metrics": {
+            "retweet_count": 170,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503411307734876161,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503167477886464000,
+        "text": "Anxious nation: Eco-grief takes hold as \u2018code red for humanity\u2019 hits home https://t.co/riKWrvoLZL #climatecrisis",
+        "created_at": "2022-03-14 00:33:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502457786411667458,
+        "text": "Perspective | How fiction and poetry can help you navigate a loved one\u2019s dementia https://t.co/dzjd8sucsr #books",
+        "created_at": "2022-03-12 01:33:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501370622647185413,
+        "text": "50 heroines of the Irish food and drink scene https://t.co/l0d14BhLsk #internationalwomensday",
+        "created_at": "2022-03-09 01:33:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500645890788413445,
+        "text": "How mindfulness can make you a darker person https://t.co/BESPpq379u #mindfulness",
+        "created_at": "2022-03-07 01:33:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499921071486681090,
+        "text": "Don't Forget the Adults: How Schools and Districts Can Support Educator Mental Health https://t.co/B1MxEoihgv #mentalhealth",
+        "created_at": "2022-03-05 01:33:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498833908263264259,
+        "text": "New generation psychological treatments in chronic pain https://t.co/jRFk80nDFj",
+        "created_at": "2022-03-02 01:33:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498109236563296256,
+        "text": "Happiness is a nest in the bluebird box https://t.co/HmEC3ObRLf",
+        "created_at": "2022-02-28 01:34:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497384357757136904,
+        "text": "Extreme heat will bring worse mental health. People shouldn\u2019t have to cope alone. https://t.co/JINdYCDsm0 #mentalhealth",
+        "created_at": "2022-02-26 01:33:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496297193002700808,
+        "text": "Yale\u2019s Happiness Professor Says Anxiety Is Destroying Her Students https://t.co/ADfVtorMRW",
+        "created_at": "2022-02-23 01:33:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495572552852324358,
+        "text": "New Study of 1 Million People: Happiness Makes You Dramatically More Successful https://t.co/asRlnIQe9z #happiness",
+        "created_at": "2022-02-21 01:34:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494847640697286656,
+        "text": "The Mental Health Crisis Afflicting Crypto Investors https://t.co/sCKCtLFgYk #cryptocurrency",
+        "created_at": "2022-02-19 01:33:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493760477305921536,
+        "text": "'Happiness loves company': Mom delivers flowers to 400 widows on Valentine's Day https://t.co/kGiCKHHvVa #barajasinsurance",
+        "created_at": "2022-02-16 01:33:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493035701356699648,
+        "text": "Start Improving Your Life With These 8 Self-Help Blogs https://t.co/FBKCqwNi1e",
+        "created_at": "2022-02-14 01:33:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492310926598549504,
+        "text": "Nuclear fusion reactor smashes a new energy record after 24 years https://t.co/RdsxCNIfxJ",
+        "created_at": "2022-02-12 01:33:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491223767066058755,
+        "text": "Need a Reset? Try This One Quick Meditation Session (Bonus) https://t.co/CGlGJaVZfJ #leadership",
+        "created_at": "2022-02-09 01:33:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490498985903239169,
+        "text": "3 Reasons Why the Addiction to Approval is Toxic for Your Mental Health https://t.co/4gX7BSusBm #business",
+        "created_at": "2022-02-07 01:33:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489774196972527619,
+        "text": "American happiness hits record lows https://t.co/vmS2JEcSwQ",
+        "created_at": "2022-02-05 01:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488687034059345920,
+        "text": "Hidden in Plain Sight: The Importance of the Electromagnetic Sepctrum https://t.co/nAOCZ0KhLJ",
+        "created_at": "2022-02-02 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487962270537859072,
+        "text": "7 Happiness Hacks You Can Do On A Commute https://t.co/q6dOyk3H4X",
+        "created_at": "2022-01-31 01:33:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487237481602949121,
+        "text": "I\u2019m a Happiness Journalist, and Omicron Is Crushing Me https://t.co/i66olqoBKa #happiness",
+        "created_at": "2022-01-29 01:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486150317859393540,
+        "text": "Is the Pain All in My Head? https://t.co/BM81o5BYIC #coastalpaincenter",
+        "created_at": "2022-01-26 01:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485425554874581000,
+        "text": "From MLK to Silicon Valley, how the world fell for \u2018father of mindfulness\u2019 https://t.co/wiAY3GPqOk",
+        "created_at": "2022-01-24 01:33:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484700766472482819,
+        "text": "Stressed? Instead of distracting yourself, try paying closer attention https://t.co/3pjHdaQTGR #mindfulness",
+        "created_at": "2022-01-22 01:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483613690603651079,
+        "text": "\"Our brain is not a slot machine,\" so quit trying to hack it https://t.co/6aoubj8QSq",
+        "created_at": "2022-01-19 01:34:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482888870253535235,
+        "text": "What\u2019s the Best Way to Deal With Your Anger? https://t.co/K6ZUVyrst9",
+        "created_at": "2022-01-17 01:33:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482835782574346240,
+        "text": "The 7 Best Mindfulness Podcasts of 2021 https://t.co/iI1ACKZvUL",
+        "created_at": "2022-01-16 22:02:54+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482164050146603008,
+        "text": "5 Ways to Take Care of Your Mental Health Today https://t.co/m7bZHzpkca",
+        "created_at": "2022-01-15 01:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481076886788882436,
+        "text": "Hoame Wants To Be The Future Of VR Meditation On Quest https://t.co/h423K6IP2U #vr",
+        "created_at": "2022-01-12 01:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480352124135428098,
+        "text": "7 books that will help you regain a sense of calm https://t.co/5t6p3LvJ5T #business",
+        "created_at": "2022-01-10 01:33:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479627336211382273,
+        "text": "How to help kids' mental health amid another round of remote learning https://t.co/oKIu17y6EQ #friendship",
+        "created_at": "2022-01-08 01:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478540176355962880,
+        "text": "These balls tell you how zen you are https://t.co/HoIZHXassy",
+        "created_at": "2022-01-05 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477815395230834689,
+        "text": "Kashmiri women set up self-help groups to earn their livelihood and become independent https://t.co/DdEvGKERHB",
+        "created_at": "2022-01-03 01:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477090624406966278,
+        "text": "How to stay optimistic as the pandemic grinds ever onwards https://t.co/GOWTcyxrnU #mentalhealth",
+        "created_at": "2022-01-01 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476003460873076741,
+        "text": "UB researchers seek adults in low-income city neighborhoods who want to lower stress https://t.co/Jji2zpev11 #buffalo",
+        "created_at": "2021-12-29 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475278716959924226,
+        "text": "Self-Compassion Is Actually Good for Your Heart Health https://t.co/694lvYkOYF #selfcare",
+        "created_at": "2021-12-27 01:33:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1474553909511434241,
+        "text": "Immune memory less durable after severe COVID-19, study suggests: Researchers compared results in less-severe and severe COVID-19 cases one and five \u2026 https://t.co/g1t3Q1OL4j",
+        "created_at": "2021-12-25 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473466745562222598,
+        "text": "Digital Mindfulness: Being Digital Instead Of Doing Digital https://t.co/eFW93v1iiu #digitaltransformation",
+        "created_at": "2021-12-22 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472742016077467651,
+        "text": "Online gaming can be good for your mental health - here\u2019s how https://t.co/wN5pWIWhBn #mentalhealth",
+        "created_at": "2021-12-20 01:33:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472017208624787461,
+        "text": "These five therapy skills can help you get through 2021's stressful holiday https://t.co/NRzIdEDCZV #dbt",
+        "created_at": "2021-12-18 01:33:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1470930031404888065,
+        "text": "PM expresses happiness over 10 crore registrations on e-Shram https://t.co/1FggECQPNx",
+        "created_at": "2021-12-15 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1470205250397159425,
+        "text": "Study explores the neural dynamics of mindfulness meditation and hypnosis https://t.co/nQoTeJkodi #meditation",
+        "created_at": "2021-12-13 01:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469480481876070405,
+        "text": "When meditation turns toxic: the woman exposing spiritual sexism https://t.co/aDNFuZZGeA #selfcompassion",
+        "created_at": "2021-12-11 01:33:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468393315305463811,
+        "text": "Tuning in, turning outward: Cultivating compassionate leadership in a crisis https://t.co/c5qvewlpu1 #leadership",
+        "created_at": "2021-12-08 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467714228291129344,
+        "text": "Making square holes? https://t.co/DHiFrweWFR",
+        "created_at": "2021-12-06 04:35:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1467518296346042375,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1467668534440435713,
+        "text": "Science says its essential to make time to do nothing. Here\u2019s why https://t.co/v8oEm50g4P #science",
+        "created_at": "2021-12-06 01:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466943763813740551,
+        "text": "Omicron messing with your mental health? Don't let the anxiety get to you. https://t.co/CjOQCksyh4 #mentalhealth",
+        "created_at": "2021-12-04 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465856688951631875,
+        "text": "A school replaced detention with meditation. The results are stunning. https://t.co/qruePAOnXg #weredoingitallwrong",
+        "created_at": "2021-12-01 01:34:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465131818848591882,
+        "text": "Three Ways Autumn Promotes a Happier Frame of Mind https://t.co/kzYHaVOINz",
+        "created_at": "2021-11-29 01:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464407047978553350,
+        "text": "7 Types Of People You\u2019ll Find In A Pandemic As Shown In Episodes 5-6 Of \u201cHappiness\u201d https://t.co/RQmTV13jkd #happiness",
+        "created_at": "2021-11-27 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1463319884780167172,
+        "text": "Is Self-Care Selfish? https://t.co/s1ZC4iEU4r #selfcaresunday",
+        "created_at": "2021-11-24 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1462595108142944258,
+        "text": "Adults who microdose psychedelics report health related motivations and lower levels of anxiety and depression compared to non-microdosers https://t.co/uWpplEZHec #anxiety",
+        "created_at": "2021-11-22 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1461870332529287173,
+        "text": "Council Post: Mental Wellness At Work Should No Longer Be Taboo https://t.co/nUZfZzJVCf #hkr1000",
+        "created_at": "2021-11-20 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1460783168492027908,
+        "text": "7 skills to help reframe negative thoughts when social media makes you feel lousy https://t.co/xRxJ7opi8D",
+        "created_at": "2021-11-17 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1460058392970596356,
+        "text": "How Reducing Stress Can Make You A Better Leader https://t.co/wq7ia4P8Vz #leadership",
+        "created_at": "2021-11-15 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1459333622331322369,
+        "text": "How to retrain your frazzled brain and find your focus again https://t.co/5Iy3PlJI8a #learn",
+        "created_at": "2021-11-13 01:33:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1458246459036418048,
+        "text": "3 Key Points To Look Out For In Park Hyung Sik And Han Hyo Joo\u2019s New Apocalyptic Thriller \u201cHappiness\u201d https://t.co/xUIedV01pn #kpop",
+        "created_at": "2021-11-10 01:33:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1457521677944901637,
+        "text": "Humans and Hardware: How Special Operations Can Pioneer Wearable Technology https://t.co/L3TseBkPci #wearables",
+        "created_at": "2021-11-08 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1456781859581534209,
+        "text": "Selflessness and feeling in harmony with others coincides with greater happiness, study finds https://t.co/W7CTVVbSoG #selflessness",
+        "created_at": "2021-11-06 00:33:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1455694663483068420,
+        "text": "Impact Of Covid-19 On Children\u2019s Social Skills https://t.co/fPvzOPQBZj #health",
+        "created_at": "2021-11-03 00:33:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1454969946379800576,
+        "text": "Watch: Park Hyung Sik Makes Han Hyo Joo Laugh With His Playfulness During Poster Shoot For \u201cHappiness\u201d https://t.co/gfzo3UA7YR #parkhyungsik",
+        "created_at": "2021-11-01 00:34:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1454945648290131969,
+        "text": "RT @Foster_Fluff: I\u2019m a Halloween kitty! \ud83c\udf83 #Higgins #BlackCat #kittens #CatsOfTwitter https://t.co/l0rtvNWYBE",
+        "created_at": "2021-10-31 22:57:28+00:00",
+        "public_metrics": {
+            "retweet_count": 333,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1454809161959608324,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1454941770433777673,
+        "text": "RT @Tzeporah: On the eve of #cop26 I want to make clear that my government in British Columbia, under the guise of reconciliation is holdin\u2026",
+        "created_at": "2021-10-31 22:42:04+00:00",
+        "public_metrics": {
+            "retweet_count": 200,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1454850708352614411,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1454940545810251783,
+        "text": "RT @DrBonnieHenry: Rapid COVID-19 testing in BC should be free and easy to access.\n\nPass it on if you agree.\n\n#bcpoli",
+        "created_at": "2021-10-31 22:37:12+00:00",
+        "public_metrics": {
+            "retweet_count": 170,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1449414210392260609,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1454939683968876549,
+        "text": "Watch for covid on Nov. 09 -12. any chance it will go down? Thanks B Henry https://t.co/n6BiwqmknG",
+        "created_at": "2021-10-31 22:33:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1453185052267872262,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1454939039253995522,
+        "text": "RT @RickSharpe15: @tamalama67 I read somewhere that they have indoor CO2 monitors in movie theatres, maybe everywhere?  bet a lot of mask w\u2026",
+        "created_at": "2021-10-31 22:31:13+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1454619487521558530,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1454938788250017792,
+        "text": "Read this and ask why are https://t.co/0cTvRPgOEV",
+        "created_at": "2021-10-31 22:30:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1454591769488723969,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1454936743682056195,
+        "text": "RT @Hamilton_350: \ud83d\udea8 We have the solutions now!! #COP26 #fossilfreerevolution",
+        "created_at": "2021-10-31 22:22:05+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1454868298437431297,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1454935353765203980,
+        "text": "RT @johnhorgancont1: complicit mlas; @RachnaSinghNDP @BrittnyAnderso @BowinnMa @GeorgeHeyman @MurrayRankinNDP @melaniejmark @kellipaddon @L\u2026",
+        "created_at": "2021-10-31 22:16:34+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1454934905993977857,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1454934651806515204,
+        "text": "RT @cryptocom: A tribute to those who got us this far. And an invitation to those who will take us further.\n\n#FFTB",
+        "created_at": "2021-10-31 22:13:47+00:00",
+        "public_metrics": {
+            "retweet_count": 1741,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1453663220091158531,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1454245112146452480,
+        "text": "Find Focus in a Chaotic World https://t.co/0sBJiKPPT2 #psychologists",
+        "created_at": "2021-10-30 00:33:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1453850245511581697,
+        "text": "Selflessness and feeling in harmony with others coincides with greater happiness, study finds via @psypost https://t.co/W7CTVVttge",
+        "created_at": "2021-10-28 22:24:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1453158100693827594,
+        "text": "3 Science-Backed Habits of People With Remarkable Mental Focus https://t.co/59HLJ4ysvz #focus",
+        "created_at": "2021-10-27 00:34:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1452757474537140225,
+        "text": "RT @richardzussman: A year ago today there was a provincial election. \nJohn Horgan won a majority government. \nYou may have missed it becau\u2026",
+        "created_at": "2021-10-25 22:02:27+00:00",
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1452305166439489546,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1452756864626659331,
+        "text": "@gorgewatch @allan_crawshaw Ah, \"time immemorial\". You gotta love it \"at this point in time\"",
+        "created_at": "2021-10-25 22:00:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 946092660795744256,
+        "referenced_tweets": {
+            "id": 1452650070285840386,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1452756091234775041,
+        "text": "RT @BCGreens: In response to the Clean BC Roadmap to 2030 announcement today: \u201cWe need leadership that responds to the climate emergency wi\u2026",
+        "created_at": "2021-10-25 21:56:57+00:00",
+        "public_metrics": {
+            "retweet_count": 26,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1452743776708055048,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1452755529344815104,
+        "text": "RT @VippusaO: Mug me...\nhttps://t.co/tLQbE062WD",
+        "created_at": "2021-10-25 21:54:43+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1452754678761115658,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1452755353246973952,
+        "text": "RT @WealthInc247: Forgiving people in silence and never speaking to them again is a form of self care",
+        "created_at": "2021-10-25 21:54:01+00:00",
+        "public_metrics": {
+            "retweet_count": 1492,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1452682621306159107,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1452750464190087168,
+        "text": "RT @johnhorgancont1: @BrittnyAnderso Stay woke #strongerbc #youngleaderscouncil #bcyouth #TruthAndReconciliation #LandBack #ClimateCrisis #\u2026",
+        "created_at": "2021-10-25 21:34:36+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1452725108783656967,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1452750336045637632,
+        "text": "RT @ProfStrachan: Good News Item\n\nUN declares access to a clean environment a human right\n\n\"This has life-changing potential in a world whe\u2026",
+        "created_at": "2021-10-25 21:34:05+00:00",
+        "public_metrics": {
+            "retweet_count": 105,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1452371476926042119,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1452750227006361602,
+        "text": "RT @FullyChargedShw: \ud83d\udea8Today's PROBLEMS have EXISTING solutions.\ud83d\udea8\n\nAt 8am TOMORROW (BST) \ud83d\udc47\nWe launch our #StopBurningStuff MANIFESTO with su\u2026",
+        "created_at": "2021-10-25 21:33:39+00:00",
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1452722925820338180,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1452750140616286212,
+        "text": "RT @AnthonyBritneff: Q: When will the #OldGrowth protesters go home?\nFurstenau:\"The protesters are doing what John Horgan said he would do\u2026",
+        "created_at": "2021-10-25 21:33:18+00:00",
+        "public_metrics": {
+            "retweet_count": 72,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1452710561309888513,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1452750065555034112,
+        "text": "RT @AnikaMolesworth: So I\u2019m guessing the government isn\u2019t  so serious about that net zero goal?\n#ClimateCrisis #Cop26 https://t.co/ThM9o8C5\u2026",
+        "created_at": "2021-10-25 21:33:01+00:00",
+        "public_metrics": {
+            "retweet_count": 63,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1452491250817400838,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1452749782305296387,
+        "text": "RT @earthFgardener: #ClimateCrisis : greenhouse gas levels hit new record despite lockdowns, UN reports https://t.co/wSPvFe02cg",
+        "created_at": "2021-10-25 21:31:53+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1452725023769341962,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1452749697710362625,
+        "text": "RT @TorranceCoste: \"Cleanest LNG in the world,\" \"We're only five million people.\"\n\n@jjhorgan playing all the hits justify delaying the bold\u2026",
+        "created_at": "2021-10-25 21:31:33+00:00",
+        "public_metrics": {
+            "retweet_count": 14,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1452725044111495169,
+            "type": "retweeted"
+        }
+    }
+]

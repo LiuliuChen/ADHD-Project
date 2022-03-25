@@ -1,0 +1,1602 @@
+[
+    {
+        "tweet_id": 1507068069717413898,
+        "text": "@theyreallyfnhot I feel like I need context...",
+        "created_at": "2022-03-24 18:53:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1415076877383999489,
+        "referenced_tweets": {
+            "id": 1506979345834950657,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504808678880419843,
+        "text": "@Mpho_RD @Miesjke11 @Sandra24Jan @SkySportsF1 @MBrundleF1 You heard of his antics with Massa? He went bowling",
+        "created_at": "2022-03-18 13:15:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 172483277,
+        "referenced_tweets": {
+            "id": 1504499392275005456,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502738645681332224,
+        "text": "@JVaughano @wbuxtonofficial Tbh he's probably given a script. Wouldn't surprise me",
+        "created_at": "2022-03-12 20:09:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1448009147522469889,
+        "referenced_tweets": {
+            "id": 1502613942484545540,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502383935128494082,
+        "text": "@dashbondar I got the job!!!",
+        "created_at": "2022-03-11 20:40:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1257454549666848771,
+        "referenced_tweets": {
+            "id": 1501543451409760259,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502034316402044935,
+        "text": "@Carmengreyxx Sounds like a pyramid scheme NGL",
+        "created_at": "2022-03-10 21:31:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1376299256730976259,
+        "referenced_tweets": {
+            "id": 1502019754856386582,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501948589139918852,
+        "text": "@Sam_PUFC @SkySportsF1 Pov - you need new eyes",
+        "created_at": "2022-03-10 15:50:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 248284774,
+        "referenced_tweets": {
+            "id": 1501876072538857475,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501894940737081352,
+        "text": "@BlackCL_3 @formularacers_ @tgruener Good thing redbull was never mentioned then isn't it.",
+        "created_at": "2022-03-10 12:17:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1207432771423133698,
+        "referenced_tweets": {
+            "id": 1501893548945252356,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501873255807963138,
+        "text": "@Dieeneman4 There's a difference between putting yourself and caring about babies and their mothers getting bombed",
+        "created_at": "2022-03-10 10:51:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501868111900946437,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501862370842398722,
+        "text": "@Dieeneman4 So the purpose isn't to die. It's to make the most out of everything you do. Try being a good person. It's quite rewarding",
+        "created_at": "2022-03-10 10:07:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501859854159331330,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501857248666177539,
+        "text": "@Dieeneman4 The purpose of life is to live it. Without people living in your sad existence wouldn't come around. If the purpose of life was to die then the human race wouldn't exist",
+        "created_at": "2022-03-10 09:47:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501856319040630784,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501856034641616896,
+        "text": "@Dieeneman4 You think it's an opinion that it's alright for innocent children to die? Fucking hell you lead a sad life",
+        "created_at": "2022-03-10 09:42:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501854372090847241,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501853345371283458,
+        "text": "@Dieeneman4 You said that you don't care that women and children are dying in war. If you believe that your personality must be shockingly bad",
+        "created_at": "2022-03-10 09:31:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501845731132510208,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501841865997443075,
+        "text": "@Dieeneman4 Yeah and I'm sure they love having someone who doesn't care if babies get killed around them",
+        "created_at": "2022-03-10 08:46:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501833289514033152,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501841692089061377,
+        "text": "@DJClique_ @douglaspark92 @RossBhela16 @wtf1official @XPBImages We weren't talking about Merc bro... We were just saying we wanted the season to be competitive. We have no clue what this season will be like with the new rules. We never complained about a team. We just want good racing. Stop being narratives that don't exist in",
+        "created_at": "2022-03-10 08:45:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 296495127,
+        "referenced_tweets": {
+            "id": 1501840704078766081,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501838987501182976,
+        "text": "@DJClique_ @douglaspark92 @RossBhela16 @wtf1official @XPBImages Yes but that contest is competitive. That's what I want. Lots of teams doing well so we have good racing between teams. Which makes it entertaining. There's no entertainment in watching a single team dominate for 20+ races a year.",
+        "created_at": "2022-03-10 08:34:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 296495127,
+        "referenced_tweets": {
+            "id": 1501838030495227908,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501826020432830466,
+        "text": "@douglaspark92 @RossBhela16 @wtf1official @XPBImages Yes. But that doesn't mean one team dominates. I'll put it simply for you as you obviously need it. Vroom vroom can be good at one track. A different vroom vroom can be good at a different track. Maybe a different vroom vroom is close to both. That's competitiveness",
+        "created_at": "2022-03-10 07:43:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1357021324665909251,
+        "referenced_tweets": {
+            "id": 1501825221115928576,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501823578576195585,
+        "text": "@douglaspark92 @RossBhela16 @wtf1official @XPBImages No, it's about racing. And it's not about one team making the best car, it's all the teams competing to making the best car. I'm sorry we want an entertaining season Douglas",
+        "created_at": "2022-03-10 07:33:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1357021324665909251,
+        "referenced_tweets": {
+            "id": 1501822947958345728,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501823139336052738,
+        "text": "@Dieeneman4 If you only care for yourself then you care for no one else. Meaning you're alone because you have no one you care about",
+        "created_at": "2022-03-10 07:31:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501805065417506816,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501665490825097227,
+        "text": "@Dieeneman4 Except you do it all alone. Without anyone to love or care about. An empty world you live in",
+        "created_at": "2022-03-09 21:05:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501661323523936266,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501659150387925002,
+        "text": "@Dieeneman4 Not much of a life if you dont care about anything except yourself",
+        "created_at": "2022-03-09 20:40:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501658718597005319,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501656950437822465,
+        "text": "@Dieeneman4 @dan_gl20 @Akash789123 @ESPNF1 Because the world doesn't revolve around you. You aren't important. Life is bigger than yourself. Good luck getting married and keeping friends about if your own concern is only yourself",
+        "created_at": "2022-03-09 20:31:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501656485763366919,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501656579183202304,
+        "text": "@Dieeneman4 @dan_gl20 @Akash789123 @ESPNF1 If it's Pro Russian then it's not a buffer zone. It's russian. Ukraine is independent to make its own choices. It shouldn't be a puppet nation",
+        "created_at": "2022-03-09 20:30:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501656247870930946,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501656296642297857,
+        "text": "@Dieeneman4 @dan_gl20 @Akash789123 @ESPNF1 So your petrol and goods becoming more expensive is more important than human life.  How can you look at yourself seriously. I'm concerned about your well-being",
+        "created_at": "2022-03-09 20:28:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501655628007325696,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501653737923878913,
+        "text": "@Dieeneman4 @dan_gl20 @Akash789123 @ESPNF1 You literally said you didn't care about women and children dying when they were running from the Russians",
+        "created_at": "2022-03-09 20:18:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501652783656804352,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501653524748378118,
+        "text": "@Dieeneman4 @dan_gl20 @Akash789123 @ESPNF1 So we shouldn't do anything we can to stop him while reducing the impact on human life?",
+        "created_at": "2022-03-09 20:17:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501653301829505028,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501652575438917634,
+        "text": "@Dieeneman4 @dan_gl20 @Akash789123 @ESPNF1 I've never met someone more ignorant to the truth than you... How can you think Russia is in the right when they are literally committing war crimes",
+        "created_at": "2022-03-09 20:14:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501652054867169282,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501651258268164098,
+        "text": "@Dieeneman4 @dan_gl20 @Akash789123 @ESPNF1 Ukraine did nothing wrong. Putin marches in because he wanted to and you think he's in the right to do so. Get your head out of your arse",
+        "created_at": "2022-03-09 20:08:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501650745736765445,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501650914154881027,
+        "text": "@Dieeneman4 @dan_gl20 @Akash789123 @ESPNF1 Until Russia marched in right? Cause Ukraine didn't do anything wrong",
+        "created_at": "2022-03-09 20:07:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501650482988789767,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501650649028698114,
+        "text": "@Dieeneman4 @Akash789123 @ESPNF1 Social media has come a long way. Coverage for this is alot more than other wars. I turned 18 last year. This is the first war I've been old enough to know what's happening. So yes. Now I'm piping up. I have the facts and I have the maturity to have an opinion",
+        "created_at": "2022-03-09 20:06:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501649859295813639,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501650203497140225,
+        "text": "@Dieeneman4 @dan_gl20 @Akash789123 @ESPNF1 Then why is Russia a dictatorship",
+        "created_at": "2022-03-09 20:04:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501649194603397122,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501648678406299658,
+        "text": "@Dieeneman4 @dan_gl20 @Akash789123 @ESPNF1 What did NATO break? Ukraine did nothing. Russia marched in and took it over",
+        "created_at": "2022-03-09 19:58:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501648371588775936,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501648489750704132,
+        "text": "@Dieeneman4 @Akash789123 @ESPNF1 I'm literally a humanitarian pacifist. You know nothing about me. War is young people dying for people who keep themselves away from the action. The fact that I called you out on you not caring that kids are being shot while running away is proof I'm 100x the man you'll ever be",
+        "created_at": "2022-03-09 19:57:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501647942486274049,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501647143639162882,
+        "text": "@Dieeneman4 @dan_gl20 @Akash789123 @ESPNF1 Russians want to invade countries. If a country needs to give out warnings and threats then they are the issue",
+        "created_at": "2022-03-09 19:52:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501646670907518982,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501646923685670917,
+        "text": "@Dieeneman4 @Akash789123 @ESPNF1 You're saying that you don't care that children are dying. You fucking degenerate lowlife. You deserve everything bad that comes to you. People do give a fuck. That's what anti war protests are for. Who the fuck do you think you are. Grow up and realise the worlds bigger than you",
+        "created_at": "2022-03-09 19:51:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501645363584901126,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501644091326664704,
+        "text": "@Dieeneman4 @Akash789123 @ESPNF1 I think the Russians can deal with not taking part in a few events.",
+        "created_at": "2022-03-09 19:40:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1422937704522821639,
+        "referenced_tweets": {
+            "id": 1501643909029670918,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501643909029670918,
+        "text": "@Dieeneman4 @Akash789123 @ESPNF1 It makes the Russians upset. Which means more anger in the country. Which means more protests from within. When the war ends Russia can be included again. They get rid of Putin, things get back to normal. It's war. Things aren't fair. Women and children are murdered in cold blood",
+        "created_at": "2022-03-09 19:39:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501639937476726786,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501638957074890755,
+        "text": "@Dieeneman4 @Akash789123 @ESPNF1 We aren't talking about other people. We're talking about the mazepins and uralkali. And it's a small sacrifice for the greater good of the world. You have a problem with it then tough. Cutting Russia off from the rest of the world shows Putin he's losing.",
+        "created_at": "2022-03-09 19:20:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501636651327623171,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501631404580478979,
+        "text": "@Dieeneman4 @Akash789123 @ESPNF1 Shouldn't have supported Putin. Simple",
+        "created_at": "2022-03-09 18:50:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1083446643775672326,
+        "referenced_tweets": {
+            "id": 1501612546721202179,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501513088570380297,
+        "text": "@Akash789123 @ESPNF1 They paid for mazepins time in formula one. They stopped paying he stopped competing",
+        "created_at": "2022-03-09 10:59:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 107,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1289054341240766465,
+        "referenced_tweets": {
+            "id": 1501505661166780422,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501448165161119745,
+        "text": "@dashbondar I have a job interview tomorrow after 6 months of nothing",
+        "created_at": "2022-03-09 06:41:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1257454549666848771,
+        "referenced_tweets": {
+            "id": 1501375987501740034,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501185659570204673,
+        "text": "@RannyDic @Honest_Fan69 @ESPNF1 That's how a team works...",
+        "created_at": "2022-03-08 13:18:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1454651914344304640,
+        "referenced_tweets": {
+            "id": 1501174738328371206,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500044501351608322,
+        "text": "@Guiguislayer @KylianSanchez14 @HaasF1Team He was a dangerous driver. Running people out of track and almost killing tsunoda even after the race. He never should have been considered based on his skill",
+        "created_at": "2022-03-05 09:44:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 900782869823488000,
+        "referenced_tweets": {
+            "id": 1500042029836996608,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500043873724379140,
+        "text": "@RobertoF113 @HaasF1Team How else would they fund all his spins and crashes? Yes they do it for money, how else would they grow",
+        "created_at": "2022-03-05 09:41:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1019935603033559040,
+        "referenced_tweets": {
+            "id": 1500042488983207937,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500041242993958912,
+        "text": "@RobertoF113 @HaasF1Team Him sexually assaulting someone was in his control... No daddies money no reason to keep him on",
+        "created_at": "2022-03-05 09:31:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1019935603033559040,
+        "referenced_tweets": {
+            "id": 1500037937672642563,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500041008083611652,
+        "text": "@KylianSanchez14 @HaasF1Team He wasn't good at all. He came 21st in a 20 car championship. He was slow and consistently off the pace. He was in the team because of his dad's money and no other reason. Now his dad's money isn't coming to the team he isn't worth keeping",
+        "created_at": "2022-03-05 09:30:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1354122689087156224,
+        "referenced_tweets": {
+            "id": 1500035566854942721,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500039928859836416,
+        "text": "@quaranta_vito @HaasF1Team They have no sponsorship from his dad's company anymore due to his close ties with Putin, so he brings nothing to the team, why would they keep him on if he is hemorrhaging the them money?",
+        "created_at": "2022-03-05 09:26:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1408827164,
+        "referenced_tweets": {
+            "id": 1500034481507508224,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499649753155571713,
+        "text": "@tweettorule @ESPNF1 Lewis has been in f1 for like 7 more years but sure",
+        "created_at": "2022-03-04 07:35:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1456647832224636935,
+        "referenced_tweets": {
+            "id": 1499495658587361285,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499333469901623300,
+        "text": "@Rocky19042009 @Azyerrr @verstagoat @redbullracing @Max33Verstappen Ed mate. Let it go. It was almost 3 months ago. He's world champion.",
+        "created_at": "2022-03-03 10:38:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 155926407,
+        "referenced_tweets": {
+            "id": 1499329599238455296,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499331367565418496,
+        "text": "@BEighteenstone @ESPNF1 It's been almost 3 months. We are a couple of weeks away from the new season. Nothing is going to change. Stop wasting your time. Your cries are falling on deaf ears",
+        "created_at": "2022-03-03 10:30:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2937314254,
+        "referenced_tweets": {
+            "id": 1499327360222568453,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499303320116252672,
+        "text": "@TeeeRoy1 @rociosrs @ESPNF1 We can hope",
+        "created_at": "2022-03-03 08:39:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2754940752,
+        "referenced_tweets": {
+            "id": 1499107270524903425,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499289880106606596,
+        "text": "@ApothecaryOcto I want fuecoco to evolve into a badass dinosaur lizard NGL. The fire fairy is cute and tho",
+        "created_at": "2022-03-03 07:45:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1113287990187401218,
+        "referenced_tweets": {
+            "id": 1499205257141702659,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499003828687060995,
+        "text": "@BenjaminGunter9 @rociosrs @ESPNF1 I was just saying Putin probably wasn't voted in, I didn't mention mazepin",
+        "created_at": "2022-03-02 12:48:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1439028008149528584,
+        "referenced_tweets": {
+            "id": 1498996989668773889,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498994035377201154,
+        "text": "@rociosrs @ESPNF1 You know this is Russia? Voting isn't really a big thing",
+        "created_at": "2022-03-02 12:10:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 38,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 280759704,
+        "referenced_tweets": {
+            "id": 1498992501675413529,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498993844842545152,
+        "text": "@NutanEswar @AindriuB @ESPNF1 A small sacrifice for the greater message I guess",
+        "created_at": "2022-03-02 12:09:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2537134075,
+        "referenced_tweets": {
+            "id": 1498991953656311816,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497554223692664843,
+        "text": "@pixeloverloadz @GRZK_32 @TheissenLouis @greatfullexpat1 @Semmieee What does he being white have to do with anything?",
+        "created_at": "2022-02-26 12:48:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 782260259851149312,
+        "referenced_tweets": {
+            "id": 1497542247620886528,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497270948164210694,
+        "text": "@Centaurline @andmrkipling @SkySportsF1 \ud83e\udd23\ud83e\udd23\ud83e\udd23 man's living under a rock",
+        "created_at": "2022-02-25 18:03:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1471784891251572738,
+        "referenced_tweets": {
+            "id": 1497258698888163336,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496971435037843461,
+        "text": "@samstakadetten @dentoffe1 @Garland06 @Drunken_People @JeremyClarkson Retard actually refers to slow.",
+        "created_at": "2022-02-24 22:12:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2767732742,
+        "referenced_tweets": {
+            "id": 1496967613989236736,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496921230343303170,
+        "text": "@Mdia121 @jamesharris1977 @wtf1official Hehe car go spin https://t.co/qkcj4Tci07",
+        "created_at": "2022-02-24 18:53:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1419415678621192192,
+        "referenced_tweets": {
+            "id": 1496919237927084041,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496588733851873288,
+        "text": "RT @ErinInTheMorn: Greg Abbot has officially directed Family and Protective Services to begin investigating all trans children in Texas and\u2026",
+        "created_at": "2022-02-23 20:52:14+00:00",
+        "public_metrics": {
+            "retweet_count": 52127,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496511215719399431,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494057315418488834,
+        "text": "@shionshinigami @wtf1official At least I can have fun with f1. And not throw a tantrum because I'm offended by paint on a car",
+        "created_at": "2022-02-16 21:13:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 841351098690596867,
+        "referenced_tweets": {
+            "id": 1493754445385154560,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493661406784364554,
+        "text": "@shionshinigami @wtf1official No one will miss you don't worry",
+        "created_at": "2022-02-15 19:00:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 841351098690596867,
+        "referenced_tweets": {
+            "id": 1493584995298033666,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490046483244191747,
+        "text": "@trippie140017 @F1 Y'all have issues man, max did nothing wrong he won, deal with it",
+        "created_at": "2022-02-05 19:35:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1213276789549568006,
+        "referenced_tweets": {
+            "id": 1489708908046426121,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490046027587538949,
+        "text": "@Cornholio6969 @NicholasLatifi @drdancake @NutellaGlobal @Ben_Sulayem @F1 @fia @ESPNF1 This is a video about pancakes my dude. Your whinning is fallen on silent ears. What happened happened. If masi leaves them he leaves. If he doesn't them he stays. You tweeting about it won't change anything at all and won't influence the decision",
+        "created_at": "2022-02-05 19:33:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 266069446,
+        "referenced_tweets": {
+            "id": 1489959641249374210,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488218433800093701,
+        "text": "@lllewyy @oli_prntn @RedLuca56 @MercedesAMGF1 @LewisHamilton Max wasn't mentioned but go off",
+        "created_at": "2022-01-31 18:31:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1278991179061870592,
+        "referenced_tweets": {
+            "id": 1488218168556404743,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487482249083858952,
+        "text": "@bordermike66 @brrrrrrr69 @MercedesAMGF1 @MercedesEQFE @svandoorne @nyckdevries https://t.co/qJk1rJt9mj",
+        "created_at": "2022-01-29 17:46:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2754252646,
+        "referenced_tweets": {
+            "id": 1487194901804724233,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486995202053226499,
+        "text": "@TeamLHTobey @josh2o03 @marcelkiefer_ https://t.co/HBZGv5W5eU",
+        "created_at": "2022-01-28 09:30:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 992902591385305088,
+        "referenced_tweets": {
+            "id": 1486845399902134272,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486994800343670787,
+        "text": "@MalcomEkow @wtf1official Russell fanboys",
+        "created_at": "2022-01-28 09:29:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 726366947777089536,
+        "referenced_tweets": {
+            "id": 1486992642223259650,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486984654104244224,
+        "text": "@_hammer44 @sanmeermaan @F1 @Max33Verstappen It's not tho...",
+        "created_at": "2022-01-28 08:49:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1436809714545872898,
+        "referenced_tweets": {
+            "id": 1486809907655553031,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485918181243904007,
+        "text": "@FastPhil67427 @NathanLH44 Calm down Phil, seasons over so move on",
+        "created_at": "2022-01-25 10:11:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1473358227203145733,
+        "referenced_tweets": {
+            "id": 1485665671040094209,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485699332024193028,
+        "text": "@OverTake_gg @jarno_opmeer @kevinsiggy @MoritzLoehner @bonohuis @jonr_86 @jarno_opmeer",
+        "created_at": "2022-01-24 19:41:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1242435097682477057,
+        "referenced_tweets": {
+            "id": 1485659902366343182,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485689269637337088,
+        "text": "@PRATIK24X7 @ErupticHD @MercedesAMGF1 @LewisHamilton @amgmotorsport @PET_Motorsports It was shown that Merc had a faster car over half the season though...",
+        "created_at": "2022-01-24 19:01:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2322939589,
+        "referenced_tweets": {
+            "id": 1485681806272004096,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485566068315897862,
+        "text": "@jxsminehh @goonerhamfosi @wtf1official No point in arguing with that clown, he's saying he's going to protest the decision all through next year, even though he's a 36 year-old nobody",
+        "created_at": "2022-01-24 10:52:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 836512745147219968,
+        "referenced_tweets": {
+            "id": 1485563132609277956,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483947184974409728,
+        "text": "@goonerhamfosi @joshrevellyt Man's like 36 and acting like he's 14, the seasons over mate, max won... Move on maybe?",
+        "created_at": "2022-01-19 23:39:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 37,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1421141491855020042,
+        "referenced_tweets": {
+            "id": 1483935040362983445,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483811689476804611,
+        "text": "@PalteTomato @brianshall @wtf1official Grow tf up",
+        "created_at": "2022-01-19 14:40:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1365673595964432385,
+        "referenced_tweets": {
+            "id": 1483804737166360576,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483759545977610240,
+        "text": "@roopeniinivaara @wtf1official https://t.co/Kz7Bmf926p",
+        "created_at": "2022-01-19 11:13:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 973124495392337920,
+        "referenced_tweets": {
+            "id": 1483755148216311808,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481712428958240772,
+        "text": "@EngineMode11 At least 50p",
+        "created_at": "2022-01-13 19:39:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 821396253728710661,
+        "referenced_tweets": {
+            "id": 1481410361244934148,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480983894560325652,
+        "text": "@BwRLehrer @Ozzy3515 @F1 Is he tho?",
+        "created_at": "2022-01-11 19:24:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1002463851890270208,
+        "referenced_tweets": {
+            "id": 1480959171013005318,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480815808293048321,
+        "text": "@wbuxtonofficial Normally I do awful but I got it today, absolute win",
+        "created_at": "2022-01-11 08:16:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 20600235,
+        "referenced_tweets": {
+            "id": 1480815381480624132,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479737697774276608,
+        "text": "@AndrewTimms12 @SmunchyMaggot @SkySportsF1 @fia No, it was still racing. Max and Lewis raced and Max won. It was a controversial decision from masi yes, but max did his job and came out ahead",
+        "created_at": "2022-01-08 08:52:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1264582076151615488,
+        "referenced_tweets": {
+            "id": 1479351914718502912,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479361712398680064,
+        "text": "@traveller_anon @thebestsport_ @Mr_Leone45 Who cheated tho? Masi made a controversial and probably wrong decision, but if you read the rules then it's all legal, as well as the fact that he's made controversial decisions all season, yOu teRrApiN",
+        "created_at": "2022-01-07 07:58:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1582991360,
+        "referenced_tweets": {
+            "id": 1479357887520686081,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479356763216490500,
+        "text": "@traveller_anon @thebestsport_ @Mr_Leone45 Max didn't chest in Abu Dhabi though??? He just raced, like a racing driver does. You know, his job",
+        "created_at": "2022-01-07 07:38:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1582991360,
+        "referenced_tweets": {
+            "id": 1479199882078531585,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479100092824973318,
+        "text": "@SmunchyMaggot @SkySportsF1 Never forget??? This ain't the Holocaust or 9/11. It's motor racing",
+        "created_at": "2022-01-06 14:38:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 20167875,
+        "referenced_tweets": {
+            "id": 1479084556741484546,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479099737408036872,
+        "text": "@Schleifpferd @mikerui2002 @pridspridmore @SkySportsF1 He led over 50% of the laps this year, had 18 podiums, wrestled into the points in Hungary after losing half of his floor, even when mercedes had the fastest car in the second half of the season. Max had a chance of winning all year, as did Hamilton",
+        "created_at": "2022-01-06 14:37:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 32950000,
+        "referenced_tweets": {
+            "id": 1479093400456605696,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478417340018696197,
+        "text": "@PalteTomato @formularacers_ I find lando more enjoyable tbh, nothing against stroll but to me he feels more boring",
+        "created_at": "2022-01-04 17:25:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1365673595964432385,
+        "referenced_tweets": {
+            "id": 1478406653842280450,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477924716325355523,
+        "text": "@RealDehnsky @toddkramer1 @j1mmyeth Ha https://t.co/BpV9yFpGbM",
+        "created_at": "2022-01-03 08:48:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1457373259121537042,
+        "referenced_tweets": {
+            "id": 1477355267759222787,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477647125139894290,
+        "text": "@JordanEmbo @JayFromTGF It's shit",
+        "created_at": "2022-01-02 14:25:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 235689615,
+        "referenced_tweets": {
+            "id": 1477633815065632781,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476608137151008774,
+        "text": "@JimThom73778482 @BatteryVoltas He raced. He is a racing driver. Max wanted the championship as much as Lewis did. The FIA wanted a good total decider, so that's what they gave us. It was a excellent year for racing, one that wasn't dominated by one team, and the results won't change.",
+        "created_at": "2021-12-30 17:36:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1382567802683363328,
+        "referenced_tweets": {
+            "id": 1476589601120665602,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476577160831942659,
+        "text": "@JimThom73778482 @BatteryVoltas Max wasn't the one disqualified this year, nor did he do anything to chest the win of the race, he had no control, he just raced",
+        "created_at": "2021-12-30 15:33:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1382567802683363328,
+        "referenced_tweets": {
+            "id": 1476545144958586886,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476576932531683328,
+        "text": "@tmbrown25 @BatteryVoltas What 'pot' is there to stir? He stated a fact",
+        "created_at": "2021-12-30 15:32:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 776239602164039680,
+        "referenced_tweets": {
+            "id": 1476535795502792706,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475090815030632457,
+        "text": "@Jdhub87 @F1_Jordan Wasn't this a fake quote? Also Lewis had the faster car for like 65% of the season so where does that come from?",
+        "created_at": "2021-12-26 13:07:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2949391221,
+        "referenced_tweets": {
+            "id": 1474919327665172480,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1470074822063501316,
+        "text": "@alltimelodyy A hug :(",
+        "created_at": "2021-12-12 16:55:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 313034472,
+        "referenced_tweets": {
+            "id": 1470071821013856268,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1470046689729908749,
+        "text": "RT @JeremyClarkson: Go Perez. Dangerous driving my arse",
+        "created_at": "2021-12-12 15:03:37+00:00",
+        "public_metrics": {
+            "retweet_count": 10239,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1470024346462789634,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1470046165072756740,
+        "text": "@blonde999_julie @JeremyClarkson @LewisHamilton Could! You! Use! More! Exclamation! Points!",
+        "created_at": "2021-12-12 15:01:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2765139052,
+        "referenced_tweets": {
+            "id": 1470043779998658560,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1468667060930871296,
+        "text": "RT @ZRKLDN: \ud83e\udd21 https://t.co/DzScje6m3Z",
+        "created_at": "2021-12-08 19:41:28+00:00",
+        "public_metrics": {
+            "retweet_count": 159,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1468581157621141506,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1467528448709218305,
+        "text": "@Ricardo71789462 @formuIaracers_ @autosport https://t.co/XRNUXN6ddK",
+        "created_at": "2021-12-05 16:17:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1401974892883496963,
+        "referenced_tweets": {
+            "id": 1467527591011749888,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1467164440609107970,
+        "text": "@nearrell @formuIaracers_ @BradleyPhilpot But max got a penalty for the same thing?",
+        "created_at": "2021-12-04 16:10:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1277231484697317381,
+        "referenced_tweets": {
+            "id": 1467155201668747265,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464969431294132231,
+        "text": "RT @WilliamsRacing: It is with great sadness that on behalf of the Williams family, the team can confirm the death of Sir Frank Williams CB\u2026",
+        "created_at": "2021-11-28 14:48:24+00:00",
+        "public_metrics": {
+            "retweet_count": 19020,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1464962458582462464,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1464898913459130370,
+        "text": "RT @ResNeXtGuesser: Image prediction: piggy bank\nConfidence: 3.86% https://t.co/jkUKDb6u14",
+        "created_at": "2021-11-28 10:08:12+00:00",
+        "public_metrics": {
+            "retweet_count": 1645,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1464791171260051457,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1464627512760279041,
+        "text": "RT @wearetherace: Is um, is someone chopping onions in here? \ud83e\udd7a\n\n\ud83d\udcf8 Raikkonen's Instagram https://t.co/80WAYvyHrc",
+        "created_at": "2021-11-27 16:09:45+00:00",
+        "public_metrics": {
+            "retweet_count": 254,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1464535365247774727,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1464587318845743104,
+        "text": "RT @WilliamsRacing: All set for the final two \ud83d\udc4a https://t.co/y8cEJjuJSu",
+        "created_at": "2021-11-27 13:30:02+00:00",
+        "public_metrics": {
+            "retweet_count": 83,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1464262923673423873,
+            "type": "retweeted"
+        }
+    }
+]

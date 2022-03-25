@@ -1,0 +1,770 @@
+[
+    {
+        "tweet_id": 1507068055540715521,
+        "text": "@elonmusk Could be open source, I wouldn\u2019t do much about it \ud83d\ude02",
+        "created_at": "2022-03-24 18:53:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44196397,
+        "referenced_tweets": {
+            "id": 1507041396242407424,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506766936021032972,
+        "text": "@franceinfo On esp\u00e8re juste que pour une fois les pots de vin auront une utilit\u00e9 pour le bien commun : ne pas les s\u00e9lectionner pour l\u2019organisation de l\u2019Euro \ud83d\ude02",
+        "created_at": "2022-03-23 22:56:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 38395124,
+        "referenced_tweets": {
+            "id": 1506695392980783113,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506248758085963776,
+        "text": "@Nateric21 @Le_Figaro \u00c9lection truqu\u00e9e ? \ud83d\ude02\nParce que ton copain le Z ne sera pas \u00e9lu ?! \nQu\u2019est ce qu\u2019il faut pas lire..",
+        "created_at": "2022-03-22 12:37:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1481681099331977220,
+        "referenced_tweets": {
+            "id": 1506242330470277130,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506248300361822208,
+        "text": "@at_tentif @just_fry_it @Le_Figaro Parce que tu as lou\u00e9 ton appart \u00e0 tous les locataires fran\u00e7ais ? \nNe prends pas ton exemple pour une g\u00e9n\u00e9ralit\u00e9.",
+        "created_at": "2022-03-22 12:35:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3480931573,
+        "referenced_tweets": {
+            "id": 1506246899896045570,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506247297306402816,
+        "text": "@Le_Figaro \u00c9tendre (et non pas \u00e9teindre) \ud83e\uddd0",
+        "created_at": "2022-03-22 12:31:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 886214949730701312,
+        "referenced_tweets": {
+            "id": 1506247135586574346,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506247135586574346,
+        "text": "@Le_Figaro Augmenter le budget de l\u2019arm\u00e9e ? Pour quoi faire ?\nQu\u2019on arr\u00eate d\u00e9j\u00e0 de d\u00e9penser de l\u2019argent \u00e0 envoyer nos troupes \u00e0 l\u2019\u00e9tranger pour \u00e9teindre notre pseudo influence. Et qu\u2019on s\u2019occupe de la France uniquement. \u00c7a serait un bon d\u00e9but.",
+        "created_at": "2022-03-22 12:31:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 8350912,
+        "referenced_tweets": {
+            "id": 1506209045165789187,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506246227196796936,
+        "text": "@BFMTV Pas besoin de sondage pour savoir que le Z ne sera pas \u00e9lu \ud83d\ude02",
+        "created_at": "2022-03-22 12:27:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 133663801,
+        "referenced_tweets": {
+            "id": 1505893389685903363,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506040664068440066,
+        "text": "@Le_Figaro Du grand n\u2019importe quoi \ud83d\ude02\n2IQ les mecs",
+        "created_at": "2022-03-21 22:50:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 8350912,
+        "referenced_tweets": {
+            "id": 1506029740611805186,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506030787812114436,
+        "text": "@midiaswow @Secteur_F1 Avec le fameux mode expert ?",
+        "created_at": "2022-03-21 22:11:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 839094587960479744,
+        "referenced_tweets": {
+            "id": 1505613144483418122,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505879396158169091,
+        "text": "@Etahas2 @gouddeal @jaifaimde @Sardoche_Lol Mdr \ud83d\ude02 \nDe 1 le post de Sardoche ne donne pas son point de vue sur le contenu. \nDe 2 tu compares un stream sur des centaines, par rapport \u00e0 qq dont c\u2019est le seul contenu et le pk elle se fait conna\u00eetre.\nDe 3 tu sens le hater \u00e0 plein nez c\u2019est triste putain \ud83d\ude02",
+        "created_at": "2022-03-21 12:10:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 20,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1262823983776501762,
+        "referenced_tweets": {
+            "id": 1505865058785574912,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505876684557463554,
+        "text": "@Jirayalecochon \u00c7a existe encore micromania ? Jamais compris l\u2019int\u00e9r\u00eat de ce magasin o\u00f9 tout est plus cher qu\u2019ailleurs \ud83e\uddd0\ud83d\ude02",
+        "created_at": "2022-03-21 11:59:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 843801698,
+        "referenced_tweets": {
+            "id": 1505866480155516928,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505876203231662085,
+        "text": "@lekiyek @grushivtsvetu @Le_Figaro Un mec qui trashtalk un pays entier, avec un pseudo \u00e9crit en cyrillique et dont le profil est rempli de message pro russe. Donc effectivement l\u00e0 il parle pas des russes, mais dans les faits c\u2019est pour balancer ses id\u00e9es. Je maintien mon propos",
+        "created_at": "2022-03-21 11:57:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 894096262752071681,
+        "referenced_tweets": {
+            "id": 1505847437004529665,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505666914173042695,
+        "text": "@Le_Figaro Ils devraient au moins en faire nous en faire cadeau \ud83d\ude01",
+        "created_at": "2022-03-20 22:05:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 8350912,
+        "referenced_tweets": {
+            "id": 1505615532124475393,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505666281214816260,
+        "text": "@grushivtsvetu @Le_Figaro C\u2019est quoi ta vie de merde \u00e0 poster que des messages pro-russe sur Twitter ? \n\ud83d\ude02 mdr le bouff",
+        "created_at": "2022-03-20 22:03:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1186561511419977728,
+        "referenced_tweets": {
+            "id": 1505664838508425221,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504822313887440899,
+        "text": "@ModiKone @lemondefr Moi qui aime manger je me ferais un plaisir d\u2019y go\u00fbter. Pas de fronti\u00e8res quand il s\u2019agit de bouffe \ud83d\ude0b\nJe t\u2019en veux pas tkt, je suis pas un vieux r\u00e9ac qui va se plaindre de se faire tutoyer par un inconnu. On peut se tutoyer en \u00e9tant respectueux c\u2019est la magie d\u2019internet.",
+        "created_at": "2022-03-18 14:09:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 330603965,
+        "referenced_tweets": {
+            "id": 1504816353907204096,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504808331428442113,
+        "text": "@ModiKone @lemondefr Faisons comme \u00e7a \ud83e\uddd0\n\nVous avez du temps \u00e0 perdre c\u2019est beau. Mais employez le plut\u00f4t \u00e0 faire des turlutes aux russes \ud83d\ude02",
+        "created_at": "2022-03-18 13:13:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 330603965,
+        "referenced_tweets": {
+            "id": 1504799967222898688,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504797999200972801,
+        "text": "@ninokuni7 @Le_Figaro Dans le genre langue de pute t\u2019en as une belle. \nTous les gens au smic ne sont pas des assist\u00e9s et ne cherchent pas forc\u00e9ment \u00e0 pomper toutes les aides",
+        "created_at": "2022-03-18 12:32:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1401146641365798913,
+        "referenced_tweets": {
+            "id": 1504762458828910607,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504797065301352454,
+        "text": "@ModiKone @lemondefr Pourquoi venir faire la pleureuse sur les m\u00e9dias Fr ?",
+        "created_at": "2022-03-18 12:29:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 330603965,
+        "referenced_tweets": {
+            "id": 1504784035146575900,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504490459074371585,
+        "text": "@Eric_celto @Le_Figaro Personne n\u2019est dupe sur qui va \u00ab\u00a0gagner\u00a0\u00bb cette guerre. Ce n\u2019est pas parce qu\u2019on pointe du doigt les d\u00e9faillances de la 2e puissance militaire mondiale que l\u2019on crie haut et fort qu\u2019ils vont perdre. Les d\u00e9faillances sont juste factuelles en fait.",
+        "created_at": "2022-03-17 16:10:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1444460541788016755,
+        "referenced_tweets": {
+            "id": 1504474256729522185,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504367008921665540,
+        "text": "@LaurentPlassant @fab44264592 @Le_Figaro Mdr ce genre de commentaire. Apprends \u00e0 avoir du respect chien. Z sera jamais president faut vraiment \u00eatre con pour y croire \ud83d\ude02",
+        "created_at": "2022-03-17 08:00:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 704044003302514689,
+        "referenced_tweets": {
+            "id": 1504329992435556354,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504169805544398854,
+        "text": "@lemondefr @StephMarteau Tiens, certains sympathisants du Z seraient donc racistes ?! Incroyable \ud83d\ude02",
+        "created_at": "2022-03-16 18:56:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 24744541,
+        "referenced_tweets": {
+            "id": 1504151981107122176,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502073921230753802,
+        "text": "@ManonjoPoirier @Gabrielc6472827 @Le_Figaro Alors un vote d\u2019il y a*",
+        "created_at": "2022-03-11 00:08:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 886214949730701312,
+        "referenced_tweets": {
+            "id": 1502073357025660929,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502073357025660929,
+        "text": "@ManonjoPoirier @Gabrielc6472827 @Le_Figaro Et les gens ont vot\u00e9 Macron y\u2019a 5 ans pourtant vous semblez tous \u00eatre contre lui si on en croit les commentaires. Alors un vote s\u2019il y a 17 ans\u2026 \ud83d\ude02\nAllez, fais dodo",
+        "created_at": "2022-03-11 00:06:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 972167873618694145,
+        "referenced_tweets": {
+            "id": 1501934526817206279,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502072735031304194,
+        "text": "@Le_Figaro Vivement que les \u00e9lections passent pour que vous arr\u00eatiez de parler de ce dog de Z \ud83e\uddae",
+        "created_at": "2022-03-11 00:03:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 8350912,
+        "referenced_tweets": {
+            "id": 1501921899026300928,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501690867337281538,
+        "text": "@GilbertMulot @franceinfo C\u2019est non \ud83e\udd78",
+        "created_at": "2022-03-09 22:46:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4181534675,
+        "referenced_tweets": {
+            "id": 1501433086587908096,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501682790198398995,
+        "text": "@DhimLugdunensis @Le_Figaro Je te la refais : le sondage c\u2019\u00e9tait oui ou non. En revanche si tu mets une \u00e9chelle disons de 1 \u00e0 10, avec 10 \u00e9tant la confiance max. Si t\u2019as une moyenne de 4 et que tous les autres sont &lt;4, tu fais comment?",
+        "created_at": "2022-03-09 22:14:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1182758281330208771,
+        "referenced_tweets": {
+            "id": 1501533537358553089,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501680618018590723,
+        "text": "@cl1673 @franceinfo Qu\u2019est ce qu\u2019il t\u2019arrive le raslar ?",
+        "created_at": "2022-03-09 22:05:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3289087210,
+        "referenced_tweets": {
+            "id": 1501556424115171330,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501531631932395521,
+        "text": "@DhimLugdunensis @Le_Figaro Est-ce difficile de comprendre que les gens n\u2019ayant pas confiance en Macron pr\u00e9f\u00e8rent quand m\u00eame voter pour ce dernier au vue des autres candidats ?",
+        "created_at": "2022-03-09 12:13:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1182758281330208771,
+        "referenced_tweets": {
+            "id": 1501457359834652673,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501530949657444354,
+        "text": "@Le_Figaro Les haters en PLS \ud83d\ude02",
+        "created_at": "2022-03-09 12:10:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 8350912,
+        "referenced_tweets": {
+            "id": 1501451350118481920,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501524519873400841,
+        "text": "@cl1673 @franceinfo 30% de mouton et toi t\u2019es le berger qui pr\u00eache la bonne parole et que tout le monde devrait \u00e9couter ? \nAllez retourne chez m\u00e9m\u00e9 stp",
+        "created_at": "2022-03-09 11:45:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3289087210,
+        "referenced_tweets": {
+            "id": 1501462202343215110,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501325942601437184,
+        "text": "@Gle_Klink @franceinfo \ud83d\ude02 il y a vraiment des gens qui pensent que le mec sera pr\u00e9sident un jour ?\nPS : on parle du m\u00eame Z qui fait l\u2019objet d\u2019enqu\u00eates pour agressions sexuelles ?",
+        "created_at": "2022-03-08 22:36:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 961907667747917824,
+        "referenced_tweets": {
+            "id": 1501288560804126722,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501323504662237185,
+        "text": "@collectifantig1 @franceinfo On se demande pourquoi vous ne devenez pas journaliste afin de nous ouvrir les yeux. Plut\u00f4t que de poster de la merde sur Twitter. Peut \u00eatre que \u00e7a requiert trop d\u2019efforts ? \ud83d\ude02",
+        "created_at": "2022-03-08 22:26:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1422249444230184960,
+        "referenced_tweets": {
+            "id": 1501281003385589761,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501315575469023240,
+        "text": "@gouvernementFR Les commentaires sur cette vid\u00e9o. JPP. Toutes les f\u00e9ministes en furie mon dieu \ud83d\ude02\nLes droits des femmes n\u2019est pas qu\u2019un sujet par les femmes pour les femmes. \nLe fait que des hommes prennent la parole sur ce sujet permet aussi \u00e0 d\u2019autres hommes de mieux s\u2019identifier.",
+        "created_at": "2022-03-08 21:55:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 951480480,
+        "referenced_tweets": {
+            "id": 1501075244555120643,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501312585320259584,
+        "text": "@lescautstephan1 @EmmanuelMacron D\u2019un pays de 40M d\u2019habitants",
+        "created_at": "2022-03-08 21:43:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 886214949730701312,
+        "referenced_tweets": {
+            "id": 1501308719304519686,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501312500347904001,
+        "text": "@lescautstephan1 @EmmanuelMacron Alors d\u00e9j\u00e0 je ne suis pas pro Macron. Je suis pas non plus anti \u00c9tat et anti-touslespresidentselusdepuis30ans. \nLa corruption c\u2019est une chose. Le nazisme en est une autre. Je ne pense pas que les fameuses \u00e9tudes officielles soient suffisantes pour justifier l\u2019envahissement",
+        "created_at": "2022-03-08 21:42:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 886214949730701312,
+        "referenced_tweets": {
+            "id": 1501308719304519686,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501308719304519686,
+        "text": "@lescautstephan1 @EmmanuelMacron Mdr t\u2019es tellement path\u00e9tique jpp \ud83d\ude02En France aussi il doit y avoir des nazis, pas plus qu\u2019en Ukraine. \nMy god y\u2019en a vraiment qui sont finis \u00e0 la pi**e",
+        "created_at": "2022-03-08 21:27:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 980549543761793024,
+        "referenced_tweets": {
+            "id": 1501242013336932352,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466426622463168521,
+        "text": "RT @Cdiscount: \ud83c\udf81 #Concours - Calendrier de l'Avent\n\n\ud83c\udf84 Tente de remporter le cadeau qui se cache derri\u00e8re la case n\u00b02 !\n\nPour tenter ta chan\u2026",
+        "created_at": "2021-12-02 15:18:46+00:00",
+        "public_metrics": {
+            "retweet_count": 10182,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1466361501904687105,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1443538627682783233,
+        "text": "RT @LDLC: Un petit RT contre un gros PC :D",
+        "created_at": "2021-09-30 11:30:03+00:00",
+        "public_metrics": {
+            "retweet_count": 1513,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1443197844098330625,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1441004745662021634,
+        "text": "RT @LDLC: \ud83c\udf81 Un MEGA setup de gaming / streaming \u00c0 GAGNER (+5000\u20ac) !\n\nFOLLOW @LDLC+ RT CE TWEET\n\n\ud83d\udd0e D\u00e9tails de la config \ud83d\udc49 https://t.co/rwjSm\u2026",
+        "created_at": "2021-09-23 11:41:18+00:00",
+        "public_metrics": {
+            "retweet_count": 33629,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1437679646104072193,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1435899454507397121,
+        "text": "RT @TopAchat: \ud83c\udf81 #Concours\nGagne ton nouvel \u00e9cran AOC !\n27\" 144 Hz QHD\n\nhttps://t.co/2o4Gm7Zbgx\n\nPour participer :\n\ud83d\udc49 Follow @TopAchat \n\ud83d\udc49 RT\u2026",
+        "created_at": "2021-09-09 09:34:42+00:00",
+        "public_metrics": {
+            "retweet_count": 15505,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1434843571547349004,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1435899365168664579,
+        "text": "RT @SGesport: Profitez des #EUMasters sur grand \u00e9cran ! \ud83d\udc40\n\nRT + follow pour tenter de remporter un \u00e9cran incurv\u00e9 49\" 240 Hz 1ms d'une valeu\u2026",
+        "created_at": "2021-09-09 09:34:21+00:00",
+        "public_metrics": {
+            "retweet_count": 4962,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1434881404848967681,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1401175019372302342,
+        "text": "RT @ZLAN_FR: Pendant toute la #ZLAN2021, tentez de remporter un setup complet gr\u00e2ce \u00e0 Soci\u00e9t\u00e9 G\u00e9n\u00e9rale, notre partenaire principal !\n\nPour\u2026",
+        "created_at": "2021-06-05 13:52:11+00:00",
+        "public_metrics": {
+            "retweet_count": 20174,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1400878337065635848,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1380268794023657480,
+        "text": "RT @LDLC: \ud83c\udf81 Une XBOX SERIES X + 1 TV \u00e0 1000\u20ac !\n\nFOLLOW @LDLC+ RT CE TWEET\n\nNos TV \ud83d\udc49 https://t.co/vMdbXFpXKa\n\ud83d\udcdc R\u00e8glement \ud83d\udc49 https://t.co/zQXw\u2026",
+        "created_at": "2021-04-08 21:18:19+00:00",
+        "public_metrics": {
+            "retweet_count": 23382,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1379432423767744529,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1332101322535944192,
+        "text": "RT @LDLC: \ud83e\udd14 C'est pour qui ? \ud83d\udc47\nhttps://t.co/0IMQv8ich2",
+        "created_at": "2020-11-26 23:17:59+00:00",
+        "public_metrics": {
+            "retweet_count": 589,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1330065915178782720,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1331361876106764289,
+        "text": "RT @LDLC: \ud83c\udf81 Un setup avec une #RTX3070 \u00c0 GAGNER (3400\u20ac) !\n\n\ud83d\udc49 FOLLOW @LDLC + RT CE TWEET\n\nD\u00e9tails de la config \ud83d\udc49 https://t.co/e0PfDOVwNR\n\n\ud83e\udd73\u2026",
+        "created_at": "2020-11-24 22:19:41+00:00",
+        "public_metrics": {
+            "retweet_count": 45375,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1328986667999432707,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1127278379437305856,
+        "text": "RT @LDLC: Concours #ZLAN \ud83c\udf81\n\nUn PC ZT Ind\u00e9pendant \u00e0 3299\u20ac \u00e0 gagner ! \ud83d\udc9a Spoil : la b\u00eate est propuls\u00e9e par une NVIDIA GeForce RTX 2080 Ti \ud83d\udd25\ud83d\ude80\u2026",
+        "created_at": "2019-05-11 18:24:44+00:00",
+        "public_metrics": {
+            "retweet_count": 63761,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1127258293150396423,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1040257542553841665,
+        "text": "@LDLC @ZANKI0H",
+        "created_at": "2018-09-13 15:14:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 28302970,
+        "referenced_tweets": {
+            "id": 1039973461333078021,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 943163972638904320,
+        "text": "@ErycTriceps @h1z1hunt Wall\u00e9\u00e9\u00e9",
+        "created_at": "2017-12-19 16:59:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3331459000,
+        "referenced_tweets": {
+            "id": 939590536943558656,
+            "type": "replied_to"
+        }
+    }
+]

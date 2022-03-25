@@ -1,0 +1,1347 @@
+[
+    {
+        "tweet_id": 1507068179897479175,
+        "text": "Anong dapat bang gawin?",
+        "created_at": "2022-03-24 18:53:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352152408411934726,
+        "referenced_tweets": {
+            "id": 1507068135442042898,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068135442042898,
+        "text": "Anong kulang?",
+        "created_at": "2022-03-24 18:53:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352152408411934726,
+        "referenced_tweets": {
+            "id": 1507068063962714130,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068063962714130,
+        "text": "What did I do to deserve this kind of treatment?",
+        "created_at": "2022-03-24 18:53:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352152408411934726,
+        "referenced_tweets": {
+            "id": 1507067744583241735,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507067744583241735,
+        "text": "Kapoya oyy",
+        "created_at": "2022-03-24 18:52:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352152408411934726,
+        "referenced_tweets": {
+            "id": 1507067657660485658,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507067657660485658,
+        "text": "Ako na pud?",
+        "created_at": "2022-03-24 18:51:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352152408411934726,
+        "referenced_tweets": {
+            "id": 1507067568523137026,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507067568523137026,
+        "text": "I'm patiently waiting and as much as I can... I will understand you..",
+        "created_at": "2022-03-24 18:51:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352152408411934726,
+        "referenced_tweets": {
+            "id": 1507066390376640512,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507066390376640512,
+        "text": "Please don't make me regret...",
+        "created_at": "2022-03-24 18:46:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352152408411934726,
+        "referenced_tweets": {
+            "id": 1507066325729828871,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507066325729828871,
+        "text": "I'm tired of your sorry that are words only",
+        "created_at": "2022-03-24 18:46:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352152408411934726,
+        "referenced_tweets": {
+            "id": 1507066054354251776,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507066054354251776,
+        "text": "Nag-iinarte ka na naman",
+        "created_at": "2022-03-24 18:45:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352152408411934726,
+        "referenced_tweets": {
+            "id": 1507065953867091972,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507065953867091972,
+        "text": "Baka sabihan na naman ako, such a \"drama queen!\"",
+        "created_at": "2022-03-24 18:44:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352152408411934726,
+        "referenced_tweets": {
+            "id": 1507065871386103813,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507065871386103813,
+        "text": "Bakit ganun?",
+        "created_at": "2022-03-24 18:44:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352152408411934726,
+        "referenced_tweets": {
+            "id": 1507065827647901717,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507065827647901717,
+        "text": "I shouldn't be fighting for a spot",
+        "created_at": "2022-03-24 18:44:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352152408411934726,
+        "referenced_tweets": {
+            "id": 1507065715886477324,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507065715886477324,
+        "text": "I'm not even high maintenance person... But why do I always receives small efforts?",
+        "created_at": "2022-03-24 18:44:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352152408411934726,
+        "referenced_tweets": {
+            "id": 1507065386583281670,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507065386583281670,
+        "text": "I should not be asking or begging for it... It should be given to me because I deserve it...",
+        "created_at": "2022-03-24 18:42:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352152408411934726,
+        "referenced_tweets": {
+            "id": 1507065136506294288,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507065136506294288,
+        "text": "A thread of my thoughts.... https://t.co/CsdAkB7kuv",
+        "created_at": "2022-03-24 18:41:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507049581170679817,
+        "text": "Brain: be patient\n\nHeart: until when?",
+        "created_at": "2022-03-24 17:39:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506970416203530240,
+        "text": "Okay kayo?",
+        "created_at": "2022-03-24 12:25:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506241136037621761,
+        "text": "Bahala nlng gyud tanan oy",
+        "created_at": "2022-03-22 12:07:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506241003275304965,
+        "text": "Kapoy napud ug hulat",
+        "created_at": "2022-03-22 12:06:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506240922258149380,
+        "text": "Kapoy na ug expect",
+        "created_at": "2022-03-22 12:06:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500115727617236997,
+        "text": "Muted.",
+        "created_at": "2022-03-05 14:27:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500115628434558976,
+        "text": "May pa ang dula giuna, ikaw nga naghulat hulat sa iyang reply wa man lang ka giinform.",
+        "created_at": "2022-03-05 14:26:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500115249663721479,
+        "text": "I'm here again HAHAHA",
+        "created_at": "2022-03-05 14:25:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496984027404075008,
+        "text": "SH*T I HATE MYSELF. F*CK! I'M OVERTHINKING AGAIN!\ud83e\udd7a\ud83d\ude42\ud83d\ude43",
+        "created_at": "2022-02-24 23:02:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496983552671780864,
+        "text": "If that day comes...( hope it will never come\ud83d\ude42) I'll silently appreciate the pain...until I'm whole again.",
+        "created_at": "2022-02-24 23:01:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496983127520321537,
+        "text": "I\u2019m aware of the risk that comes along with it.\ud83e\udd7a",
+        "created_at": "2022-02-24 22:59:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496982713437683712,
+        "text": "No one makes me feel more vulnerable other than you, who gently kisses me for every chance we have.\n- The Art of Losing You",
+        "created_at": "2022-02-24 22:57:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485633787908165638,
+        "text": "Mureklamo na jud ko\ud83d\ude14",
+        "created_at": "2022-01-24 15:21:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484505602462130180,
+        "text": "PLS\ud83d\ude2d",
+        "created_at": "2022-01-21 12:38:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484505441723817985,
+        "text": "Ngano lage ni\ud83d\ude14\ud83d\ude14\ud83d\ude14",
+        "created_at": "2022-01-21 12:37:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484325832105476097,
+        "text": "\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2022-01-21 00:43:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483721673685696515,
+        "text": "Please don't... don't make me regret ..",
+        "created_at": "2022-01-19 08:43:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482852845133045761,
+        "text": "Intawun maka KARMA baya ko\ud83d\ude00",
+        "created_at": "2022-01-16 23:10:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481918141688999937,
+        "text": "Work work work work work~ https://t.co/EiwzTrV9tm",
+        "created_at": "2022-01-14 09:16:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480520529941450753,
+        "text": "Nagtinarung ko ug estorya, pagtarung sad nuh\ud83d\ude03",
+        "created_at": "2022-01-10 12:42:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480035121260810240,
+        "text": "Tawagi ko now na\ud83d\ude10",
+        "created_at": "2022-01-09 04:34:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479914663408455683,
+        "text": "Yung naiiyak ka nalng bigla\ud83d\ude42",
+        "created_at": "2022-01-08 20:35:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479779283392692224,
+        "text": "Wait lang...pakipause po muna . Hihinga lang.\ud83e\udd72",
+        "created_at": "2022-01-08 11:37:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479779115947663362,
+        "text": "Pwede mureklamo?",
+        "created_at": "2022-01-08 11:36:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479332403135283202,
+        "text": "May nakalaro lang na random player sa ML ng tatlong beses.... tas yung ex mong di pa rin makamove on be like \"Naol, may kaduo na. Sige lang support kita. Kung saan ka masaya support lang kita. Sige na baka magalit pa yung kaDUO mo.\" Luhh para kang WTF hahaha nakakatawa.\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "created_at": "2022-01-07 06:01:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478228088999723010,
+        "text": "Sadly, sometimes it's too late..and that's the thing about time, we cannot get it back. https://t.co/NvAZGDpenA",
+        "created_at": "2022-01-04 04:53:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478187309451264003,
+        "text": "\ud83e\udd74\ud83d\ude43 https://t.co/Rq4yW8Nr6d",
+        "created_at": "2022-01-04 02:11:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477975460956966915,
+        "text": "Crazyyyyyy",
+        "created_at": "2022-01-03 12:09:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477975422004387840,
+        "text": "One word to describe this picture.... https://t.co/wnFeXrFz0O",
+        "created_at": "2022-01-03 12:09:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477975021637103616,
+        "text": "I did the most rebellious thing that I thought I will never ever do..\ud83e\udd72",
+        "created_at": "2022-01-03 12:07:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476284313112965123,
+        "text": "I hope this time will work and will not fail anymore\ud83e\udd74",
+        "created_at": "2021-12-29 20:09:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476284100851879937,
+        "text": "Another new adventure \ud83e\udd23",
+        "created_at": "2021-12-29 20:08:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476284038977515521,
+        "text": "\ud83d\udd12",
+        "created_at": "2021-12-29 20:08:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476283941568987138,
+        "text": "Haha",
+        "created_at": "2021-12-29 20:08:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466640296058310657,
+        "text": "What a shame \ud83e\udd74",
+        "created_at": "2021-12-03 05:27:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466361763230744581,
+        "text": "I didn't leave because I stopped loving you. I left cause the longer I stayed the less I loved myself...",
+        "created_at": "2021-12-02 11:01:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465947124311363589,
+        "text": "Yoko na.",
+        "created_at": "2021-12-01 07:33:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465656967318229000,
+        "text": "Ganun pa din pala",
+        "created_at": "2021-11-30 12:20:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465656923663974405,
+        "text": "Kala ko nagbago",
+        "created_at": "2021-11-30 12:20:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465372254183649280,
+        "text": "Fading.....",
+        "created_at": "2021-11-29 17:29:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1463319301121667073,
+        "text": "Hmm tingnan nga natin hanggang saan aabot yang pasensya mo\ud83d\ude0f",
+        "created_at": "2021-11-24 01:31:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1462961511387648000,
+        "text": "Sobrang mapagbigay ah? Magtira ka naman girl for yourself\ud83d\ude05",
+        "created_at": "2021-11-23 01:49:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1462216849949560834,
+        "text": "I'm doubting again... Maybe it's just me... na parang may mali...",
+        "created_at": "2021-11-21 00:30:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1462216451163496454,
+        "text": "Toxic is when they can't let you go, but can't treat you right.\ud83e\udd74",
+        "created_at": "2021-11-21 00:29:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1460919023684653057,
+        "text": "But",
+        "created_at": "2021-11-17 10:33:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1460918836908085249,
+        "text": "Imy",
+        "created_at": "2021-11-17 10:32:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1458323219748847620,
+        "text": "Shut up nlng jud ta\ud83d\ude36",
+        "created_at": "2021-11-10 06:38:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1456979603256315909,
+        "text": "So ayun po, nasa mood nlng lahat. Kapag wala sa mood damay lahat.",
+        "created_at": "2021-11-06 13:39:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1456978777880236041,
+        "text": "Ask ko lang, required ba murahin yung jowa niyo kapag nagagalit?",
+        "created_at": "2021-11-06 13:36:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1456763244668854275,
+        "text": "Don't worry when I argue with you. Worry when I stop, cause that just means there's nothing worth fighting for. \ud83d\ude42",
+        "created_at": "2021-11-05 23:19:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1456437957020184576,
+        "text": "I don't care anymore...... Chariiiing\u270c\ufe0f\ud83e\udd23",
+        "created_at": "2021-11-05 01:47:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1456437658993913857,
+        "text": "May tinatago din pala akong karupukan?",
+        "created_at": "2021-11-05 01:46:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1456437520686673922,
+        "text": "Haysss",
+        "created_at": "2021-11-05 01:45:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1451893485275992071,
+        "text": "Magreklamo ka din self\ud83d\ude05",
+        "created_at": "2021-10-23 12:49:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1451893360147324933,
+        "text": "Ang bait ko naman\u263a\ufe0f",
+        "created_at": "2021-10-23 12:48:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1451598881108549633,
+        "text": "Kapoy adjust nuh? Pero di man ta reklamador, unsaon mani?",
+        "created_at": "2021-10-22 17:18:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1448244905503969289,
+        "text": "Pero laban sisssss\ud83d\ude2d\ud83d\udcaa\u263a\ufe0f",
+        "created_at": "2021-10-13 11:11:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1446475971989688326,
+        "text": "reacted \ud83d\ude0b to your message",
+        "created_at": "2021-10-08 14:02:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1445810064099471363,
+        "text": "Please don't abuse my kindness...for it will turn into madness..\ud83d\ude43",
+        "created_at": "2021-10-06 17:55:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1445771203260522500,
+        "text": "Ang lamiiiig\ud83e\udd76\ud83e\udd76\ud83e\udd76",
+        "created_at": "2021-10-06 15:21:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1445713098246017029,
+        "text": "I feel as if I'm made to understand but not to be understood.\ud83d\ude43",
+        "created_at": "2021-10-06 11:30:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1444203197044645897,
+        "text": "Uwag ra na",
+        "created_at": "2021-10-02 07:30:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1444101013133086729,
+        "text": "Payday na pero walay pay..day lang\ud83e\udd74",
+        "created_at": "2021-10-02 00:44:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1444100704684019717,
+        "text": "Sanaol giuna ang laag\ud83d\ude05",
+        "created_at": "2021-10-02 00:43:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1443949993371443201,
+        "text": "Unfair",
+        "created_at": "2021-10-01 14:44:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1442001266691895296,
+        "text": "Y*wa kapoyaaa",
+        "created_at": "2021-09-26 05:41:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1438657384155521024,
+        "text": "+2\ud83e\udd23",
+        "created_at": "2021-09-17 00:13:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352152408411934726,
+        "referenced_tweets": {
+            "id": 1438606926166691850,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1438065943574315010,
+        "text": "Baka nakakalimutan mo...\u263a\ufe0f",
+        "created_at": "2021-09-15 09:03:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1437848901525016576,
+        "text": "Nangangamoy plastik lage?",
+        "created_at": "2021-09-14 18:41:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1437848569000579076,
+        "text": "Nganong murason man jud bisan kita na kaayo nga mali jud ka?\ud83d\ude42",
+        "created_at": "2021-09-14 18:39:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1437809773739577345,
+        "text": "-1",
+        "created_at": "2021-09-14 16:05:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1437802736586612743,
+        "text": "Red flag",
+        "created_at": "2021-09-14 15:37:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1437802706748338180,
+        "text": "I'm a bit bothered by it..",
+        "created_at": "2021-09-14 15:37:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1437522249645391873,
+        "text": "Let see...",
+        "created_at": "2021-09-13 21:03:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1437522170092015618,
+        "text": "1 week",
+        "created_at": "2021-09-13 21:02:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1436952365161017346,
+        "text": "Kapoy explain sa taong di kasabot jud!",
+        "created_at": "2021-09-12 07:18:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1436952100676595712,
+        "text": "UMAYYYY",
+        "created_at": "2021-09-12 07:17:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1436621978945810432,
+        "text": "I'm good at not talking..\ud83d\ude42",
+        "created_at": "2021-09-11 09:25:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1436595679955017732,
+        "text": "I feel like I'm doing all the effort...\ud83d\ude05\ud83e\udd72",
+        "created_at": "2021-09-11 07:41:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1436460834301956101,
+        "text": "Wah nah murag makawala naman ug gana\ud83e\udd14\ud83d\ude43",
+        "created_at": "2021-09-10 22:45:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1436295679526072327,
+        "text": "You need some L.A.L.I.S.A\ud83d\ude0e\ud83d\udd25\u2763\ufe0f\n#LalisaManoban #LALISASolo",
+        "created_at": "2021-09-10 11:49:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1435326997069135873,
+        "text": "I'll try to believe in your words...\ud83e\udd72",
+        "created_at": "2021-09-07 19:39:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1435011527879233539,
+        "text": "Kaya ko magtiis, wag ako.\ud83d\ude42",
+        "created_at": "2021-09-06 22:46:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1434961199326646274,
+        "text": "Sayang\ud83d\ude05",
+        "created_at": "2021-09-06 19:26:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1434960455345197058,
+        "text": "Ayy maka turn off\ud83d\ude05",
+        "created_at": "2021-09-06 19:23:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

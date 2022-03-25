@@ -1,0 +1,1593 @@
+[
+    {
+        "tweet_id": 1507121525203382279,
+        "text": "@DjDav405 Who is Tracy?",
+        "created_at": "2022-03-24 22:25:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3904397055,
+        "referenced_tweets": {
+            "id": 1507113385271476228,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507094041581834246,
+        "text": "@RobertJ3nnings Talent sees talent! Way to be!",
+        "created_at": "2022-03-24 20:36:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1004895604164759553,
+        "referenced_tweets": {
+            "id": 1507083297431633929,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507079241703333888,
+        "text": "@3stacygage Sooners ride or die \ud83d\udd34\u26aa\ufe0f",
+        "created_at": "2022-03-24 19:37:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1238803089957834752,
+        "referenced_tweets": {
+            "id": 1507072583279198217,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068081499262980,
+        "text": "@soonersonly Where can I purchase? I\u2019ve never been to the Spring game.",
+        "created_at": "2022-03-24 18:53:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 936058487733448704,
+        "referenced_tweets": {
+            "id": 1506677182625681414,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507066486384381955,
+        "text": "RT @TexAgsFootball: (18) Tennessee vs (31) Oklahoma",
+        "created_at": "2022-03-24 18:47:04+00:00",
+        "public_metrics": {
+            "retweet_count": 43,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507055003424468994,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507062910270464000,
+        "text": "@Faroco76 @MaryKayCabot That isn\u2019t going to happen. Sadly this will follow the franchise for years.",
+        "created_at": "2022-03-24 18:32:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34287897,
+        "referenced_tweets": {
+            "id": 1507045007257001988,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506822421504008199,
+        "text": "RT @bakermayfield: Thanks @PGATOUR &amp; @DellMatchPlay for having me. I picked Scottie Scheffler to win it all.\nJoin my group and compete agai\u2026",
+        "created_at": "2022-03-24 02:37:15+00:00",
+        "public_metrics": {
+            "retweet_count": 73,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506693266988699650,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506675532506750984,
+        "text": "@HarcusMicks99 Love seeing this relationship! Awesome Father-Son time!",
+        "created_at": "2022-03-23 16:53:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1084985937766027265,
+        "referenced_tweets": {
+            "id": 1506673278575947784,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506675165773586451,
+        "text": "@soonersonly Is the game general admission?",
+        "created_at": "2022-03-23 16:52:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 936058487733448704,
+        "referenced_tweets": {
+            "id": 1506649807691173900,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506635610941005834,
+        "text": "@bigfoots0169 @RealSkipBayless @undisputed His 18.9 million is guaranteed. Browns will pay it if they don\u2019t trade him. Browns will pay it if they cut him.",
+        "created_at": "2022-03-23 14:14:56+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1272580766,
+        "referenced_tweets": {
+            "id": 1506633511100424205,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506422908318584835,
+        "text": "@thaBarroness @benshapiro So you\u2019re against vaccine mandates?",
+        "created_at": "2022-03-23 00:09:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1372658397364027401,
+        "referenced_tweets": {
+            "id": 1506415967038951424,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506422644090056705,
+        "text": "@benshapiro Stunning \ud83d\ude02",
+        "created_at": "2022-03-23 00:08:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17995040,
+        "referenced_tweets": {
+            "id": 1506407808400601094,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506352838347313159,
+        "text": "@trotterdaughter Probably just trying to get to work and back. Gotta do what you gotta do prices are ridiculous.",
+        "created_at": "2022-03-22 19:31:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 528235909,
+        "referenced_tweets": {
+            "id": 1506251458643214348,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506326626694582274,
+        "text": "@Soonersgotdrip Tough situation, I\u2019ve been there. Prayers for you and your family.",
+        "created_at": "2022-03-22 17:47:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1219766653090717697,
+        "referenced_tweets": {
+            "id": 1506313430923419649,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506284065376329729,
+        "text": "@KimMangone Till all your money runs out! Won\u2019t make a difference, but great for the billboard companies and employees",
+        "created_at": "2022-03-22 14:58:01+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1138886434478182401,
+        "referenced_tweets": {
+            "id": 1505749035138777090,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506046002142363656,
+        "text": "@indy_sooner Everyone wonders why our children are bullies or bullied. Look in the mirror. So much hate going around everyday. It\u2019s passed on to our children. \ud83e\udd26\u200d\u2640\ufe0f",
+        "created_at": "2022-03-21 23:12:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": 1153390694947594240,
+        "referenced_tweets": {
+            "id": 1506039349456027660,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506008510299004928,
+        "text": "The Browns Will Never Live Down Trading for Deshaun Watson https://t.co/aC7nGdfPbk",
+        "created_at": "2022-03-21 20:43:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505972812984561666,
+        "text": "RT @FDSportsbook: Matty Ice \u2192 Colts \n\nWill Indy make the playoffs this year?\n\nRT: No\nLike: Yes https://t.co/h78qbJQUo5",
+        "created_at": "2022-03-21 18:21:12+00:00",
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505966223057694729,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505703473618300930,
+        "text": "@indy_sooner Sad how they can totally trash someone\u2019s career and carry on with their day",
+        "created_at": "2022-03-21 00:30:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1153390694947594240,
+        "referenced_tweets": {
+            "id": 1505701710139899906,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505683854077669377,
+        "text": "@SparksSparksm7 @Petree_1981 @OUkristi \ud83d\ude02",
+        "created_at": "2022-03-20 23:12:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1475115833089273862,
+        "referenced_tweets": {
+            "id": 1505675525683089414,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505671990128041985,
+        "text": "@MRSOONER75 Donkey with a nose ring \ud83d\ude02",
+        "created_at": "2022-03-20 22:25:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 883154186216407040,
+        "referenced_tweets": {
+            "id": 1505548517703565312,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505371807783829504,
+        "text": "RT @thecheckdown: WRU TOURNAMENT MATCHUP 1 \ud83d\udea8\n\n@LSUfootball vs. @OU_Football. Who ya got!? Vote below \u2b07\ufe0f https://t.co/mlGTFGmUvH",
+        "created_at": "2022-03-20 02:33:02+00:00",
+        "public_metrics": {
+            "retweet_count": 87,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505225537010159619,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505034552745541635,
+        "text": "@ESPNStatsInfo Russ gonna do Russ. Rest of y\u2019all can just shut it.",
+        "created_at": "2022-03-19 04:12:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 53120768,
+        "referenced_tweets": {
+            "id": 1504999943840411654,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504983937902338052,
+        "text": "@End_D_Registry Sooners celebrating a Heisman trophy winner as they do all of their Heisman trophy winners. Kyler is next up! You should visit Heisman Park \ud83d\udd34 \u26aa\ufe0f",
+        "created_at": "2022-03-19 00:51:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1466997960974155782,
+        "referenced_tweets": {
+            "id": 1504982672426291202,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504943894915690500,
+        "text": "@SideActionHQ @RapSheet Just stop, no comparison here at all. Is it a bad look, yes but that\u2019s about it.",
+        "created_at": "2022-03-18 22:12:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1255256006013194245,
+        "referenced_tweets": {
+            "id": 1504909163729756162,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504941656965099532,
+        "text": "RT @BoomerShupe99: List 13 #FamilyFriday #SoonerFollowTrain Plz RT and Follow Back It\u2019s #FamilyFriday! Let\u2019s \ud83d\udd25 up the #SoonerFollowTrain @b\u2026",
+        "created_at": "2022-03-18 22:03:46+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504937250999656449,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504889349703356421,
+        "text": "@thee1mrdevine That\u2019s an odd take on the situation. Haven\u2019t heard one mention of skin color or racism. Is this your own take or can you site a source?",
+        "created_at": "2022-03-18 18:35:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1382547066807857154,
+        "referenced_tweets": {
+            "id": 1504886155069857793,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504849436526137348,
+        "text": "@FookRobinhood @Marshall_XXIII @JThrock45_ \ud83d\ude02",
+        "created_at": "2022-03-18 15:57:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1354821073401901064,
+        "referenced_tweets": {
+            "id": 1504848661796294666,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504848625519710209,
+        "text": "@widewordofsport I don\u2019t think he wants truckloads of money. I think he just wanted to be respected and in the loop. Instead they went behind his back and basically called him a child. Knowing his personality that\u2019s a no no \ud83d\ude02",
+        "created_at": "2022-03-18 15:54:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 65090658,
+        "referenced_tweets": {
+            "id": 1504848052410105856,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504588554504179718,
+        "text": "@jamaul_18 Truth \ud83d\ude02",
+        "created_at": "2022-03-17 22:40:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2928974651,
+        "referenced_tweets": {
+            "id": 1504587598710325253,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504555966691434496,
+        "text": "@Jake_Trotter What the what? \ud83d\ude02 \ud83d\ude02 \ud83d\ude02 They went shopping for a new QB not Baker\u2019s fault that QB didn\u2019t want to play for them. #FreeBaker",
+        "created_at": "2022-03-17 20:31:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 28584781,
+        "referenced_tweets": {
+            "id": 1504543085077872643,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504555361411518467,
+        "text": "@JKnKC @bakermayfield I think he was on the train until front office decided they would throw him off the train at will \ud83d\ude02 \ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-17 20:28:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 49435181,
+        "referenced_tweets": {
+            "id": 1504543703947485191,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504521741971959817,
+        "text": "#FreeBaker",
+        "created_at": "2022-03-17 18:15:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504521461297463301,
+        "text": "@JackPosobiec @catturd2 \ud83d\ude02",
+        "created_at": "2022-03-17 18:14:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 592730371,
+        "referenced_tweets": {
+            "id": 1504496460943044616,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503943828868411392,
+        "text": "RT @CavsTypeBeat: I fear the final hours of the Baker Mayfield era may be upon us.  If so, thank you Baker for:\n\n\u2022 first winning season in\u2026",
+        "created_at": "2022-03-16 03:58:45+00:00",
+        "public_metrics": {
+            "retweet_count": 987,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503808829955391495,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503939334747181056,
+        "text": "RT @GoatedBaker: RT if you\u2019re still team Baker! \ud83d\udd01\n\n#Browns https://t.co/1MzvFtrG6D",
+        "created_at": "2022-03-16 03:40:53+00:00",
+        "public_metrics": {
+            "retweet_count": 376,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503767740775116800,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503752577225314310,
+        "text": "@Kerry_Berry12 I always check before following. I hate when half naked selfies are tweeted or retweeted. Definite unfollow \ud83d\ude02",
+        "created_at": "2022-03-15 15:18:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 399371438,
+        "referenced_tweets": {
+            "id": 1503504923983585281,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503576289273430024,
+        "text": "RT @NCAASoftball: Vote for your pick of the #NCAASoftball Photo of the Week \u2935\ufe0f",
+        "created_at": "2022-03-15 03:38:17+00:00",
+        "public_metrics": {
+            "retweet_count": 21,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503482783565377536,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503573387725406208,
+        "text": "@BeerlyFootball Barry",
+        "created_at": "2022-03-15 03:26:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1402457153902895114,
+        "referenced_tweets": {
+            "id": 1503499409899896835,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503424454894002187,
+        "text": "@Path2Greatwork She\u2019s doing her job, you do yours \ud83c\udf74",
+        "created_at": "2022-03-14 17:34:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 299902112,
+        "referenced_tweets": {
+            "id": 1503227582581514243,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502876140339437572,
+        "text": "@chuck137955005 Snoopy",
+        "created_at": "2022-03-13 05:16:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1366907533441593348,
+        "referenced_tweets": {
+            "id": 1502836102813700099,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502370418338013191,
+        "text": "@NASCARonNBC @NASCAR Blaney",
+        "created_at": "2022-03-11 19:46:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1615420753,
+        "referenced_tweets": {
+            "id": 1502368086904774664,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501287419819274252,
+        "text": "@stonedbrownsfan @LandByTheLake @bakermayfield @OU_Athletics @OU_Football He took a break probably because of jackwagons such as yourself.",
+        "created_at": "2022-03-08 20:03:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1153449022524395522,
+        "referenced_tweets": {
+            "id": 1501263214478303237,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500963743727034372,
+        "text": "RT @monicagrau: My mom is looking for her friend Maria from Ukraine. I have told her it is impossible to find her having just a picture. Sh\u2026",
+        "created_at": "2022-03-07 22:36:57+00:00",
+        "public_metrics": {
+            "retweet_count": 77834,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500824437947518977,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500583616472137735,
+        "text": "@bosoxrulz1918 @catturd2 Then we\u2019re in trouble because this generation is living with their parents playing on computers",
+        "created_at": "2022-03-06 21:26:28+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 8,
+            "like_count": 74,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 925777501,
+        "referenced_tweets": {
+            "id": 1500581214096347136,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500566670225690631,
+        "text": "https://t.co/155DhkFHHO",
+        "created_at": "2022-03-06 20:19:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500479188813459462,
+        "text": "@catturd2 Cue all the Biden defenders giving us all the reasons why it\u2019s not the \u201cPresidents\u201d fault. Don\u2019t you know he doesn\u2019t set gas prices? He has absolutely nothing to do with gas prices \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "created_at": "2022-03-06 14:31:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1043185714437992449,
+        "referenced_tweets": {
+            "id": 1500451325242400779,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500477921588355074,
+        "text": "@CoachWhiteDB1 @A_White_3 @OU_Football This is awesome!",
+        "created_at": "2022-03-06 14:26:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 255828982,
+        "referenced_tweets": {
+            "id": 1500358129531379718,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499977395268427784,
+        "text": "@mtnbikerdenis @chromedude1 @ripjetson9 Always someone else\u2019s fault. The president is directly linked to gas prices. International prices are set. We have untapped resources that have been shut down per Mr. President. Go sell crazy somewhere else, we\u2019re full up here.",
+        "created_at": "2022-03-05 05:17:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 212276091,
+        "referenced_tweets": {
+            "id": 1499896417841782798,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499975566551834629,
+        "text": "@markcoughlin @ripjetson9 Comments like this irk me every time I read them. For most Americans, this is a big deal. Get off your high horse and show some grace. You\u2019re so worried about defending this administration you\u2019ve forgotten the average American. Do better \ud83e\udd26\u200d\u2640\ufe0f",
+        "created_at": "2022-03-05 05:10:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 248654122,
+        "referenced_tweets": {
+            "id": 1499915990003593218,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499973387476774914,
+        "text": "@GracenHalton1 @QB1TATT00 @indy_sooner Ah yeah!",
+        "created_at": "2022-03-05 05:01:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1032431680034762752,
+        "referenced_tweets": {
+            "id": 1499966578430910466,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499972652353654785,
+        "text": "@A_White_3 @EST_TrenchBaybe @OU_Football Woo~Hoo!",
+        "created_at": "2022-03-05 04:58:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123305367574863873,
+        "referenced_tweets": {
+            "id": 1499961800321900550,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499876676666286082,
+        "text": "@Kenny_Wallace Election year! They know which side the bread is buttered on.",
+        "created_at": "2022-03-04 22:37:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 42772641,
+        "referenced_tweets": {
+            "id": 1499856616929308674,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499794603859488769,
+        "text": "@seancooper_C4 Dude with three stars gonna work hard",
+        "created_at": "2022-03-04 17:11:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 125680835,
+        "referenced_tweets": {
+            "id": 1499569684194201602,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499793970091675648,
+        "text": "@oioialex83 @RossSchumann @POTUS Well you don\u2019t punish the majority. Why should my rights be given up for something I have no control over. People are killed with knives, cars, planes. People in Ukraine are being killed with bombs. Are they going to ban bombs? Why are guns different?",
+        "created_at": "2022-03-04 17:08:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 556238505,
+        "referenced_tweets": {
+            "id": 1499778501070798849,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499772109408645120,
+        "text": "@oioialex83 @RossSchumann @POTUS The vast majority of gun owners are normal, responsible people. Why should they be punished for a select few loons?",
+        "created_at": "2022-03-04 15:41:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 556238505,
+        "referenced_tweets": {
+            "id": 1499063991657766912,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499771153329627140,
+        "text": "@S1lentonexx88 @DingusMeat @TammyMcNaught1 @gunpolicy @POTUS Wake up! You give the government an inch they always take 5 miles! If the Ukrainians all had weapons before Russia invaded they might have had a different outcome.",
+        "created_at": "2022-03-04 15:38:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 44684337,
+        "referenced_tweets": {
+            "id": 1499145607763542016,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499731530452717570,
+        "text": "@barstoolsports I see a young man that hasn\u2019t made the best decisions, but he is young and entitled to make a few mistakes. That being said, I do believe he is bullied by the media and a lot of keyboard warriors.",
+        "created_at": "2022-03-04 13:00:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 22637974,
+        "referenced_tweets": {
+            "id": 1499470937812578309,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499590914011979776,
+        "text": "@RapSheet This is the kind of story I love to see. To bad so many are dismissing it. Kindness, pass it on\u2026.",
+        "created_at": "2022-03-04 03:41:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 16403943,
+        "referenced_tweets": {
+            "id": 1499450608683831299,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499580112894840846,
+        "text": "@khicks71467 So me \ud83d\ude02",
+        "created_at": "2022-03-04 02:58:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2796881890,
+        "referenced_tweets": {
+            "id": 1499238790266859520,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498850719729913859,
+        "text": "@Super70sSports Watched with my 8 year old grandson it was amazing \ud83d\ude02",
+        "created_at": "2022-03-02 02:40:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2259809232,
+        "referenced_tweets": {
+            "id": 1498841345787584516,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498738600841781257,
+        "text": "@CBSNews This is relevant how?",
+        "created_at": "2022-03-01 19:15:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15012486,
+        "referenced_tweets": {
+            "id": 1498719849748611072,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498737874627403777,
+        "text": "@RobertJ3nnings Glad to have you!",
+        "created_at": "2022-03-01 19:12:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1004895604164759553,
+        "referenced_tweets": {
+            "id": 1498726485510795275,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498171505947070465,
+        "text": "@SSJreef Old people shrink \ud83d\ude02",
+        "created_at": "2022-02-28 05:41:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3197063113,
+        "referenced_tweets": {
+            "id": 1498063820224348162,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497690040914247680,
+        "text": "@inetta_graham Happy Birthday! Looking fabulous!",
+        "created_at": "2022-02-26 21:48:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1586523895,
+        "referenced_tweets": {
+            "id": 1497674940090392579,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497371286338682880,
+        "text": "@NFLonCBS Roger Staubach",
+        "created_at": "2022-02-26 00:41:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 365644014,
+        "referenced_tweets": {
+            "id": 1497304895237476352,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497267517475201025,
+        "text": "@jscotthelton Plenty of Americans would willingly serve their country. The others need not apply.",
+        "created_at": "2022-02-25 17:49:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 832606093587120128,
+        "referenced_tweets": {
+            "id": 1496990507133767680,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497261585986985992,
+        "text": "@LindaCsaba @BoomerThunder1 @FreeHunterB That\u2019s a good idea. I hate putting zero on the tab like I didn\u2019t tip. I\u2019ll be writing cash in too from now on!",
+        "created_at": "2022-02-25 17:25:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1272525889054572546,
+        "referenced_tweets": {
+            "id": 1497233106503450632,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497261044632363014,
+        "text": "@CorteSpindola @Skipper6868 @OleksandraZubal @agargmd Will they want to resume their lives in their old country once the invading army is gone?",
+        "created_at": "2022-02-25 17:23:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15436398,
+        "referenced_tweets": {
+            "id": 1497214293640626177,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497232648388943877,
+        "text": "@benshapiro Shhhhh Taiwan \ud83e\udd2b",
+        "created_at": "2022-02-25 15:30:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17995040,
+        "referenced_tweets": {
+            "id": 1497210289959444481,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497231784551014405,
+        "text": "@BoomerThunder1 @FreeHunterB I usually tip in cash",
+        "created_at": "2022-02-25 15:27:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 119472028,
+        "referenced_tweets": {
+            "id": 1497222898548883512,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497231252285440005,
+        "text": "@Great_Kopi @BuzzPatterson @Twitter \ud83d\ude02",
+        "created_at": "2022-02-25 15:25:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 176393434,
+        "referenced_tweets": {
+            "id": 1497065868706160643,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496897857151979528,
+        "text": "@dailyblastlive Well that makes me feel so much better that we\u2019re not required to help, NOT",
+        "created_at": "2022-02-24 17:20:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 848997614095814656,
+        "referenced_tweets": {
+            "id": 1496894375066017798,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496895161619697666,
+        "text": "@MrMorga45685816 @NATOpress They will not be protected. They are being bombed as we type.",
+        "created_at": "2022-02-24 17:09:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1398454813852155908,
+        "referenced_tweets": {
+            "id": 1496839796735594498,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496504865341722632,
+        "text": "@cvpayne You are correct sir and they will all fall in line like ducks in a row \ud83d\ude02",
+        "created_at": "2022-02-23 15:18:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19400611,
+        "referenced_tweets": {
+            "id": 1496440972741390336,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496345529860739074,
+        "text": "@evalladaresh @marcorubio It would be funny if it wasn\u2019t so damn scary",
+        "created_at": "2022-02-23 04:45:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 113734340,
+        "referenced_tweets": {
+            "id": 1496339915520745472,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495986957050122245,
+        "text": "RT @Brink_Thinker: RT for two who stormed Normandy, now 100 \ud83c\uddfa\ud83c\uddf8 https://t.co/7DDF2Txwty",
+        "created_at": "2022-02-22 05:00:59+00:00",
+        "public_metrics": {
+            "retweet_count": 35083,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495887188470476805,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495112306488979461,
+        "text": "@SpencerRattler Wishing you all the good things \ud83d\udc95",
+        "created_at": "2022-02-19 19:05:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 850502016178692097,
+        "referenced_tweets": {
+            "id": 1495086024896221184,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494134706350272512,
+        "text": "@xifeng1842 Born and raised here in the USA with all the freedom that implies. Would she be the same person/competitor if she were born and raised in China? People are understandably asking questions.",
+        "created_at": "2022-02-17 02:20:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1285608444595068928,
+        "referenced_tweets": {
+            "id": 1494070861510238208,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493045864016891909,
+        "text": "@caseylynnf10 People that don\u2019t like rap?",
+        "created_at": "2022-02-14 02:14:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 189887603,
+        "referenced_tweets": {
+            "id": 1493034906947047429,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491495228137738246,
+        "text": "@NASCAR @dennyhamlin Nope",
+        "created_at": "2022-02-09 19:32:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 49153854,
+        "referenced_tweets": {
+            "id": 1491469043370532868,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491462216788369410,
+        "text": "RT @JimNagy_SB: If this post reaches whoever is responsible, DO THE RIGHT THING.",
+        "created_at": "2022-02-09 17:21:17+00:00",
+        "public_metrics": {
+            "retweet_count": 264,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491396702334509059,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491426326808788995,
+        "text": "RT @TravisSkol: Get the word out, folks",
+        "created_at": "2022-02-09 14:58:40+00:00",
+        "public_metrics": {
+            "retweet_count": 90,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491263455239995392,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490424022793916417,
+        "text": "@S_Rogers_1 Same here! I\u2019ll make a nice dinner we can sit down to and enjoy, but I don\u2019t need or want a thing. Married 32 years!",
+        "created_at": "2022-02-06 20:35:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1260711267284721664,
+        "referenced_tweets": {
+            "id": 1490304173639884803,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490397207710818304,
+        "text": "@SNR4Life23 Seriously where were they hiding this dude?",
+        "created_at": "2022-02-06 18:49:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1309051958,
+        "referenced_tweets": {
+            "id": 1490345177319292932,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489840655966912518,
+        "text": "RT @GracenHalton1: Can #SoonerNation make that happen ? \ud83d\udc40 if not I\u2019m good with the 5K \ud83d\ude4f\ud83c\udffe",
+        "created_at": "2022-02-05 05:57:46+00:00",
+        "public_metrics": {
+            "retweet_count": 98,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489816199483387905,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489840560319913985,
+        "text": "RT @shake__anjake: Yoo tryin to hit 1,800 tonight let\u2019s make it happen #Soonerfollowtrain https://t.co/67sFPINQsd",
+        "created_at": "2022-02-05 05:57:24+00:00",
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489780517994209288,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489355068105187332,
+        "text": "@huk_wa @Hayesfawcett3 @LebbeusO I think he follows the money and lands at Texas A&amp;M",
+        "created_at": "2022-02-03 21:48:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1461885537401323526,
+        "referenced_tweets": {
+            "id": 1489336719468027907,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489350816385359872,
+        "text": "RT @Cyclingchick19: Sooner Nation it\u2019s time to show some love for our new offensive lineman who\u2019s originally from the 405! It\u2019s a shame tha\u2026",
+        "created_at": "2022-02-03 21:31:20+00:00",
+        "public_metrics": {
+            "retweet_count": 26,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489068150146674695,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489080626875715592,
+        "text": "@EricBaileyTW Seems like an awesome individual. He\u2019s been raised right. Kudos to his parents!",
+        "created_at": "2022-02-03 03:37:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 28257776,
+        "referenced_tweets": {
+            "id": 1489016492020674561,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489026770779222021,
+        "text": "RT @buckmtim: #SoonerNation \nFOLLOW THE NEW COMMITS!!!!! \nWelcome them to the #Family!!! \n\n@GracenHalton1 \n@thomss_r \n@DaRealBurt23 \n@Fatut\u2026",
+        "created_at": "2022-02-03 00:03:41+00:00",
+        "public_metrics": {
+            "retweet_count": 30,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489021183630663681,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489019222646788103,
+        "text": "@EricBaileyTW This is precious \u2764\ufe0f",
+        "created_at": "2022-02-02 23:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 28257776,
+        "referenced_tweets": {
+            "id": 1489009135819575296,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488754237030944773,
+        "text": "@TwillSZN Don\u2019t know how this made it to my time and had to Google Hunter, but this is funny shit \ud83d\ude02",
+        "created_at": "2022-02-02 06:00:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1082424200298708992,
+        "referenced_tweets": {
+            "id": 1488717824805814272,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488672151800627202,
+        "text": "@kkirtley26 Definitely some eye candy for this Grammy \ud83d\ude02",
+        "created_at": "2022-02-02 00:34:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296594093305405441,
+        "referenced_tweets": {
+            "id": 1488609569358155777,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488665881345503232,
+        "text": "@BoomerShupe99 @NFL Absolutely! I\u2019m just a gal that loves football and I\u2019ve read everything. Seems the NFL and those teams in particular have some explaining to do. Dude has shown he can coach. What\u2019s the problem?",
+        "created_at": "2022-02-02 00:09:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4145338954,
+        "referenced_tweets": {
+            "id": 1488657148133265408,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488664416442855426,
+        "text": "@IchBinDerMann @247Sports @LateKickJosh @OU247 @BrandonDrumm247 This is just wrong \ud83d\ude02",
+        "created_at": "2022-02-02 00:03:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1352409681977897004,
+        "referenced_tweets": {
+            "id": 1488635861931642885,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488611142276632581,
+        "text": "@SpencerRattler Wishing you all the good things!",
+        "created_at": "2022-02-01 20:32:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 850502016178692097,
+        "referenced_tweets": {
+            "id": 1488545040779653129,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488331560470421505,
+        "text": "@kfor He makes it easy to root for him. I can\u2019t wait to see him on the field! Much respect for him already!",
+        "created_at": "2022-02-01 02:01:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14745059,
+        "referenced_tweets": {
+            "id": 1488310516443488260,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487128277235941380,
+        "text": "@Big_cedy Done!",
+        "created_at": "2022-01-28 18:19:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 958964684585164800,
+        "referenced_tweets": {
+            "id": 1487127895520722945,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486503309162725378,
+        "text": "@johnehoover Love this kid and his family. He\u2019s the real deal!",
+        "created_at": "2022-01-27 00:56:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 113127990,
+        "referenced_tweets": {
+            "id": 1486149739439702025,
+            "type": "replied_to"
+        }
+    }
+]

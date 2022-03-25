@@ -1,0 +1,50 @@
+[
+    {
+        "tweet_id": 1507196415168065576,
+        "text": "You may not like @ArvindKejriwal, but you have to agree that he is a very smart politician. Not many people in the country can counter BJP without getting trapped in their own narrative. One of the best speeches I have ever heard from anyone in the opposition, period. https://t.co/eGVIKOUlvF",
+        "created_at": "2022-03-25 03:23:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506976923238367237,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506116341983432706,
+        "text": "@Biharibole @AamAadmiParty 5 seat me hi hindu, sikh, muslim, christian, punjabi, orator, dalit, obc, ......sab ko accomodate kar sakte hai kya? Kuch sense hai apki baato me.",
+        "created_at": "2022-03-22 03:51:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2899353416,
+        "referenced_tweets": {
+            "id": 1505963851665137668,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502176498110779392,
+        "text": "@Vani80194851 Bhakt and logic's relation is same as that of Shit and Science.",
+        "created_at": "2022-03-11 06:56:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1282156584232263681,
+        "referenced_tweets": {
+            "id": 1501933140520030214,
+            "type": "replied_to"
+        }
+    }
+]

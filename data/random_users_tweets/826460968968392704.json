@@ -1,0 +1,437 @@
+[
+    {
+        "tweet_id": 1507068060934492161,
+        "text": "I feel like we are beyond the point of needing to tell people that the asterisk means its a required field.",
+        "created_at": "2022-03-24 18:53:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499011568750714882,
+        "text": "@TomWiltshire_ @jennywinschief @drjordanmetzl @POTUS That's the problem. Because of this stat everyone associates diabetes with type 2 and type 1's suffer because of it. The tweet about \"preventing diabetes\" is a fine example of that. They should stop calling type 2 \"diabetes\"",
+        "created_at": "2022-03-02 13:19:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1314638434322046976,
+        "referenced_tweets": {
+            "id": 1498966577500332033,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488871770404929548,
+        "text": "@PNCBank  is fraudulently making marketing offers that they are not following through with. @PNCBank_Help told me I would be contacted but once again they didn't follow through. Treat PNC offers as nothing more than lies to get customers.",
+        "created_at": "2022-02-02 13:47:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 40059448,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488592999240065026,
+        "text": "@PNCBank @PNCBank_Help @PNCNews I am pretty sure you can file \"offers we never intend to give you\" as fraud.  If anyone gets a pre-approval for this PNC Core card ignore it.  You will need to fight to get any \"offer\" that's part of that pre-approval.",
+        "created_at": "2022-02-01 19:20:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 826460968968392704,
+        "referenced_tweets": {
+            "id": 1488591937280086023,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488591937280086023,
+        "text": "@PNCBank @PNCBank_Help @PNCNews Received an offer for their pre-approved PNC Core card via mail and email detailing special APR on transfers. After applying NO offers were made available.  After emailing and calling they are still not available and I am ghosted by the reps.",
+        "created_at": "2022-02-01 19:15:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 40059448,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472927654382903297,
+        "text": "@DarkTowerAudio There is a (very credible) rumor that something even better is coming as far as a filmed version of the series.",
+        "created_at": "2021-12-20 13:51:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1442184082641743884,
+        "referenced_tweets": {
+            "id": 1472637688226459648,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1468655071621693447,
+        "text": "https://t.co/dr0uwdm7sv",
+        "created_at": "2021-12-08 18:53:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 826460968968392704,
+        "referenced_tweets": {
+            "id": 1468655019729825804,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1468655019729825804,
+        "text": "The Understanding 1.4.1 page says that disabled buttons are OK because beyond color the lack of focus is an indicator of state. It's also becoming more common to allow focus on disabled buttons using aria to provide info to assistive technology. Would that fail in that case?",
+        "created_at": "2021-12-08 18:53:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466074888536535043,
+        "text": "Now I am being told they are also like M&amp;M's in the UK. What is going on?",
+        "created_at": "2021-12-01 16:01:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 826460968968392704,
+        "referenced_tweets": {
+            "id": 1466069233880731654,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466069233880731654,
+        "text": "Dear @heresjonnyjames why did you never tell me that your Smarties are really M&amp;M's and that my Smarties you call Rockets?",
+        "created_at": "2021-12-01 15:38:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1453442846044925954,
+        "text": "@AT_Fresh_Dev I love Fable so much",
+        "created_at": "2021-10-27 19:25:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1452616772,
+        "referenced_tweets": {
+            "id": 1453055870447796228,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1453442509951098893,
+        "text": "So, 2.4.13: Page Break Navigation seems like a solution looking for a problem. I can just ignore this one right? \ud83d\ude02",
+        "created_at": "2021-10-27 19:24:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1449735831518957571,
+        "text": "Mazzy Star - Fade Into You (LIVE) https://t.co/gI7yaJf27n via @YouTube",
+        "created_at": "2021-10-17 13:55:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1444075831282835458,
+        "text": "I'll admit it. REO Speedwagon is a bit of alright.",
+        "created_at": "2021-10-01 23:04:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1439923845364920322,
+        "text": "@stevefaulkner Just keep the bunker location a secret",
+        "created_at": "2021-09-20 12:06:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14061059,
+        "referenced_tweets": {
+            "id": 1439868944052011011,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1414931817417805826,
+        "text": "I decided to get a new bike but it's 98 degrees with 90% humidity every day so I am just going to continue sitting on the couch.",
+        "created_at": "2021-07-13 12:56:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1402440182910050305,
+        "text": "@patrick_h_lauke Happy birthday!!",
+        "created_at": "2021-06-09 01:39:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14972862,
+        "referenced_tweets": {
+            "id": 1402048188958363654,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1402000029817126912,
+        "text": "@patrick_h_lauke That was how I remembered it but the SC specifically notes best practice is to have it first so I thought maybe I was remembering wrong",
+        "created_at": "2021-06-07 20:30:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14972862,
+        "referenced_tweets": {
+            "id": 1401999316533796866,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1401995721453232135,
+        "text": "@racheleditullio Same!",
+        "created_at": "2021-06-07 20:13:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 339229037,
+        "referenced_tweets": {
+            "id": 1401994837692461060,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1401995580151418897,
+        "text": "Has anyone out there documented testing \"Label in Name\" as far as having the visible label first in the accessible name vs end vs middle?",
+        "created_at": "2021-06-07 20:12:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1394405343241904131,
+        "text": "Question. If you are in the a11y field and you use a mac as your primary machine what is your setup for windows/JAWS? Parallels? Boot Camp? Something else?",
+        "created_at": "2021-05-17 21:31:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1384983991141507073,
+        "text": "Today I watched my wife flip a record around before putting it in the sleeve so that the A side was facing the front cover. Now I feel the deep need to do this to every record I own.",
+        "created_at": "2021-04-21 21:34:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1384503406413455360,
+        "text": "I don't trust people that use \"natural\" scrolling.",
+        "created_at": "2021-04-20 13:45:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1382299112767361027,
+        "text": "RT @NateSilver538: I disagree. Say there's a 1 in 100 chance someone acquires COVID because of a delayed vaccine (maybe conservative in the\u2026",
+        "created_at": "2021-04-14 11:46:05+00:00",
+        "public_metrics": {
+            "retweet_count": 605,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1381968804004065299,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1380123192715575296,
+        "text": "@davidofyork They give one after pretty much every shot you get.  I assume it's to help you get the pity factor.",
+        "created_at": "2021-04-08 11:39:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 15720002,
+        "referenced_tweets": {
+            "id": 1379750575751979012,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1377609401603874820,
+        "text": "@patrick_h_lauke Very different. He is smiling",
+        "created_at": "2021-04-01 13:10:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14972862,
+        "referenced_tweets": {
+            "id": 1377582356953976833,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1377222372353314818,
+        "text": "@stevefaulkner @heresjonnyjames @davidofyork For the record I don't own a banjo",
+        "created_at": "2021-03-31 11:32:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 14061059,
+        "referenced_tweets": {
+            "id": 1377164322925801475,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1370197953940443139,
+        "text": "Being new to Twitter I didn't know that I would start a cookie frenzy. I have triggered some code",
+        "created_at": "2021-03-12 02:20:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 826460968968392704,
+        "referenced_tweets": {
+            "id": 1370064249419145219,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1370064249419145219,
+        "text": "I've come to the very sad realization that I didn't buy enough girl scout cookies",
+        "created_at": "2021-03-11 17:29:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 4,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1321922711552204800,
+        "text": "@ashdownmusic What's the deal with no serial numbers on your new basses?  Is that a mistake on the first batch?  I have had ZERO luck trying to get this information from your company.",
+        "created_at": "2020-10-29 21:11:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 34617430,
+        "referenced_tweets": []
+    }
+]

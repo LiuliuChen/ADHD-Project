@@ -1,0 +1,1103 @@
+[
+    {
+        "tweet_id": 1507127466011373574,
+        "text": "@Zerglinator https://t.co/qjKAkuickb",
+        "created_at": "2022-03-24 22:49:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 873780536,
+        "referenced_tweets": {
+            "id": 1507127245000826902,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507127160418484231,
+        "text": "@Zerglinator *pulls the cord causing the box to fall on you* &gt;:)",
+        "created_at": "2022-03-24 22:48:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 873780536,
+        "referenced_tweets": {
+            "id": 1507126864128745472,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507126983112728576,
+        "text": "\u201cThat\u2019s not bait. That\u2019s a trap. In fact it has no bait under it\u201d shut the fuck up! Shut the fuck up",
+        "created_at": "2022-03-24 22:47:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506720685669986309,
+        "referenced_tweets": {
+            "id": 1507126657500516356,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507126657500516356,
+        "text": "And now we play the waiting game\u2026 https://t.co/1yFM5cgtvh",
+        "created_at": "2022-03-24 22:46:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506720685669986309,
+        "referenced_tweets": {
+            "id": 1507126498406412288,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507126498406412288,
+        "text": "Hehe\u2026 I am irreverent and sharp witted\u2026 perhaps I will post some bait to social media\u2026",
+        "created_at": "2022-03-24 22:45:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507124208354086915,
+        "text": "I finally finished following everyone back",
+        "created_at": "2022-03-24 22:36:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507071656652681226,
+        "text": "Man I am so tired I almost said something really weird as a reply",
+        "created_at": "2022-03-24 19:07:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507071281564471299,
+        "text": "RT @daia_img: https://t.co/xj4HvkdFPM",
+        "created_at": "2022-03-24 19:06:08+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507069789470179332,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068265876574212,
+        "text": "I had like 140 followers and it was amazing how few of them were active",
+        "created_at": "2022-03-24 18:54:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506720685669986309,
+        "referenced_tweets": {
+            "id": 1507068084137439235,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507068084137439235,
+        "text": "It\u2019s wild that it took me nine years to remake my account. I never thought I\u2019d do it",
+        "created_at": "2022-03-24 18:53:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507066253244051467,
+        "text": "RT @PerfectlyShots: https://t.co/gGRVRluvT2",
+        "created_at": "2022-03-24 18:46:09+00:00",
+        "public_metrics": {
+            "retweet_count": 2324,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507065817460097034,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507065678469206023,
+        "text": "Honestly maybe I have a pastebin or some shit with like very rudimentary info on it",
+        "created_at": "2022-03-24 18:43:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506720685669986309,
+        "referenced_tweets": {
+            "id": 1506980316182986753,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507061278040285184,
+        "text": "RT @carterforva: There was no lesser evil in the 2020 election.",
+        "created_at": "2022-03-24 18:26:23+00:00",
+        "public_metrics": {
+            "retweet_count": 67,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507035004894953483,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507059905458495490,
+        "text": "You may eat it at your own pace. The moment you press the button, all money is no longer in use. The money has been cleaned beforehand.",
+        "created_at": "2022-03-24 18:20:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506720685669986309,
+        "referenced_tweets": {
+            "id": 1507059225251491841,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507059225251491841,
+        "text": "There is a button in front of you. If you press it, money is abolished forever. However, you must manually eat every single note and coin of every single currency on the planet. Would you do it?",
+        "created_at": "2022-03-24 18:18:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507055327988133896,
+        "text": "Do you ever think about how stupid the concept of \u201crights\u201d is. Oh thank you for taking away all of my freedom and then slowly giving me back my very right to live after my peers bleed and die for decades",
+        "created_at": "2022-03-24 18:02:44+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507054311448227851,
+        "text": "States shouldn\u2019t be able to do fucking anything https://t.co/QsAYq8zaGt",
+        "created_at": "2022-03-24 17:58:42+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506444280008744968,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507043335801815043,
+        "text": "https://t.co/bFs4BLnNIR I never beat shining force 1 despite it being a huge childhood game\u2026 every time I try I fall off. I need to.",
+        "created_at": "2022-03-24 17:15:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507029657379647490,
+        "text": "RT @ultimate_etoile: https://t.co/PkQmfFmlAZ",
+        "created_at": "2022-03-24 16:20:44+00:00",
+        "public_metrics": {
+            "retweet_count": 1359,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506741260278984704,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507021102182191107,
+        "text": "Peak narcissist to viciously antagonize a whole group of people and then blame them for the consequences https://t.co/2N3vw0PI4O",
+        "created_at": "2022-03-24 15:46:44+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506973107709517828,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507019510435368966,
+        "text": "@crownofreborns Great podcast name",
+        "created_at": "2022-03-24 15:40:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 827540412340518912,
+        "referenced_tweets": {
+            "id": 1507018645792251907,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507007711291998223,
+        "text": "I think it\u2019s good that I remade, I\u2019m glad",
+        "created_at": "2022-03-24 14:53:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507003565889392654,
+        "text": "RT @makkusuoko: Skeb\u7d0d\u54c1\u3057\u307e\u3057\u305f\uff01\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u305f\uff01 https://t.co/M4SKzQTq7Y",
+        "created_at": "2022-03-24 14:37:03+00:00",
+        "public_metrics": {
+            "retweet_count": 141,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507002159174660100,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507001744332521474,
+        "text": "RT @bluedetonation: This is gonna be a full gbf fandom account instead of just a raid pub garbage can",
+        "created_at": "2022-03-24 14:29:49+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507001638996754436,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506994933164650502,
+        "text": "Porn bots argh",
+        "created_at": "2022-03-24 14:02:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506982140235423747,
+        "text": "RT @nxnxk0: https://t.co/U6ZlRrWYOb",
+        "created_at": "2022-03-24 13:11:55+00:00",
+        "public_metrics": {
+            "retweet_count": 524,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506554798287384577,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506980744538820617,
+        "text": "@pyrrho12 I think your sister is cool",
+        "created_at": "2022-03-24 13:06:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 151037059,
+        "referenced_tweets": {
+            "id": 1506974802237480961,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506980316182986753,
+        "text": "Inside of me there are two wolves. Both of them are autistic",
+        "created_at": "2022-03-24 13:04:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506720685669986309,
+        "referenced_tweets": {
+            "id": 1506980128181694474,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506980128181694474,
+        "text": "The autistic person in me wants me to make a listo/caard where I detail every little thing about myself. And the other autistic person in me knows those are awful and is begging me to retain my aura of mystery and spare myself from the mortifying ordeal of being known",
+        "created_at": "2022-03-24 13:03:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506978786373423104,
+        "text": "@Zerglinator Nashville hot chicken with the flamin hot dill pickle chip breading\u2026 and then the pickles are fried pickle chips, which are breaded in the same stuff",
+        "created_at": "2022-03-24 12:58:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 873780536,
+        "referenced_tweets": {
+            "id": 1506974920613507074,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506974886518001671,
+        "text": "Specifically chicken.",
+        "created_at": "2022-03-24 12:43:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506720685669986309,
+        "referenced_tweets": {
+            "id": 1506974605461884937,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506974663964045319,
+        "text": "RT @prettyspectrum: #\u591c\u98df15\u5206 \n\u7dd1\u5ddd\u3055\u3089 https://t.co/SJQDvfKetv",
+        "created_at": "2022-03-24 12:42:12+00:00",
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506708201798246400,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506974605461884937,
+        "text": "You know those flamin hot dill pickle chips? Imagine those used as breading for fried food. Foodies get on it",
+        "created_at": "2022-03-24 12:41:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506969571206606849,
+        "text": "@getter7seven I am legit terrified of the kool aid man. He keeps me up at night",
+        "created_at": "2022-03-24 12:21:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 97587660,
+        "referenced_tweets": {
+            "id": 1506965509220225034,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506957261314347020,
+        "text": "RT @moeruru8812: \u6c37\u5ddd\u7d17\u591c\u843d\u66f8\u304d\uff5e\uff01\n\u4eca\u5ea6\u306f\u3055\u3088\u3064\u3050\u63cf\u304d\u305f\u3044\u308f\u306d\uff01\uff01 https://t.co/1mwCxUkaW8",
+        "created_at": "2022-03-24 11:33:03+00:00",
+        "public_metrics": {
+            "retweet_count": 71,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489126433608069120,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506953002770444289,
+        "text": "Paladin\u2019s pants shittingly awesome outfit is an apology for Spartan\u2019s",
+        "created_at": "2022-03-24 11:16:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506951354669047812,
+        "text": "Pregnant\ud83e\udd76\n\nI was originally going to make a disgaea reference by joking about the infamous \u201cPregnant\u2764\ufe0f Healer\u201d personality option but I hit the wrong emoji. This is funnier",
+        "created_at": "2022-03-24 11:09:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506720685669986309,
+        "referenced_tweets": {
+            "id": 1506949926181343241,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506949926181343241,
+        "text": "What https://t.co/bocAps9L6E",
+        "created_at": "2022-03-24 11:03:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506948842536816648,
+        "text": "Paladin quest be like \u201cwhat if a child was dying from cancer and their last wish was to engage in cultural appropriation\u201d",
+        "created_at": "2022-03-24 10:59:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506947753141841925,
+        "text": "RT @exaltiora: 12684. https://t.co/HzctHZ9vGs",
+        "created_at": "2022-03-24 10:55:16+00:00",
+        "public_metrics": {
+            "retweet_count": 64,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506749040402345995,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506932925232828416,
+        "text": "We live in spain https://t.co/P9G8Rdx12Z",
+        "created_at": "2022-03-24 09:56:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506932449682636809,
+        "text": "Also I\u2019m fucking follow limited",
+        "created_at": "2022-03-24 09:54:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506720685669986309,
+        "referenced_tweets": {
+            "id": 1506932350038384644,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506932350038384644,
+        "text": "I\u2019m in that period of remaking where I\u2019m kinda in purgatory as I wait for more people to follow",
+        "created_at": "2022-03-24 09:54:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506908823889629191,
+        "text": "What\u2019s the opposite of a jumpscare. Something that surprises and makes you feel good",
+        "created_at": "2022-03-24 08:20:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506905505142349824,
+        "text": "8x exp jumpscare",
+        "created_at": "2022-03-24 08:07:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506903994966421505,
+        "text": "Just listening to music and feeling melancholy",
+        "created_at": "2022-03-24 08:01:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506898294563291141,
+        "text": "w by joe_aqq on #SoundCloud https://t.co/YESZtaW0Jk",
+        "created_at": "2022-03-24 07:38:44+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506887328547102724,
+        "text": "I need a sword cane. But for girls",
+        "created_at": "2022-03-24 06:55:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506885285703004161,
+        "text": "RT @sophaskins: Live your life in a way where, when you die and people are remembering your life, one of the first things that comes to peo\u2026",
+        "created_at": "2022-03-24 06:47:03+00:00",
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506737958975647748,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506877796496384003,
+        "text": "Wtf was I going to post",
+        "created_at": "2022-03-24 06:17:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506877614199300097,
+        "text": "Super Sonico about to destroy two whole cakes",
+        "created_at": "2022-03-24 06:16:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506877525904998402,
+        "text": "RT @hourlyfigure: \u2661 Sonico (Super Sonico) - Future \u2606 Waitress https://t.co/bYrVBEouYm",
+        "created_at": "2022-03-24 06:16:13+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506870736270475264,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506875042604457984,
+        "text": "RT @Falulu_IMG: https://t.co/UWHszubT2W",
+        "created_at": "2022-03-24 06:06:21+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506873501537681409,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506872242331869192,
+        "text": "First day of the rest of my fucking life I hope",
+        "created_at": "2022-03-24 05:55:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506802633817968652,
+        "text": "@crownofreborns I be asking myself this (I am alienated)",
+        "created_at": "2022-03-24 01:18:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 827540412340518912,
+        "referenced_tweets": {
+            "id": 1506802422194262019,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506801759670484999,
+        "text": "Mirai Momoyama hours",
+        "created_at": "2022-03-24 01:15:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506798650722291715,
+        "text": "RT @daia_img: https://t.co/isKuE3rpAv",
+        "created_at": "2022-03-24 01:02:47+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506798017306894341,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506794876016693248,
+        "text": "RT @binelu01: #\u30ed\u30c3\u30af\u30de\u30f3\u30a8\u30b0\u30bc21\u5468\u5e74 https://t.co/CHBl45VvnU",
+        "created_at": "2022-03-24 00:47:47+00:00",
+        "public_metrics": {
+            "retweet_count": 77,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505905413304119300,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506791316025487362,
+        "text": "Follow limit hit lol",
+        "created_at": "2022-03-24 00:33:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506789976012427265,
+        "text": "@King_Lycoris On iOS you have to go to the mobile website, apparently",
+        "created_at": "2022-03-24 00:28:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 53774873,
+        "referenced_tweets": {
+            "id": 1506789106138841091,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506783938748035072,
+        "text": "\u201cWe noticed a new login to your account from-\u201c I noticed you have no bitches",
+        "created_at": "2022-03-24 00:04:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506782999827951622,
+        "text": "Oh man I love women so much. I would love to see countless professionally shot and edited pictures of women on my timeline. (Searches \u201cwoman porn\u201d)",
+        "created_at": "2022-03-24 00:00:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506720685669986309,
+        "referenced_tweets": {
+            "id": 1506782237886451718,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506782237886451718,
+        "text": "I don\u2019t get it. Why do people call aesthetic images or images of objects/places porn.",
+        "created_at": "2022-03-23 23:57:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506720685669986309,
+        "referenced_tweets": {
+            "id": 1506781642488414208,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506781642488414208,
+        "text": "I wanted to quickly reach the twitter website to change the settings (as opposed to the app) so I searched \u201cporn\u201d \n\nThe only account I saw was something called \u201creddit space porn\u201d",
+        "created_at": "2022-03-23 23:55:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506779250329890820,
+        "text": "@Tenjin_Sh0gakk0 Why isn\u2019t it there\u2026 \ud83e\udd76\ud83e\udd76\ud83e\udd76\ud83e\udd76\ud83e\udd76",
+        "created_at": "2022-03-23 23:45:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1450371050,
+        "referenced_tweets": {
+            "id": 1506778836477911046,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506778310524735494,
+        "text": "Okay I literally have no idea how to turn off the sensitive content filter. I am a moron. Can someone help me",
+        "created_at": "2022-03-23 23:41:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506771602712764421,
+        "text": "There is a hidden reply on this for some reason. Also it\u2019s fixed",
+        "created_at": "2022-03-23 23:15:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506720685669986309,
+        "referenced_tweets": {
+            "id": 1506762451630628870,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506762451630628870,
+        "text": "Well my old account\u2019s following list was how I was following back so guess I am fucked unless I unlock\u2026",
+        "created_at": "2022-03-23 22:38:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506720685669986309,
+        "referenced_tweets": {
+            "id": 1506762043394826248,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506762043394826248,
+        "text": "Did I hit some kind of follow limit? I got unfollowed from my old account and now when I hit follow again nothing happens",
+        "created_at": "2022-03-23 22:37:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506720685669986309,
+        "referenced_tweets": {
+            "id": 1506761839094505480,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506761839094505480,
+        "text": "Wtf\u2026",
+        "created_at": "2022-03-23 22:36:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506743685450448912,
+        "text": "My fucking spine hurts",
+        "created_at": "2022-03-23 21:24:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506743274949812234,
+        "text": "Okay I am probably going to take a break from refollowing",
+        "created_at": "2022-03-23 21:22:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506740859445956609,
+        "text": "This is annoying. How fast is too fast.",
+        "created_at": "2022-03-23 21:13:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1506720685669986309,
+        "referenced_tweets": {
+            "id": 1506740080035180554,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506740080035180554,
+        "text": "Hey guess what fucking happened https://t.co/oT6P2qYlqB",
+        "created_at": "2022-03-23 21:10:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506737373446656007,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506737373446656007,
+        "text": "Really hope I\u2019m not refollowing people too fast I don\u2019t want twitter to go OH GOD SPAMBOT KILL IT KILL IT",
+        "created_at": "2022-03-23 20:59:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

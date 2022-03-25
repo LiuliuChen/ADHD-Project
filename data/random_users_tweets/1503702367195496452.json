@@ -1,0 +1,610 @@
+[
+    {
+        "tweet_id": 1507068077518704652,
+        "text": "hi #genshintwt im kai,, lumine is vv cute so i cosplayed her https://t.co/yVFcj1iqut",
+        "created_at": "2022-03-24 18:53:24+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 2,
+            "like_count": 14,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506950214007279622,
+        "text": "been debating if i wanna get into anitwt bc my younger sister said its kinda toxic xd",
+        "created_at": "2022-03-24 11:05:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506931271624441857,
+        "text": "RT @kaicoser: rlly love the lumine costume ,,, \n\nmy next cosplay will be \ud83d\udc30\ud83d\udc6f\u200d\u2640\ufe0f, \nguess who wahhaahha ;) https://t.co/8XHa79Blkh",
+        "created_at": "2022-03-24 09:49:47+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506804756370853888,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506804756370853888,
+        "text": "rlly love the lumine costume ,,, \n\nmy next cosplay will be \ud83d\udc30\ud83d\udc6f\u200d\u2640\ufe0f, \nguess who wahhaahha ;) https://t.co/8XHa79Blkh",
+        "created_at": "2022-03-24 01:27:03+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506631051887538176,
+        "text": "RT @kaicoser: lumine cosplay\n\n #\u539f\u795e #GenshinImpact https://t.co/M92dVa7SGk",
+        "created_at": "2022-03-23 13:56:49+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506536624427270144,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506550612288507905,
+        "text": "AAAAAA OMG ;-----; https://t.co/Kn7xWEErNF",
+        "created_at": "2022-03-23 08:37:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506546288958967814,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506550573382127618,
+        "text": "RT @Bi_yen_: Abyss Princess\n#\u539f\u795e #\u86cd #GenshinImpact #Lumine #\uc6d0\uc2e0 #\ub8e8\ubbf8\ub124 #\uc5ec\ud589\uc790 https://t.co/vr47mEAOJi",
+        "created_at": "2022-03-23 08:37:01+00:00",
+        "public_metrics": {
+            "retweet_count": 6629,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506546288958967814,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506536624427270144,
+        "text": "lumine cosplay\n\n #\u539f\u795e #GenshinImpact https://t.co/M92dVa7SGk",
+        "created_at": "2022-03-23 07:41:36+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506221784336846848,
+        "text": "RT @kaicoser: #chilumi cosplay collab for my fav ship :\"&gt; https://t.co/KB0gSdkdKb",
+        "created_at": "2022-03-22 10:50:32+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505889585892818944,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506159799700172801,
+        "text": "@Aaahh_yana tenchu hehe \ud83d\udc97\ud83d\udc97",
+        "created_at": "2022-03-22 06:44:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1258598234,
+        "referenced_tweets": {
+            "id": 1506159379388592129,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506158926668394498,
+        "text": "@Aaahh_yana @renonum ooo since na-deliver zone then u can say na \"srry i saw this late!! i have a group na sorry :(\"",
+        "created_at": "2022-03-22 06:40:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1258598234,
+        "referenced_tweets": {
+            "id": 1506158735835627520,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506154225029763072,
+        "text": "@renonum @Aaahh_yana what justin said ^",
+        "created_at": "2022-03-22 06:22:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 785045098685792256,
+        "referenced_tweets": {
+            "id": 1506116161519632393,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505889598240862213,
+        "text": "RT @m_imikan: i mean i tried but ??? why do i look awkward \ud83e\udd79 \n\n\u3010\u3000#\u546a\u8853\u5efb\u6226 \uff0f #\u91d8\u5d0e\u91ce\u8594\u8587\u3000\u3011\n#JujutsuKaisen \u2022 #KugisakiNobara\n  \n#\u30b3\u30b9\u30d7\u30ec #cosplay\nhttps:\u2026",
+        "created_at": "2022-03-21 12:50:32+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505887944271298561,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505889585892818944,
+        "text": "#chilumi cosplay collab for my fav ship :\"&gt; https://t.co/KB0gSdkdKb",
+        "created_at": "2022-03-21 12:50:30+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 25,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505746347399729154,
+        "text": "RT @ValorantUpdated: This Viper dress drawings keep on getting better.\n\nhoweenie On Insta! | #VALORANT https://t.co/DPnFZBzIUS",
+        "created_at": "2022-03-21 03:21:19+00:00",
+        "public_metrics": {
+            "retweet_count": 1540,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505615111645540358,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505744044953305094,
+        "text": "AAAAAAAAA omg i want to cosplay this https://t.co/uYoEiAIXQZ",
+        "created_at": "2022-03-21 03:12:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505693908906708992,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505691109468815360,
+        "text": "school is back pain but hey backlogs of cosplay i can post here HAHAHAAHA",
+        "created_at": "2022-03-20 23:41:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505568611800612865,
+        "text": "@Aaahh_yana check mo si kentaro sakaguchi as well \ud83d\udc40\ud83d\udc40",
+        "created_at": "2022-03-20 15:35:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1258598234,
+        "referenced_tweets": {
+            "id": 1505551882776842245,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505568526312312832,
+        "text": "RT @m_imikan: \u3010\u3000#\u546a\u8853\u5efb\u6226 \uff0f #\u91d8\u5d0e\u91ce\u8594\u8587\u3000\u3011\n#JujutsuKaisen \u2022 #KugisakiNobara\n  \n#\u30b3\u30b9\u30d7\u30ec #cosplay\nhttps://t.co/Dk2Iy6sdnn https://t.co/wKc7xfUFA5",
+        "created_at": "2022-03-20 15:34:43+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505562564423430145,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505400258343612416,
+        "text": "reze\n\n#\u30c1\u30a7\u30f3\u30bd\u30fc\u30de\u30f3 #cosplay https://t.co/YYTB2Asdsh",
+        "created_at": "2022-03-20 04:26:05+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 11,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505126761818124292,
+        "text": "RT @kaicoser: Lumine \ud83d\udc98\ud83d\udc98 \n\n#GenshinImpact #genshincosplay https://t.co/HDJquJSRp5",
+        "created_at": "2022-03-19 10:19:18+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504680978434097154,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504815553420021761,
+        "text": "excited to post the chilumiii collab heheh",
+        "created_at": "2022-03-18 13:42:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504707331426496513,
+        "text": "@kikuhikko ikr \ud83d\ude2d\ud83d\ude2d summer ded",
+        "created_at": "2022-03-18 06:32:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1249353458580250629,
+        "referenced_tweets": {
+            "id": 1504698725297364999,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504697531833679874,
+        "text": "@mortal_dust UAHuahahahahHAHAHAHAHAHA ik u lason belca a lot \ud83d\ude07",
+        "created_at": "2022-03-18 05:53:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 952756483334184961,
+        "referenced_tweets": {
+            "id": 1504697282624516099,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504695627388952580,
+        "text": "@mortal_dust thank u mr. lason expert (*\u2267\u2200\u2266*) HAHAHAH",
+        "created_at": "2022-03-18 05:46:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 952756483334184961,
+        "referenced_tweets": {
+            "id": 1504690163556904960,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504694862658281474,
+        "text": "@m_imikan aaa thank u bb \ud83e\udd7a\ud83d\udc97",
+        "created_at": "2022-03-18 05:43:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1447885904853422082,
+        "referenced_tweets": {
+            "id": 1504681863134150656,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504680978434097154,
+        "text": "Lumine \ud83d\udc98\ud83d\udc98 \n\n#GenshinImpact #genshincosplay https://t.co/HDJquJSRp5",
+        "created_at": "2022-03-18 04:47:55+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 1,
+            "like_count": 24,
+            "quote_count": 2
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504680396075978752,
+        "text": "RT @m_imikan: \u3010\u3000#\u30c1\u30a7\u30fc\u30f3\u30bd\u30fc\u30de\u30f3 \uff0f #\u30de\u30ad\u30de\u3000\u3011\n\u3000\u3000#ChainsawMan \u2022 #Makima\n\n#\u30b3\u30b9\u30d7\u30ec #cosplay \n\nhttps://t.co/Dk2Iy6sdnn https://t.co/6aAlapY4AC",
+        "created_at": "2022-03-18 04:45:36+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504667167182053378,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504362146322595843,
+        "text": "sneak peak \ud83d\udc40\ud83d\udc40 https://t.co/wvO2QjCZQN",
+        "created_at": "2022-03-17 07:41:00+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504296237067280386,
+        "text": "lumine's cos might be my fav bc of how well it fits me HAHAHAH and how easy it is to put on",
+        "created_at": "2022-03-17 03:19:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504288539928047616,
+        "text": "gmorning ,, prolly gna test cosplay lumine today \ud83d\udc40 https://t.co/m5d2bx8nzv",
+        "created_at": "2022-03-17 02:48:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504136150013071360,
+        "text": "YAY twitter doesnt think im a bot \ud83e\udd29\ni can post freely now wahuhu",
+        "created_at": "2022-03-16 16:42:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504128306865905669,
+        "text": "RT @kaicoser: cat maid at ur service \ud83e\udd20\ud83d\udc4d\n\ndumping my older pics b4 recent cosplays bc im still shad0wW bann3d ,, new acc things https://t.co\u2026",
+        "created_at": "2022-03-16 16:11:48+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504059525539962880,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504082604806610949,
+        "text": "RT @belca_mori: happy white day everyone!\nhope you\u2019ve had a great day today ^^\n\ntags: \n#GenshinImpact #genshinimpactcosplay #kaeyaalberich\u2026",
+        "created_at": "2022-03-16 13:10:12+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503345222667083781,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504059525539962880,
+        "text": "cat maid at ur service \ud83e\udd20\ud83d\udc4d\n\ndumping my older pics b4 recent cosplays bc im still shad0wW bann3d ,, new acc things https://t.co/2uD91c8uds",
+        "created_at": "2022-03-16 11:38:29+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504002174061146119,
+        "text": "RT @margoescos: pov: nag on cam kaklase mo para lang magpapansin kahit di naman nakikinig https://t.co/wCElIK4N5g",
+        "created_at": "2022-03-16 07:50:35+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503972986906628097,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503797329794842624,
+        "text": "plz twitter im not a bot i swear ,, un-shadowban me (when u search my @ theres no explicit results huhu)",
+        "created_at": "2022-03-15 18:16:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503761939972902915,
+        "text": "RT @kaicoser: \u30ec\u30bc -- \u30c1\u30a7\u30f3\u30bd\u30fc\u30de\u30f3 \n\n#chainsawmancosplay #\u30b3\u30b9\u30d7\u30ec #csm https://t.co/7kRsWujK5Z",
+        "created_at": "2022-03-15 15:55:59+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503706897123545093,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503728290993180673,
+        "text": "RT @m_imikan: \u3010\u3000#\u539f\u795e \uff0f #\u96f7\u96fb\u5c06\u8ecd \u3000\u3011\n\u3000#GenshinImpact \u2022 #RaidenShogun\n\ni just Love how this prequel app makes my cosplay look more legit \ud83e\udd23\n\n#\u30b3\u30b9\u30d7\u30ec\u2026",
+        "created_at": "2022-03-15 13:42:17+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503727221378215938,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503712379426979840,
+        "text": "dude viper is so fukin hot here,, i will definitely cosplay this in the future https://t.co/8hgSLQXHiz",
+        "created_at": "2022-03-15 12:39:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503376363759230980,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1503706897123545093,
+        "text": "\u30ec\u30bc -- \u30c1\u30a7\u30f3\u30bd\u30fc\u30de\u30f3 \n\n#chainsawmancosplay #\u30b3\u30b9\u30d7\u30ec #csm https://t.co/7kRsWujK5Z",
+        "created_at": "2022-03-15 12:17:16+00:00",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 18,
+            "quote_count": 2
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

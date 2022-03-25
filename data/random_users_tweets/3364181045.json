@@ -1,0 +1,1560 @@
+[
+    {
+        "tweet_id": 1507068990736240654,
+        "text": "RT @cslewispt: Nada acontece duas vezes da mesma maneira.\n\nC.S. Lewis",
+        "created_at": "2022-03-24 18:57:02+00:00",
+        "public_metrics": {
+            "retweet_count": 169,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507044673185062928,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068069612503042,
+        "text": "@Denver123416 @FutSheriff @Criminal__x Maybe, i use guendonzi a Box to Box",
+        "created_at": "2022-03-24 18:53:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1490017486183571460,
+        "referenced_tweets": {
+            "id": 1507038009950195715,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1507000652295139328,
+        "text": "@FutSheriff @Criminal__x I have 300k \nTradeble: guendonzi, mbappe e Gelson https://t.co/6eC5NIivLe",
+        "created_at": "2022-03-24 14:25:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1471141746369302535,
+        "referenced_tweets": {
+            "id": 1506988664517275651,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506973886910541828,
+        "text": "Dicas? Gelson, Mbappe e guendo negoci\u00e1veis \nTenho uns 300k em caixa https://t.co/MKYCTYn59P",
+        "created_at": "2022-03-24 12:39:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506848528466862081,
+        "text": "RT @Gremio: UM CAPIT\u00c3O, UM L\u00cdDER, UM MITO.\nGEROMEL https://t.co/khPrUjFWhs",
+        "created_at": "2022-03-24 04:20:59+00:00",
+        "public_metrics": {
+            "retweet_count": 2927,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506844238461517826,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506838874676412417,
+        "text": "RT @SoccerGremio: https://t.co/ba8OL5TlbJ",
+        "created_at": "2022-03-24 03:42:38+00:00",
+        "public_metrics": {
+            "retweet_count": 551,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506836962069688322,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506834064220856321,
+        "text": "RT @Gremio: ESTAR NA FINAL PARA DISPUTAR O PENTACAMPEONATO, SIM, AFETA O GR\u00caMIO! Enfrentaremos o Ypiranga l\u00e1 em Erechim na primeira partida\u2026",
+        "created_at": "2022-03-24 03:23:31+00:00",
+        "public_metrics": {
+            "retweet_count": 2012,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506831543985229828,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506586511764041734,
+        "text": "RT @prisraelterra: No meio da sua bagun\u00e7a, Deus ainda v\u00ea o seu melhor.",
+        "created_at": "2022-03-23 10:59:50+00:00",
+        "public_metrics": {
+            "retweet_count": 197,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506429091825790977,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506077353671380994,
+        "text": "@FutSheriff My pp https://t.co/JAnkDrZvLq",
+        "created_at": "2022-03-22 01:16:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1471141746369302535,
+        "referenced_tweets": {
+            "id": 1506029871625117699,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506056882913435650,
+        "text": "https://t.co/qZBxna8nJl",
+        "created_at": "2022-03-21 23:55:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504894603434070019,
+        "text": "@spartanfut1 @FutSheriff Better than guendonzi?",
+        "created_at": "2022-03-18 18:56:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1136298303333777408,
+        "referenced_tweets": {
+            "id": 1504893098467414020,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503927429731082241,
+        "text": "@EAFIFADirect Sad... \nQuem tirou moments \u00e9 recompensado...\nTenso isso ai",
+        "created_at": "2022-03-16 02:53:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1182444574167334913,
+        "referenced_tweets": {
+            "id": 1503904752614084610,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503564877499097088,
+        "text": "@EAFIFADirect Enquanto muitos tiraram os Prime Moments no player Pick ou no Garantia Prime\nQuem fez antes n\u00e3o vai ser recompensado? Tenso ein",
+        "created_at": "2022-03-15 02:52:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1182444574167334913,
+        "referenced_tweets": {
+            "id": 1502806803347697665,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502689699361693697,
+        "text": "@AD0LFZ \u00c9 pra sair um S\u00e9rgio Ramos com 5 de drible",
+        "created_at": "2022-03-12 16:55:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 234398871,
+        "referenced_tweets": {
+            "id": 1502688472108343297,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502432947923820546,
+        "text": "RT @FutSheriff: \ud83d\udea812,000 FIFA POINTS GIVEAWAY!\n\n\ud83e\udd1cANOTHER ONE!!!!!\n\n\ud83d\udd25\ud83d\udd25 Dybala + Paqueta + Dani Alves and... PIM ICON BATCH 2!!!!!\n\nTo enter:\u2026",
+        "created_at": "2022-03-11 23:55:03+00:00",
+        "public_metrics": {
+            "retweet_count": 8054,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502418594545733642,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502326508815269891,
+        "text": "RT @FutSheriff: \ud83d\udea812,000 FIFA POINTS GIVEAWAY!\n\n\ud83d\udd25\ud83d\udd25 FUT BIRTHDAY TEAM 2\ud83d\udc40\ud83d\udc40\n\nTo enter:\n- Retweet \ud83d\udd04\n- Follow me + @MysteryFootba11 \n\nSimple as t\u2026",
+        "created_at": "2022-03-11 16:52:06+00:00",
+        "public_metrics": {
+            "retweet_count": 8612,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502047768864604164,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502279119115108352,
+        "text": "RT @blognaointendo: Em mais um ato de hero\u00edsmo, o Batman apresenta o grunge para os jovens https://t.co/VwELy2YpCm",
+        "created_at": "2022-03-11 13:43:47+00:00",
+        "public_metrics": {
+            "retweet_count": 46,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502253000248733702,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501642809522196488,
+        "text": "@elangaroad @FutSheriff Henry",
+        "created_at": "2022-03-09 19:35:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 952547995106426880,
+        "referenced_tweets": {
+            "id": 1501635909988413442,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501524793648365574,
+        "text": "RT @jairbolsonaro: - N\u00e3o assisto BBB22. Muito ruim. Boa noite a todos! \ud83d\udc4d",
+        "created_at": "2022-03-09 11:46:22+00:00",
+        "public_metrics": {
+            "retweet_count": 18378,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501446412613169155,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497003434729484288,
+        "text": "@AD0LFZ Meu irm\u00e3o \u00e9 o escolhido, sem FP o cara tirou o Lewa Toty, Ferran PD Future stars, Renat\u00e3o Champions, v\u00e1rias forragens altas pra fazer o Varane, Puskas no SBC de icon e alguns Heroes que j\u00e1 est\u00e3o ultrapassados https://t.co/2vB7NfzdFH",
+        "created_at": "2022-02-25 00:20:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 234398871,
+        "referenced_tweets": {
+            "id": 1497001610198851584,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496563314226302982,
+        "text": "RT @pecadoreformado: Satan\u00e1s particularmente vai atr\u00e1s de beb\u00eas. Ele o fez nos dias de Mois\u00e9s, ele o fez nos dias de Jesus. \n\nJohn Piper",
+        "created_at": "2022-02-23 19:11:13+00:00",
+        "public_metrics": {
+            "retweet_count": 520,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496245373953884174,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496080479543513096,
+        "text": "RT @anarockoficial: A m\u00eddia trabalha pra voc\u00ea transar c/ geral.Pega todo mundo, de qlqr jeito.Seja um pet na coleira do deus \u201csexo\u201d.\nSem li\u2026",
+        "created_at": "2022-02-22 11:12:36+00:00",
+        "public_metrics": {
+            "retweet_count": 643,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495923853188603904,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496080384060268548,
+        "text": "RT @cslewispt: H\u00e1 um c\u00e9u aberto dentro de um quarto fechado quando come\u00e7o a orar. \n\nC.S. Lewis",
+        "created_at": "2022-02-22 11:12:14+00:00",
+        "public_metrics": {
+            "retweet_count": 978,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495929894563373060,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491117122529140738,
+        "text": "RT @pedromcp: Na B\u00edblia o amor \u00e9 o princ\u00edpio superior da vida, acima da liberdade (1 Cor\u00edntios 8). Essa \u00e9 a minha ideologia.",
+        "created_at": "2022-02-08 18:30:00+00:00",
+        "public_metrics": {
+            "retweet_count": 110,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491043014898499587,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490702017567805446,
+        "text": "RT @cslewispt: H\u00e1 coisas muito, muito melhores \u00e0 frente do que qualquer uma que deixamos para tr\u00e1s. \n\nCS Lewis",
+        "created_at": "2022-02-07 15:00:31+00:00",
+        "public_metrics": {
+            "retweet_count": 370,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1470842024467206145,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483167583113207810,
+        "text": "RT @cslewispt: \"Eu olhei a tristeza nos olhos e sorri.\"\n\n17 de Janeiro | Os Arrais",
+        "created_at": "2022-01-17 20:01:22+00:00",
+        "public_metrics": {
+            "retweet_count": 387,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483128665844109315,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481632523478134788,
+        "text": "RT @HobbitUm: \u201cFim? N\u00e3o, a jornada n\u00e3o acaba aqui. A morte \u00e9 s\u00f3 mais um caminho\u2026 Um que todos temos que tomar. A cortina de chuva cinzenta\u2026",
+        "created_at": "2022-01-13 14:21:35+00:00",
+        "public_metrics": {
+            "retweet_count": 37,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1481595869707255808,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481622468603387905,
+        "text": "RT @SoccerGremio: Hoje o goleiro do mil\u00eanio, do penta, do tri, aquele que honrou o manto tricolor, est\u00e1 completando 35 anos, s\u00f3 agradecer p\u2026",
+        "created_at": "2022-01-13 13:41:38+00:00",
+        "public_metrics": {
+            "retweet_count": 131,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1481588178993696769,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479860963138584578,
+        "text": "@shopee_br https://t.co/S0rRO0Hy9D",
+        "created_at": "2022-01-08 17:02:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1364263801152036864,
+        "referenced_tweets": {
+            "id": 1479860450523242502,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479860903013146626,
+        "text": "@shopee_br https://t.co/KwbF9nCYgn",
+        "created_at": "2022-01-08 17:01:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1364263801152036864,
+        "referenced_tweets": {
+            "id": 1479860450523242502,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479254534761459717,
+        "text": "RT @alvesGFBPA: Sua imunidade se tomar a vacina. / Sua imunidade se n\u00e3o tomar a vacina. https://t.co/dE6PF4aeIi",
+        "created_at": "2022-01-07 00:52:18+00:00",
+        "public_metrics": {
+            "retweet_count": 233,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479114450653249542,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478945141792591873,
+        "text": "RT @pedrocertezas: a estrada chama-se ret\u00edculo endoplasm\u00e1tico",
+        "created_at": "2022-01-06 04:22:53+00:00",
+        "public_metrics": {
+            "retweet_count": 569,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478832996249739265,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478942491357364229,
+        "text": "RT @victorfontana: expectativas... https://t.co/U8iUqmbowE",
+        "created_at": "2022-01-06 04:12:22+00:00",
+        "public_metrics": {
+            "retweet_count": 52,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478781407535243264,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477409817480376327,
+        "text": "RT @HobbitUm: \u201cTudo o que temos de decidir \u00e9 o que fazer com o tempo que nos \u00e9 dado.\u201d\n\nGandalf, o Cinzento",
+        "created_at": "2022-01-01 22:42:04+00:00",
+        "public_metrics": {
+            "retweet_count": 361,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1477270305001385988,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477409613549084678,
+        "text": "RT @cslewispt: Existem coisas melhores adiante do que qualquer outra que deixamos para tr\u00e1s.\n\nC. S. Lewis",
+        "created_at": "2022-01-01 22:41:15+00:00",
+        "public_metrics": {
+            "retweet_count": 494,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1477256026529452032,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1475872140733857798,
+        "text": "@anarockoficial Meu filme favorito (considerando de os tr\u00eas s\u00e3o um)",
+        "created_at": "2021-12-28 16:51:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 870122401627086848,
+        "referenced_tweets": {
+            "id": 1475603597610127362,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475865619946000390,
+        "text": "@sddescontos Consegui o meu https://t.co/Ripeo3RalV",
+        "created_at": "2021-12-28 16:25:58+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1341149604633600006,
+        "referenced_tweets": {
+            "id": 1475860629185613837,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475863808400834564,
+        "text": "@shopee_br Vlw Shopee, presente de final de ano https://t.co/8POrzg6NFy",
+        "created_at": "2021-12-28 16:18:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1364263801152036864,
+        "referenced_tweets": {
+            "id": 1475859083148283904,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475863106790297604,
+        "text": "@shopee_br Consegui o meu",
+        "created_at": "2021-12-28 16:15:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1364263801152036864,
+        "referenced_tweets": {
+            "id": 1475862924686151691,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474851741350961152,
+        "text": "RT @angelobazzo: Foi nessa parte q @s_bazzo entrou na sala e eu estava chorando muito - \u201co que aconteceu?\u201d \u201c@victorfontana est\u00e1 pregando ev\u2026",
+        "created_at": "2021-12-25 21:17:11+00:00",
+        "public_metrics": {
+            "retweet_count": 33,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474789271542374405,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1474686550646697985,
+        "text": "RT @cslewispt: \"Sim\", disse a Rainha Lucy. \"Em nosso mundo tamb\u00e9m, em um est\u00e1bulo, certa vez, tinha algo dentro dele que era maior do que t\u2026",
+        "created_at": "2021-12-25 10:20:46+00:00",
+        "public_metrics": {
+            "retweet_count": 577,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474575633359327235,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1474557739703705606,
+        "text": "RT @doisdedosdeteo: O eterno teve in\u00edcio\nO impass\u00edvel chorou\nO rico empobreceu \nO vigia dormiu\nO verbo balbuciou\nA chama alvoreceu \nO onipo\u2026",
+        "created_at": "2021-12-25 01:48:55+00:00",
+        "public_metrics": {
+            "retweet_count": 447,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474543005034061824,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1474484942960742416,
+        "text": "RT @Gremiodadepre_: O Gr\u00eamio me deprimiu tanto em 2021 que nem t\u00f4 animado pro Natal e Ano Novo",
+        "created_at": "2021-12-24 20:59:39+00:00",
+        "public_metrics": {
+            "retweet_count": 191,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474387981393870852,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473282409751879684,
+        "text": "@shopee_br 40/80",
+        "created_at": "2021-12-21 13:21:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1364263801152036864,
+        "referenced_tweets": {
+            "id": 1473282240796893188,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1471937338104242184,
+        "text": "RT @doisdedosdeteo: O livro do Apocalipse n\u00e3o diz que o Anti-Cristo vai cobrar chip ou vacina, diz que ele vai cobrar ADORA\u00c7\u00c3O.\n\nOu seja: e\u2026",
+        "created_at": "2021-12-17 20:16:23+00:00",
+        "public_metrics": {
+            "retweet_count": 790,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1471862466023985154,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1471205534560886785,
+        "text": "Olhando os E-mails antigos me veio uma onda de nostalgia do IFSC, das aulas da Professora @jessfranca, bons tempos https://t.co/IRPtIgukyK",
+        "created_at": "2021-12-15 19:48:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1470033573059391489,
+        "text": "@shopee_br 50/100",
+        "created_at": "2021-12-12 14:11:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1364263801152036864,
+        "referenced_tweets": {
+            "id": 1470030678448226309,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469621961231945735,
+        "text": "RT @Gremiodadepre_: J\u00e1 me curei\n\nEstou pronto para enfrentar o Sampaio Corr\u00eaa numa Ter\u00e7a-Feira \u00e0s 22h da noite",
+        "created_at": "2021-12-11 10:55:54+00:00",
+        "public_metrics": {
+            "retweet_count": 260,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1469478999332167687,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1469358889808416777,
+        "text": "RT @dialogoscurtos: https://t.co/xc6kpX3oQE",
+        "created_at": "2021-12-10 17:30:33+00:00",
+        "public_metrics": {
+            "retweet_count": 8863,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1469333923218006021,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1469129557118750728,
+        "text": "@desimpedidos Perdemo",
+        "created_at": "2021-12-10 02:19:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1524689467,
+        "referenced_tweets": {
+            "id": 1469129440164827151,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469049682588573703,
+        "text": "RT @shopee_br: \ud83d\ude43 hoje eu vou lan\u00e7ar um cupom e o nome dele \u00e9 algo que voc\u00eas passaram a semana inteira falando que eu era aqui no site \ud83d\ude43",
+        "created_at": "2021-12-09 21:01:52+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1469049211421351947,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1468936549966491653,
+        "text": "RT @oatila: \u201cAgora fala que precisa de terceira dose, amanh\u00e3 vai inventar que precisa de quarta, onde isso vai parar?\u201d\nQue bom, n\u00e9? J\u00e1 pens\u2026",
+        "created_at": "2021-12-09 13:32:19+00:00",
+        "public_metrics": {
+            "retweet_count": 1970,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1468728407630487556,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1468935997929017346,
+        "text": "RT @paaolagrc: Na Austr\u00e1lia o Gr\u00eamio ja \u00e9 s\u00e9rie A 2022",
+        "created_at": "2021-12-09 13:30:08+00:00",
+        "public_metrics": {
+            "retweet_count": 56,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1468773882597462021,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1468921563751796741,
+        "text": "@sddescontos Gospel",
+        "created_at": "2021-12-09 12:32:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1341149604633600006,
+        "referenced_tweets": {
+            "id": 1468921398198517760,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1467553290426662918,
+        "text": "@shopee_br Seu amigo emanuelmadureirabranco solicitou um item de voc\u00ea! Clique para enviar o item! https://t.co/ebQBIOgL7i\nProcuro Bolo, tenho escorregador e balan\u00e7o",
+        "created_at": "2021-12-05 17:55:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1364263801152036864,
+        "referenced_tweets": {
+            "id": 1467539264586108936,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466765241505746950,
+        "text": "RT @GremioContext: https://t.co/Aoli4CDXsk",
+        "created_at": "2021-12-03 13:44:19+00:00",
+        "public_metrics": {
+            "retweet_count": 537,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1466572384291504132,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1466096375976837146,
+        "text": "@doisdedosdeteo @jovemnerd @azaghal Tamb\u00e9m aqui https://t.co/a14pDr1WEX",
+        "created_at": "2021-12-01 17:26:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2891661959,
+        "referenced_tweets": {
+            "id": 1466066010197348356,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1450811028426694662,
+        "text": "@BethesdaBrasil @XGRaziel Rid\u00edculo, descaso com o consumidor Brasileiro",
+        "created_at": "2021-10-20 13:07:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 843588483243540481,
+        "referenced_tweets": {
+            "id": 1450141372296617989,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1445130765398945795,
+        "text": "RT @Oledobrasil: ATEN\u00c7\u00c3O! \n\nInstagram, Facebook, WhatsApp e Cruzeiro ainda n\u00e3o voltaram!",
+        "created_at": "2021-10-04 20:56:38+00:00",
+        "public_metrics": {
+            "retweet_count": 485,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1445126816574881802,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1445065192816222212,
+        "text": "@doisdedosdeteo V\u00ea se n\u00e3o est\u00e1 desativado no menu de quando se pressiona o bot\u00e3o PS, l\u00e1 tem uma op\u00e7\u00e3o pra desativar os microfones\nAproveitando que vai jogar,recomendo um mundo copia de Life is Strange",
+        "created_at": "2021-10-04 16:36:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2891661959,
+        "referenced_tweets": {
+            "id": 1444851807772098560,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1443539183654608903,
+        "text": "@Encanadorchapad isto \u00e9 Efootball https://t.co/9XsX3gI0dN",
+        "created_at": "2021-09-30 11:32:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 45073836,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1429803147359395841,
+        "text": "@AD0LFZ F\u00e1cil, \u00e9 mais easy que jogar FIFA",
+        "created_at": "2021-08-23 13:50:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 234398871,
+        "referenced_tweets": {
+            "id": 1427827735762817025,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1426566796031758340,
+        "text": "https://t.co/eyHUF8VZ9T",
+        "created_at": "2021-08-14 15:30:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3364181045,
+        "referenced_tweets": {
+            "id": 1426566576245968901,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1426566576245968901,
+        "text": "@Nerdstore os pedidos chegaram certinhos, mas pelo visto n\u00e3o teve o cuidado na entrega, pois a caixa chegou amassada... Tomara que isso n\u00e3o se repita https://t.co/sNRIShIJLN",
+        "created_at": "2021-08-14 15:29:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 27081237,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1424323322255380482,
+        "text": "RT @fcbarcelona_br: \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\n\n\ud83d\udc51 Todos os aplausos do mundo para Leo Messi. https://t.co/XGYXOd99TM",
+        "created_at": "2021-08-08 10:55:17+00:00",
+        "public_metrics": {
+            "retweet_count": 3365,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1424315482111348740,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1423661893978402819,
+        "text": "@Nerdstore https://t.co/pWEPXGmFoL",
+        "created_at": "2021-08-06 15:07:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 27081237,
+        "referenced_tweets": {
+            "id": 1423652693172621319,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1423661570140291076,
+        "text": "@Nerdstore https://t.co/yEaAaqZVAs",
+        "created_at": "2021-08-06 15:05:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 27081237,
+        "referenced_tweets": {
+            "id": 1423652693172621319,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1423660817724096516,
+        "text": "@Nerdstore Kd?",
+        "created_at": "2021-08-06 15:02:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 27081237,
+        "referenced_tweets": {
+            "id": 1423652693172621319,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1422929202299478016,
+        "text": "@Nerdstore consegui https://t.co/VU280zeS69",
+        "created_at": "2021-08-04 14:35:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 27081237,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1422922285913157637,
+        "text": "@Nerdstore Site caiu, sempre assim",
+        "created_at": "2021-08-04 14:08:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 27081237,
+        "referenced_tweets": {
+            "id": 1422912797994799106,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1414404084912754698,
+        "text": "Ajudando na livezinha\n@AD0LFZ https://t.co/pwS5fhSNl7",
+        "created_at": "2021-07-12 01:59:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1395381775862542340,
+        "text": "RT @douglascosta: \u26a1\ufe0f \u2611\ufe0f",
+        "created_at": "2021-05-20 14:11:54+00:00",
+        "public_metrics": {
+            "retweet_count": 4237,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1395375389216813056,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1357157398918684672,
+        "text": "RT @naosalvo: Seria IMPOSS\u00cdVEL ter um tweet com o mesmo n\u00famero de RTs, coment\u00e1rios e Likes???! Dizem os sem f\u00e9 que sim. Veremos. https://t.\u2026",
+        "created_at": "2021-02-04 02:41:53+00:00",
+        "public_metrics": {
+            "retweet_count": 1773,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1357018667725320200,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1351172338990067712,
+        "text": "@AD0LFZ Tu \u00e9 colorado, mas \u00e9 bacana \nUm salve de um gremista",
+        "created_at": "2021-01-18 14:19:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 234398871,
+        "referenced_tweets": {
+            "id": 1351170245097086978,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1346583593934598147,
+        "text": "@Encanadorchapad \nDepois de algumas d\u00e9cadas tendo abandonado o FIFA, joguei uma partida despretensiosa com meu irm\u00e3o, e essa bizarrice acontece\nEle n\u00e3o estava impedido, o gol foi legal... https://t.co/PhGKAoNSLd",
+        "created_at": "2021-01-05 22:25:21+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 45073836,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1339052976640495618,
+        "text": "#PyerreDay https://t.co/2MNWdIKjIh",
+        "created_at": "2020-12-16 03:41:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1333902420120842240,
+        "text": "@YouTubeBrasil #ajudeozangado",
+        "created_at": "2020-12-01 22:34:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 377627357,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1333902231024914433,
+        "text": "RT @zgraca: #CanaldoZangado vamos ajudar o Zangado que teve o canal Hackeado . Por favor ! Isso \u00e9 urgente me ajude. Dando Rt",
+        "created_at": "2020-12-01 22:34:09+00:00",
+        "public_metrics": {
+            "retweet_count": 556,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1333900114998534145,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1331620141365342217,
+        "text": "#NewProfilePic https://t.co/vUR0rw163h",
+        "created_at": "2020-11-25 15:25:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1308967750174375936,
+        "text": "@AD0LFZ Chora n\u00e3o adolfera",
+        "created_at": "2020-09-24 03:13:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 234398871,
+        "referenced_tweets": {
+            "id": 1308963886754914305,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1295922556692725760,
+        "text": "RT @iberethenorio: Tive que gastar uns neur\u00f4nios pra acreditar que estavam parados :-)",
+        "created_at": "2020-08-19 03:16:29+00:00",
+        "public_metrics": {
+            "retweet_count": 177,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1295868116929523712,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1295921817190793216,
+        "text": "RT @neymarjr: Deus \u00e9 TOP DEMAIS \u2764\ufe0f\ud83d\ude1d",
+        "created_at": "2020-08-19 03:13:32+00:00",
+        "public_metrics": {
+            "retweet_count": 42686,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1295887798180995075,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1295705415339192326,
+        "text": "#PhiloBot",
+        "created_at": "2020-08-18 12:53:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3364181045,
+        "referenced_tweets": {
+            "id": 1295705320631808001,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1295690693617291265,
+        "text": "RT @Mfutebolisticos: Ney Streamer https://t.co/ZVw8bOsOVJ",
+        "created_at": "2020-08-18 11:55:08+00:00",
+        "public_metrics": {
+            "retweet_count": 122,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1295570973907984384,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1295557260618403840,
+        "text": "#Neyday \nDia de Champions https://t.co/1MI28u9WEL",
+        "created_at": "2020-08-18 03:04:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1295556830295478276,
+        "text": "#NewProfilePic https://t.co/pplnG7yB0W",
+        "created_at": "2020-08-18 03:03:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1295188485498966017,
+        "text": "@Nerdstore Promo\u00e7\u00e3o nas camisas, volta da camisa Blade Runner e frete gr\u00e1tis",
+        "created_at": "2020-08-17 02:39:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 27081237,
+        "referenced_tweets": {
+            "id": 1295085086958858246,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1294229423458222086,
+        "text": "@sr_k_ Nada que um tempo assistindo 2001 n\u00e3o resolva",
+        "created_at": "2020-08-14 11:08:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 117045099,
+        "referenced_tweets": {
+            "id": 1294127465422618626,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1293671496674615307,
+        "text": "@oednaldopereira @maiconkusterk",
+        "created_at": "2020-08-12 22:11:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 224295704,
+        "referenced_tweets": {
+            "id": 1293667917821882370,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1293642392785113088,
+        "text": "@AD0LFZ Triste",
+        "created_at": "2020-08-12 20:15:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 234398871,
+        "referenced_tweets": {
+            "id": 1293641858099359748,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1293600939543334915,
+        "text": "RT @NetshoesESports: E \u00e9 o seguinte, se tiver gol do Ney hoje, um dos nossos seguidores aqui do Twitter ir\u00e1 ganhar essas duas belezinhas aq\u2026",
+        "created_at": "2020-08-12 17:31:12+00:00",
+        "public_metrics": {
+            "retweet_count": 178,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1293578036328247296,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1293600394912894976,
+        "text": "@shamamgames @Encanadorchapad S\u00e1bio",
+        "created_at": "2020-08-12 17:29:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 291879125,
+        "referenced_tweets": {
+            "id": 1293578435806343169,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1293599666085527552,
+        "text": "@ManuNeko33 Neymar",
+        "created_at": "2020-08-12 17:26:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4843357637,
+        "referenced_tweets": {
+            "id": 1293578621014224900,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1293598545887596545,
+        "text": "@oednaldopereira Crossover sinistro",
+        "created_at": "2020-08-12 17:21:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 224295704,
+        "referenced_tweets": {
+            "id": 1293587488334897152,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1293547861372788736,
+        "text": "RT @neymarjr: Moicano feito, julliete separada e a caixinha de som carregando. \ud83d\udc49\ud83c\udffd\ud83e\udd2a\ud83d\udc48\ud83c\udffd",
+        "created_at": "2020-08-12 14:00:17+00:00",
+        "public_metrics": {
+            "retweet_count": 175565,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1293544972222857219,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1293541398470328320,
+        "text": "@AD0LFZ Boa sorte ney",
+        "created_at": "2020-08-12 13:34:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 234398871,
+        "referenced_tweets": {
+            "id": 1293527930325405696,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1293541292702654466,
+        "text": "#NewProfilePic https://t.co/IxzwlJfvT3",
+        "created_at": "2020-08-12 13:34:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1288333091669446656,
+        "text": "@Luifel_sem_190 Meu amigo, tu tem cabelo e eu sou careca, eu deveria chorar",
+        "created_at": "2020-07-29 04:38:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1190289597558865922,
+        "referenced_tweets": {
+            "id": 1288325044142256130,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1285580778206789633,
+        "text": "@AD0LFZ Na Olx aqui da minha regi\u00e3o tem uns bloqueados com jogos originais, pensava que n\u00e3o existia",
+        "created_at": "2020-07-21 14:21:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 234398871,
+        "referenced_tweets": {
+            "id": 1285570995378626566,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1277993983155855360,
+        "text": "@Nerdstore https://t.co/jD3sjJaoMJ",
+        "created_at": "2020-06-30 15:54:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 27081237,
+        "referenced_tweets": {
+            "id": 1277965535867572226,
+            "type": "replied_to"
+        }
+    }
+]

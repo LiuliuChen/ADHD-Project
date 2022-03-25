@@ -1,0 +1,185 @@
+[
+    {
+        "tweet_id": 1507110406237536274,
+        "text": "RT @LostCityMovie: Critics rave #TheLostCity is \u201ca hilarious adventure.\" You won\u2019t want to miss this. Trust us. \ud83d\ude09 See it on the big screen\u2026",
+        "created_at": "2022-03-24 21:41:36+00:00",
+        "public_metrics": {
+            "retweet_count": 162,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505944826201710597,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507107334648053777,
+        "text": "So, I guess I\u2019m a couch potato.",
+        "created_at": "2022-03-24 21:29:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1507097654219587584,
+        "text": "RT @euronewsgreen: These are not your average goldfish\u2026\n\nThey\u2019ve been found in Canada and they are causing all sorts of problems \ud83e\uddf5",
+        "created_at": "2022-03-24 20:50:55+00:00",
+        "public_metrics": {
+            "retweet_count": 72,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507034640858681358,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507036852464672778,
+        "text": "One of the biggest problems about the summer is not having anywhere to go. This year I\u2019m going to prepare for the summer.",
+        "created_at": "2022-03-24 16:49:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506875107578302464,
+        "text": "@justinbieber Love your music! Always fresh.",
+        "created_at": "2022-03-24 06:06:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 27260086,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506778473506873346,
+        "text": "@ChauceNoSauce In Cyber Punk you could play as a black woman. But that is a RPG, so you could play as nearly anyone. Battlefield has black female characters. That\u2019s all I could think of right now.",
+        "created_at": "2022-03-23 23:42:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1418958324301713419,
+        "referenced_tweets": {
+            "id": 1506477669264863233,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504731563132555271,
+        "text": "@Genius Kid Cudi- Day n\u2019 Night",
+        "created_at": "2022-03-18 08:08:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 72073289,
+        "referenced_tweets": {
+            "id": 1504612324707024900,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504726722482110467,
+        "text": "@_hafsat_paki Apple Watch Series 6",
+        "created_at": "2022-03-18 07:49:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296782373846212609,
+        "referenced_tweets": {
+            "id": 1504422498359783432,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504566120216346657,
+        "text": "@IAmSteveHarvey I didn\u2019t love the album but Love Blow/Speakerboxxx was popular.",
+        "created_at": "2022-03-17 21:11:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 96846955,
+        "referenced_tweets": {
+            "id": 1504379410773798912,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504294868926881792,
+        "text": "@Rnraa_ I think that\u2019s just something kids do as a joke.",
+        "created_at": "2022-03-17 03:13:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1293353167065763840,
+        "referenced_tweets": {
+            "id": 1503750282672492570,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504294618426273792,
+        "text": "@HmsRams I think so.",
+        "created_at": "2022-03-17 03:12:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1334611967735173127,
+        "referenced_tweets": {
+            "id": 1504142471353278464,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501824227069947909,
+        "text": "@dachshund_heave They have more dogs than the pound.",
+        "created_at": "2022-03-10 07:36:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1476961041389027333,
+        "referenced_tweets": {
+            "id": 1501614917983825920,
+            "type": "replied_to"
+        }
+    }
+]

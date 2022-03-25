@@ -1,0 +1,697 @@
+[
+    {
+        "tweet_id": 1507069573136523264,
+        "text": "RT @DCBatman: Alone, Catwoman and Onyx are tough. Together, they're unstoppable. What did you think of Catwoman #41? https://t.co/HVsOVXVFLm",
+        "created_at": "2022-03-24 18:59:20+00:00",
+        "public_metrics": {
+            "retweet_count": 41,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505605095676952579,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507069185066926080,
+        "text": "RT @Brittymigs: I\u2019ve had it #nfts https://t.co/9HupHQ34TD",
+        "created_at": "2022-03-24 18:57:48+00:00",
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504144887339433992,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068849229025280,
+        "text": "RT @ConorMaynard: \u201cWhat I Put You Through\u201d is out now. It\u2019s the most personal song I\u2019ve ever released. \nhttps://t.co/N9QB48DGSW https://t.c\u2026",
+        "created_at": "2022-03-24 18:56:28+00:00",
+        "public_metrics": {
+            "retweet_count": 82,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1459537536179658755,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068757075984384,
+        "text": "RT @JuliaStoneMusic: EVERYTHING IS CHRISTMAS is OUT TODAY!!! \nGet merry and stream to your hearts content. Link here https://t.co/cwgrcTxlO\u2026",
+        "created_at": "2022-03-24 18:56:06+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1469111103443460096,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068414095147009,
+        "text": "RT @SageWeeb: Anime fans can relate https://t.co/cqZm5tVUV4",
+        "created_at": "2022-03-24 18:54:44+00:00",
+        "public_metrics": {
+            "retweet_count": 6448,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506986714639781893,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068191952236544,
+        "text": "RT @memesiwish: https://t.co/tbWUzAA6a3",
+        "created_at": "2022-03-24 18:53:51+00:00",
+        "public_metrics": {
+            "retweet_count": 18895,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505158661668159488,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507068064516706304,
+        "text": "RT @pyrrhicaart: I dont want to draw portraits of cats anymore. I want to be an illustrator and draw cute girls! And cats. So here's my pro\u2026",
+        "created_at": "2022-03-24 18:53:21+00:00",
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505435755409072135,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067969763160064,
+        "text": "RT @memesiwish: https://t.co/926lJ9VwTn",
+        "created_at": "2022-03-24 18:52:58+00:00",
+        "public_metrics": {
+            "retweet_count": 3299,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506980394712780800,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067685414522880,
+        "text": "RT @WholesomeMeme: https://t.co/bcRcdqSzUI",
+        "created_at": "2022-03-24 18:51:50+00:00",
+        "public_metrics": {
+            "retweet_count": 253,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506466481621684228,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067646160044033,
+        "text": "RT @WholesomeMeme: https://t.co/c3r21oyVne",
+        "created_at": "2022-03-24 18:51:41+00:00",
+        "public_metrics": {
+            "retweet_count": 5164,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506622634477432843,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067559853834242,
+        "text": "RT @WholesomeMeme: https://t.co/ZR7k88iubs",
+        "created_at": "2022-03-24 18:51:20+00:00",
+        "public_metrics": {
+            "retweet_count": 433,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506714396940242947,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067470615838720,
+        "text": "XD https://t.co/2gCmegqA3u",
+        "created_at": "2022-03-24 18:50:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506780197034549248,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1507067424365232128,
+        "text": "RT @WholesomeMeme: https://t.co/61cXAXCbYj",
+        "created_at": "2022-03-24 18:50:48+00:00",
+        "public_metrics": {
+            "retweet_count": 1709,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506781875116785671,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067328126947328,
+        "text": "RT @WholesomeMeme: https://t.co/0J6kz5wLv6",
+        "created_at": "2022-03-24 18:50:25+00:00",
+        "public_metrics": {
+            "retweet_count": 5655,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506839547820359680,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067301560209410,
+        "text": "RT @WholesomeMeme: https://t.co/5I4hwk7EpR",
+        "created_at": "2022-03-24 18:50:19+00:00",
+        "public_metrics": {
+            "retweet_count": 436,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506990214157373440,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067261508472832,
+        "text": "RT @WholesomeMeme: https://t.co/MTm6njUNQi",
+        "created_at": "2022-03-24 18:50:09+00:00",
+        "public_metrics": {
+            "retweet_count": 197,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1507052122071654406,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067117627396096,
+        "text": "RT @delafro_: why do ya'll get so offended when dark skinned women say they don't want to be referred to as food?",
+        "created_at": "2022-03-24 18:49:35+00:00",
+        "public_metrics": {
+            "retweet_count": 6483,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506789353430917122,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067065072783361,
+        "text": "RT @chom1015_: Feel My Rhythm \ud83e\udda2 https://t.co/VJ4kSHkfL3",
+        "created_at": "2022-03-24 18:49:22+00:00",
+        "public_metrics": {
+            "retweet_count": 14702,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506903682310291459,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507067033250574342,
+        "text": "RT @dottieattiii: I remember when my ex told me I had no hobbies, just sold my NFT for $38,000 how\u2019s that for a hobby",
+        "created_at": "2022-03-24 18:49:15+00:00",
+        "public_metrics": {
+            "retweet_count": 253,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506737037847711744,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1507066213801000960,
+        "text": "At least a broken women knows how to fly a plane. I don't even know where the engine at https://t.co/9aPEeZuvM4",
+        "created_at": "2022-03-24 18:45:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1028134044502908929,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1506879897557684225,
+        "text": "RT @AsimAzharr: Shukar Alhamdulillah. \ud83d\udc8d \n\nWith the grace of Allah Almighty and our parent\u2019s duas, we announce our Imam Zamin - engagement.\u2026",
+        "created_at": "2022-03-24 06:25:38+00:00",
+        "public_metrics": {
+            "retweet_count": 2152,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505559118249340929,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506878165016530945,
+        "text": "RT @GRUNG3IAN_: harry potter memes are rarely funny but ive been laughing at this for half an hour https://t.co/MsEH7VR0zg",
+        "created_at": "2022-03-24 06:18:45+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490435336035569664,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506878133244686344,
+        "text": "RT @mrsexarhakou: Harry Potter memes spot on #\u039f\u03c5\u03ba\u03c1\u03b1\u03bd\u03b9\u03b1 https://t.co/40rPlzTFCe",
+        "created_at": "2022-03-24 06:18:38+00:00",
+        "public_metrics": {
+            "retweet_count": 26,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497920729077231619,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506877710970556419,
+        "text": "RT @redditSpacePorn: This planet is Made of water, this planet is Known as  GJ 1214B https://t.co/JoiafvLaUL",
+        "created_at": "2022-03-24 06:16:57+00:00",
+        "public_metrics": {
+            "retweet_count": 1708,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506664656227635206,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506877543273877507,
+        "text": "RT @realumarriaz: #KyaKarDiya ab hua aapka, Out Now on the @vyrloriginals YouTube channel!\n\n@VishalMMishra @jasminbhasin https://t.co/73mBS\u2026",
+        "created_at": "2022-03-24 06:16:17+00:00",
+        "public_metrics": {
+            "retweet_count": 2239,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506877115735576579,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506877433773170693,
+        "text": "RT @muftimenk: Learn to let go of things that went wrong or didn\u2019t work out. That\u2019s life in a nutshell. Keep going. You\u2019ll never win this r\u2026",
+        "created_at": "2022-03-24 06:15:51+00:00",
+        "public_metrics": {
+            "retweet_count": 7128,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506851192437153795,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506737607338000385,
+        "text": "RT @Qwin_pearl1: We all want the same love and energy we give",
+        "created_at": "2022-03-23 21:00:14+00:00",
+        "public_metrics": {
+            "retweet_count": 76,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506726779775557639,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506737481924100096,
+        "text": "RT @motivational: When things change inside you... https://t.co/jv6aS013DB",
+        "created_at": "2022-03-23 20:59:44+00:00",
+        "public_metrics": {
+            "retweet_count": 2682,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496932296879788032,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506736770834403329,
+        "text": "RT @ArtistAJ17: Look what I just found from December 11 good ol' 2015... Turns out the AmeriKan Nazi propaganda machine of the brain-eating\u2026",
+        "created_at": "2022-03-23 20:56:54+00:00",
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506675462407393285,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506736724512505858,
+        "text": "RT @animesvisuaI: Anime : My Little Monster https://t.co/zlrrm9fwdM",
+        "created_at": "2022-03-23 20:56:43+00:00",
+        "public_metrics": {
+            "retweet_count": 4517,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506676926441738249,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506736460053254144,
+        "text": "RT @AnimesFeeIings: Anime : Plastic Memories https://t.co/ECz8mGfdEv",
+        "created_at": "2022-03-23 20:55:40+00:00",
+        "public_metrics": {
+            "retweet_count": 1981,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506646887834824712,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506665078564990978,
+        "text": "@RehmanRimu \ud83e\udd70",
+        "created_at": "2022-03-23 16:12:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1503336242418958337,
+        "referenced_tweets": {
+            "id": 1506663692498538496,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505409860141486080,
+        "text": "RT @eugene126412: i believe in annoyed at first sight",
+        "created_at": "2022-03-20 05:04:14+00:00",
+        "public_metrics": {
+            "retweet_count": 69474,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503546283138633728,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503683497781002241,
+        "text": "RT @kaithebulll: I\u2019ve let go of family, friends, jobs, relationships, etc. that interfere with my peace or my growth. I could care less if\u2026",
+        "created_at": "2022-03-15 10:44:17+00:00",
+        "public_metrics": {
+            "retweet_count": 26510,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503158192481652748,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503683275738710020,
+        "text": "RT @AnimesFeeIings: Anime : Ao Haru Ride https://t.co/YPfyhPdBbp",
+        "created_at": "2022-03-15 10:43:24+00:00",
+        "public_metrics": {
+            "retweet_count": 5892,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503438744824815621,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503682902533767171,
+        "text": "RT @sza: For the record I don\u2019t give a fuck about appearing to be nice girl . I\u2019m nice to who treat me nice . Talk to me crazy and imma kno\u2026",
+        "created_at": "2022-03-15 10:41:55+00:00",
+        "public_metrics": {
+            "retweet_count": 29811,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1391893377948389376,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503401771414474759,
+        "text": "RT @ed_memes: when you actually kill yourself and then everyone is like \u201cI didn\u2019t see this coming\u201d or \u201cI thought it was just a phase\u201d https\u2026",
+        "created_at": "2022-03-14 16:04:48+00:00",
+        "public_metrics": {
+            "retweet_count": 505,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1217829391415140354,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503401560579391489,
+        "text": "RT @ed_memes: I am cured #EDprobs #Edmemes https://t.co/bdJrlnk2G3",
+        "created_at": "2022-03-14 16:03:58+00:00",
+        "public_metrics": {
+            "retweet_count": 121,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1230361486213730306,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503401507974430723,
+        "text": "RT @ed_memes: Ah, yes, the epitome of health #edprobs #edmemes https://t.co/4mgPE07Hie",
+        "created_at": "2022-03-14 16:03:46+00:00",
+        "public_metrics": {
+            "retweet_count": 62,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1252063918312300545,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503401313388077056,
+        "text": "RT @Thrones_Memes: https://t.co/Td7YHqCYjY",
+        "created_at": "2022-03-14 16:02:59+00:00",
+        "public_metrics": {
+            "retweet_count": 59,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1486371310355759109,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503400437047005185,
+        "text": "RT @AnimeColorful: Anime : Your Name https://t.co/T6d4wurlqh",
+        "created_at": "2022-03-14 15:59:30+00:00",
+        "public_metrics": {
+            "retweet_count": 2596,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491456552863416320,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503380103946211336,
+        "text": "Givers also need to learn receive, it's doesn\u2019t take anything away from you. Infact learning to receive from others allows you to let someone else experience the beauty and joy off giving too. It prevents burnout and gives you a more fruitful experience of relationships.",
+        "created_at": "2022-03-14 14:38:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503374031625814017,
+        "text": "https://t.co/oSXAhtZdiO",
+        "created_at": "2022-03-14 14:14:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503372736017866753,
+        "text": "All lives matter\" should come in place in time when Thanos is trying to wipe out half the population in the universe, till now, stick to #BlackLivesMatter",
+        "created_at": "2022-03-14 14:09:26+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]
