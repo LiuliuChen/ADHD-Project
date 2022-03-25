@@ -2,24 +2,26 @@
 
 ## Data Description
 
-+ Total Users: 2963
+### ADHD group users
+
++ Total Users: 3135
 
 
-+ Total User Tweets: 7957315
++ Total User Tweets: 8300768
 
 
 + Tweets Length: 1-236
-  ![len](chart/length.png)
+  ![len](chart/adhd_length.png)
 
 
-+ Time Period: 2009-04-28 19:13:58+00:00 -- 2022-03-19 06:06:10+00:00
++ Time Period: 2009-04-28 19:13:58+00:00 -- 2022-03-24 08:38:01+00:00
 
-  ![time](chart/time.png)
+  ![time](chart/adhd_time.png)
 
 
 + Tweet Type
-  origin: 2096097 retweeted: 2555551 replies: 2808983 quoted: 496684
-  ![type](chart/type.png)
+  2228949 retweeted: 2649187 replies: 2899550 quoted: 523082
+  ![type](chart/adhd_type.png)
 
 
 + Data Example
@@ -43,3 +45,25 @@
     }
   ```
           "_comment": if referenced_tweets is [], it means the tweet is original post
+
+
+### Neurotypical group users
+
++ Total Users: 3223
+
+
++ Total User Tweets: 7692811
+
+
++ Tweets Length: 1 -- 240
+  ![len](chart/random_time.png)
+
+
++ Time Period: 2008-12-06 08:27:14+00:00 -- 2022-03-25 15:23:18+00:00
+
+  ![time](chart/random_length.png)
+
+
++ Tweet Type
+  origin: 1320565 retweeted: 3519619 replies: 2404090 quoted: 448537
+  ![type](chart/random_type.png)
