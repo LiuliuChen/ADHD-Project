@@ -1,0 +1,1460 @@
+[
+    {
+        "tweet_id": 1506666057481666561,
+        "text": "@ellacduncann Hi ella welcome back, may I direct you towards Nate\u2019s worst tweet? https://t.co/mvIizN8TiM",
+        "created_at": "2022-03-23 16:15:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1345949711555936259,
+        "referenced_tweets": {
+            "id": 1506465855147708418,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505888702647570441,
+        "text": "As someone who\u2019s been a part of \u201cdanonation\u201d before the Batman came out, you guys look like losers trying to gatekeeper Paul dano bro that shit is so embarrassing for you\ud83d\ude2d",
+        "created_at": "2022-03-21 12:46:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505086387988557827,
+        "text": "Man oh man would I kill someone for some cantaloupe rn",
+        "created_at": "2022-03-19 07:38:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505079646508892163,
+        "text": "@midigirlfriend ITS SO FUCKING GOOD DUDE",
+        "created_at": "2022-03-19 07:12:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1118623042282971136,
+        "referenced_tweets": {
+            "id": 1504884994207932417,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505079582646435847,
+        "text": "I need to make oatmeal chocolate chip cookies right now\u203c\ufe0f\u203c\ufe0f",
+        "created_at": "2022-03-19 07:11:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505079491118329857,
+        "text": "The feminine urge to watch every Paul Dano movie this instant",
+        "created_at": "2022-03-19 07:11:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505078648377802753,
+        "text": "The Batman (2022) spoilers without context https://t.co/SNpQuqnMBZ",
+        "created_at": "2022-03-19 07:08:07+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504546493222424576,
+        "text": "@midigirlfriend Enough.",
+        "created_at": "2022-03-17 19:53:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1118623042282971136,
+        "referenced_tweets": {
+            "id": 1504366937609949190,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504546299420454912,
+        "text": "@SpeedNater Bro I graduated ONE year ago and I still have no clue",
+        "created_at": "2022-03-17 19:52:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1359427867474493440,
+        "referenced_tweets": {
+            "id": 1504518116579045378,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504324636678393858,
+        "text": "\ud83e\udd70 https://t.co/0lwq5aVdVo",
+        "created_at": "2022-03-17 05:11:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504320987357081603,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1502832146905411590,
+        "text": "\u201cThere\u2019s something so poetic about holding a man by his waist\u201d https://t.co/xQsHlNgIck",
+        "created_at": "2022-03-13 02:21:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501952879770279945,
+        "text": "I\u2019m gonna name my daughter Stacy so I can be a milf",
+        "created_at": "2022-03-10 16:07:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501850749977858048,
+        "text": "@midigirlfriend DOOOOONNNTT",
+        "created_at": "2022-03-10 09:21:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1118623042282971136,
+        "referenced_tweets": {
+            "id": 1501850673343721472,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501850386621079555,
+        "text": "LEAVE ME ALOOOOONNE https://t.co/d88RhySZDq",
+        "created_at": "2022-03-10 09:20:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501458544159178754,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1501041851196866561,
+        "text": "\u201cHot girls hit the curb\u201d I say through gritted teeth as I accidentally hit my 4th curb this week\ud83d\ude10",
+        "created_at": "2022-03-08 03:47:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496552404443095041,
+        "text": "Donda: a tail of two kitties",
+        "created_at": "2022-02-23 18:27:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 861049336997662720,
+        "referenced_tweets": {
+            "id": 1496552337569382400,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496552337569382400,
+        "text": "Donda 2: lost in New York",
+        "created_at": "2022-02-23 18:27:36+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496163967886295040,
+        "text": "@SpeedNater Keep fighting brother, it\u2019s worth it",
+        "created_at": "2022-02-22 16:44:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1359427867474493440,
+        "referenced_tweets": {
+            "id": 1495855795862388750,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496163848251977728,
+        "text": "Indie mfs nowadays dress like Forrest Gump at the end of the running arc https://t.co/GOZvE6PWWJ",
+        "created_at": "2022-02-22 16:43:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496163547499446273,
+        "text": "RT @trixiemattel: \u0442\u043d\u0454 g\u03b9\u044f\u2113\u0455 \u03c9\u043d\u03c3 g\u03b9\u044f\u2113, g\u03b9\u044f\u2113. \u0442\u043d\u0454 g\u03b9\u044f\u2113\u0455 \u03c9\u043d\u03c3 g\u03b9\u044f\u2113\u03b7\u2019\u0442, g\u03c3\u044f\u03b7\u2019\u0442.",
+        "created_at": "2022-02-22 16:42:41+00:00",
+        "public_metrics": {
+            "retweet_count": 4691,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496136543119020039,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495998157674721281,
+        "text": "@EvaDavey HAHAHAHA yes to both Lmao",
+        "created_at": "2022-02-22 05:45:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 451951594,
+        "referenced_tweets": {
+            "id": 1495930220272103428,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495923500204412930,
+        "text": "Slightly strange/Outcast girls who love the theatre &lt;3 #Euphoria #sexeducation https://t.co/rnL5gBTPKu",
+        "created_at": "2022-02-22 00:48:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493757624487014400,
+        "text": "I was scrolling through tik tok and I saw a death note poster THAT SAID DEATH NOTE ON IT AND OUT LOUD I SAID \u201coh cool a neon genesis poster\u201d HUH????????\ud83e\udd28\ud83e\udd28\ud83e\udd28\ud83e\udd28",
+        "created_at": "2022-02-16 01:22:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493755750862057473,
+        "text": "What makes my ADHD meds not as effective? Not eating enough! What is one of the side effects of said medication? Loss of appetite! I am. In hell\ud83d\ude00",
+        "created_at": "2022-02-16 01:14:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493750749771096073,
+        "text": "I miss when my dog was alive and my siblings still lived at home :(",
+        "created_at": "2022-02-16 00:55:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492742726185459713,
+        "text": "@midigirlfriend :) &lt;3",
+        "created_at": "2022-02-13 06:09:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1118623042282971136,
+        "referenced_tweets": {
+            "id": 1492467313034993667,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492742381971537922,
+        "text": "@midigirlfriend This is how I found out and I am in anguish",
+        "created_at": "2022-02-13 06:08:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1118623042282971136,
+        "referenced_tweets": {
+            "id": 1492662572994084864,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489553310122008577,
+        "text": "Think fast, chucklenuts",
+        "created_at": "2022-02-04 10:55:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486178526050938881,
+        "text": "https://t.co/dfnJ72X71O https://t.co/2jlHAQlZKS",
+        "created_at": "2022-01-26 03:25:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485831504039194625,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1485805929224310785,
+        "text": "If the heart stopper Netflix adaptation is really bad then that will be my absolute last straw\ud83d\ude10",
+        "created_at": "2022-01-25 02:45:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485015450559811585,
+        "text": "@Curltee1 @curlyheadednate Fictional character pfp, it all comes full circle",
+        "created_at": "2022-01-22 22:24:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180925699114201088,
+        "referenced_tweets": {
+            "id": 1485014398003396608,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485014215970619392,
+        "text": "@Curltee1 @curlyheadednate Lego breaking bad banner",
+        "created_at": "2022-01-22 22:19:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180925699114201088,
+        "referenced_tweets": {
+            "id": 1485011404511801344,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485011130007232512,
+        "text": "@curlyheadednate Person with a fictional character as a pfp: guys am I cringe on Twitter?\ud83e\udd7a",
+        "created_at": "2022-01-22 22:06:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1118623042282971136,
+        "referenced_tweets": {
+            "id": 1485006387780325378,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485007187390779392,
+        "text": "I literally just offered Nate a sociables cracker\ud83e\uddcd\u200d\u2642\ufe0f https://t.co/uFeOWLqcbo",
+        "created_at": "2022-01-22 21:51:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484837604562403328,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1484547819801178113,
+        "text": "@curlyheadednate You\u2019re fucking joking me",
+        "created_at": "2022-01-21 15:25:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1118623042282971136,
+        "referenced_tweets": {
+            "id": 1484435407324397572,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483693046390616064,
+        "text": "This is the only slow burn I\u2019ll ever be a fan of. They straight up just be kind to each other and I get BUTTERFLIES BRO",
+        "created_at": "2022-01-19 06:49:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 861049336997662720,
+        "referenced_tweets": {
+            "id": 1483692878467452928,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483692878467452928,
+        "text": "You can\u2019t tell me this song isn\u2019t theirs and only theirs https://t.co/m7X6GMUs3t",
+        "created_at": "2022-01-19 06:48:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483671693302243328,
+        "text": "@Curltee1 Curtis there\u2019s still time to delete this",
+        "created_at": "2022-01-19 05:24:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180925699114201088,
+        "referenced_tweets": {
+            "id": 1483667351501303808,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483277653410869249,
+        "text": "@maddievb2003 HES IN LOVE WITH HER AND I DONT BLAME HIM",
+        "created_at": "2022-01-18 03:18:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 837031478538067968,
+        "referenced_tweets": {
+            "id": 1483274141046550528,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483277581407252481,
+        "text": "@maddievb2003 FOR REAL",
+        "created_at": "2022-01-18 03:18:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 837031478538067968,
+        "referenced_tweets": {
+            "id": 1483274141046550528,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483239490541867011,
+        "text": "If Lexi doesn\u2019t get her own episode this season then I\u2019m going to break Sam Levinsons legs",
+        "created_at": "2022-01-18 00:47:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 861049336997662720,
+        "referenced_tweets": {
+            "id": 1483239184592609287,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483239184592609287,
+        "text": "Best characters, you can\u2019t change my mind https://t.co/KIUKFBo0MI",
+        "created_at": "2022-01-18 00:45:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1482929969600806912,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1483238480431890433,
+        "text": "RT @spiderlingdaya: \u201cI ship rue with jules\u201d \u201cI ship rue with elliot\u201d yeah well I ship rue with sobriety",
+        "created_at": "2022-01-18 00:43:05+00:00",
+        "public_metrics": {
+            "retweet_count": 23044,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1482948242044194820,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483238202634694658,
+        "text": "RT @matthwatson: I challenge Scientology to suck these nuts",
+        "created_at": "2022-01-18 00:41:59+00:00",
+        "public_metrics": {
+            "retweet_count": 553,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1482888126796222467,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483002112015364097,
+        "text": "Frebby Fazbear",
+        "created_at": "2022-01-17 09:03:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483001656069410817,
+        "text": "I fucking hate euphoria, shit stresses me out every single time I watch it\u2026 but damn it\u2019s so good dude",
+        "created_at": "2022-01-17 09:02:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483001433439936512,
+        "text": "Weezer \ud83e\uddcd\u200d\u2642\ufe0f\ud83e\uddcd\u200d\u2642\ufe0f\ud83e\uddcd\u200d\u2642\ufe0f\ud83e\uddcd\u200d\u2642\ufe0f",
+        "created_at": "2022-01-17 09:01:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 861049336997662720,
+        "referenced_tweets": {
+            "id": 1483001339428831239,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483001339428831239,
+        "text": "Not very happy rn, literally no clue why, wish I didn\u2019t feel like this, wish I knew how I felt\ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f",
+        "created_at": "2022-01-17 09:00:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483000467881742336,
+        "text": "Hhhhgghgggggggffffrrrrrrrrjdjdhfhffffffffff ://// y\u2019know?",
+        "created_at": "2022-01-17 08:57:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482999167781793796,
+        "text": "@Curltee1 Fuck you",
+        "created_at": "2022-01-17 08:52:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180925699114201088,
+        "referenced_tweets": {
+            "id": 1482071600442667010,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482997977647960067,
+        "text": "@curlyheadednate Fire",
+        "created_at": "2022-01-17 08:47:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1118623042282971136,
+        "referenced_tweets": {
+            "id": 1482973363660210176,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482482239623479297,
+        "text": "The inescapable urge to watch bill and Ted rn",
+        "created_at": "2022-01-15 22:38:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481584310045929473,
+        "text": "@curlyheadednate \ud83d\ude22",
+        "created_at": "2022-01-13 11:10:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1118623042282971136,
+        "referenced_tweets": {
+            "id": 1481584225711050753,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481584002725134337,
+        "text": "I\u2019m gonna be honest, if I think about Brennan Fraser for too long I start to tear up",
+        "created_at": "2022-01-13 11:08:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481583595361689601,
+        "text": "@SpeedNater You\u2019re a brave man for tweeting this",
+        "created_at": "2022-01-13 11:07:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1359427867474493440,
+        "referenced_tweets": {
+            "id": 1481317701679124484,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481023114515415040,
+        "text": "RT @emiokok: romantic date idea: fight another couple",
+        "created_at": "2022-01-11 22:00:01+00:00",
+        "public_metrics": {
+            "retweet_count": 176,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1480991454260449280,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1480967831311192064,
+        "text": "Bonus points for same mirror :)",
+        "created_at": "2022-01-11 18:20:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 861049336997662720,
+        "referenced_tweets": {
+            "id": 1480967776210616320,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480967776210616320,
+        "text": "I know I\u2019m a lil late but first picture of 2021 vs the last :) https://t.co/0eq6CMf45b",
+        "created_at": "2022-01-11 18:20:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477963191992733696,
+        "text": "RT @eddyburback: haven\u2019t done a youtooz because i\u2019m not letting you freaks put me in a jar",
+        "created_at": "2022-01-03 11:20:58+00:00",
+        "public_metrics": {
+            "retweet_count": 252,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1475201864673153026,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477962331770404864,
+        "text": "RT @SpeedNater: OF girls making guys pay for dick ratings is quite possibly the most innovative hustle of the 21st century",
+        "created_at": "2022-01-03 11:17:33+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1477034272275922948,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477962269325623298,
+        "text": "RT @dannycandles: If I went back in time and told January 1st, 2021 me everything that would happen this year, the two of us would get in a\u2026",
+        "created_at": "2022-01-03 11:17:18+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1477044056924459010,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477960672273043456,
+        "text": "RT @curlyheadednate: Poltergussy",
+        "created_at": "2022-01-03 11:10:58+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1477942729887793152,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1474235974108413952,
+        "text": "She\u2019s the blueprint for the unhinged youngest daughter trope",
+        "created_at": "2021-12-24 04:30:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 861049336997662720,
+        "referenced_tweets": {
+            "id": 1474235862590246913,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474235862590246913,
+        "text": "Rachel McAdams in the family stone (2005) that\u2019s it, that\u2019s the tweet https://t.co/7rK9ubEec9",
+        "created_at": "2021-12-24 04:29:54+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 2,
+            "like_count": 33,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473917866160189440,
+        "text": "Dude, Bandit is such a sick fuckin name!! Gerard way had it right!!!!",
+        "created_at": "2021-12-23 07:26:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473057096631406594,
+        "text": "God my bf is so fuckin sick dude, I love that guy sm",
+        "created_at": "2021-12-20 22:25:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473056783224606720,
+        "text": "@curlyheadednate \u263a\ufe0f",
+        "created_at": "2021-12-20 22:24:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1118623042282971136,
+        "referenced_tweets": {
+            "id": 1472481148915703810,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472155250219835396,
+        "text": "@curlyheadednate I will listen once I\u2019ve completed the new Ted Nivison video\ud83d\ude0e",
+        "created_at": "2021-12-18 10:42:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1118623042282971136,
+        "referenced_tweets": {
+            "id": 1472155005314482179,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472154691618230274,
+        "text": "Mmmmmmm Me and my husband slow + reverb :))))))",
+        "created_at": "2021-12-18 10:40:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472154311941517313,
+        "text": "RT @mementonestor: me, 13, watching markiplier play fnaf 3 vs me, 19, watching markiplier play fnaf security breach https://t.co/jzyVNDsSka",
+        "created_at": "2021-12-18 10:38:33+00:00",
+        "public_metrics": {
+            "retweet_count": 2861,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1471917256825311237,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1471951517523406851,
+        "text": "Tortoise and the hare but it\u2019s these mfs https://t.co/yvr6DMwx8D",
+        "created_at": "2021-12-17 21:12:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1471950968799387649,
+        "text": "@EvaDavey Bro honestly just stay off Twitter, cold turkey. I saw spidey with 0 spoilers and it really made the experience for me",
+        "created_at": "2021-12-17 21:10:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 451951594,
+        "referenced_tweets": {
+            "id": 1471874887459377156,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1471231700944318467,
+        "text": "Shoutout to Kelly Clarkson for not only making the best Christmas song of all time (underneath the tree) but also for making catch my breath bc screaming that shit in the car is the closest thing I have to pure serotonin",
+        "created_at": "2021-12-15 21:32:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1471230825538592771,
+        "text": "@BigBossSmoke0 Go ahead https://t.co/yCN6BlQZY3",
+        "created_at": "2021-12-15 21:28:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1470134555919060996,
+        "referenced_tweets": {
+            "id": 1470895943901859841,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1471169254342868995,
+        "text": "Warm hands bf and constantly cold hands gf https://t.co/HqAdeo10Mj",
+        "created_at": "2021-12-15 17:24:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1470790403292991490,
+        "text": "I recently watched Disney\u2019s Encanto and I\u2019ve seen a lot of people talking about it on TikTok so I thought I\u2019d give my two cents by making this shitty meme https://t.co/EfkEf2HW7r",
+        "created_at": "2021-12-14 16:18:52+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469739211087507456,
+        "text": "@Curltee1 @curlyheadednate Shut up",
+        "created_at": "2021-12-11 18:41:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180925699114201088,
+        "referenced_tweets": {
+            "id": 1469441366522400771,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469738422818402307,
+        "text": "@Curltee1 https://t.co/kAKCwPiA1F",
+        "created_at": "2021-12-11 18:38:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180925699114201088,
+        "referenced_tweets": {
+            "id": 1469533978864455683,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469517462353813505,
+        "text": "Currently watching Us (2019) and now I desperately yearn for a retro hands across America t shirt\ud83d\ude10",
+        "created_at": "2021-12-11 04:00:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469484206531039232,
+        "text": "The feminine urge to get every single piece of media I\u2019ve ever consumed and enjoyed tattooed on my body forever\ud83d\udc40",
+        "created_at": "2021-12-11 01:48:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 861049336997662720,
+        "referenced_tweets": {
+            "id": 1469482655632674816,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469482655632674816,
+        "text": "Mmmmmmmm me want more tattoos\ud83d\ude08\ud83d\ude08\ud83d\ude08",
+        "created_at": "2021-12-11 01:42:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469452293976178692,
+        "text": "Forever pissed that I missed out on Mitski tickets\u2639\ufe0f",
+        "created_at": "2021-12-10 23:41:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469442199255355392,
+        "text": "POV: me attempting slam poetry https://t.co/ntJEwlWQJ1",
+        "created_at": "2021-12-10 23:01:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 861049336997662720,
+        "referenced_tweets": {
+            "id": 1469441691497099269,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469441691497099269,
+        "text": "God damn it I wish I was good at slam poetry",
+        "created_at": "2021-12-10 22:59:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469413802386984961,
+        "text": "Cosplaying my bf bc he left his clothes at my house :) @curlyheadednate https://t.co/URhOp3mbCc",
+        "created_at": "2021-12-10 21:08:45+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469242518365622274,
+        "text": "New message from SpongeBob: you are gay",
+        "created_at": "2021-12-10 09:48:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469196225685581826,
+        "text": "@HillyBanson \ud83d\ude0e",
+        "created_at": "2021-12-10 06:44:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1952536069,
+        "referenced_tweets": {
+            "id": 1469194555249479685,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1469164647416619009,
+        "text": "I\u2019ve loved this movie for years and now it\u2019s on my body forever\ud83d\ude01\ud83d\udc4d https://t.co/7f2Xfd4jt7",
+        "created_at": "2021-12-10 04:38:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468365214785552385,
+        "text": "Bro whatever achievements I will have in my life will never top getting my boyfriend into fantasy high and D&amp;D, I have peaked\ud83d\ude0e",
+        "created_at": "2021-12-07 23:42:02+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468363706266435591,
+        "text": "RT @curlyheadednate: Kyoto by phoebe bridgers gf and Kyoto by glitch gum bf https://t.co/qIu7veme4F",
+        "created_at": "2021-12-07 23:36:03+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1468072770537803778,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1468362592384995328,
+        "text": "@curlyheadednate DID YOU TAKE THIS IN MY BATHROOM?? AHAHAHA",
+        "created_at": "2021-12-07 23:31:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1118623042282971136,
+        "referenced_tweets": {
+            "id": 1468176084067766272,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1448370543053328385,
+        "text": "In my humble and correct opinion, infinity on high was the best fall out boy album https://t.co/V1RV1civFv",
+        "created_at": "2021-10-13 19:30:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1395959599451148289,
+        "text": "@Curltee1 Yes\ud83d\ude08",
+        "created_at": "2021-05-22 04:27:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180925699114201088,
+        "referenced_tweets": {
+            "id": 1395959491863056385,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1395958893201690624,
+        "text": "@Curltee1 Put it in fultz\u2019 office",
+        "created_at": "2021-05-22 04:25:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1180925699114201088,
+        "referenced_tweets": {
+            "id": 1395926050215915521,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1355281745159962624,
+        "text": "Dudes be like \u201castrology isn\u2019t real!!!l\u201d and then look at the stock market and be like \u201ctruuuue!\u201d",
+        "created_at": "2021-01-29 22:28:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1341885626283483136,
+        "text": "RT @CrankGameplays: On december 23rd, 2012 we hit 100 subscribers. 8 years later, here we are at 2 million.\n\nThank you for everything https\u2026",
+        "created_at": "2020-12-23 23:17:18+00:00",
+        "public_metrics": {
+            "retweet_count": 4102,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1341885449048969216,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1339699888322330624,
+        "text": "RT @Parzival598: @NightmarePetrol https://t.co/9SFDpSBuxQ",
+        "created_at": "2020-12-17 22:31:58+00:00",
+        "public_metrics": {
+            "retweet_count": 30,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1330904885949321221,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1334324253684944896,
+        "text": "RT @Harry_Styles: Bring back manly men. https://t.co/Y3XqXX4qaY",
+        "created_at": "2020-12-03 02:31:07+00:00",
+        "public_metrics": {
+            "retweet_count": 266494,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1334213571283091456,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1332462154172178432,
+        "text": "RT @DrumsyOfficial: I will never forget unus annus https://t.co/FoXMCKv8Fi",
+        "created_at": "2020-11-27 23:11:48+00:00",
+        "public_metrics": {
+            "retweet_count": 22430,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1328822606795948034,
+            "type": "retweeted"
+        }
+    }
+]

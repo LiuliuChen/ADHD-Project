@@ -1,0 +1,851 @@
+[
+    {
+        "tweet_id": 1504107649281015818,
+        "text": "RT @cornskiii: kanye a better man than me i woulda been fuckin ariana grande by now",
+        "created_at": "2022-03-16 14:49:43+00:00",
+        "public_metrics": {
+            "retweet_count": 11054,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503064520809459722,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501235022124261376,
+        "text": "I realized I was blocked early this morning lol well fuck; it's gonna be a long day.",
+        "created_at": "2022-03-08 16:34:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498718441028694020,
+        "text": "RT @BenAbbottTX: GIVEAWAY: Enter to win 2 Suite Tickets to watch the Mavs vs Jazz on 3/7/22 at 7:30 pm at the AAC!\n \nHOW TO ENTER:\n\ud83c\udfc0FOLLOW\u2026",
+        "created_at": "2022-03-01 17:54:55+00:00",
+        "public_metrics": {
+            "retweet_count": 71,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497347714786410500,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498718369167642627,
+        "text": "@BenAbbottTX @AldoDTX @itsnodoubtmari @manifestcreatee",
+        "created_at": "2022-03-01 17:54:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 707987053904924672,
+        "referenced_tweets": {
+            "id": 1497347716992671753,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497413763733106689,
+        "text": "@DJ_Panduh @chefcharliem @Hyundai @Hyundai_Global Look into a lemon law claim I juat opened mine",
+        "created_at": "2022-02-26 03:30:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 747543313926995968,
+        "referenced_tweets": {
+            "id": 1495502170824794112,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497241837186207751,
+        "text": "RT @mjluxmoore: People marching through central Moscow this evening chanting \u201cNo to War!\u201d https://t.co/BTQ3ZOGTan",
+        "created_at": "2022-02-25 16:07:26+00:00",
+        "public_metrics": {
+            "retweet_count": 127517,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496906522080731139,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496933511516901382,
+        "text": "@Hyundai_Global @Hyundai advised my engine replcmt has been denied again. Not my them but my hyundai Motors and nothing they can do but start testing again which I've been doing since February 2020.\n\n#HyundaiProblems\n#HyundaiLemon\n#claycooleyHyundai",
+        "created_at": "2022-02-24 19:42:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1088062616,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496913114197299203,
+        "text": "@AldoDTX Do it",
+        "created_at": "2022-02-24 18:21:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 120606664,
+        "referenced_tweets": {
+            "id": 1496714619997589504,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496708674982760450,
+        "text": "@raptalksk @JheneAiko",
+        "created_at": "2022-02-24 04:48:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 831693103056699392,
+        "referenced_tweets": {
+            "id": 1496542545534664708,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496334620744376320,
+        "text": "@THISNOTJEFFERY Knee slapper funny. Pee in your pants funny. Snort. Little funny.",
+        "created_at": "2022-02-23 04:02:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1235705823449370624,
+        "referenced_tweets": {
+            "id": 1496244402884382723,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496155087340777480,
+        "text": "At this point I have no idea what to do, but please if you're in the market for a new car dont buy a Hyundai Worldwide even though the maintenance and the warranty packages seem worthy. It's not if they don't honor them.\n\n#fentonhyundai \n#now\n#ClayCooleyHyundai",
+        "created_at": "2022-02-22 16:09:04+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496155014103982086,
+        "text": "I've had an oil consumption issue on my hyundai sonata, that honestly should just get me an engine replacement through @Hyundai since my car is still under warranty. But they keep telling me the consumption is \"Normal.\" \n\n#HyundaiSonata\n#Hyundai",
+        "created_at": "2022-02-22 16:08:47+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496153154395820043,
+        "text": "Well @Hyundai fit cled me with a cade manager and they advised me I have 4 other extended warranties. I'm not sure how that's helpful. I just want mt engine replaced under warranty as stated in their advertisements. @bbb_us",
+        "created_at": "2022-02-22 16:01:23+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495698705491636224,
+        "text": "I haven't had these many thoughts keep me up this late in a few years. Idk how to feel about that.",
+        "created_at": "2022-02-21 09:55:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495697448412618753,
+        "text": "RT @BotPhilosophyQ: \"The world will ask you who you are, and if you don't know, the world will tell you.\" \n\n- Carl Jung",
+        "created_at": "2022-02-21 09:50:35+00:00",
+        "public_metrics": {
+            "retweet_count": 44,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495360080421613570,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495696565759098882,
+        "text": "RT @MindHaste: \"Thinking is difficult, that\u2019s why most people judge.\"\n\n- Carl Jung",
+        "created_at": "2022-02-21 09:47:04+00:00",
+        "public_metrics": {
+            "retweet_count": 156,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495690088906428418,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495499867925401606,
+        "text": "@DJ_Panduh @chefcharliem @Hyundai @Hyundai_Global Is there anything we can do? Should a group of us get together and speak to an attorney?",
+        "created_at": "2022-02-20 20:45:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 747543313926995968,
+        "referenced_tweets": {
+            "id": 1495244705659068416,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495074458771632128,
+        "text": "When I tell people about my car issued their solution is well \"just get another car.\" Like what part of I dont want to be in debt don't they understand.\n\n#hyundaiproblems\n#hyundaisonata\n#claycooleyHyundai",
+        "created_at": "2022-02-19 16:35:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495073972202921991,
+        "text": "@KayCapital @Hyundai I had hope w the last girl she seemed nice lol she's just the messenger idk if to cry or not at this point",
+        "created_at": "2022-02-19 16:33:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 30856942,
+        "referenced_tweets": {
+            "id": 1494479208361476101,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494165804501323777,
+        "text": "I'm really upset I ran out of sodas and forgot, I ate my mol\u00e9 without a soda to drink. I'm highly upset. It just didn't hit the same. \ud83d\ude2e\u200d\ud83d\udca8\ud83d\ude2e\u200d\ud83d\udca8",
+        "created_at": "2022-02-17 04:24:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494083648483692544,
+        "text": "I just opened my 6th case against @hyundai @Hyundai_Global  for the same oil consumption issue I've had for a year. They keep denying my engine replacement I've had to put 5 quarts of oil this month. Someone help!\n\n#helphyundai\n#hyundaiUsa\n#dotheRightThing",
+        "created_at": "2022-02-16 22:57:55+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 4,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493799684950929412,
+        "text": "This Life of Crime docu on @hbomax is so sad \ud83e\udd7a\ud83e\udd7a\ud83e\udd7a",
+        "created_at": "2022-02-16 04:09:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493595775888236549,
+        "text": "Oh you know, just running late but not running.",
+        "created_at": "2022-02-15 14:39:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493409694014181380,
+        "text": "Valentines day Laundry day....",
+        "created_at": "2022-02-15 02:19:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492234854687199235,
+        "text": "@AldoDTX Untate vix",
+        "created_at": "2022-02-11 20:31:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 120606664,
+        "referenced_tweets": {
+            "id": 1492199576731885576,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492132349408124933,
+        "text": "Why does northwest and Webb chapel smell like caca today?",
+        "created_at": "2022-02-11 13:44:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491831471329402892,
+        "text": "Electric Stove &gt; Gas Stove.\n\n#idc\n#electricoverGas",
+        "created_at": "2022-02-10 17:48:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491525318477287427,
+        "text": "@cxrtezs I'm tired.",
+        "created_at": "2022-02-09 21:32:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 479408846,
+        "referenced_tweets": {
+            "id": 1491262801964597250,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491461156736835592,
+        "text": "@slvppy Omm",
+        "created_at": "2022-02-09 17:17:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1478227220309032961,
+        "referenced_tweets": {
+            "id": 1491118355667111941,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491460941577392134,
+        "text": "@THISNOTJEFFERY Damn I didn't read all that.\n#pass",
+        "created_at": "2022-02-09 17:16:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1235705823449370624,
+        "referenced_tweets": {
+            "id": 1491453505814798336,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491427546113581056,
+        "text": "@Hyundai I have, I've been talking to Stephanie and after another week without my car I was told that it's consuming oil as it should. A few miles into my last oil change I had to add 3 quarts of oil on my own because the light keeps blinking low oil. I've had this issue for a year now.",
+        "created_at": "2022-02-09 15:03:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 26007726,
+        "referenced_tweets": {
+            "id": 1491426517234208768,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491417659027914757,
+        "text": "@Hyundai I've been trying to get an engine replacement since February 2021 because of my oil consuming too quickly. They're still denying me, I will never buy another hyundai again. https://t.co/OoH9Ce6iW4",
+        "created_at": "2022-02-09 14:24:13+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 26007726,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491242563411783682,
+        "text": "Alright, either I have adhd or the internet is trying to box me in.",
+        "created_at": "2022-02-09 02:48:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490779726281072647,
+        "text": "@anguscloud @anguscloud https://t.co/Q40FQ6OrNS",
+        "created_at": "2022-02-07 20:09:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1138544157440393216,
+        "referenced_tweets": {
+            "id": 1490508791435067396,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490760327625064450,
+        "text": "RT @THISNOTJEFFERY: y\u2019all like my new flow? https://t.co/a8s36o4jxS",
+        "created_at": "2022-02-07 18:52:13+00:00",
+        "public_metrics": {
+            "retweet_count": 82,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489825538805886976,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490557034839871497,
+        "text": "On God en emmmm https://t.co/vIESRji8Oi",
+        "created_at": "2022-02-07 05:24:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490516620141334532,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1490556103675060226,
+        "text": "RT @anguscloud: Zendaya is an incredible fucking actress. Holy Fuck. #Euphoria",
+        "created_at": "2022-02-07 05:20:42+00:00",
+        "public_metrics": {
+            "retweet_count": 86605,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490508019624407040,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490129651372597248,
+        "text": "RT @SoupsCan: Woke up still depressed",
+        "created_at": "2022-02-06 01:06:08+00:00",
+        "public_metrics": {
+            "retweet_count": 27,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490024401496064020,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489063850251112451,
+        "text": "Mom's need a break too https://t.co/YV5GpfG5g5",
+        "created_at": "2022-02-03 02:31:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489047119927328772,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1488998511316250631,
+        "text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/bW1fF0OdqT",
+        "created_at": "2022-02-02 22:11:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488945644069093377,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1488979109447405573,
+        "text": "I have zelle lol https://t.co/9xG3CjItAY",
+        "created_at": "2022-02-02 20:54:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488932836065296388,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1488978918900211720,
+        "text": "RT @777jorgeivan: Please use a condom on Valentine\u2019s Day, I hate Scorpios",
+        "created_at": "2022-02-02 20:53:32+00:00",
+        "public_metrics": {
+            "retweet_count": 28972,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488903101008408576,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488874991936487428,
+        "text": "RT @thispicgoeshard: https://t.co/ehIHSeHIgu",
+        "created_at": "2022-02-02 14:00:34+00:00",
+        "public_metrics": {
+            "retweet_count": 13697,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488622955198394368,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488533201110933516,
+        "text": "\ud83e\udd2d\ud83e\udd2d\ud83e\udd2d\ud83e\udd2d\ud83e\udd2d https://t.co/HJ2uQJO1aB",
+        "created_at": "2022-02-01 15:22:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488526469919920129,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1488520473793249283,
+        "text": "Tbh. That was one of the greatest albums I've heard in a very very long time https://t.co/YlRMR74K4R",
+        "created_at": "2022-02-01 14:31:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487970033863397380,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1488282163002937344,
+        "text": "I'm not really good at this Twitter stuff,  my age is showing.\n\n#30goingon80",
+        "created_at": "2022-01-31 22:44:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488178174789918729,
+        "text": "Problems. They're running away from their problems. Lol https://t.co/aqfxI4Ig11",
+        "created_at": "2022-01-31 15:51:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487123362014920705,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1487831234059325451,
+        "text": "RT @mariolopezviva: I feel personally attacked\u2026 https://t.co/bbnGImPOl8",
+        "created_at": "2022-01-30 16:53:03+00:00",
+        "public_metrics": {
+            "retweet_count": 70,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487571846824271874,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487481396243406850,
+        "text": "@CodeineFridge Problems they're running away from lol",
+        "created_at": "2022-01-29 17:42:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1474717634562199557,
+        "referenced_tweets": {
+            "id": 1487123362014920705,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487464934145462273,
+        "text": "RT @BillyM2k: if you say the market will go down all the time, you\u2019ll be right sometimes \n\nif you say the market will go up all the time, y\u2026",
+        "created_at": "2022-01-29 16:37:30+00:00",
+        "public_metrics": {
+            "retweet_count": 264,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1486884953912594435,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487464274406559746,
+        "text": "RT @DylanAdler6: My mom got this book to help me when I was getting bullied in middle school I\u2019m dying https://t.co/sAq87wGEsR",
+        "created_at": "2022-01-29 16:34:53+00:00",
+        "public_metrics": {
+            "retweet_count": 10522,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1472677237270847493,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1486099196595818496,
+        "text": "I just want tacos and a fanta",
+        "created_at": "2022-01-25 22:10:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486071321368969219,
+        "text": "RT @anguscloud: This episode is for the theater kids #Rent",
+        "created_at": "2022-01-25 20:19:47+00:00",
+        "public_metrics": {
+            "retweet_count": 5802,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485441358689148929,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485065950835716097,
+        "text": "RT @themonaleo: Today I chose silence",
+        "created_at": "2022-01-23 01:44:48+00:00",
+        "public_metrics": {
+            "retweet_count": 46,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484996106933227521,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483596081069965315,
+        "text": "Who the fuck did this?!!!!!! @AMCTheatres @ValleyViewMall https://t.co/iGBTOud1Qm",
+        "created_at": "2022-01-19 00:24:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483217054362750976,
+        "text": "I'm not sure what the purpose of @Twitter is, this is my third time trying it out. Is it for those unheard that want ro be heard? I'm not sure....but I want to tell you everything that's on my mind.\n\n#thirdtimesaCharm\n#right?",
+        "created_at": "2022-01-17 23:17:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483216020768759808,
+        "text": "Most people are assholes.... and then there's you. https://t.co/lrn4kvSrL4",
+        "created_at": "2022-01-17 23:13:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

@@ -1,0 +1,965 @@
+[
+    {
+        "tweet_id": 1506286636514095121,
+        "text": "I bought my partner a used @Brunton off of ebay that looked real but it's absolutely a fake after receiving it. We've dubbed it the \"Brinton\", and it's going back. This did not spark joy.",
+        "created_at": "2022-03-22 15:08:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506283223298580485,
+        "text": "In case you've forgot, here's your reminder: People are Complicated.",
+        "created_at": "2022-03-22 14:54:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506258336659955722,
+        "text": "I was gonna work on my #okta workflows training today but instead I'm just side-eyeing the entire company as I parse through 500k+ row excel sheets of logs making sure nothing concerning is missed",
+        "created_at": "2022-03-22 13:15:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505946263195373569,
+        "text": "@BroaderImpact I'm glad it's a universal struggle \ud83d\ude29",
+        "created_at": "2022-03-21 16:35:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 188741386,
+        "referenced_tweets": {
+            "id": 1505943461173809162,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505942033395027972,
+        "text": "Also my partner spent the last 5 days at big bend, and brought an entire desert back with him. Licked what I thought was sugar off of my fingertip and it was just sand. Why did that happen to me.",
+        "created_at": "2022-03-21 16:18:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505941493709787139,
+        "text": "I've been on my parents #netflix account since they used to only send out DVDs. Told my mom today that if they try to charge her to have me on as an extra user, feel free to cancel on sight. Netflix ain't that important, and she hardly uses it anyway \ud83e\udd37\u200d\u2640\ufe0f",
+        "created_at": "2022-03-21 16:16:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505620166763294720,
+        "text": "PS, to link this back to cyber security, if your plan requires someone to have a cell phone (think: apps, SMS, etc) re-think it because the only people impacted/embarrassed will be the employees you should be working the hardest to support! #cybersec #stopit",
+        "created_at": "2022-03-20 18:59:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1415320295112642568,
+        "referenced_tweets": {
+            "id": 1505620165630775299,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505620165630775299,
+        "text": "I have known many people in present day who do not have a smart phone, have accessibility issues that would make using this impossible, or cannot afford to regularly pay for their phone bill and thus wouldn't be able to do laundry. I'm over it.",
+        "created_at": "2022-03-20 18:59:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1415320295112642568,
+        "referenced_tweets": {
+            "id": 1505620164246749187,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505620164246749187,
+        "text": "My apartment complex just 'upgraded' to washers/dryers that require you connect via NFC and pay on their website \ud83d\ude12 the security of it all is one thing, but \ud83d\udc4f NOT \ud83d\udc4fEVERYONE \ud83d\udc4fHAS \ud83d\udc4fA \ud83d\udc4fSMART \ud83d\udc4fPHONE \ud83d\udc4f",
+        "created_at": "2022-03-20 18:59:54+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504259708445679623,
+        "text": "@VerizonSupport tech answered my chat \"Thank you for messaging verizon, where messages are answered in the order they are received\" why is that so funny",
+        "created_at": "2022-03-17 00:53:56+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 37435412,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504181187920678922,
+        "text": "@EvilMopacATX Planned, not happening yet though. (and at the current rate of construction/expansion, never will) Currently closest one is Kramer and that's a solid 20 minutes on foot from the edge of The Domain.",
+        "created_at": "2022-03-16 19:41:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 701785467079909376,
+        "referenced_tweets": {
+            "id": 1504145667937218560,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504135764128542722,
+        "text": "@EvilMopacATX And that it doesn't go near the domain, one of the main retail centers of the entire city?",
+        "created_at": "2022-03-16 16:41:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 701785467079909376,
+        "referenced_tweets": {
+            "id": 1504132004522176518,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503745871049019410,
+        "text": "@CarlosDgardener Ok but you gotta admit @MoistCr1TiKaL 's acceptance speech was so brilliantly on brand. \ud83e\udd0c",
+        "created_at": "2022-03-15 14:52:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2720483893,
+        "referenced_tweets": {
+            "id": 1503526423927025665,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503548126057185282,
+        "text": "RT @toolazytofail1: My Job Title: Information Security Manager\n\nLinkedIn Recruiter: I have a junior infrastructure analyst position I think\u2026",
+        "created_at": "2022-03-15 01:46:22+00:00",
+        "public_metrics": {
+            "retweet_count": 148,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503418235802296320,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503446241346265092,
+        "text": "If you'll excuse me, my dog is sleep barking and I have to go hug her.",
+        "created_at": "2022-03-14 19:01:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503446191975116802,
+        "text": "If you want to know how disconnected I am from my own city I did not know that #SXSW had started until @lilsimsie tweeted about it. I can't remember the last time I went downtown.",
+        "created_at": "2022-03-14 19:01:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501949750983094272,
+        "text": "I just had to use VIM for the first time since college \ud83d\ude12",
+        "created_at": "2022-03-10 15:55:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501949411894579203,
+        "text": "@jessejanderson I buy already started plants instead of starting my own at home ahead of growing season via seed. Too many dead/leggy seedlings because I'd forget to water them and/or set them up in a place with enough ventilation and sun",
+        "created_at": "2022-03-10 15:53:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 6027322,
+        "referenced_tweets": {
+            "id": 1501680021223608320,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501930217505533952,
+        "text": "Smartest thing I did after getting my stolen car back was deactivating every key I didn't have in my possession. Because now that I think about it, those keys STILL haven't turned up, and I used to keep multiple in my car during camping season in case they were lost on a hike.",
+        "created_at": "2022-03-10 14:37:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501591234057580553,
+        "text": "@AlyssaM_InfoSec In Austin I have Google Fiber, and am dreading when I move in the fall and have to switch back to spectrum or some shit. I feel for you \ud83d\ude2a",
+        "created_at": "2022-03-09 16:10:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 922816932860088320,
+        "referenced_tweets": {
+            "id": 1501590525501227008,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501587568508514306,
+        "text": "slack is down again yessssssss",
+        "created_at": "2022-03-09 15:55:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501199821335633921,
+        "text": "I always sleep with the window above my bed cracked (unless it's like 100 degrees out) and whenever it rains overnight I wake up because rain is splashing on my face through the screen and honestly it's very rude to rain on someone in their own bed \ud83d\ude12",
+        "created_at": "2022-03-08 14:15:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500851487987179526,
+        "text": "Just found out that @AustinPublicLib has gone fine-free and as an #ADHD child that often returned books late and could only 'afford' the library when they would accept canned food instead of $$ to pay fines, I love this decision \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+        "created_at": "2022-03-07 15:10:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500836922800934912,
+        "text": "I finally got my hands on a computer engineer barbie \ud83d\ude0d now to get an original copy of her book where she has to ask her male friends for help programming and fixing her broken computer \ud83e\udd70 I love how hard they missed the mark, truly iconic. She is cherished. https://t.co/XsT6BLLULP",
+        "created_at": "2022-03-07 14:13:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499869521175322626,
+        "text": "@AlyssaM_InfoSec the most a normal person understands is \"I have to unlock my phone every 10 minutes to click a MFA notification and it's a pain in the butt and security could save me this trouble but they don't.\" So yes... fewer no's, more solutions, but also idk if that would help.",
+        "created_at": "2022-03-04 22:08:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1415320295112642568,
+        "referenced_tweets": {
+            "id": 1499869242602278912,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499869242602278912,
+        "text": "@AlyssaM_InfoSec I feel like the average person gets the concept of getting sued and/or breaking the law a lot better than they understand cyber security. There's a balance a lot of cybersec teams can't find, but they're also kind of in a losing position when (1/2)",
+        "created_at": "2022-03-04 22:07:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 922816932860088320,
+        "referenced_tweets": {
+            "id": 1499746491820298240,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499854294094434304,
+        "text": "@GossiTheDog Considering I already have people who push non-emergency notifs through to me when I have my vacation slack status up and notifs off, I can't wait to see how this will be abused on Teams \ud83d\ude2a",
+        "created_at": "2022-03-04 21:08:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19767495,
+        "referenced_tweets": {
+            "id": 1499852512697982978,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499810817339969537,
+        "text": "Am I a bad person if I'm just not interested in jobs where I'd be a consultant? I really just wanna work with internal employees at this point in my life \ud83d\ude2a #womenintech #cybersecjobs",
+        "created_at": "2022-03-04 18:15:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499432650553049096,
+        "text": "@RlySarcasticGrl Thanks! I'm really bad at comforting people so I usually end up cooking them a lot of food or, if they're far away, mailing them something lol",
+        "created_at": "2022-03-03 17:12:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 55656429,
+        "referenced_tweets": {
+            "id": 1499144922666090496,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499430144594915342,
+        "text": "@coolvibrationz His behavior earns him a -10/10 in my book. Especially that music video like what on earth is he doing \ud83d\ude2d",
+        "created_at": "2022-03-03 17:02:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 150091691,
+        "referenced_tweets": {
+            "id": 1499388291585646596,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499429439066759172,
+        "text": "Y'all I really got hit with the \"have you tried a planner\" during my annual review and I \ud83d\ude02\ud83d\ude2d \n\n#ADHD #ohno",
+        "created_at": "2022-03-03 17:00:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499125362202189827,
+        "text": "I'm crocheting a shawl for someone who recently lost their spouse and the last row is taking FOREVER this needed to be in the mail like yesterday \ud83d\ude29 https://t.co/scXx0MN3O2",
+        "created_at": "2022-03-02 20:51:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499041944131022852,
+        "text": "@sammisecurity Whenever my partner can't find his tea mug, it's in the microwave. You're not alone on that one \ud83d\ude09",
+        "created_at": "2022-03-02 15:20:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 856674181353807872,
+        "referenced_tweets": {
+            "id": 1498789601493716994,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499041667785056256,
+        "text": "@LilMzMuffinCup Literally part of my interview was telling me that I could google things if I needed, just to share my screen so they could see how efficiently I was doing it and what I was looking for. So to answer your question: didn't even stop for the interview.",
+        "created_at": "2022-03-02 15:19:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 381298842,
+        "referenced_tweets": {
+            "id": 1498714526128164868,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499024325692870658,
+        "text": "My supervisor scheduled an hour long contractor working session immediately following my annual review. https://t.co/f5Eh1ycwNf",
+        "created_at": "2022-03-02 14:10:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498766536433098754,
+        "text": "My old retirement account has a photo of an old lady in the corner, adjustable text size buttons, and I literally have to fill out a physical form for a rollover. Great, thanks.",
+        "created_at": "2022-03-01 21:06:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498708340964274180,
+        "text": "@DevchicaJasmin Granted Net+ has its benefits but Sec+ doesn't have subnetting so it wins",
+        "created_at": "2022-03-01 17:14:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1415320295112642568,
+        "referenced_tweets": {
+            "id": 1498707653333340160,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498707653333340160,
+        "text": "@DevchicaJasmin Security because if I never have to calculate subnetting ever again it'll be too soon",
+        "created_at": "2022-03-01 17:12:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1318731086508195843,
+        "referenced_tweets": {
+            "id": 1498707099127328782,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498704431256383499,
+        "text": "I'm fine with using a mouse for video games, because its kinda necessary for some of them. But I prefer the trackpad for work stuff, it's quieter and easier. I'd also need a silent keyboard because I type like I'm trying to punch a hole through my desk",
+        "created_at": "2022-03-01 16:59:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1415320295112642568,
+        "referenced_tweets": {
+            "id": 1498704159046086662,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498704159046086662,
+        "text": "My work provided me both a lenovo and a mac when I was on the help desk for troubleshooting purposes, and the only reason I don't just use the lenovo is the lack of an equivalent to the magic trackpad. Does anyone know of one like it for windows?",
+        "created_at": "2022-03-01 16:58:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498383042905264130,
+        "text": "Someone needed something done before March 1st and I was like \"Ok yeah I'll set a reminder\" and no that's tomorrow",
+        "created_at": "2022-02-28 19:42:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498379151908249602,
+        "text": "@sammisecurity Same, and I never know if it's Euphoria again or some internet drama I'm missing out on \ud83e\udd72",
+        "created_at": "2022-02-28 19:26:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 856674181353807872,
+        "referenced_tweets": {
+            "id": 1498376769086259202,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498339850755489798,
+        "text": "When the one meeting you have for the day is scheduled right over your lunch break \ud83e\udd72",
+        "created_at": "2022-02-28 16:50:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498152421767495683,
+        "text": "Well, this explains why I just stare at an empty powershell file like \ud83d\udc41\ufe0f\ud83d\udc44\ud83d\udc41\ufe0f knowing what I need to code and ultimately how it should be done but having no idea how to even begin https://t.co/zkm4vODJn5",
+        "created_at": "2022-02-28 04:25:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1187509381736226816,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1497243369990463492,
+        "text": "@gabsmashh My dog is the worst and I hate her but also I love her to death and never wanna be without her. 10/10 recommend a dog https://t.co/13IiNwmpT8",
+        "created_at": "2022-02-25 16:13:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1072944174448685063,
+        "referenced_tweets": {
+            "id": 1497240411982729216,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496997420693131270,
+        "text": "@danidonovan You and my dad would've gotten along. He was a newspaper graphic designer and the only person I know who would look at a menu and say \"what a weird font choice.\"",
+        "created_at": "2022-02-24 23:56:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 31,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 16269197,
+        "referenced_tweets": {
+            "id": 1496984355935293443,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496593345468112899,
+        "text": "@notshenetworks I want to do both, but unfortunately the leaving comes like a month before the election. If I had $$ I'd pay my rent for a few extra months just to vote against him.",
+        "created_at": "2022-02-23 21:10:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 811560822459822080,
+        "referenced_tweets": {
+            "id": 1496579255299358723,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496591812693315584,
+        "text": "@EvieAlways I've really enjoyed my last 6 years in Texas, but Abbott just https://t.co/4G5Vi1VcLa",
+        "created_at": "2022-02-23 21:04:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1112542148187045890,
+        "referenced_tweets": {
+            "id": 1496586142057181198,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496527948312162309,
+        "text": "RT @MorganFailchild: come on down to ADHD Depot, we got\n-skin picking\n-everybody's mad at you (always)\n-70% of your belongings: gone\n-spend\u2026",
+        "created_at": "2022-02-23 16:50:41+00:00",
+        "public_metrics": {
+            "retweet_count": 11266,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496121514512592898,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496527573500710916,
+        "text": "I thought I preferred working in an office, but then I was commuting at 6:30am and didn't get serotonin boosts from my dog doing cute things throughout the day and had to take 10 minute break naps on the floor of a private conference room and tbh I'm relieved I can #wfh forever",
+        "created_at": "2022-02-23 16:49:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496498698800582660,
+        "text": "@notshenetworks I don't think they realize we don't want to job hop?? I love working at one place for a long time. It's comfortable. But also my pay ain't gonna change if I don't. \ud83e\udd37\u200d\u2640\ufe0f",
+        "created_at": "2022-02-23 14:54:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 811560822459822080,
+        "referenced_tweets": {
+            "id": 1496494612504006656,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496487842205388802,
+        "text": "@lunasorcery \"Trickling in\"\nI didn't know I had an issue with that one until they used it 5 times in a 2 minute period (e.x. People are still trickling in) in a recent meeting.",
+        "created_at": "2022-02-23 14:11:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 29508496,
+        "referenced_tweets": {
+            "id": 1496268290896896004,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496236465629638660,
+        "text": "@notshenetworks I'd even settle for them letting you see the stock in your store on the website, like, you know... every other grocery chain.",
+        "created_at": "2022-02-22 21:32:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 811560822459822080,
+        "referenced_tweets": {
+            "id": 1496234998264999936,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496234691959132161,
+        "text": "Fun fact, my really old car was taken like 2 years ago. I went to pick up a ramen order and it was gone. Had to call @ramentatsu_ya  and tell them I couldn't come get my order because my car had been stolen \ud83d\ude02 got it back eventually but I still think abt that abandoned tsukemen\ud83e\udd72 https://t.co/YUVbtGMCHl",
+        "created_at": "2022-02-22 21:25:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495927708785819652,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1496232776273645571,
+        "text": "@Nivek1385 @Jason_M_Knapp @cybersecmeg Only if it's complete with a powerpoint of how the thing they 'didn't have the budget for' two months ago could have prevented exactly this \ud83d\ude42",
+        "created_at": "2022-02-22 21:17:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 198286778,
+        "referenced_tweets": {
+            "id": 1496231787319775234,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496209631835734017,
+        "text": "There are actually 4 of these spots in various places in my house. We call them 'parm corners' because one of them started because we spilled some parmesan cheese and didn't clean it up right away. This one is just the worst because she moves my feet to get into it.",
+        "created_at": "2022-02-22 19:45:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1415320295112642568,
+        "referenced_tweets": {
+            "id": 1496208363578920966,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496209259591315460,
+        "text": "@cybersecmeg Region block o365, force sign-out for any users who might be affected, notify the required parties and use it as a bargaining chip to get MFA or adaptive MFA required across the entire company. \ud83d\udca5",
+        "created_at": "2022-02-22 19:44:20+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 24,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1326272772654440451,
+        "referenced_tweets": {
+            "id": 1496208443786637321,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496208363578920966,
+        "text": "I dropped food under my desk ONCE and didn't notice and my dog found it and now two times a day at least she checks that same spot just in case. It has been almost a year.",
+        "created_at": "2022-02-22 19:40:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496162694378004486,
+        "text": "My cheap @EufyOfficial is cute and all but how do I keep it from getting stuck under my couch within 2 minutes of running? And bouncing around in the same section of my room for 20+ minutes and doing nothing else? I need to just suck it up and get a roomba tbqh",
+        "created_at": "2022-02-22 16:39:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496161650860343299,
+        "text": "My landlord just told me they can't extend my lease (~$1100/month) for two extra months and we're gonna have to go month to month which is $1650/month send help or a good-paying job lmao cybersec recruiters where you at",
+        "created_at": "2022-02-22 16:35:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496128942624972804,
+        "text": "Yo slack please get it together I don't have time for this #slackoutage #ihaveworktodo",
+        "created_at": "2022-02-22 14:25:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495926084780666882,
+        "text": "@thecodinghigh Hi! I'm Sam and I have a BS in CyberSec and work in IAM \ud83d\ude42",
+        "created_at": "2022-02-22 00:59:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 929773857312931840,
+        "referenced_tweets": {
+            "id": 1495729319448043520,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495925688091693060,
+        "text": "First time playing D&amp;D in WEEKS and I would say I wish I had taken notes last session but when I did attempt to take notes once it was just the name of an NPC and the name of a town. I found these notes about two weeks after we completed that quest.",
+        "created_at": "2022-02-22 00:57:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495523624874385413,
+        "text": "Can we just agree that in the year of our lord 2022 cover letters are entirely unnecessary? Does anyone in #cybersecurity #recruiting even read them?",
+        "created_at": "2022-02-20 22:19:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495523338881572871,
+        "text": "My rent is going up 40% apparently. I'm gonna have no choice but to move, I can't afford that \ud83e\udd72 #AustinTX",
+        "created_at": "2022-02-20 22:18:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495499447870046210,
+        "text": "As a millennial who has lived in Austin for almost a decade I'm super over the \"hur hur look at these gentrifying hipsters with their food trucks all they care about is their PHONES and LIKES\" bullshit let people enjoy things",
+        "created_at": "2022-02-20 20:43:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1415320295112642568,
+        "referenced_tweets": {
+            "id": 1495498929303076866,
+            "type": "replied_to"
+        }
+    }
+]

@@ -1,0 +1,2611 @@
+[
+    {
+        "tweet_id": 1499695140604051457,
+        "text": "@emily_tweets Nah food is better",
+        "created_at": "2022-03-04 10:35:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2925159973,
+        "referenced_tweets": {
+            "id": 1499597124417163266,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497888896310415363,
+        "text": "@AmyLeeBooks Ill be ur fwend \ud83d\ude0c\ud83d\ude0c",
+        "created_at": "2022-02-27 10:58:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1485072132312862720,
+        "referenced_tweets": {
+            "id": 1497730406774358016,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496117852960882692,
+        "text": "@GeorgieRastaMay Yazzz",
+        "created_at": "2022-02-22 13:41:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1124868097,
+        "referenced_tweets": {
+            "id": 1495740624573714434,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492862125135609861,
+        "text": "Epic fails enjoy \ud83d\ude02\ud83e\udd23\ud83e\udd23 https://t.co/FmFPnoZM6x",
+        "created_at": "2022-02-13 14:04:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492861205379231752,
+        "text": "Lol syringes \ud83e\udd23\ud83d\ude02 https://t.co/yYeWRo9202",
+        "created_at": "2022-02-13 14:00:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492860949241348105,
+        "text": "Omg \ud83d\ude02\ud83e\udd23 https://t.co/c394C2ZuCL",
+        "created_at": "2022-02-13 13:59:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492860634299572224,
+        "text": "Mannnnn \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/LujgM1G3sl",
+        "created_at": "2022-02-13 13:58:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492860245848244228,
+        "text": "Just posted a photo https://t.co/76st687i1U",
+        "created_at": "2022-02-13 13:56:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492859964280520705,
+        "text": "I put this up bc i stepped on one \ud83e\udd74\ud83d\ude02 https://t.co/6RQlwXcptE",
+        "created_at": "2022-02-13 13:55:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492859321566195713,
+        "text": "Wow \ud83d\ude32 hey buggs ur on https://t.co/RWKpD1Pvj3",
+        "created_at": "2022-02-13 13:52:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492200988295446528,
+        "text": "This is called my best friend ain't \ud83d\udca9\ud83e\udd26\ud83c\udfff\u200d\u2642\ufe0f https://t.co/172nPGEQZg",
+        "created_at": "2022-02-11 18:16:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491584081213153283,
+        "text": "Lmao https://t.co/OtfOyXu0q6",
+        "created_at": "2022-02-10 01:25:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491583970735230978,
+        "text": "Sooooooo true https://t.co/MiUBUyPEGJ",
+        "created_at": "2022-02-10 01:25:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491582553999876097,
+        "text": "\ud83d\ude33\ud83d\ude33 that means Fox news was truthful \ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/B8yu7JHuZW",
+        "created_at": "2022-02-10 01:19:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491582533661863936,
+        "text": "I sure don't \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a https://t.co/FBeZt6VDqn",
+        "created_at": "2022-02-10 01:19:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491582516523847685,
+        "text": "\ud83e\udd14\ud83e\udd14\ud83e\udd14 interesting https://t.co/5dyQB6jeKV",
+        "created_at": "2022-02-10 01:19:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491581037482176515,
+        "text": "Ladies and gentlemen we have a minor turbulence, please remain seated til seated, welp they died \ud83e\udd23\ud83e\udd23 https://t.co/GgwJG36B5H",
+        "created_at": "2022-02-10 01:13:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491580723114950664,
+        "text": "What i sound like at events \ud83d\ude0a\ud83d\ude0a https://t.co/QQDe0pdqMd",
+        "created_at": "2022-02-10 01:12:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491580093772226565,
+        "text": "\ud83d\ude0fsee what happened https://t.co/bbadxzNI6p",
+        "created_at": "2022-02-10 01:09:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491579799575355394,
+        "text": "@deshan_moneybag  u ridin bro \ud83d\ude0f https://t.co/By43uEAO2v",
+        "created_at": "2022-02-10 01:08:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491579681434394625,
+        "text": "\ud83e\udd23\ud83d\ude2d\ud83d\ude2d im done https://t.co/AyocSqxnwu",
+        "created_at": "2022-02-10 01:08:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491579437380481027,
+        "text": "Got smacked so hard he seen next 3 years flash \ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/j5RBuCQd8A",
+        "created_at": "2022-02-10 01:07:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491579150670307329,
+        "text": "Get em \ud83d\ude2d\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/1czUqXXCyA",
+        "created_at": "2022-02-10 01:05:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491578437382909963,
+        "text": "Kids talk too much \ud83e\udd23\ud83e\udd23 https://t.co/gH0daybvdj",
+        "created_at": "2022-02-10 01:03:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491575765267365893,
+        "text": "\ud83e\udd23\ud83d\ude2d https://t.co/LgIBQwyjPs",
+        "created_at": "2022-02-10 00:52:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490575052718231554,
+        "text": "Imagine @tonybaker  saying it \ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/kNAwFGEgcf",
+        "created_at": "2022-02-07 06:36:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490574542187675651,
+        "text": "Lmao \ud83e\udd23 https://t.co/Rl4Tjmf7uI",
+        "created_at": "2022-02-07 06:33:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490574333017673732,
+        "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83e\udd23\ud83d\ude2d\ud83d\ude2d https://t.co/t7evKn9dKX",
+        "created_at": "2022-02-07 06:33:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490572789971103745,
+        "text": "\ud83d\ude0c\ud83d\ude0c https://t.co/WKMVAQvXni",
+        "created_at": "2022-02-07 06:27:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490571846672166912,
+        "text": "LMAO who wants to play \ud83d\ude02 https://t.co/xduIGS7gNg",
+        "created_at": "2022-02-07 06:23:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490571366369800192,
+        "text": "\ud83d\ude02 https://t.co/nu5TYNGLZe",
+        "created_at": "2022-02-07 06:21:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490571306085097475,
+        "text": "\ud83d\ude2a\ud83d\ude2a\ud83d\ude2a https://t.co/k9s9aKJiFY",
+        "created_at": "2022-02-07 06:21:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490571279874805761,
+        "text": "This dude dreamin bout catnip https://t.co/lWlK1pUTtJ",
+        "created_at": "2022-02-07 06:21:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490342048859316226,
+        "text": "Ughhhhhhhhhhhhhhhh\ud83d\ude33 https://t.co/wTcW4BNFaZ",
+        "created_at": "2022-02-06 15:10:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490339843473350656,
+        "text": "Just posted a photo https://t.co/7yXibSiqaG",
+        "created_at": "2022-02-06 15:01:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490338734168059909,
+        "text": "\u263a\ufe0f\u263a\ufe0f https://t.co/QUzYc9XjjW",
+        "created_at": "2022-02-06 14:56:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490221438762209281,
+        "text": "\ud83d\ude0f\ud83d\ude0f https://t.co/aUWWia45S4",
+        "created_at": "2022-02-06 07:10:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490113136791371788,
+        "text": "Awwwwwe vegan friendly https://t.co/F8fnfnA0L5",
+        "created_at": "2022-02-06 00:00:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490112399109591042,
+        "text": "\ud83d\ude0c\ud83d\ude0c very true https://t.co/MOryeUjGha",
+        "created_at": "2022-02-05 23:57:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490112131794149379,
+        "text": "Awwwwwww \ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a https://t.co/CE8KJARxOw",
+        "created_at": "2022-02-05 23:56:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490111739584724993,
+        "text": "\ud83d\ude02\ud83d\ude02poor pup https://t.co/oQNM28Y3sP",
+        "created_at": "2022-02-05 23:54:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490111319189512196,
+        "text": "\ud83d\ude0c\ud83d\ude0c\ud83d\ude0c https://t.co/GXuRxqxWO9",
+        "created_at": "2022-02-05 23:53:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490110792896847885,
+        "text": "Lmao https://t.co/2CT51lQIBS",
+        "created_at": "2022-02-05 23:51:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490110162950107137,
+        "text": "Lmao the dog https://t.co/jLV8WFS89X",
+        "created_at": "2022-02-05 23:48:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490108418723622917,
+        "text": "Lmao sounds like me https://t.co/8JCNUr4KV6",
+        "created_at": "2022-02-05 23:41:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490108074924904450,
+        "text": "Lmao \ud83e\udd23 https://t.co/bTMTeuK9xh",
+        "created_at": "2022-02-05 23:40:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490102950714388484,
+        "text": "\ud83d\ude0c\ud83d\ude0c https://t.co/3bDCZTwpPE",
+        "created_at": "2022-02-05 23:20:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489860377915666433,
+        "text": "Alphabet \ud83d\ude0c https://t.co/8O0cN6GyCC",
+        "created_at": "2022-02-05 07:16:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489859020697452547,
+        "text": "Well played \ud83d\ude02\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/VDiNYVweJW",
+        "created_at": "2022-02-05 07:10:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489858059316776961,
+        "text": "Lmfao \ud83d\ude02 https://t.co/qJrcgOKied",
+        "created_at": "2022-02-05 07:06:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489856732587192320,
+        "text": "@n.austen123  look its ur laugh \ud83e\udd23\ud83e\udd23 https://t.co/k39ZIgeNmS",
+        "created_at": "2022-02-05 07:01:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 863391,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489856484141764609,
+        "text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d https://t.co/rPnxM0aCZv",
+        "created_at": "2022-02-05 07:00:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489855117218168832,
+        "text": "\ud83d\ude0f https://t.co/67aZ2dxgvb",
+        "created_at": "2022-02-05 06:55:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489854618829918208,
+        "text": "Not bad https://t.co/9608dMeLOA",
+        "created_at": "2022-02-05 06:53:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489853949259620353,
+        "text": "Numb nuts \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/IqZVxEoMZr",
+        "created_at": "2022-02-05 06:50:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489853388456140802,
+        "text": "My brain is wierd i read it \ud83e\udd23\ud83e\udd23 https://t.co/irTScZmBiM",
+        "created_at": "2022-02-05 06:48:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489852966043488259,
+        "text": "Buggs r u teaching these animals to speak https://t.co/0HWUAobIlw",
+        "created_at": "2022-02-05 06:46:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489852362248396800,
+        "text": "\ud83e\udd23\ud83e\udd23\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d https://t.co/Uw8VKRSX6Z",
+        "created_at": "2022-02-05 06:44:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489851916351852545,
+        "text": "A joke for u bc im bored \ud83e\udd23\ud83e\udd23 https://t.co/2M6kE30gTV",
+        "created_at": "2022-02-05 06:42:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489851611304366084,
+        "text": "Lmfgo \ud83e\udd23\ud83d\ude2d https://t.co/KPA9sF4ysP",
+        "created_at": "2022-02-05 06:41:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489851138501455873,
+        "text": "For more funny memes follow @king_blu97534_ , @they_scream_a_nasty , @zealousand290  and @madex964 https://t.co/L4l9fM9lNk",
+        "created_at": "2022-02-05 06:39:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489850614528020482,
+        "text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83e\udd23\ud83e\udd23\ud83d\udc80\ud83d\udc80\ud83d\udc80 https://t.co/L9gAcLxpm2",
+        "created_at": "2022-02-05 06:37:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489850555958796289,
+        "text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\udc80\ud83d\udc80\ud83d\udc80\ud83d\udc80\ud83d\udc80\ud83d\udc80 https://t.co/6McEzMyVTZ",
+        "created_at": "2022-02-05 06:37:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489849711922233347,
+        "text": "\ud83d\ude33\ud83d\ude33\ud83d\ude33 https://t.co/dANTPHOXFQ",
+        "created_at": "2022-02-05 06:33:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489849494267179011,
+        "text": "\ud83d\ude0f\ud83d\ude0f https://t.co/0BLo5SMHyo",
+        "created_at": "2022-02-05 06:32:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489848773912281089,
+        "text": "\ud83d\ude0f\ud83d\udc80\ud83d\ude0c\ud83e\udd23 https://t.co/f1OnaZS4m6",
+        "created_at": "2022-02-05 06:30:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489848494135431169,
+        "text": "\ud83d\ude0c\u263a\ufe0f https://t.co/0iFAAxt7Be",
+        "created_at": "2022-02-05 06:28:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489848354867748868,
+        "text": "Skateboard said imma let u ride \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\ude02\ud83d\ude02 https://t.co/BXQmmJdDuC",
+        "created_at": "2022-02-05 06:28:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489848072578510848,
+        "text": "Im \ud83d\udc80\ud83e\udd23\ud83e\udd23 https://t.co/0HreEC7CBn",
+        "created_at": "2022-02-05 06:27:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489847599116926979,
+        "text": "Lmfao \ud83d\ude02\ud83e\udd23 https://t.co/vctpe1dvXR",
+        "created_at": "2022-02-05 06:25:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489847354689822722,
+        "text": "Lmfao \ud83d\ude02\ud83e\udd23 https://t.co/33oTOBX509",
+        "created_at": "2022-02-05 06:24:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489794628970848258,
+        "text": "@cshapray  \ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/cAongYEP2R",
+        "created_at": "2022-02-05 02:54:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1048190011911204865,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489793839757869057,
+        "text": "LoL \ud83d\ude02 https://t.co/s2kb831NXq",
+        "created_at": "2022-02-05 02:51:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489792759552688142,
+        "text": "@tonybaker  please check this out \ud83d\ude0c\ud83d\ude0c https://t.co/TQAeU1iQO2",
+        "created_at": "2022-02-05 02:47:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 16933903,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489439695406710792,
+        "text": "Me hidin from ppl bc im drunk \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/kpNdX5GUTn",
+        "created_at": "2022-02-04 03:24:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489439495095205896,
+        "text": "\ud83e\udd23\ud83e\udd23\ud83d\ude02\ud83d\ude02 https://t.co/RtAYvpHstB",
+        "created_at": "2022-02-04 03:23:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489438240990015492,
+        "text": "\ud83e\udd23\ud83e\udd23\ud83d\ude02\ud83d\ude02 https://t.co/UNpxpwketB",
+        "created_at": "2022-02-04 03:18:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489437916803866625,
+        "text": "\ud83e\udd14\ud83e\udd14\ud83e\udd14 im curious https://t.co/QGeVK9euuP",
+        "created_at": "2022-02-04 03:17:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489437487906840577,
+        "text": "Im done \ud83e\udd23\ud83e\udd23\ud83d\ude02 https://t.co/Ikj2eiXqqm",
+        "created_at": "2022-02-04 03:15:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489396346255593472,
+        "text": "Man \ud83d\ude25\ud83d\ude22\ud83d\ude22 my other half makin me cry mannn, im just only tryna work on myself but this hurts https://t.co/XxNNuYST9Z",
+        "created_at": "2022-02-04 00:32:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489002833202450432,
+        "text": "Exactly my point https://t.co/afENvZS19M",
+        "created_at": "2022-02-02 22:28:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489002454784122883,
+        "text": "Yea cant trust it https://t.co/LneE1WmOG9",
+        "created_at": "2022-02-02 22:27:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488711490085568513,
+        "text": "Lmao \ud83e\udd23 https://t.co/jtjWNTpS7v",
+        "created_at": "2022-02-02 03:10:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488244516800892940,
+        "text": "To my amazing partner lets do this plz \ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83d\udd90\ufe0f\ud83d\udd2b https://t.co/zRfoCi5cD2",
+        "created_at": "2022-01-31 20:15:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488212158743818241,
+        "text": "I forgot https://t.co/WqDaQ5eUp3",
+        "created_at": "2022-01-31 18:06:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488211713971437579,
+        "text": "Just posted a photo https://t.co/U6pR8AysnL",
+        "created_at": "2022-01-31 18:04:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488206545938784257,
+        "text": "\ud83d\ude0f https://t.co/1sNJvfjvZp",
+        "created_at": "2022-01-31 17:44:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488206349834067972,
+        "text": "\ud83d\ude02\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/cskWMbSezj",
+        "created_at": "2022-01-31 17:43:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488205324561661953,
+        "text": "LMAO \ud83e\udd23\ud83e\udd23 loki i thought about doin it https://t.co/0UuiBchPAy",
+        "created_at": "2022-01-31 17:39:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488205018763337734,
+        "text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 don't convict me https://t.co/RzCYBmKnZM",
+        "created_at": "2022-01-31 17:38:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488204989076066308,
+        "text": "Im building a wall \ud83d\ude02\ud83e\udd23\ud83e\udd23 https://t.co/8XgmUPezCD",
+        "created_at": "2022-01-31 17:38:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488204413248356353,
+        "text": "No more taxes \ud83d\ude13\ud83d\ude13\ud83d\ude13\ud83d\ude13 https://t.co/xykTJfzpG6",
+        "created_at": "2022-01-31 17:35:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488203992165351427,
+        "text": "LMAO \ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/RWnkb33uCN",
+        "created_at": "2022-01-31 17:34:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488203838209216513,
+        "text": "Same im so proud of you \ud83d\ude02\ud83d\ude02\ud83e\udd23 https://t.co/9CuLlazBPU",
+        "created_at": "2022-01-31 17:33:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488203533598011395,
+        "text": "Doc said i got u covered https://t.co/9mInjT0KFe",
+        "created_at": "2022-01-31 17:32:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488189987493449729,
+        "text": "Glad i ain't gotta deal with it https://t.co/COsFugoJbr",
+        "created_at": "2022-01-31 16:38:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488189356863115267,
+        "text": "My life rn https://t.co/m44Hl5tMMo",
+        "created_at": "2022-01-31 16:36:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488189042613264389,
+        "text": "Lol imma just mind my business \ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/7V9sq4pZXq",
+        "created_at": "2022-01-31 16:34:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488188488809910280,
+        "text": "My favorite drink https://t.co/Novzs25sA0",
+        "created_at": "2022-01-31 16:32:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488188194390745091,
+        "text": "Lmao \ud83e\udd23 https://t.co/M2ZSNp4aeG",
+        "created_at": "2022-01-31 16:31:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488187952840781830,
+        "text": "\ud83d\ude12\ud83d\ude12 https://t.co/MMhmrRTcMa",
+        "created_at": "2022-01-31 16:30:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488187456302333953,
+        "text": "Meeee\ud83d\ude02\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/auFdNpc50A",
+        "created_at": "2022-01-31 16:28:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488184671187914752,
+        "text": "Ehem \ud83e\udd7a\u264a\u2648\ud83d\udc97\ud83d\udd10\ud83d\udc8d\ud83e\udd8b\ud83d\udc97\u2764\ufe0f\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83d\ude0f\ud83d\ude0f\ud83d\udc96\ud83d\udc96\ud83d\udda4\ud83e\udd0d u Know who u r https://t.co/6lAGFGviuA",
+        "created_at": "2022-01-31 16:17:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488184203724341248,
+        "text": "Yo lizzy remember when you did that\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/4iYVE0DB6Y",
+        "created_at": "2022-01-31 16:15:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488183749560918025,
+        "text": "\ud83d\ude02\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\ude0f\ud83d\udc8d\ud83d\udd10\u2648\u264a\ud83d\udc97\ud83e\udd8b\u2764\ufe0f\ud83e\udd7a\ud83e\udd7a https://t.co/YLmAevhP7N",
+        "created_at": "2022-01-31 16:13:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488183389551312900,
+        "text": "Im done https://t.co/tQ6UIejz1d",
+        "created_at": "2022-01-31 16:12:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488183112232161291,
+        "text": "\ud83d\ude02\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/SzbGHUWYdo",
+        "created_at": "2022-01-31 16:11:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488182837002051586,
+        "text": "Im \ud83d\udc80\ud83d\udc80 https://t.co/WxtzS65ghs",
+        "created_at": "2022-01-31 16:10:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488182565295042565,
+        "text": "There's no sport more dangerous then that \ud83d\ude02\ud83d\ude02\ud83e\udd23 https://t.co/EgxVub3M0d",
+        "created_at": "2022-01-31 16:09:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488181869917134850,
+        "text": "Who would respond https://t.co/mnnkizhiaa",
+        "created_at": "2022-01-31 16:06:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488180126206488580,
+        "text": "Bae snore for me \ud83d\ude0f https://t.co/8YEL2D5WXE",
+        "created_at": "2022-01-31 15:59:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488072238624608265,
+        "text": "Lmaooooooo https://t.co/ztyFPpZnxK",
+        "created_at": "2022-01-31 08:50:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488071646019735556,
+        "text": "I have ADHD https://t.co/DMfR7U25Vp",
+        "created_at": "2022-01-31 08:48:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488071303869444100,
+        "text": "My flight is here https://t.co/gl6gxe8Sp7",
+        "created_at": "2022-01-31 08:47:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488070797105065984,
+        "text": "Interesting, picks up starfish and places them in pants \ud83d\udc56\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/ol5qturJbZ",
+        "created_at": "2022-01-31 08:44:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487276213374754823,
+        "text": "He like where we goin https://t.co/mRY7NCKccM",
+        "created_at": "2022-01-29 04:07:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487275988396515330,
+        "text": "My friend and I \ud83d\ude02\ud83e\udd23\ud83e\udd23 https://t.co/YySw7ewZuS",
+        "created_at": "2022-01-29 04:06:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487274936846602240,
+        "text": "Who is it \ud83d\udc1d ok ill bzz u in \ud83d\ude02\ud83d\ude02\ud83e\udd23 https://t.co/ude7nZ8LD3",
+        "created_at": "2022-01-29 04:02:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487274519496572930,
+        "text": "No their Dead \ud83e\udd23\ud83e\udd23 https://t.co/Nc19Elpy0T",
+        "created_at": "2022-01-29 04:00:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487273611454996482,
+        "text": "On me she be thinkin she a hero too. She think she better than us https://t.co/L7az0WrZ8X",
+        "created_at": "2022-01-29 03:57:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487273045819486208,
+        "text": "G i hated playgrounds \ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/L3zPtHWutM",
+        "created_at": "2022-01-29 03:55:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487272692541702147,
+        "text": "@olivia.newton.587 im not serious about u babe i woves u \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 maybe. Tell Sam i said hiiiiiiiiiii https://t.co/U15A0jEfXe",
+        "created_at": "2022-01-29 03:53:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 25216995,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487272242941775873,
+        "text": "Oh wow spirit, spirit r u there https://t.co/rKCQmvgTRR",
+        "created_at": "2022-01-29 03:51:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487272016566636546,
+        "text": "I embarrass myself often https://t.co/IQBMthSnHc",
+        "created_at": "2022-01-29 03:50:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487271805345804289,
+        "text": "Imma get up in slow motion hit u fast https://t.co/R9BnGV2XEQ",
+        "created_at": "2022-01-29 03:50:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487271494996660231,
+        "text": "Who's my next one https://t.co/CctF0E68SY",
+        "created_at": "2022-01-29 03:48:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487270911833223169,
+        "text": "Im truly a natural overthinker https://t.co/nMFtGXq6gD",
+        "created_at": "2022-01-29 03:46:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487270699848716291,
+        "text": "Lol 3 yr olds https://t.co/Gig9qriTQL",
+        "created_at": "2022-01-29 03:45:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487270370130505729,
+        "text": "Lol my nephew's \ud83e\udd23\ud83e\udd23\ud83d\ude02\ud83d\ude02 https://t.co/rbZLSoS1KL",
+        "created_at": "2022-01-29 03:44:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487269758726774786,
+        "text": "On me \ud83d\udd95 https://t.co/AmYvsgh8QB",
+        "created_at": "2022-01-29 03:41:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487269169703890945,
+        "text": "Omg 4 real \ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/B1O4ILAF0D",
+        "created_at": "2022-01-29 03:39:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487268925637373954,
+        "text": "Damn yo breathe\ud83d\udea9\ud83d\udea9\ud83d\udea9\ud83d\udea9\ud83d\udea9\ud83d\udea9 https://t.co/a3hfh9sEXN",
+        "created_at": "2022-01-29 03:38:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487268341240582150,
+        "text": "Sorry not !!!!!\u2757\u2757\u2757\u2757\u2757\u2757\u2757\u203c\ufe0f\u203c\ufe0f https://t.co/2ALryAIZQU",
+        "created_at": "2022-01-29 03:36:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487200238679076867,
+        "text": "Im dead \ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/2er6l7rxY8",
+        "created_at": "2022-01-28 23:05:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486969687820832771,
+        "text": "Lmao https://t.co/euCKgaDS8w",
+        "created_at": "2022-01-28 07:49:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486969218167975939,
+        "text": "Biggg puffsfor lil guy https://t.co/iS0PxwcCZE",
+        "created_at": "2022-01-28 07:47:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486967914376933377,
+        "text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23lmao don't act tho ,\ud83d\ude15\ud83d\ude15 https://t.co/PjvCV18ald",
+        "created_at": "2022-01-28 07:42:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486966994587070466,
+        "text": "@le.eann1000  omg bae \ud83e\udd7a\ud83e\udd7a https://t.co/4M7vSUeVSD",
+        "created_at": "2022-01-28 07:38:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1199121,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486965893154447366,
+        "text": "LMAO \ud83e\udd23 https://t.co/9vlJXNKbir",
+        "created_at": "2022-01-28 07:34:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486965542200168452,
+        "text": "Welp he's gone https://t.co/TS1P0p4nL6",
+        "created_at": "2022-01-28 07:33:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486965153992265728,
+        "text": "Lmao https://t.co/gl3cHS0bwG",
+        "created_at": "2022-01-28 07:31:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486964543494377473,
+        "text": "@buggy.b1tchboi  this reminds me of how much u criticize me \ud83e\udd23\ud83e\udd23 https://t.co/WsWm3OS3U9",
+        "created_at": "2022-01-28 07:29:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1400902985304190982,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486963470889328641,
+        "text": "Oh damn https://t.co/NNFr40hw3j",
+        "created_at": "2022-01-28 07:24:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486962230109380612,
+        "text": "@le.eann1000 lets do that bae https://t.co/C6MTWKtvNN",
+        "created_at": "2022-01-28 07:19:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1199121,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486955437547212805,
+        "text": "@le.eann1000 https://t.co/3Bf7nDvkwo",
+        "created_at": "2022-01-28 06:52:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1199121,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484935383297269764,
+        "text": "Just posted a photo https://t.co/8aB6yrAAu5",
+        "created_at": "2022-01-22 17:05:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484934392728412168,
+        "text": "\ud83d\ude02\ud83d\ude02\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/KUcA32C2HU",
+        "created_at": "2022-01-22 17:02:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484933945930174467,
+        "text": "Lmao \ud83e\udd23\ud83e\udd23 https://t.co/wc0QKBvqsB",
+        "created_at": "2022-01-22 17:00:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484932576426999810,
+        "text": "@le.eann1000  and @king_blu97534_  we both do https://t.co/y0nHEwxrP4",
+        "created_at": "2022-01-22 16:54:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1199121,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484931574139441152,
+        "text": "My mindset https://t.co/hceMPQem9r",
+        "created_at": "2022-01-22 16:50:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484751693984280578,
+        "text": "Bae let's get him \ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a https://t.co/EQZfB0KNhn",
+        "created_at": "2022-01-22 04:56:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484749360567095297,
+        "text": "Uggh https://t.co/r0LjAZFMoE",
+        "created_at": "2022-01-22 04:46:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484747798926950400,
+        "text": "Pullin a a dull counter on everyone, don't think u'll ruin my life \ud83d\ude0f\ud83d\ude0f https://t.co/9tKFwRVuHc",
+        "created_at": "2022-01-22 04:40:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484665741613936651,
+        "text": "To those whom like comics https://t.co/9TfP2eOFnB",
+        "created_at": "2022-01-21 23:14:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484664383045259266,
+        "text": "Only woman's butt i worship is my babe's \ud83d\ude0f\ud83d\ude0f https://t.co/x6x1sAQiQk",
+        "created_at": "2022-01-21 23:09:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484663573871841281,
+        "text": "Me at night https://t.co/bsQxw2oRcj",
+        "created_at": "2022-01-21 23:05:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484663294031970309,
+        "text": "Hey dad you will live but if u piss me off ill pull ur plug or misdiagnose you \ud83d\ude02\ud83d\ude02 https://t.co/dwBhF6kwkJ",
+        "created_at": "2022-01-21 23:04:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484662851709157380,
+        "text": "Walking around w a humping everything \ud83d\ude02\ud83d\ude02 https://t.co/hfpw637GHf",
+        "created_at": "2022-01-21 23:03:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484662257229479936,
+        "text": "Reflect https://t.co/q5OuEev7Mo",
+        "created_at": "2022-01-21 23:00:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484660874954649603,
+        "text": "To everyone of my friends this is dedicated to u \ud83d\ude0a\ud83d\ude0a  @n.austen123 , @buggy.b1tchboi , @glizzy_on , @haay_ari  and to my amazing partner, @le.eann1000 https://t.co/3g2o3QxWtU",
+        "created_at": "2022-01-21 22:55:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484659585059373066,
+        "text": "Another meme for u guys https://t.co/UBoYO31GdR",
+        "created_at": "2022-01-21 22:50:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484416487058194434,
+        "text": "@le.eann1000 i love you so much https://t.co/B8dOCyAXfa",
+        "created_at": "2022-01-21 06:44:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1199121,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484399157561499649,
+        "text": "I guess im that slow https://t.co/7b68rWQnJs",
+        "created_at": "2022-01-21 05:35:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484398860072062976,
+        "text": "\ud83d\ude33\ud83d\ude33\ud83d\ude33\ud83d\ude33 https://t.co/AuguBfyRVg",
+        "created_at": "2022-01-21 05:34:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484398328418766850,
+        "text": "\ud83d\ude0f\ud83d\ude0f https://t.co/fcQy1EEoAu",
+        "created_at": "2022-01-21 05:31:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484397669145534465,
+        "text": "Lmao Alexa said fuck you \ud83d\ude02\ud83d\ude02 https://t.co/C4tzeO2Hzm",
+        "created_at": "2022-01-21 05:29:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484396873213435905,
+        "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/V5yxln7CFV",
+        "created_at": "2022-01-21 05:26:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484396028858146818,
+        "text": "LoL brownies \ud83d\ude16\ud83d\ude02 https://t.co/8lCXKslu6h",
+        "created_at": "2022-01-21 05:22:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484395628302065664,
+        "text": "Smart ass https://t.co/I8Gzufus0W",
+        "created_at": "2022-01-21 05:21:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484395402631671809,
+        "text": "Yup time to go home https://t.co/eOiYVOntZf",
+        "created_at": "2022-01-21 05:20:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484395313125376001,
+        "text": "I need a rope too https://t.co/18P8ifD8Ty",
+        "created_at": "2022-01-21 05:19:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484394537757904901,
+        "text": "Damn who missed me\ud83d\ude0a\ud83d\ude0a https://t.co/N8hl1F5eH1",
+        "created_at": "2022-01-21 05:16:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483979865439281157,
+        "text": "Just posted a photo https://t.co/tlH8kK2982",
+        "created_at": "2022-01-20 01:49:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483979569229090818,
+        "text": "Is it wait sorry for asking bae where you at https://t.co/ftg3sAv8M6",
+        "created_at": "2022-01-20 01:47:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483978989488193545,
+        "text": "Run Kermit runnnnnn https://t.co/fa98kRdyw6",
+        "created_at": "2022-01-20 01:45:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483977552259694599,
+        "text": "\ud83d\ude33\ud83d\ude33\ud83d\ude33\ud83d\ude33\ud83d\ude33\ud83d\ude33\ud83d\ude33 https://t.co/5Z3YgjH93r",
+        "created_at": "2022-01-20 01:39:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483976853484359685,
+        "text": "My demonz https://t.co/uUDPtLZJJC",
+        "created_at": "2022-01-20 01:37:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483976361417003012,
+        "text": "Damn u rat me out https://t.co/yRHv3l84yW",
+        "created_at": "2022-01-20 01:35:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483975485352644608,
+        "text": "Go nuggets https://t.co/bVBYG1tn29",
+        "created_at": "2022-01-20 01:31:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483974920279408640,
+        "text": "LoL regular show https://t.co/kMchenIjxR",
+        "created_at": "2022-01-20 01:29:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483972173740101639,
+        "text": "Lmao lawsuit https://t.co/fCtnnUnaVk",
+        "created_at": "2022-01-20 01:18:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483627742713331716,
+        "text": "Digging for gold https://t.co/Up1Qza8ZVh",
+        "created_at": "2022-01-19 02:29:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483627145897336834,
+        "text": "Grandpa gave his all https://t.co/VAbCwP802B",
+        "created_at": "2022-01-19 02:27:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483626047350484998,
+        "text": "He drinkin drank, https://t.co/CyePFPEfvX",
+        "created_at": "2022-01-19 02:23:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483624635052830720,
+        "text": "Get yo ass off this rope https://t.co/gJzPUqFjjb",
+        "created_at": "2022-01-19 02:17:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483624317330022401,
+        "text": "This ni**@ https://t.co/UuZsEDXEGa",
+        "created_at": "2022-01-19 02:16:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483623633201377283,
+        "text": "She's killin my vibe https://t.co/AwQrkLDfgv",
+        "created_at": "2022-01-19 02:13:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483623142367059970,
+        "text": "Lmao https://t.co/RN2gbyAv9z",
+        "created_at": "2022-01-19 02:11:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483622811532869634,
+        "text": "Lmfao lmfgo https://t.co/G8XJ0LzX13",
+        "created_at": "2022-01-19 02:10:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483592924457619459,
+        "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/3j6J6TOz0i",
+        "created_at": "2022-01-19 00:11:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483581011376189448,
+        "text": "@le.eann1000  im doin that 2 u bae\ud83d\ude0f https://t.co/DK2C1jm226",
+        "created_at": "2022-01-18 23:24:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1199121,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483546439347314696,
+        "text": "Wspp good ppl its ur guy Atreus https://t.co/eGpjTTINXX",
+        "created_at": "2022-01-18 21:06:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483462621072404482,
+        "text": "This is to start you guys day, i hope all goes well w all of you \ud83d\ude0c\ud83d\ude0c https://t.co/5AOD6Ntqls",
+        "created_at": "2022-01-18 15:33:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483462379115618306,
+        "text": "This is the things we'll go through and i hope we grow together and stay strong babe. I love \ud83d\udc95 you \ud83d\ude1a\ud83d\ude1a https://t.co/ssfQJ3Bnph",
+        "created_at": "2022-01-18 15:32:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483229480990777348,
+        "text": "\ud83d\ude12\ud83d\ude12\ud83d\ude12 https://t.co/w4XFqQnxdr",
+        "created_at": "2022-01-18 00:07:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483134825670320135,
+        "text": "Lmfao https://t.co/h9VlxDGtET",
+        "created_at": "2022-01-17 17:51:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483132330357231617,
+        "text": "Ione know https://t.co/om6FmFTGsh",
+        "created_at": "2022-01-17 17:41:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483131953679200256,
+        "text": "How that car grill taste https://t.co/n0xuW6qGN4",
+        "created_at": "2022-01-17 17:39:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483104071129210880,
+        "text": "The second one for me https://t.co/7wtJP3N2fJ",
+        "created_at": "2022-01-17 15:48:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483103806888058882,
+        "text": "Ok this is what I sound like when I bark https://t.co/YOqreXIH1b",
+        "created_at": "2022-01-17 15:47:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

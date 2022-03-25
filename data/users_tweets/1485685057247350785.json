@@ -1,0 +1,911 @@
+[
+    {
+        "tweet_id": 1500918062278529025,
+        "text": "I posted a new photo on fetlife. :]",
+        "created_at": "2022-03-07 19:35:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500614374699925504,
+        "text": "I\u2019m just doing what I can to get by. Times are hard rn.",
+        "created_at": "2022-03-06 23:28:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500614282110660612,
+        "text": "@pulte $bbpnda",
+        "created_at": "2022-03-06 23:28:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 25029495,
+        "referenced_tweets": {
+            "id": 1500580125477380096,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500328190555787267,
+        "text": "Lately I\u2019ve been ending my nightly munchie journey with a fruit by the foot. I got a giant box of them at Costco.",
+        "created_at": "2022-03-06 04:31:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499797792763498499,
+        "text": "Happy Friday friends. What are you getting into this weekend?",
+        "created_at": "2022-03-04 17:23:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499466873020170245,
+        "text": "Maybe there will be a round two if I eat a little something.",
+        "created_at": "2022-03-03 19:28:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499466745853067267,
+        "text": "I want a burrito. I\u2019m hungry after that. \ud83d\ude2c",
+        "created_at": "2022-03-03 19:28:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499459565972181007,
+        "text": "I'm live streaming in my room! say hi https://t.co/BQeTjHJRRK @CamSodaLive",
+        "created_at": "2022-03-03 18:59:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499448449661497345,
+        "text": "@speedinlavabomb Imagining being fucked from behind by a random person",
+        "created_at": "2022-03-03 18:15:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1454223649515446278,
+        "referenced_tweets": {
+            "id": 1499445923679776775,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499445004586012679,
+        "text": "@speedinlavabomb I\u2019m going to rub one out, of course. ;)",
+        "created_at": "2022-03-03 18:02:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1454223649515446278,
+        "referenced_tweets": {
+            "id": 1499444817989939211,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499443841933332482,
+        "text": "Off topic but why the fuck is this a thing?? https://t.co/8JRqn4QUjx",
+        "created_at": "2022-03-03 17:57:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499443638400536587,
+        "text": "Another day. Horny as hell in a parking lot.",
+        "created_at": "2022-03-03 17:56:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499443505243967489,
+        "text": "@speedinlavabomb Masturbating in a parking lot.",
+        "created_at": "2022-03-03 17:56:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1454223649515446278,
+        "referenced_tweets": {
+            "id": 1495149373520556033,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496867633597087748,
+        "text": "@TheBearProject_ Cinnamon toast",
+        "created_at": "2022-02-24 15:20:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1350468765541146624,
+        "referenced_tweets": {
+            "id": 1496560386308509704,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495796944253636609,
+        "text": "Tee hee. Censored. https://t.co/ARbMHqxuD5",
+        "created_at": "2022-02-21 16:25:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495148043007631363,
+        "text": "I recorded it. I even got brave enough to take off my panties.",
+        "created_at": "2022-02-19 21:27:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495147922169622528,
+        "text": "@speedinlavabomb I am. About to eat a burrito. I am ravenous now. ;)",
+        "created_at": "2022-02-19 21:26:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1454223649515446278,
+        "referenced_tweets": {
+            "id": 1495146470365876228,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495141801610547203,
+        "text": "Another day. Another parking lot. \ud83d\ude0f",
+        "created_at": "2022-02-19 21:02:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491937723313057793,
+        "text": "\ud83d\ude0e https://t.co/UYAm3tSawI",
+        "created_at": "2022-02-11 00:50:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491530379966050304,
+        "text": "Feeling cute today https://t.co/l3D2O8WTOB",
+        "created_at": "2022-02-09 21:52:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491185411494125568,
+        "text": "@speedinlavabomb Unfortunately no. Busy all day today until maybe late tonight. Lol",
+        "created_at": "2022-02-08 23:01:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1454223649515446278,
+        "referenced_tweets": {
+            "id": 1491176252228927488,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491170164829978625,
+        "text": "@speedinlavabomb P good. Have been very productive.",
+        "created_at": "2022-02-08 22:00:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1454223649515446278,
+        "referenced_tweets": {
+            "id": 1491154415080067072,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491154589802196992,
+        "text": "I have adhd and sometimes being social can be difficult if I am overwhelmed with life.",
+        "created_at": "2022-02-08 20:58:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491154440833110016,
+        "text": "I\u2019m back. Sometimes I just need a break.",
+        "created_at": "2022-02-08 20:58:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491154294015356930,
+        "text": "@speedinlavabomb They are. Things are much better.",
+        "created_at": "2022-02-08 20:57:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1454223649515446278,
+        "referenced_tweets": {
+            "id": 1491069240425730053,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488967725430960131,
+        "text": "Ugh. Life has kinda sucked this week. How\u2019s everyone else?",
+        "created_at": "2022-02-02 20:09:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487919334705926146,
+        "text": "@hornydan82 Went to a roller skate class this AM but now just cleaning the house. Going to a roller disco tonight.",
+        "created_at": "2022-01-30 22:43:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1221587522494640129,
+        "referenced_tweets": {
+            "id": 1487898068758507520,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487890023449980928,
+        "text": "Happy Sunday! I\u2019ve had a chill morning/afternoon so far. What are you up to today?",
+        "created_at": "2022-01-30 20:46:39+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487190995129176064,
+        "text": "https://t.co/MMmxBHwlxC",
+        "created_at": "2022-01-28 22:28:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487187952635580416,
+        "text": "I did it. I totally rubbed one out again in the car. Many people around. Nobody noticed. Oh well but it was quite the adrenaline rush. Whew.",
+        "created_at": "2022-01-28 22:16:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487184476723503104,
+        "text": "About to go skating but remembering what I did in this parking lot last time is making me horny again. I kinda want to rub my pussy a little before I put my skates on. What do you think?",
+        "created_at": "2022-01-28 22:03:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487161432579837952,
+        "text": "Finished it. Took 11 days. https://t.co/zX6wUYOnUM",
+        "created_at": "2022-01-28 20:31:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487089137739988993,
+        "text": "Happy Friday! What are you getting into this weekend?",
+        "created_at": "2022-01-28 15:44:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486893585546952705,
+        "text": "I\u2019m home now. What should I do? I\u2019ve already showered.",
+        "created_at": "2022-01-28 02:47:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486803494581329921,
+        "text": "@hornydan82 It\u2019s been ok. I\u2019m about to go to work. :(",
+        "created_at": "2022-01-27 20:49:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1221587522494640129,
+        "referenced_tweets": {
+            "id": 1486802654881853441,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486802276970688514,
+        "text": "@hornydan82 Still working on the lollipop.",
+        "created_at": "2022-01-27 20:44:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1221587522494640129,
+        "referenced_tweets": {
+            "id": 1486791123523805191,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486735961601896448,
+        "text": "I\u2019m going to spend the morning working on my painting.",
+        "created_at": "2022-01-27 16:20:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486735249589432325,
+        "text": "I\u2019ve got bedhead extreme going on over here. https://t.co/8mofKrPkjo",
+        "created_at": "2022-01-27 16:18:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486735057381330949,
+        "text": "Good morning nerds.",
+        "created_at": "2022-01-27 16:17:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486479280628371458,
+        "text": "I rubbed one out in the parking garage before I went into work. I don\u2019t know what has gotten into me lately.",
+        "created_at": "2022-01-26 23:20:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486425075972640768,
+        "text": "I\u2019m gonna draw on my iPad and make stickers.",
+        "created_at": "2022-01-26 19:45:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486424969034616835,
+        "text": "I gotta go to the Apple store before work. I bought new tips for my Apple Pencil. I somehow melted mine. Lol",
+        "created_at": "2022-01-26 19:45:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486389651073945600,
+        "text": "Have a coke and a smile. :) https://t.co/EkLF693EG3",
+        "created_at": "2022-01-26 17:24:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486388502405128209,
+        "text": "Getting ready for work https://t.co/hTtR3CDyUv",
+        "created_at": "2022-01-26 17:20:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486377166073843714,
+        "text": "Uploaded another video to OF.",
+        "created_at": "2022-01-26 16:35:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486361798928257024,
+        "text": "Do you guys remember when Windows ME was a thing? Lol",
+        "created_at": "2022-01-26 15:34:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486350091560439808,
+        "text": "Good morning sleepyheads",
+        "created_at": "2022-01-26 14:47:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486150520276275201,
+        "text": "@hornydan82 It\u2019s a southern thing. It\u2019s corn meal. Have you heard of polenta? Same thing as that basically.",
+        "created_at": "2022-01-26 01:34:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1221587522494640129,
+        "referenced_tweets": {
+            "id": 1486109020779864075,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486150322460364801,
+        "text": "@hornydan82 What kind of tea?",
+        "created_at": "2022-01-26 01:33:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1221587522494640129,
+        "referenced_tweets": {
+            "id": 1486109731185991680,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486078664810930178,
+        "text": "Werk time. https://t.co/uZ1zkf3CdU",
+        "created_at": "2022-01-25 20:48:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486030324718981121,
+        "text": "I haven\u2019t eaten grits in maybe two years probably. It is the breakfast of my childhood and I have to pair it with a glass of chocolate milk. It really hit the spot this AM.",
+        "created_at": "2022-01-25 17:36:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486025894133075970,
+        "text": "What did you eat for breakfast today?",
+        "created_at": "2022-01-25 17:19:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486025650632753153,
+        "text": "I\u2019m making grits, hash brown and a sausage patty for breakfast.",
+        "created_at": "2022-01-25 17:18:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486020679904337922,
+        "text": "I gotta go to werks today. :(",
+        "created_at": "2022-01-25 16:58:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486020599432372224,
+        "text": "Rise n shine, mother fuckers. https://t.co/hQVKYmZM7F",
+        "created_at": "2022-01-25 16:58:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486011117595885569,
+        "text": "Good morning!",
+        "created_at": "2022-01-25 16:20:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485825528024035328,
+        "text": "Nini.",
+        "created_at": "2022-01-25 04:03:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485788397016793088,
+        "text": "@hornydan82 K. It\u2019s up.",
+        "created_at": "2022-01-25 01:35:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1221587522494640129,
+        "referenced_tweets": {
+            "id": 1485784605454213121,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485783377194094598,
+        "text": "@hornydan82 Should I upload it?",
+        "created_at": "2022-01-25 01:15:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1221587522494640129,
+        "referenced_tweets": {
+            "id": 1485776201700499461,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485775345613623296,
+        "text": "@hornydan82 I did. lol I drove home with a big smile on my face.",
+        "created_at": "2022-01-25 00:43:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1221587522494640129,
+        "referenced_tweets": {
+            "id": 1485774653046075393,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485765203153211394,
+        "text": "Then I smoked a j on the way home. Warm sunshine vibes. Life is good. I need snacks.",
+        "created_at": "2022-01-25 00:03:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485764907060510722,
+        "text": "I totally did rub one out. I recorded it. I might upload it to fetlife but I don\u2019t know. Convince me.",
+        "created_at": "2022-01-25 00:02:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485754805096116226,
+        "text": "I think I might rub one out on the way home. I was skating and the way my leggings rubbed against my pussy made me very horny.",
+        "created_at": "2022-01-24 23:22:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485739114607480832,
+        "text": "Felt cute. Will never delete. https://t.co/XUN87Ztllh",
+        "created_at": "2022-01-24 22:19:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485732825475076098,
+        "text": "I\u2019ve been working on this lollipop painting but I would rather work on a different kind of lollipop,  if you know what I mean? ;) https://t.co/nIwTviZejA",
+        "created_at": "2022-01-24 21:54:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485686542404227073,
+        "text": "Hi. :)",
+        "created_at": "2022-01-24 18:50:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

@@ -1,0 +1,189 @@
+[
+    {
+        "tweet_id": 1505761203640971269,
+        "text": "Quick recap\nI am a neko with furry tendencies",
+        "created_at": "2022-03-21 04:20:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505760769090019341,
+        "text": "@Sabertoofkitty1 Thanks!",
+        "created_at": "2022-03-21 04:18:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071174007955763201,
+        "referenced_tweets": {
+            "id": 1505626070459985924,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505749682873544706,
+        "text": "Does anyone know where I can buy this? I absolutely adore wearing this avatar &lt;3 #vrchatfurry #VRChat #vrchatavatar #furry https://t.co/AKw5bpf0zs",
+        "created_at": "2022-03-21 03:34:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505297653235552259,
+        "text": "My dashers name was Man \nMy dasher arrived \nPlot twist \nMy dasher was a woman that brought a man with her",
+        "created_at": "2022-03-19 21:38:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505297073108709377,
+        "text": "@Sabertoofkitty1 @Sabertoofkitty1 that\u2019s a beautiful dark skinned avatar- where can I get it? \ud83d\udc49\ud83c\udffe\ud83d\udc48\ud83c\udffe",
+        "created_at": "2022-03-19 21:36:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1071174007955763201,
+        "referenced_tweets": {
+            "id": 1503912878822223875,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505296790572077058,
+        "text": "@DippinDotty Yummm",
+        "created_at": "2022-03-19 21:34:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1219221060257832960,
+        "referenced_tweets": {
+            "id": 1504134071772921856,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504571661927870480,
+        "text": "@Merryweatherey Toxic people suck..",
+        "created_at": "2022-03-17 21:33:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2463867379,
+        "referenced_tweets": {
+            "id": 1504243903104524303,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502793587368423426,
+        "text": "@discord NEVER",
+        "created_at": "2022-03-12 23:48:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3065618342,
+        "referenced_tweets": {
+            "id": 1501263121729552385,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502777449364353026,
+        "text": "Mm. https://t.co/y5xlNxh85a",
+        "created_at": "2022-03-12 22:43:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1476264740930265088,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1498476617282166786,
+        "text": "\u201cI never seen my neighbors bring in groceries\u201d\n\nI only see doordash come in and out of the complex",
+        "created_at": "2022-03-01 01:54:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492489811684298757,
+        "text": "I am a classic overthinker",
+        "created_at": "2022-02-12 13:24:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492488020313788421,
+        "text": "There existence makes me happy- is that weird?",
+        "created_at": "2022-02-12 13:17:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491294665072869378,
+        "text": "The best way to to explain my adhd is.. I have 20 tabs open and I have no idea where the music is coming from.",
+        "created_at": "2022-02-09 06:15:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

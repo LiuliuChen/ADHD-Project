@@ -1,0 +1,3018 @@
+[
+    {
+        "tweet_id": 1506852558299869187,
+        "text": "tangina mo, tangina nya, tangina kayong lahat!",
+        "created_at": "2022-03-24 04:37:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506849121277464579,
+        "text": "Nakakawalang gana tong mga putanginang to",
+        "created_at": "2022-03-24 04:23:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506847778705936386,
+        "text": "Pati ako natawa sa myday ko tangina",
+        "created_at": "2022-03-24 04:18:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506826554420400128,
+        "text": "@trncle Edi Niek",
+        "created_at": "2022-03-24 02:53:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1250280510904864772,
+        "referenced_tweets": {
+            "id": 1506729465199484931,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506826477542993922,
+        "text": "Umagang umaga ang daming tanong sapatusin ko ata to eh",
+        "created_at": "2022-03-24 02:53:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506826078840844292,
+        "text": "RT @memeadikt: https://t.co/esMoMTrAig",
+        "created_at": "2022-03-24 02:51:47+00:00",
+        "public_metrics": {
+            "retweet_count": 83,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501821920748183559,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506601772991021060,
+        "text": "RT @gothmaximoff: if this 2 second clip already has me in a chokehold then the full scene will in fact be my cause of death in may #Scarlet\u2026",
+        "created_at": "2022-03-23 12:00:28+00:00",
+        "public_metrics": {
+            "retweet_count": 150,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506467253721567234,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506410154010746882,
+        "text": "RT @mcucomfort: ant-man (2015) https://t.co/JrhjqYtBht",
+        "created_at": "2022-03-22 23:19:03+00:00",
+        "public_metrics": {
+            "retweet_count": 2069,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506375161267712006,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506186319034482689,
+        "text": "anv sarap mong baliwin tangjna ka",
+        "created_at": "2022-03-22 08:29:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506092687950479361,
+        "text": "RT @lasttriot: crushcrushcrush is the sexiest paramore's song idc",
+        "created_at": "2022-03-22 02:17:33+00:00",
+        "public_metrics": {
+            "retweet_count": 377,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505975246784184320,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505941050447200262,
+        "text": "RT @bitchesbfightin: Now why he do our good sis like that?!\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude2d https://t.co/6AidLtNoce",
+        "created_at": "2022-03-21 16:15:00+00:00",
+        "public_metrics": {
+            "retweet_count": 32057,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1312412712526282753,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505932793112821760,
+        "text": "RT @venusinreverse: empathy is racialized and here u can see it in action",
+        "created_at": "2022-03-21 15:42:11+00:00",
+        "public_metrics": {
+            "retweet_count": 97136,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505546274422108162,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505754869277552640,
+        "text": "RT @gifspmore: remember when paramore: https://t.co/W02IxonnZA",
+        "created_at": "2022-03-21 03:55:11+00:00",
+        "public_metrics": {
+            "retweet_count": 592,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505714227016699904,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505730667556261888,
+        "text": "RT @AoTJewels: Falco\u2019s Jaw Titan https://t.co/THis2ZUDAF",
+        "created_at": "2022-03-21 02:19:00+00:00",
+        "public_metrics": {
+            "retweet_count": 7403,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505666867708444672,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504709081235595270,
+        "text": "TANGINA SAAN TO?!! https://t.co/QhrIeo35qk",
+        "created_at": "2022-03-18 06:39:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504435802650333184,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1504103474296135681,
+        "text": "RT @coltondoe: \u201cso when am i going to see you\u201d\n\nme: https://t.co/IohQhUsosG",
+        "created_at": "2022-03-16 14:33:07+00:00",
+        "public_metrics": {
+            "retweet_count": 34255,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503826863227080709,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504103187913273345,
+        "text": "RT @animesvisuaI: Anime : ReLIFE https://t.co/5P1DBvLlhx",
+        "created_at": "2022-03-16 14:31:59+00:00",
+        "public_metrics": {
+            "retweet_count": 4931,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503770293193646080,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504102610223382529,
+        "text": "RT @imyourslisaaaa: thanks g https://t.co/aIIx7cwBa5",
+        "created_at": "2022-03-16 14:29:41+00:00",
+        "public_metrics": {
+            "retweet_count": 14392,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503418442522644483,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503887425768402945,
+        "text": "mathematically you can suck my dick",
+        "created_at": "2022-03-16 00:14:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503679343150927883,
+        "text": "@lee0_03 Lola?",
+        "created_at": "2022-03-15 10:27:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 801352284768706561,
+        "referenced_tweets": {
+            "id": 1503671732950880257,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503317736688328704,
+        "text": "RT @Disney: Has anyone seen a giant red panda? \ud83d\udd0d \ud83d\udc3e Find Meilin Lee in Disney and @Pixar's #TurningRed, now streaming on @DisneyPlus. https:\u2026",
+        "created_at": "2022-03-14 10:30:53+00:00",
+        "public_metrics": {
+            "retweet_count": 878,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503083482158936072,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503026952089014277,
+        "text": "RT @agxth4: *our friends trying to study*\n\nus: https://t.co/LuHVNrecg2",
+        "created_at": "2022-03-13 15:15:24+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502969910305390605,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502882509612552192,
+        "text": "RT @AlexBatEmoji: 5 year old me when my mum won\u2019t buy ice cream https://t.co/kCmoOCf4qR",
+        "created_at": "2022-03-13 05:41:27+00:00",
+        "public_metrics": {
+            "retweet_count": 1264,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502610131430916102,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502805448411398148,
+        "text": "This makes me wanna grow a beard. https://t.co/P42xYoniAT",
+        "created_at": "2022-03-13 00:35:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502803118848847876,
+        "text": "i miss our soft, slow kisses",
+        "created_at": "2022-03-13 00:25:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502800385009852416,
+        "text": "RT @jingalalahoho_: \"I will only sleep 30 minutes\"\n\nMe waking up 7 hours later :\nhttps://t.co/vzXXyzZwK7 https://t.co/L7kkh7imAC",
+        "created_at": "2022-03-13 00:15:07+00:00",
+        "public_metrics": {
+            "retweet_count": 100886,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502644798821388289,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502677936591507456,
+        "text": "St.Ralph https://t.co/yV04e3eogJ",
+        "created_at": "2022-03-12 16:08:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501211172011491342,
+        "text": "@dhcjayder18_ SORRY NAMAN HAHAHA BUKAS PROMISE I'LL BE EARLY LOVE U HEHE",
+        "created_at": "2022-03-08 15:00:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1399664247127240708,
+        "referenced_tweets": {
+            "id": 1501171699395399681,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501162094536060928,
+        "text": "@agxth4 wala ka talagang kwenta mag post",
+        "created_at": "2022-03-08 11:45:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 730344570324553729,
+        "referenced_tweets": {
+            "id": 1501138208477749250,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500947149408079873,
+        "text": "RT @wandaslizzie: THIS IS FOR ALL THE BITCHES WHO SPOILED NWH FOR ME",
+        "created_at": "2022-03-07 21:31:01+00:00",
+        "public_metrics": {
+            "retweet_count": 882,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500821481969754115,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498925335140003842,
+        "text": "gusto ko lang mag ek wag nyo na akong hintaying pumatay please lang",
+        "created_at": "2022-03-02 07:37:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498899634257022976,
+        "text": "ako putangina! Tara desperado na ako https://t.co/rhMH2yR55Z",
+        "created_at": "2022-03-02 05:54:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498493680000196613,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1498898082393890816,
+        "text": "GUSTO KO NG MAG EK TANGINA",
+        "created_at": "2022-03-02 05:48:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498093956948959232,
+        "text": "RT @foodietechlab: [homemade] Crispy Chicken Tenders #viral #trending #foodie #foodblogger #foodphotography #ff #tbt #ico https://t.co/HAeU\u2026",
+        "created_at": "2022-02-28 00:33:27+00:00",
+        "public_metrics": {
+            "retweet_count": 54,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497784445717389313,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497808792960253953,
+        "text": "RT @ChocolateUrge: chocolate cake https://t.co/br118eDDCL",
+        "created_at": "2022-02-27 05:40:18+00:00",
+        "public_metrics": {
+            "retweet_count": 1256,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497705617930084357,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497585605852942337,
+        "text": "bakit ang daming nag chachat sakin ngayo puta?!",
+        "created_at": "2022-02-26 14:53:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497031202665992197,
+        "text": "is it because i'm energetic?",
+        "created_at": "2022-02-25 02:10:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1465010171529555968,
+        "referenced_tweets": {
+            "id": 1497031063331241986,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497031063331241986,
+        "text": "why do people assume that i have ADHD?",
+        "created_at": "2022-02-25 02:09:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497030551152173056,
+        "text": "well done\ud83d\udd25 https://t.co/cId5DAZa0A",
+        "created_at": "2022-02-25 02:07:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496981426872680451,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1496707405966876672,
+        "text": "RT @CBMshots: #SpiderManNoWayHome \u2764\ufe0f https://t.co/i7im5gBYQO",
+        "created_at": "2022-02-24 04:43:47+00:00",
+        "public_metrics": {
+            "retweet_count": 35448,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496635990584160262,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496284849220763648,
+        "text": "RT @theguisilveira: S M I L E   M\ud83d\ude43R E \n\nnova fanart do @Paramore | 6more is coming https://t.co/BcfVdoG2vE",
+        "created_at": "2022-02-23 00:44:42+00:00",
+        "public_metrics": {
+            "retweet_count": 618,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496269782861111297,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496124495106613254,
+        "text": "Never make me wait",
+        "created_at": "2022-02-22 14:07:30+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496056128584953862,
+        "text": "RT @ForeverMyDate: Strawberry Cheesecake &amp; Golden Oreo https://t.co/qWF0dapIcI",
+        "created_at": "2022-02-22 09:35:51+00:00",
+        "public_metrics": {
+            "retweet_count": 167,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495895545109491715,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496055984909058050,
+        "text": "RT @LetsOTT: It\u2019s time for some action. \n\n#ThorLoveAndThunder trailer drops this week, might be tomorrow \ud83d\udc40 https://t.co/Qh2yvgLec3",
+        "created_at": "2022-02-22 09:35:16+00:00",
+        "public_metrics": {
+            "retweet_count": 2057,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495828780073762818,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496055954311610368,
+        "text": "RT @LetsOTT: MCU months ahead! \n\nMarch - #Moonknight\nMay - #DoctorStrange \nJuly - #ThorLoveAndThunder https://t.co/us27WqxZTi",
+        "created_at": "2022-02-22 09:35:09+00:00",
+        "public_metrics": {
+            "retweet_count": 571,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495861894694985728,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495635912893648899,
+        "text": "RT @Maximoffvisuals: This deleted script from WandaVision Ep. 8\u2026 https://t.co/VG61PjWiB8",
+        "created_at": "2022-02-21 05:46:03+00:00",
+        "public_metrics": {
+            "retweet_count": 4340,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495562805449302018,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495338406859075584,
+        "text": "@dolppph22 bago ka pa makalapit may nakatanim ng bala sa ulo mo",
+        "created_at": "2022-02-20 10:03:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1486651131535060997,
+        "referenced_tweets": {
+            "id": 1495338194811830273,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495337585236840450,
+        "text": "@dolppph22 not a hugger",
+        "created_at": "2022-02-20 10:00:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1486651131535060997,
+        "referenced_tweets": {
+            "id": 1495332386556776450,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495332104367849473,
+        "text": "RT @DrStrangeUpdate: The Book of the Vishanti. #MultiverseOfMadness https://t.co/TStquNumP3",
+        "created_at": "2022-02-20 09:38:50+00:00",
+        "public_metrics": {
+            "retweet_count": 525,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495141340585377799,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495322616940609537,
+        "text": "RT @FrickEpic: I was watching Bolt the other day and I have one thing to say:\n\nThis guy has the most punchable face in all of the Disney An\u2026",
+        "created_at": "2022-02-20 09:01:08+00:00",
+        "public_metrics": {
+            "retweet_count": 5604,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495174201145282561,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495050081631760386,
+        "text": "RT @Arach_07: #DoctorStrange #MultiverseOfMadness (1/5) https://t.co/AhzqZUCwRy",
+        "created_at": "2022-02-19 14:58:10+00:00",
+        "public_metrics": {
+            "retweet_count": 345,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494830082443124739,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494986555429048321,
+        "text": "RT @wandasolsen: A trip to the Darkhold/Scarlet Witch Castle when? #MultiverseOfMadness https://t.co/dbUkoCTZdk",
+        "created_at": "2022-02-19 10:45:44+00:00",
+        "public_metrics": {
+            "retweet_count": 428,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494874155988107264,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494830362723160064,
+        "text": "RT @SoulUchiwa: Anime : Demon Slayer https://t.co/fvLkkzKTeg",
+        "created_at": "2022-02-19 00:25:05+00:00",
+        "public_metrics": {
+            "retweet_count": 7048,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494686239420784640,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494829845276020736,
+        "text": "RT @WandazCha0s: Always praying and hoping for a #ScarletWitch solo film! \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f https://t.co/7QSZuLqvTS",
+        "created_at": "2022-02-19 00:23:02+00:00",
+        "public_metrics": {
+            "retweet_count": 1695,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494717053814681610,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494480658496106497,
+        "text": "am i the only one who hates nutella?",
+        "created_at": "2022-02-18 01:15:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494451339572944896,
+        "text": "RT @buckysoIdat: i like shiny things but i'll marry you with scarlet witch ring https://t.co/NubxsmLU8Z",
+        "created_at": "2022-02-17 23:18:59+00:00",
+        "public_metrics": {
+            "retweet_count": 5083,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494326334071345155,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494287262422503425,
+        "text": "RT @ellieobriien: the 1975 playing too shy for the second time ever live in newcastle two years ago and i remember the feeling like it was\u2026",
+        "created_at": "2022-02-17 12:27:00+00:00",
+        "public_metrics": {
+            "retweet_count": 342,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494127938471612418,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494281040629682178,
+        "text": "RT @RafaFreitasRosa: This scene in #MultiverseOfMadness there's something floating in the air, could be Cagliostro's book? #marvelgoats #dr\u2026",
+        "created_at": "2022-02-17 12:02:17+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493996134712418313,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494273008277475329,
+        "text": "RT @Moth_Culture: RUMOR: Leaked unfinished VFX image of what appears to be Deadpool, In high-tech containment. #MultiverseOfMadness https:/\u2026",
+        "created_at": "2022-02-17 11:30:22+00:00",
+        "public_metrics": {
+            "retweet_count": 1028,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494090522037825538,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493919434008064000,
+        "text": "!!!!! https://t.co/NLb6LiIfX7",
+        "created_at": "2022-02-16 12:05:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493718012737699842,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1493778847690465285,
+        "text": "RT @coupdemain: \ud83d\ude31 @the1975 new album era has begun with a new photo? \ud83d\ude31 https://t.co/O5ubgaRb8W",
+        "created_at": "2022-02-16 02:46:45+00:00",
+        "public_metrics": {
+            "retweet_count": 202,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493519223682789376,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493546775147266050,
+        "text": "pangit ng pangalan mo karlito",
+        "created_at": "2022-02-15 11:24:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493530637810429952,
+        "text": "\ud80c\udda9\u2661\ud80c\uddaa https://t.co/fXzqxJTjmM",
+        "created_at": "2022-02-15 10:20:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493524652240486401,
+        "text": "The Beast And The Virgin. https://t.co/QFpqPGDBu2",
+        "created_at": "2022-02-15 09:56:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493427836853846016,
+        "text": "RT @therealsupes: I feel like this is the opening scene of the movie. #MultiverseOfMadness https://t.co/Q3lvUACMX6",
+        "created_at": "2022-02-15 03:31:57+00:00",
+        "public_metrics": {
+            "retweet_count": 793,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493332149042552832,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493417335902060548,
+        "text": "RT @the1975_thteam: It\u2019s Not Living (If It\u2019s Not With You) by The 1975\n\nhttps://t.co/bTWzOJkDLL",
+        "created_at": "2022-02-15 02:50:13+00:00",
+        "public_metrics": {
+            "retweet_count": 324,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493153908465668098,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493027153528897538,
+        "text": "RT @chrisdadeviant: IT WAS AN ILLUSION\n#MultiverseOfMadness https://t.co/yodB7n322Z",
+        "created_at": "2022-02-14 00:59:47+00:00",
+        "public_metrics": {
+            "retweet_count": 15761,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493017168824647680,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493024628528533507,
+        "text": "RT @DrStrangeUpdate: Doctor Strange meets the Illuminati. \n\n#MultiverseOfMadness https://t.co/rZnp29tj5r",
+        "created_at": "2022-02-14 00:49:45+00:00",
+        "public_metrics": {
+            "retweet_count": 4930,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493004931309215746,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493024086217625605,
+        "text": "RT @eolsenarchive: #ScarletWitch https://t.co/a3fwjIhtho",
+        "created_at": "2022-02-14 00:47:35+00:00",
+        "public_metrics": {
+            "retweet_count": 4025,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493004941497143296,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493024065317384192,
+        "text": "RT @DrStrangeUpdate: Defender Strange. #MultiverseOfMadness https://t.co/KJJVWMmMsA",
+        "created_at": "2022-02-14 00:47:30+00:00",
+        "public_metrics": {
+            "retweet_count": 5113,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493007163874238465,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493023371051044865,
+        "text": "RT @franklypshankly: PATRICK STEWART IS BACK AS PROFESSOR X. BLOODIED WANDA.  IR9N MAN VARIANT TEASED AND STRANGE IN BETWEEN THIS MULTIVERS\u2026",
+        "created_at": "2022-02-14 00:44:45+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493013769223491585,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493021736488812544,
+        "text": "RT @mcumagik: THE QUEEN OF THE MCU #ScarletWitch https://t.co/iV4Y8jkcIc",
+        "created_at": "2022-02-14 00:38:15+00:00",
+        "public_metrics": {
+            "retweet_count": 5944,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493003690189500420,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493021523862757376,
+        "text": "RT @yelenasvest__: you can hate wanda all u want but this was the most based line EVER\n\n#ScarletWitch https://t.co/1do9AVH8r9",
+        "created_at": "2022-02-14 00:37:24+00:00",
+        "public_metrics": {
+            "retweet_count": 474,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493009670063153158,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493021498952798210,
+        "text": "RT @scarletwnews: The #ScarletWitch in Doctor Strange in the Multiverse of Madness. https://t.co/mlyETkKR60",
+        "created_at": "2022-02-14 00:37:19+00:00",
+        "public_metrics": {
+            "retweet_count": 4530,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493006564906700802,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493021407307235330,
+        "text": "RT @theant02: Some #ScarletWitch shots that aired in the TV Spot and not the trailer!! https://t.co/Rj9tJt3dZ0",
+        "created_at": "2022-02-14 00:36:57+00:00",
+        "public_metrics": {
+            "retweet_count": 4727,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493004482204028929,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493021390295158784,
+        "text": "RT @dorksofprey: ALL THE RUMORS ARE TRUE WE'RE NOT READY FOR HER VILLAIN ERA #ScarletWitch #MultiverseOfMadness https://t.co/tkGPcoCLbK",
+        "created_at": "2022-02-14 00:36:53+00:00",
+        "public_metrics": {
+            "retweet_count": 14424,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493001800366141441,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493020895451160578,
+        "text": "RT @sendingluvbw: the \u2018what if\u2019 parallels, charles xavier, the illuminati, captain marvel, defender strange, scarlet witch, \u2014there\u2019s just s\u2026",
+        "created_at": "2022-02-14 00:34:55+00:00",
+        "public_metrics": {
+            "retweet_count": 66,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493015940312797187,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493020011711307776,
+        "text": "RT @scarletwnews: Wanda\u2026 meet Wanda. #ScarletWitch https://t.co/pYjmIlEdDe",
+        "created_at": "2022-02-14 00:31:24+00:00",
+        "public_metrics": {
+            "retweet_count": 3270,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493001547583836160,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493017972218404864,
+        "text": "RT @Marvel: Enter a new dimension of Strange. Watch the official trailer for Marvel Studios' #DoctorStrange in the Multiverse of Madness. O\u2026",
+        "created_at": "2022-02-14 00:23:18+00:00",
+        "public_metrics": {
+            "retweet_count": 13109,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493000292501131265,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493017800478445569,
+        "text": "RT @DiscussingFilm: The return of Patrick Stewart as Professor X in \u2018DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS\u2019. https://t.co/BU0IOaS2ew",
+        "created_at": "2022-02-14 00:22:37+00:00",
+        "public_metrics": {
+            "retweet_count": 10767,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493001383108386817,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493017577991606278,
+        "text": "RT @wandasolsen: WE\u2019RE BACK IN WESTVIEW?? THIS IS THE WANDAVISION PART OMG #MultiverseOfMadness https://t.co/HSgvLucNlx",
+        "created_at": "2022-02-14 00:21:44+00:00",
+        "public_metrics": {
+            "retweet_count": 6108,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493008061279047685,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1492782954351050752,
+        "text": "what about orange? https://t.co/80N3vTzi22",
+        "created_at": "2022-02-13 08:49:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492233103372390410,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1492157279273029638,
+        "text": "akala nila nakikipag sex talk ako, pero kausap ko lang talaga yung sarili ko",
+        "created_at": "2022-02-11 15:23:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492085808228040705,
+        "text": "tanginang charger to",
+        "created_at": "2022-02-11 10:39:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492081138117976066,
+        "text": "RT @juswascomet: BILLIE EILISH HELPING FANS BEFORE ASTROFEST INCIDENT - A THREAD",
+        "created_at": "2022-02-11 10:20:39+00:00",
+        "public_metrics": {
+            "retweet_count": 1839,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491922628864462848,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491957823093100548,
+        "text": "RT @sincerelyivy: this robot cat is going to be the one that takes my heart in Lightyear, i just know it. https://t.co/05k8gaiNcb",
+        "created_at": "2022-02-11 02:10:38+00:00",
+        "public_metrics": {
+            "retweet_count": 26,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491068789093695489,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491752229539573765,
+        "text": "RT @patrishabagalso: There are people na hindi boboto and I'm one of them. Not because wala akong pakialam sa bansa, it's because I don't l\u2026",
+        "created_at": "2022-02-10 12:33:41+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491705430812524545,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491428452851130368,
+        "text": "@Jzmnxeve ako mag make up sayo pang \u2728karaoke bar vibes\u2728",
+        "created_at": "2022-02-09 15:07:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 823470922875047936,
+        "referenced_tweets": {
+            "id": 1491397807223508994,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491030273898971137,
+        "text": "RT @gtfoisha: hello, i just started my small business. i hope you support me! dm me for inquires\ud83e\udd17 https://t.co/yXT7657vzZ",
+        "created_at": "2022-02-08 12:44:53+00:00",
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490964000581906433,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491027906713505799,
+        "text": "RT @careffful: Paramore - Summer Sonic Festival, Japan 2009 https://t.co/Il4kZYafxL",
+        "created_at": "2022-02-08 12:35:29+00:00",
+        "public_metrics": {
+            "retweet_count": 102,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490807272922140673,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490896166057549824,
+        "text": "I'm inlove... Im having a relationship with my pizza.",
+        "created_at": "2022-02-08 03:52:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490819466145394691,
+        "text": "RT @ourselfworth: Mc cafe \ud83e\udd24 https://t.co/jMrHTAAzBk",
+        "created_at": "2022-02-07 22:47:13+00:00",
+        "public_metrics": {
+            "retweet_count": 4389,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490654802581229570,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490380885535129600,
+        "text": "RT @wandasolsen: We\u2019re now officially 3 months away from Doctor Strange in the Multiverse of Madness https://t.co/k47QWhult5",
+        "created_at": "2022-02-06 17:44:27+00:00",
+        "public_metrics": {
+            "retweet_count": 2868,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490317993133633541,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489420270230118401,
+        "text": "i should probably celebrate... by shopping online.",
+        "created_at": "2022-02-04 02:07:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1465010171529555968,
+        "referenced_tweets": {
+            "id": 1489417533174153217,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489417533174153217,
+        "text": "I really hate birthdays like please just go away!",
+        "created_at": "2022-02-04 01:56:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489213279767756807,
+        "text": "RT @niatapes: late replies are so sexy \ud83d\ude33 yes baby make me feel unimportant and help me lose feelings \ud83d\ude0b\ud83d\ude0b\ud83d\ude0b",
+        "created_at": "2022-02-03 12:24:48+00:00",
+        "public_metrics": {
+            "retweet_count": 13,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485487038216372227,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489035586748903425,
+        "text": "@flrnclyn1 Nararamdaman ko naman effort nyo e. Sorry na talaga\u270c\ufe0f\ud83d\ude2d\ud83d\udc94",
+        "created_at": "2022-02-03 00:38:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1106424176384983041,
+        "referenced_tweets": {
+            "id": 1488874268343496704,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488738184821280769,
+        "text": "The \"C\" in my name stands for... \u2728Commitment Issues\u2728",
+        "created_at": "2022-02-02 04:56:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487426359685451783,
+        "text": "Why does Giorno's Theme get stuck in my head?",
+        "created_at": "2022-01-29 14:04:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486834734483210243,
+        "text": "@agxth4 tangina mo gumising ka na",
+        "created_at": "2022-01-27 22:53:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1465010171529555968,
+        "referenced_tweets": {
+            "id": 1486834611652943878,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486834611652943878,
+        "text": "tangina mo agatha!",
+        "created_at": "2022-01-27 22:52:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486564322218110976,
+        "text": "@flrnclyn1 @Sophia_lngmn @agxth4 @Jzmnxeve ipakarat yan sa aso ipakarat",
+        "created_at": "2022-01-27 04:58:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1106424176384983041,
+        "referenced_tweets": {
+            "id": 1486564165904842757,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486504039630008321,
+        "text": "@Sophia_lngmn @agxth4 @flrnclyn1 @Jzmnxeve BABUYIN NYO YUNG ULO HAHAHA",
+        "created_at": "2022-01-27 00:59:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1047481749427515392,
+        "referenced_tweets": {
+            "id": 1486498463831322626,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486457541265555456,
+        "text": "RT @agathangina666: 2016 vibes https://t.co/DVCslWvWEk",
+        "created_at": "2022-01-26 21:54:29+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1464316397102645259,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485805743517229057,
+        "text": "Tangina gusto ko talaga mag ek!",
+        "created_at": "2022-01-25 02:44:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485730891179896832,
+        "text": "RT @petalsforcami: 2022 is paramore\u2019s year https://t.co/i0y4u4mY0b",
+        "created_at": "2022-01-24 21:47:02+00:00",
+        "public_metrics": {
+            "retweet_count": 287,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485441988497399808,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483991121965756420,
+        "text": "RT @anjaaarose: not now sweetie paramore is coming back https://t.co/NjtstbCaih",
+        "created_at": "2022-01-20 02:33:49+00:00",
+        "public_metrics": {
+            "retweet_count": 2620,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483928355309334531,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483898360847540224,
+        "text": "RT @miseryroute: this hayley look from the told you so mv is so underrated https://t.co/44y0KFbNmD",
+        "created_at": "2022-01-19 20:25:13+00:00",
+        "public_metrics": {
+            "retweet_count": 254,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483874841082089479,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483793912380616704,
+        "text": "RT @Disney: A magical home for a magical family. \u2728 \ud83c\udf3a See the Madrigal family casita from #Encanto crafted out of paper by artist Ana Serran\u2026",
+        "created_at": "2022-01-19 13:30:10+00:00",
+        "public_metrics": {
+            "retweet_count": 1003,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483529627444281345,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483723339080232963,
+        "text": "RT @paramore: we\u2019ve missed you. we\u2019re playing When We Were Young Fest in Vegas on Oct 22nd. \n\nregister for pre-sale now at https://t.co/y4F\u2026",
+        "created_at": "2022-01-19 08:49:44+00:00",
+        "public_metrics": {
+            "retweet_count": 10127,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483503599921647616,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483620189703147522,
+        "text": "RT @HSteinfeldNews: #Arcane (VI) and #Hawkeye (Kate Bishop) inspired skins are heading to Fortnite. https://t.co/Xj4vvsHp7E",
+        "created_at": "2022-01-19 01:59:52+00:00",
+        "public_metrics": {
+            "retweet_count": 936,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483502646703149057,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483619677171757058,
+        "text": "RT @marvel_shots: Moon Knight \ud83c\udf19 https://t.co/Izw9RX4o6b",
+        "created_at": "2022-01-19 01:57:50+00:00",
+        "public_metrics": {
+            "retweet_count": 2023,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483330096110919682,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483619654686097410,
+        "text": "hypocrite!",
+        "created_at": "2022-01-19 01:57:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483350439106351106,
+        "text": "@Jzmnxeve @syria GRABE HAHAHA",
+        "created_at": "2022-01-18 08:07:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 823470922875047936,
+        "referenced_tweets": {
+            "id": 1483350286517227524,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483340600275763202,
+        "text": "@Jzmnxeve @syria racy ka masyado",
+        "created_at": "2022-01-18 07:28:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 823470922875047936,
+        "referenced_tweets": {
+            "id": 1483336400799821824,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483326925775192065,
+        "text": "@Jzmnxeve @Syria",
+        "created_at": "2022-01-18 06:34:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 823470922875047936,
+        "referenced_tweets": {
+            "id": 1483295091938656257,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483230829338034176,
+        "text": "i got hooked on vape hehe",
+        "created_at": "2022-01-18 00:12:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482983068524683264,
+        "text": "RT @the1975_thteam: Sincerity Is Scary by The 1975\n\nhttps://t.co/swi5V28Fjx",
+        "created_at": "2022-01-17 07:48:10+00:00",
+        "public_metrics": {
+            "retweet_count": 635,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1482658823496421377,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1482310551397347329,
+        "text": "RT @selsmirrorball: selena as isabela omg\n\nhttps://t.co/CvY8GTvgDq",
+        "created_at": "2022-01-15 11:15:50+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1482077254020919296,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481996902975836162,
+        "text": "RT @civiiswar: angelina jolie as thena, the it girl of the #Eternals https://t.co/I9LzwDs9Hm",
+        "created_at": "2022-01-14 14:29:30+00:00",
+        "public_metrics": {
+            "retweet_count": 2875,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1481761381489782784,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481741934524006402,
+        "text": "My new ultimate crush\ud83d\udc95 https://t.co/UKfg3WmGEH",
+        "created_at": "2022-01-13 21:36:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1480887313961869315,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1481561244142534656,
+        "text": "RT @maybeeevirgo: me in my room overthinking everything: https://t.co/0axDfUl0VD",
+        "created_at": "2022-01-13 09:38:21+00:00",
+        "public_metrics": {
+            "retweet_count": 17052,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1481136163779923968,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481495893946028034,
+        "text": "RT @shodoingthings: shohei ohtani saying \u201cgoodnight\u201d before putting on his sleep mask https://t.co/DYkyb6gYDd",
+        "created_at": "2022-01-13 05:18:40+00:00",
+        "public_metrics": {
+            "retweet_count": 93,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1481439252462329857,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481438370110717952,
+        "text": "RT @Villanueva2001_: Kapag ba nagpaturo ako mag drive, kakandong ako sa driver?",
+        "created_at": "2022-01-13 01:30:05+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1481269501446348800,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481264314443268096,
+        "text": "RT @mariannesthugo: never noticed before how isabela changes her lyrics to 'im fine im fine' while she clearly isn't... im gonna throw myse\u2026",
+        "created_at": "2022-01-12 13:58:27+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478940733017100293,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1480942788191535104,
+        "text": "!!!!!! https://t.co/ryg1xpQevb",
+        "created_at": "2022-01-11 16:40:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1480930446649217032,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1480535996890759168,
+        "text": "RT @maximoffhours: Selena Gomez as Jessica Drew/Spider-Woman. That's it. That's the tweet. https://t.co/enS5Xe4xa3",
+        "created_at": "2022-01-10 13:44:23+00:00",
+        "public_metrics": {
+            "retweet_count": 422,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1480248702661017613,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1480368461670797312,
+        "text": "RT @samvvilscn: Anthony Mackie // Sam Wilson https://t.co/WMpxge0IX9",
+        "created_at": "2022-01-10 02:38:39+00:00",
+        "public_metrics": {
+            "retweet_count": 441,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1480334620478500868,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1480318844699054082,
+        "text": "RT @champnots: the urge to talk about your favorite book to someone who doesn\u2019t even like reading",
+        "created_at": "2022-01-09 23:21:30+00:00",
+        "public_metrics": {
+            "retweet_count": 1023,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479908741596200974,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1480053324359426048,
+        "text": "RT @vinzcentV: Adults who still watch cartoon. Retweet this \ud83d\ude48\ud83d\ude02",
+        "created_at": "2022-01-09 05:46:25+00:00",
+        "public_metrics": {
+            "retweet_count": 69460,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479484297895686149,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479811101135351811,
+        "text": "Silencio Bruno!",
+        "created_at": "2022-01-08 13:43:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479690347047694343,
+        "text": "thought the last one was silco https://t.co/nsmctQLOp6",
+        "created_at": "2022-01-08 05:44:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1316760510709338112,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1479654709052858372,
+        "text": "RT @twitkocheng: https://t.co/IdoHCJPPGi",
+        "created_at": "2022-01-08 03:22:27+00:00",
+        "public_metrics": {
+            "retweet_count": 33164,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479470216723632130,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479654448141983745,
+        "text": "RT @hawkeyeofficial: Jack's never been better! All episodes of Marvel Studios\u2019 #Hawkeye are now streaming on @DisneyPlus. #JackDuquesne htt\u2026",
+        "created_at": "2022-01-08 03:21:25+00:00",
+        "public_metrics": {
+            "retweet_count": 239,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479543366777860097,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479354015838519297,
+        "text": "RT @wandaspost: uncanny avengers v3 #30 / doctor strange in the multiverse of madness (2022) https://t.co/SFs3hN3eD6",
+        "created_at": "2022-01-07 07:27:37+00:00",
+        "public_metrics": {
+            "retweet_count": 92,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1475134157894213637,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479226414063026176,
+        "text": "RT @florencewrld: \u201cI don\u2019t like florence pugh as yelen-\u201c https://t.co/mMFFL2I7Of",
+        "created_at": "2022-01-06 23:00:34+00:00",
+        "public_metrics": {
+            "retweet_count": 1731,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479022657995780097,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479226195317510146,
+        "text": "RT @howstuff_works: https://t.co/HQi3b7yYZZ",
+        "created_at": "2022-01-06 22:59:42+00:00",
+        "public_metrics": {
+            "retweet_count": 235,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478779298269913091,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479189143079251968,
+        "text": "RT @no_rome: smiles made it to japan \ud83c\uddef\ud83c\uddf5 https://t.co/hLSiYGUSxI",
+        "created_at": "2022-01-06 20:32:28+00:00",
+        "public_metrics": {
+            "retweet_count": 63,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478915448679067649,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479080689836621831,
+        "text": "Tubby. https://t.co/Vm7zFwZzmM",
+        "created_at": "2022-01-06 13:21:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479080351100465157,
+        "text": "RT @RyanSchocket: RIP to one of the funniest people ever,  Betty White. https://t.co/LkHTkdJQmp",
+        "created_at": "2022-01-06 13:20:10+00:00",
+        "public_metrics": {
+            "retweet_count": 5675,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1476998091622563844,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478608371951407104,
+        "text": "RT @9GAG: Caution hot!\n\n\u270d\ud83c\udffb https://t.co/bQblUCcp2n\n\ud83d\udcf9 kakegawa_kachouen | IG https://t.co/8l77AOkuo0",
+        "created_at": "2022-01-05 06:04:41+00:00",
+        "public_metrics": {
+            "retweet_count": 2800,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478607443055816707,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478608223745626112,
+        "text": "RT @archiveshailee: tested positive for needing to be at a hailee steinfeld concert. https://t.co/kq9VSU5dPr",
+        "created_at": "2022-01-05 06:04:06+00:00",
+        "public_metrics": {
+            "retweet_count": 347,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478396675110621193,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478318759060578304,
+        "text": "@trncle ginoogle ko lang din yan pre haha",
+        "created_at": "2022-01-04 10:53:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1250280510904864772,
+        "referenced_tweets": {
+            "id": 1478281297650802689,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478242641150377986,
+        "text": "@trncle and what would be a shorter way of saying that?",
+        "created_at": "2022-01-04 05:51:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1250280510904864772,
+        "referenced_tweets": {
+            "id": 1478211989939703808,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477936533378576384,
+        "text": "RT @servalkittie: bruno in the walls during we dont talk about bruno https://t.co/E77tPuij3J",
+        "created_at": "2022-01-03 09:35:02+00:00",
+        "public_metrics": {
+            "retweet_count": 58,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1476622131488247812,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477935769843281920,
+        "text": "RT @aoifetalksshit: i think we all can agree that we dont talk about bruno #encanto https://t.co/K9kyAH3cq0",
+        "created_at": "2022-01-03 09:32:00+00:00",
+        "public_metrics": {
+            "retweet_count": 816,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474878957396893700,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1477786598612017153,
+        "text": "@dhcjayder18_ ano sugurin ko na? hehe",
+        "created_at": "2022-01-02 23:39:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1399664247127240708,
+        "referenced_tweets": {
+            "id": 1477666797474115588,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477632491942862848,
+        "text": "@dhcjayder18_ are u ok?",
+        "created_at": "2022-01-02 13:26:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1399664247127240708,
+        "referenced_tweets": {
+            "id": 1477626944669687808,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477288864276365314,
+        "text": "Public Viewing\ud83e\udd0d https://t.co/jG84Tq8cYJ",
+        "created_at": "2022-01-01 14:41:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477194255743348736,
+        "text": "tanginang regalo yan louis vuitton",
+        "created_at": "2022-01-01 08:25:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476998521702125569,
+        "text": "@marcpogi02 happy new year din sayo",
+        "created_at": "2021-12-31 19:27:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1384741568242851841,
+        "referenced_tweets": {
+            "id": 1476995455716585472,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476980420952543237,
+        "text": "@dhcjayder18_ hello @Pdea",
+        "created_at": "2021-12-31 18:15:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1399664247127240708,
+        "referenced_tweets": {
+            "id": 1476953222241652737,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476946251107414028,
+        "text": "HAPPY NEW YEAR EVERYONE FROM OUR FAMILY TO YOURS!!!!",
+        "created_at": "2021-12-31 16:00:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476916994716798980,
+        "text": "me waiting for 12 so i can sleep https://t.co/Sgub5k9odA",
+        "created_at": "2021-12-31 14:03:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476914119257120770,
+        "text": "Celebrating new year with my bitch right here https://t.co/r9MltjrlMx",
+        "created_at": "2021-12-31 13:52:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476605538288881666,
+        "text": "RT @chrisevansbrcom: \ud83c\udfac: The Avengers (2012) | Lightyear (2022) https://t.co/CIXoK50Iam",
+        "created_at": "2021-12-30 17:26:08+00:00",
+        "public_metrics": {
+            "retweet_count": 306,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1476583866055880716,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1476605492759711775,
+        "text": "RT @merderqv: if crying over greys anatomy was a job https://t.co/JM2xLEnMEy",
+        "created_at": "2021-12-30 17:25:58+00:00",
+        "public_metrics": {
+            "retweet_count": 1062,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1476333782714228736,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1476386176399380480,
+        "text": "namiss ko na mga kabastosan ko sa fb\ud83d\ude2d",
+        "created_at": "2021-12-30 02:54:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475855761045549057,
+        "text": "@agxth4 ulol abuser",
+        "created_at": "2021-12-28 15:46:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 730344570324553729,
+        "referenced_tweets": {
+            "id": 1475774983104122880,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475181511015948291,
+        "text": "RT @PaulaGrintL: That awkward moment when Patrick/Ezra kisses Charlie/Logan and you're just.... JEALOUS! &gt;.&lt; http://t.co/3H9U4slK",
+        "created_at": "2021-12-26 19:07:34+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 284260839391907840,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1475178715646939136,
+        "text": "RT @waIlflwers: happy birthday to my best comfort character charlie kelmeckis &lt;3 hope he\u2019s having a lot of milkshakes tonight https://t.co/\u2026",
+        "created_at": "2021-12-26 18:56:27+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474470052346798085,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1475149319443746818,
+        "text": "RT @dabrowniequeen: I know love isn\u2019t real bc Hayley Williams wrote The Only Exception about a man she\u2019s no longer married to",
+        "created_at": "2021-12-26 16:59:39+00:00",
+        "public_metrics": {
+            "retweet_count": 212,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474246148084830212,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1474971971020488710,
+        "text": "RT @clsdapp: What are you doing for Christmas?\n\nMe: https://t.co/6e50tOeW8T",
+        "created_at": "2021-12-26 05:14:56+00:00",
+        "public_metrics": {
+            "retweet_count": 80905,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474583402410086403,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1474829238025211904,
+        "text": "Time is gold when watching porn.\ud83d\ude0b",
+        "created_at": "2021-12-25 19:47:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1474409805989122048,
+        "text": "Merry Christmas!!!",
+        "created_at": "2021-12-24 16:01:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1474377979727794181,
+        "text": "@dhcjayder18_ Merry Christmas ate cha sainyo ni samsam and to your family love you\ud83d\ude18",
+        "created_at": "2021-12-24 13:54:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1399664247127240708,
+        "referenced_tweets": {
+            "id": 1474362513823203330,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474102544800821249,
+        "text": "RT @wandaslizzie: dr strange: what do you know about the multiverse?\n\nwanda: https://t.co/Dl5z8opcnQ",
+        "created_at": "2021-12-23 19:40:08+00:00",
+        "public_metrics": {
+            "retweet_count": 24525,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474054384476573698,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1474069215837822976,
+        "text": "RT @ComicBook: Elizabeth Olsen as Scarlet Witch in 'Doctor Strange in the Multiverse of Madness' https://t.co/9QKFkpKZnR",
+        "created_at": "2021-12-23 17:27:42+00:00",
+        "public_metrics": {
+            "retweet_count": 3343,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473700763801161730,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1474060805494968327,
+        "text": "RT @civiiswar: THE SCARLET WITCH RETURNS #DoctorStrange https://t.co/KckOkZ7VkM",
+        "created_at": "2021-12-23 16:54:17+00:00",
+        "public_metrics": {
+            "retweet_count": 1833,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473705314327445506,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1474060726402961410,
+        "text": "RT @bestofpugh: florence pugh as yelena in 'hawkeye' has been a blessing from start to finish https://t.co/KNLciP36DU",
+        "created_at": "2021-12-23 16:53:58+00:00",
+        "public_metrics": {
+            "retweet_count": 3468,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474031985840594944,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473729336293441541,
+        "text": "RT @marvelbelova: WE NEED BLACK WIDOW 2 WITH YELENA https://t.co/KCESsYRGHy",
+        "created_at": "2021-12-22 18:57:08+00:00",
+        "public_metrics": {
+            "retweet_count": 27,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473640593712508931,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473729088397492238,
+        "text": "RT @natbelovs: yelena wasn\u2019t even hurt she was offended \n\n https://t.co/2rFUz1guJl",
+        "created_at": "2021-12-22 18:56:09+00:00",
+        "public_metrics": {
+            "retweet_count": 169,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473681506509938688,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473728808813580288,
+        "text": "RT @goldensleeper: kate offending yelena a two part series #hawkeye https://t.co/MpwiD7ksBX",
+        "created_at": "2021-12-22 18:55:03+00:00",
+        "public_metrics": {
+            "retweet_count": 414,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473694570768654342,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473728719353221122,
+        "text": "RT @queenromxnov: #hawkeye spoilers \n-\n-\n-\n-\n-\n-\n\u201cshe told me about how you got separated as kids. she was flying that plane. i asked her i\u2026",
+        "created_at": "2021-12-22 18:54:41+00:00",
+        "public_metrics": {
+            "retweet_count": 254,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473588667948015617,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473728539941912580,
+        "text": "RT @yelenasbishops: #hawkeye spoilers: \n-\n-\n-\n-\nWHY ARE YELENA AND KATE LIKE THIS? https://t.co/0G6ghAoCiD",
+        "created_at": "2021-12-22 18:53:59+00:00",
+        "public_metrics": {
+            "retweet_count": 493,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473684028192608269,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473727900872581124,
+        "text": "RT @bestofpugh: yelena belova fashion icon #hawkeye https://t.co/lUrD1kIqsx",
+        "created_at": "2021-12-22 18:51:26+00:00",
+        "public_metrics": {
+            "retweet_count": 2778,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473658604880384003,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473623527638978562,
+        "text": "RT @w3bsh00terz: #HawkeyeFinale spoilers \n.\n.\n\n.\nMarvel what the hell is this post credits https://t.co/lV5dyVQZQY",
+        "created_at": "2021-12-22 11:56:42+00:00",
+        "public_metrics": {
+            "retweet_count": 562,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473577765915934723,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473623425688084482,
+        "text": "RT @ZaraAlbro: @archiveshailees @HaileeSteinfeld Me after I waited through the Rodgers musical end credits scene because I thought someone\u2026",
+        "created_at": "2021-12-22 11:56:17+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473606724527529986,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473623126688681984,
+        "text": "RT @ZaraAlbro: @queenromxnov I think we can all agree that florence pugh\u2019s acting in this scene was top tier #hawkeye https://t.co/kXaP5L9l\u2026",
+        "created_at": "2021-12-22 11:55:06+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473606629350326276,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473622664346357765,
+        "text": "RT @civiiswar: #HawkeyeFinale #hawkeye spoilers\n-\n-\nYELENA BELOVA WILL RETURN SOON https://t.co/oFujV0E6CP",
+        "created_at": "2021-12-22 11:53:16+00:00",
+        "public_metrics": {
+            "retweet_count": 865,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473578328875544578,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473622581953458176,
+        "text": "RT @bestofpugh: one perfect shot. #hawkeye https://t.co/5KaDNzzZuo",
+        "created_at": "2021-12-22 11:52:56+00:00",
+        "public_metrics": {
+            "retweet_count": 1366,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473579985713741826,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473621218913767424,
+        "text": "!!!!!! https://t.co/z3B5vRgk0n",
+        "created_at": "2021-12-22 11:47:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473612512461393920,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1473621076831731717,
+        "text": "RT @wandasolsen: Yelena and Natasha truly deserved more time together #Hawkeye #HawkeyeFinale https://t.co/dMj1pagajr",
+        "created_at": "2021-12-22 11:46:57+00:00",
+        "public_metrics": {
+            "retweet_count": 1474,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473593460661764098,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473618203901194240,
+        "text": "RT @Hawkeye_Updates: everyone: \ud83d\ude12\ud83e\udd28\ud83d\ude0f\njack: \ud83d\ude01 https://t.co/Wab4ZECqDj",
+        "created_at": "2021-12-22 11:35:32+00:00",
+        "public_metrics": {
+            "retweet_count": 1232,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473452103708278784,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473614969400745984,
+        "text": "RT @bestofpugh: new hawkeye                        it\u2019s the\n    episode                                last\n   tomorrow\u2026",
+        "created_at": "2021-12-22 11:22:41+00:00",
+        "public_metrics": {
+            "retweet_count": 3264,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473378588833595401,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473614955588907010,
+        "text": "RT @bestofpugh: that\u2019s hot https://t.co/JU3NysGTCR",
+        "created_at": "2021-12-22 11:22:38+00:00",
+        "public_metrics": {
+            "retweet_count": 3872,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473587234783834117,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473390362668703745,
+        "text": "RT @JeremyRenner: Ready for episode 6 ? @disneyplus",
+        "created_at": "2021-12-21 20:30:11+00:00",
+        "public_metrics": {
+            "retweet_count": 2084,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473199343498784772,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473206181246078977,
+        "text": "RT @wandasolsen: THE BIG 3 #Hawkeye https://t.co/EIK7PA2tM5",
+        "created_at": "2021-12-21 08:18:19+00:00",
+        "public_metrics": {
+            "retweet_count": 4826,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1472960602943361031,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473206127525437443,
+        "text": "RT @bestofpugh: no thoughts just florence pugh dressed as yelena on the set of 'hawkeye' https://t.co/VqhlxSxqhe",
+        "created_at": "2021-12-21 08:18:06+00:00",
+        "public_metrics": {
+            "retweet_count": 2931,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473013141881696259,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473205702420144130,
+        "text": "@agxth4 @emjey_n PUTANGINA MO HAHA",
+        "created_at": "2021-12-21 08:16:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 730344570324553729,
+        "referenced_tweets": {
+            "id": 1473189385726152705,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472956321956007945,
+        "text": "@flrnclyn1 @Sophia_lngmn ayaw ko malandi yan",
+        "created_at": "2021-12-20 15:45:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1106424176384983041,
+        "referenced_tweets": {
+            "id": 1472955651446157313,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472916712563490816,
+        "text": "@agxth4 @emjey_n \"that's a long list.\"",
+        "created_at": "2021-12-20 13:08:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 730344570324553729,
+        "referenced_tweets": {
+            "id": 1472886550115467264,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472881374374014976,
+        "text": "Does anyone still uses snapchat?",
+        "created_at": "2021-12-20 10:47:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472626887675367425,
+        "text": "eck* https://t.co/2rE9PvdKSl",
+        "created_at": "2021-12-19 17:56:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472188654592290816,
+        "text": "RT @comfortscarflo: obsessed with her style https://t.co/1OmTp5o4Wf",
+        "created_at": "2021-12-18 12:55:01+00:00",
+        "public_metrics": {
+            "retweet_count": 928,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1471972909849751558,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1471741907155881985,
+        "text": "RT @HSteinfeldNews: oh we going to have a FIGHT! #hawkeye https://t.co/nUEgRhmtF0",
+        "created_at": "2021-12-17 07:19:48+00:00",
+        "public_metrics": {
+            "retweet_count": 225,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1471577004726226944,
+            "type": "retweeted"
+        }
+    }
+]

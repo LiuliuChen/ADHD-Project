@@ -1,0 +1,4303 @@
+[
+    {
+        "tweet_id": 1506383007317331971,
+        "text": "anyone know what vyvanse withdrawals are like cause i'm pretty sure i'm gonna have to add that to my list of things i'm dealing with rn and I am high key freaking out",
+        "created_at": "2022-03-22 21:31:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506348892824092672,
+        "text": "\"there is no \"answer\", but eleanor  is the answer\" will forever make me cry",
+        "created_at": "2022-03-22 19:15:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506346189100224518,
+        "text": "why must I be sick at the end of the semester. trying to write my final paper rn is hell any amount of stress just amps up all my symptoms ugh",
+        "created_at": "2022-03-22 19:04:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506070006643118084,
+        "text": "am I really gonna go apply for fancy adult government jobs \ud83e\udd74",
+        "created_at": "2022-03-22 00:47:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506011324509147142,
+        "text": "self care is sitting in the bath for 4 hours",
+        "created_at": "2022-03-21 20:54:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505999783575519238,
+        "text": "RT @LilyYily: my love language is cooking elaborate meals screaming at everyone to get out of the kitchen then loudly announcing the food w\u2026",
+        "created_at": "2022-03-21 20:08:23+00:00",
+        "public_metrics": {
+            "retweet_count": 47091,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505665645555302404,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505761301800181762,
+        "text": "holyyyy now that i'm almost at the end of the 100 this show has me in teeeeaaaarrsssss oh my god",
+        "created_at": "2022-03-21 04:20:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505713044260749316,
+        "text": "RT @dino_comics: buddy no. 7 https://t.co/NDoJJ57gTT",
+        "created_at": "2022-03-21 01:08:59+00:00",
+        "public_metrics": {
+            "retweet_count": 695,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505616453046779915,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505583162176417793,
+        "text": "perks of being immunocompromised: I can still go get tested. downside though is that I have covid. https://t.co/Ca6v6a63sF",
+        "created_at": "2022-03-20 16:32:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505016655411236865,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1505409802993745920,
+        "text": "I wonder if my heart will ever heal. if it'll stop aching. if I'll ever stop tearing myself apart. every small reminder just topples me. i'm just so tired",
+        "created_at": "2022-03-20 05:04:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505059837490593792,
+        "text": "at least im not coughing as much as yesterday that shit hurt",
+        "created_at": "2022-03-19 05:53:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1505016655411236865,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505016655411236865,
+        "text": "the confusion of not knowing if I have covid or not lol I hate these home tests",
+        "created_at": "2022-03-19 03:01:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504947895589486592,
+        "text": "now I remember why I hate the 100. they fucking d e s t r o y all the good characters",
+        "created_at": "2022-03-18 22:28:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504717759438987265,
+        "text": "I miss being 15 with a tumblr account. I want to obsess with random people about the show i'm currently obsessed with",
+        "created_at": "2022-03-18 07:14:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504646835633229826,
+        "text": "I hate being siiiiiick idek what's wrong w me but I feel like garbage and i'm lonely and mad about it",
+        "created_at": "2022-03-18 02:32:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504242207422758917,
+        "text": "crazy how I take care of the 3 things causing me an unreasonably high level of stress and suddenly I feel like a person again and can function normally",
+        "created_at": "2022-03-16 23:44:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1504229730567921673,
+        "text": "I just looked at my grades and it changed to 32.5%????? i'm not complaining i'm just confused https://t.co/ztEnn9zvON",
+        "created_at": "2022-03-16 22:54:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498157231144984580,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1504171986435534850,
+        "text": "wtf",
+        "created_at": "2022-03-16 19:05:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1504171960174989315,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504171960174989315,
+        "text": "granted in the past year a lot of my bills increased. i'm paying more for rent this year, im on more meds, the cost of gas, food, and therapy has all increased. but still I was probably paying close to $21,000 in bills in previous years. that's still the majority of my income",
+        "created_at": "2022-03-16 19:05:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1504171173499703299,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504171173499703299,
+        "text": "the most I have ever made in a year was just under $35,000, and that was working 40-50 hrs/wk killing myself in a physically demanding job. I typically sit at like $25-27,000. suddenly a lot makes sense",
+        "created_at": "2022-03-16 19:02:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1504170642714767360,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1504170642714767360,
+        "text": "doing my taxes is always high key stressful bc I see all the money I made and then the like, $100 currently in my bank account and I wonder where it all went. but I just put together what all my bills cost me in a year, and lowballing it all came out to about $28,000",
+        "created_at": "2022-03-16 19:00:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503998763416764421,
+        "text": "@AlyInTheHouse1 right like why are the teenagers at a like 300% horniness level and the adults are at maybe 5%",
+        "created_at": "2022-03-16 07:37:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1259904777330110467,
+        "referenced_tweets": {
+            "id": 1503880539157118982,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503996124100661248,
+        "text": "signed up for group bipolar sessions &amp; sent an email to my old therapist about starting sessions with her. I want to heal &amp; live a healthy life so bad",
+        "created_at": "2022-03-16 07:26:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503789813694038016,
+        "text": "RT @firedteacher: not to be dramatic but existing to produce labour for my employer and landlord kinda sucks",
+        "created_at": "2022-03-15 17:46:45+00:00",
+        "public_metrics": {
+            "retweet_count": 23,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503420288951848960,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503625192882331648,
+        "text": "please I am begging you stop making shows where the characters are teenagers so horny I am so uncomfortable",
+        "created_at": "2022-03-15 06:52:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503584285776703489,
+        "text": "why is finding a therapist so difficult help",
+        "created_at": "2022-03-15 04:10:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503451561309073410,
+        "text": "luv 2 keep myself stressed 2 death",
+        "created_at": "2022-03-14 19:22:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502494051353853954,
+        "text": "in other dad news, he sent this to the family group chat yesterday and I audibly laughed https://t.co/y2oYJu9VrD",
+        "created_at": "2022-03-12 03:57:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1502493782851260421,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502493782851260421,
+        "text": "I will absolutely not be discussing that with him in an enclosed space where I cannot leave. instead I will choose the incredibly fucking awkward silence and maybe pretend i'm asleep",
+        "created_at": "2022-03-12 03:56:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1502492443203170309,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502492443203170309,
+        "text": "stuck in the truck for a little over an hour with just my dad as we drive to the farm. brain tells me this is a good time to discuss my bipolar diagnosis with him",
+        "created_at": "2022-03-12 03:51:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502378936382091265,
+        "text": "applying for ei makes me want to throw up lol",
+        "created_at": "2022-03-11 20:20:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502176137199304714,
+        "text": "RT @awong37: \"You're responsible for assessing your own COVID risk\" is just a polite way of saying \"we're done with this, you're on your ow\u2026",
+        "created_at": "2022-03-11 06:54:34+00:00",
+        "public_metrics": {
+            "retweet_count": 2618,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501919102381682688,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502138355806474244,
+        "text": "I can't rely on the community anymore. it's 100% on me to keep myself healthy and I know for a FACT i'm not gonna be capable of doing that. and it makes me just wanna shut down. i'm so tired of having to advocate for myself &amp; other chronically ill people",
+        "created_at": "2022-03-11 04:24:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1502137883557130242,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502137883557130242,
+        "text": "getting groceries is panic-inducing. my friends and family shrug their shoulders and have accepted that at some point they'll get it and just take their week of sick leave and then move on. meanwhile my covid fears haven't lessened at all",
+        "created_at": "2022-03-11 04:22:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1502137333994246144,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502137333994246144,
+        "text": "but like. god it hurts to see that. people getting vaccinated and following restrictions was the only reason I was able to have the small sense of normalcy that I did over the past year. and now that all of that is gone I feel completely abandoned",
+        "created_at": "2022-03-11 04:20:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1502136868200083463,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502136868200083463,
+        "text": "the amount of vaccine misinformation I see online is wild &amp; now that restrictions being lifted I see so many posts about how people regret getting vaccinated &amp; I don't want to downplay the feelings they have about feeling forced to do something they weren't 100% comfortable doing",
+        "created_at": "2022-03-11 04:18:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501649779121475584,
+        "text": "anyways this is my way of saying I got a rook today, and that means theres only 4 piercings I want left, and if all goes according to plan I'll have them done by august",
+        "created_at": "2022-03-09 20:03:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1501649318528229379,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501649318528229379,
+        "text": "feeling any emotion at all? new piercing.",
+        "created_at": "2022-03-09 20:01:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1501649242539974656,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501649242539974656,
+        "text": "happy? in love? excited? new piercing.",
+        "created_at": "2022-03-09 20:00:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1501649106204184578,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1501649106204184578,
+        "text": "sad? lonely? stressed? new piercing.",
+        "created_at": "2022-03-09 20:00:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501061439057891331,
+        "text": "after years of sleepless nights saying I feel crazy, taking an antipsychotic feels weirdly affirming",
+        "created_at": "2022-03-08 05:05:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500974104525955073,
+        "text": "it's also messy as HELL past me was a bitch and left it for future (current) me to deal with",
+        "created_at": "2022-03-07 23:18:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1500973891396591616,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500973891396591616,
+        "text": "I love to say \"i'm gonna stay w my parents for a week\" and then shit happens and it's 3+ weeks later and i'm still there. anyways i'm back at my apartment and it's lonely",
+        "created_at": "2022-03-07 23:17:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500561508178153473,
+        "text": "ITS -2 &amp; SUNNY &amp; IM MEDICATED &amp; FEELIN LIKE A WHOLE NEW PETSON BABYYY",
+        "created_at": "2022-03-06 19:58:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500390181907492870,
+        "text": "lol I've just clued into the fact that my tendency to date people that are 5+ years older than me has screwed with my perception of my own age. stay tuned to find out what self discoveries I make tomorrow!",
+        "created_at": "2022-03-06 08:37:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499931690533150722,
+        "text": "RT @NaheedD: GOOD NEWS: Canada is prepared to welcome an \u201cunlimited\u201d number of refugees fleeing war in Ukraine.\n\nYou know what would be eve\u2026",
+        "created_at": "2022-03-05 02:15:57+00:00",
+        "public_metrics": {
+            "retweet_count": 1494,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499739814102544385,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499798528373116928,
+        "text": "what the fuck did I like to be getting pro-kenny &amp; pro-ucp tweets on my feed https://t.co/tSywsQD2tk",
+        "created_at": "2022-03-04 17:26:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499588221918793731,
+        "text": "in other news I started buying comics again \ud83e\udd29",
+        "created_at": "2022-03-04 03:31:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499561865801650179,
+        "text": "anyways. I miss feeling like myself, even the unhealthy parts (especially the unhealthy parts). life is whack and I need to find a therapist again",
+        "created_at": "2022-03-04 01:46:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1499559126409506822,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499559126409506822,
+        "text": "and i'll keep doing that every day but damn it's tiring. I envy those that don't have to think about their life like this",
+        "created_at": "2022-03-04 01:35:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1499558731071197186,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499558731071197186,
+        "text": "and every time I have to go through the list of debilitating depression symptoms &amp; unhealthy/unstable manic traits that made me want meds. and I make the conscious decision to do better. to be better",
+        "created_at": "2022-03-04 01:33:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1499557918030516226,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499557918030516226,
+        "text": "every day when my alarm goes off to remind me to take my meds, I put my pills in my hand and for a moment I think \"what if I just stop taking them\". every day, twice a day",
+        "created_at": "2022-03-04 01:30:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1499557102410342404,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499557102410342404,
+        "text": "I miss the way mania feels. the confidence &amp; the euphoria. I miss the comfort of depression. I hate my meds for taking that away from me even though I KNOW I shouldn't want to feel that way. but it's familiar, and I long for familiarity rn",
+        "created_at": "2022-03-04 01:27:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1499556467191410688,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499556467191410688,
+        "text": "I don't know what \"good\" is supposed to feel like bc I've only known mania. \"bad\" is depression or pain flare ups. \"normal\" has never existed until now and I don't know what to do with it",
+        "created_at": "2022-03-04 01:24:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1499556106787426310,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499556106787426310,
+        "text": "someone asked me if I slept ok last night and I didn't know how to answer, because my sense of what a good/bad/ok night of sleep is no longer exists. I have no way of judging that. and that should be good but it's so overwhelming! bc it's not just sleep it's everything",
+        "created_at": "2022-03-04 01:23:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1499555992425566209,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499555992425566209,
+        "text": "but it's come at the cost of loosing my entire sense of self. nothing about me feels familiar anymore",
+        "created_at": "2022-03-04 01:23:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1499555273706381313,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499555273706381313,
+        "text": "every morning and night have to choose to take my meds, which prevent intense manic &amp; depressive episodes and the list of issues that come w them. episodes still happen but I've noticed that i'm better equipped to deal with them when medicated",
+        "created_at": "2022-03-04 01:20:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1499554584104083458,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1499554584104083458,
+        "text": "the thing about being mentally ill that I think a lot of people don't understand is that I have to wake up every day and make the decision to be healthy so many times throughout the day, but not in a \"i'm gonna have a salad instead of a burger\" type way",
+        "created_at": "2022-03-04 01:17:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498157231144984580,
+        "text": "I got 28% on my polisci midterm ha ha \ud83e\udd72 #pain",
+        "created_at": "2022-02-28 04:44:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497995879218749440,
+        "text": "last night was so good for so many reasons. one- it was the closest thing I've felt to normalcy since the pandemic started, and to be surrounded by laughter was amazing. and two- having people use they/them pronouns for me without me having to talk about it made my heart sing",
+        "created_at": "2022-02-27 18:03:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497871063300014086,
+        "text": "RT @KrisAndreychuk: I\u2019ve never been prouder of the \u2018chuk\u2019 at the end of my name \ud83c\uddfa\ud83c\udde6\u270a\ud83c\udffb",
+        "created_at": "2022-02-27 09:47:45+00:00",
+        "public_metrics": {
+            "retweet_count": 40,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497682314456797185,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497409723787722753,
+        "text": "just about retweeted the eps tweet about tomorrows convoy saying \"this is the weekend I start slashing tires\" before realizing maybe I shouldn't talk about criminal activity while sharing something from the police \ud83e\udd2a",
+        "created_at": "2022-02-26 03:14:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497048717974994944,
+        "text": "I know my mental state atm is pretty unstable already and doesn't help with processing what's happening, but god my whole soul aches for the people in Ukraine right now",
+        "created_at": "2022-02-25 03:20:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1497048056688087043,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497048056688087043,
+        "text": "last week I was excitedly gathering supplies to decorate eggs, yesterday I went to orbit to get dyes, today I can't even look at it all without nearly crying. the thought of trying to celebrate my culture while people are actively being killed for it makes me sick",
+        "created_at": "2022-02-25 03:17:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497043154494582787,
+        "text": "RT @KellyAizicowitz: This is a freedom convoy.",
+        "created_at": "2022-02-25 02:57:56+00:00",
+        "public_metrics": {
+            "retweet_count": 5651,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496973980946866177,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496959039225274368,
+        "text": "RT @JohnRush32: Absolutely surreal watching Putin, an actual dictator, invade Ukraine and murder their citizens after watching this convoy\u2026",
+        "created_at": "2022-02-24 21:23:41+00:00",
+        "public_metrics": {
+            "retweet_count": 162,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496726272059314177,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496958869892853781,
+        "text": "RT @iheartedmonton: It's funny to think that one country was protesting for \"freedom\" by invading our streets just as another was about to\u2026",
+        "created_at": "2022-02-24 21:23:01+00:00",
+        "public_metrics": {
+            "retweet_count": 1274,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496912090337927168,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496510633755672577,
+        "text": "RT @math_rachel: I\u2019m vaxxed &amp; boosted, so why can\u2019t I \"move on\" from concerns about covid, need for N95s/KF94s/P2s, etc?  My answer \ud83e\uddf5 1/ ht\u2026",
+        "created_at": "2022-02-23 15:41:53+00:00",
+        "public_metrics": {
+            "retweet_count": 911,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496356896634470411,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496352973257072644,
+        "text": "a restaurant near my apartment is having a hiring fair and like ugh do I go back to working in a kitchen? do I wanna try a foh position instead? do I work two jobs? do I just stick with the one I have now? why is this so difficult?",
+        "created_at": "2022-02-23 05:15:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496328404844838917,
+        "text": "when I started adhd meds I was like \"wow this is how brains are supposed to function?!?! wtf??!!!\" and now that I've started bipolar meds i'm like \"wow this is how emotions are supposed to function?!?! wtf??!!!\"",
+        "created_at": "2022-02-23 03:37:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495637304626790400,
+        "text": "this games d&amp;d character: a fire genasi artillerist. god i'm excited to play again",
+        "created_at": "2022-02-21 05:51:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495525910606319617,
+        "text": "AND I got large eggs to decorate for easter AND I spent all weekend with my friends AND my meds are helping me. things are good today",
+        "created_at": "2022-02-20 22:28:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1495525643898920967,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495525643898920967,
+        "text": "NEW D&amp;D GAME TONIGHT WHEEEE",
+        "created_at": "2022-02-20 22:27:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495221293997694976,
+        "text": "day 3 (??) of bipolar meds: idk things are fine i don't really notice any differences but jesus christ am I tired",
+        "created_at": "2022-02-20 02:18:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495137711992180737,
+        "text": "but whatever my best friend is here from calgary for the weekend and i'm spending so much time with her I don't care about anything else",
+        "created_at": "2022-02-19 20:46:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1495136935400001539,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495136935400001539,
+        "text": "thank you snapchat for reminding me that a year ago today started the end of my relationship and a year of mental health hell. not really what I wanted to be reminded of lol",
+        "created_at": "2022-02-19 20:43:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494701749818454017,
+        "text": "RT @TheLisaWalters: Immunocompromised people can\u2019t just live in a vacuum. They\u2019re a part of society too. They are your doctors, teachers, b\u2026",
+        "created_at": "2022-02-18 15:54:02+00:00",
+        "public_metrics": {
+            "retweet_count": 27185,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494395624585940996,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494565824132042752,
+        "text": "RT @edyong209: I want to say something more about this piece on immunocompromised people, and how I\u2019m thinking about journalism in this mom\u2026",
+        "created_at": "2022-02-18 06:53:54+00:00",
+        "public_metrics": {
+            "retweet_count": 735,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494320897246871553,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494565342986706946,
+        "text": "day 1 of bipolar medication: anxiety &amp; paranoia about being on new a new med is through the roof, but I feel no different. this is calming the paranoia. I've made a promise to myself to keep taking them",
+        "created_at": "2022-02-18 06:52:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494135158756175873,
+        "text": "a must read thread &amp; article https://t.co/1Bb8h9dnqY",
+        "created_at": "2022-02-17 02:22:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493969707849953284,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1493859290368466945,
+        "text": "do homework and study for the TWO midterms that's are tomorrow? no. \nwrite letters to your friends telling them all the things you've been to scared to say? yes.",
+        "created_at": "2022-02-16 08:06:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493432526601265153,
+        "text": "I think of summer 2019 often and I wish I could live there forever",
+        "created_at": "2022-02-15 03:50:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493320797905043459,
+        "text": "RT @otgyana: happy valentine\u2019s day to me i love you",
+        "created_at": "2022-02-14 20:26:37+00:00",
+        "public_metrics": {
+            "retweet_count": 88554,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493087692325801991,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493292387203911681,
+        "text": "RT @incwitcher: happy valentine\u2019s day from yours truly! i made you some valentines card to send to your loved ones, enjoy https://t.co/4ebZ\u2026",
+        "created_at": "2022-02-14 18:33:43+00:00",
+        "public_metrics": {
+            "retweet_count": 527,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492989889935253508,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1492965074213892097,
+        "text": "my mom told my dad about my adhd/bipolar diagnosis for me and about the fact that i'm stressed about school/life :-) i'm still gonna have to talk to him but it'll be easier now",
+        "created_at": "2022-02-13 20:53:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492416318305226753,
+        "text": "RT @ameliaelizalde: love the day after your period ends when u wake up and u want to live and u have so many ideas about how to improve thi\u2026",
+        "created_at": "2022-02-12 08:32:32+00:00",
+        "public_metrics": {
+            "retweet_count": 22120,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492239054636654592,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1492384630023987200,
+        "text": "RT @jbfan911: Taking my meds two minutes ago and being like ummmm did I take my meds or did I imagine that",
+        "created_at": "2022-02-12 06:26:37+00:00",
+        "public_metrics": {
+            "retweet_count": 16820,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492210155676700672,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1492384527859142659,
+        "text": "being immunocompromised I have had so so many feelings throughout the entirety of the pandemic, and this past 2-3 months has easily been the worse of it. and truth be told i'm very very very nervous for ab's next few months https://t.co/ZbKmicTUrx",
+        "created_at": "2022-02-12 06:26:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492289933616185345,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1491919546671792129,
+        "text": "anyways I have to spend time with him on sunday for my sisters birthday wish me luck \ud83e\udd2a",
+        "created_at": "2022-02-10 23:38:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1491668666424840192,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491668666424840192,
+        "text": "and is actively pursuing a degree &amp; career that he would not like/agree with (politically) and has an entire life he knows next to nothing about. like. I have a hard enough time wrapping my head around that and i'm supposed to expect him to understand???? nah",
+        "created_at": "2022-02-10 07:01:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1491668461449211905,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491668461449211905,
+        "text": "I have been avoiding talking with my dad because how in the heck am I supposed to tell him that the girl he watched grow up is now a not-female bipolar/adhd person who shaved their head and completely disagrees with every single one of his worldviews,",
+        "created_at": "2022-02-10 07:00:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491526584183910402,
+        "text": "putting aside the fact that i'm still majorly struggling with school, I'm IN school, and that's more than I thought I would ever be capable of. and to be doing a double major on top of that?! whack. 17 yr old me is beaming, she's excited. 25 yr old me is terrified tho lol",
+        "created_at": "2022-02-09 21:37:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1491525677132046337,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491525677132046337,
+        "text": "declared my majors just now and oh boy is it giving me Feelings",
+        "created_at": "2022-02-09 21:33:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491241422309462016,
+        "text": "@kaiagoodhope I envy you greatly. why I chose to start my degree here i'll never know",
+        "created_at": "2022-02-09 02:43:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1240121420270747651,
+        "referenced_tweets": {
+            "id": 1491223788226506755,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491217317539500033,
+        "text": "we're all in agreement that our gov is a joke right? like. listening to kenny talk hurts my brain",
+        "created_at": "2022-02-09 01:08:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490854701549899777,
+        "text": "RT @eugene126412: \"ur so chill\" thanks i gave up",
+        "created_at": "2022-02-08 01:07:14+00:00",
+        "public_metrics": {
+            "retweet_count": 60164,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490490373684318210,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490830899193073666,
+        "text": "didn't cry while talking with my manager about a leave of absence, i'll take that as a win",
+        "created_at": "2022-02-07 23:32:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490808694472253440,
+        "text": "motherfuck I wish I had money lol https://t.co/iaMsoUaDQL",
+        "created_at": "2022-02-07 22:04:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490731798543880194,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1490200729532788736,
+        "text": "nothing makes me Cry\u2122\ufe0f like the way This Is Us makes me Cry\u2122\ufe0f",
+        "created_at": "2022-02-06 05:48:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490075116624961540,
+        "text": "what no i'm fine why do you ask?",
+        "created_at": "2022-02-05 21:29:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1490075029593157632,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490075029593157632,
+        "text": "AAAAAHHHHHHHHHHHHHHHHH",
+        "created_at": "2022-02-05 21:29:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489663922068070405,
+        "text": "you know you're in A Fuckin Spot when you start your therapy session and then realize therapy is going to do more harm than good for you in that moment. god bless my therapist tho for picking up on that without me saying it and offering to reschedule",
+        "created_at": "2022-02-04 18:15:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489480069093285891,
+        "text": "\ud83e\udd72 https://t.co/C5LwEaYUKt",
+        "created_at": "2022-02-04 06:04:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489234568712527874,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1489344220598996994,
+        "text": "I dream of stability and it's what's keeping me going",
+        "created_at": "2022-02-03 21:05:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489342817772003329,
+        "text": "anyways I got diagnosed with bipolar today, I have probably another 2 things that I want to talk about, but have to get a new fucking referral for. also it would be SO NICE TO HAVE A GODDAMN FOLLOW UP SESSION. I hate starting meds and I hate having to figure shit out on my own",
+        "created_at": "2022-02-03 20:59:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1489342133320359943,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489342133320359943,
+        "text": "i'm so fucking tired of seeing a psychiatrist and getting one diagnosis and then never being able to talk to them again. give me my 5 hr psychiatry session so I can get all my diagnosis at once so I can get my shit figured out. please i'm. begging you",
+        "created_at": "2022-02-03 20:56:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489121541170163712,
+        "text": "fun update on this: I forgot to add the dye to the second dye bath. went through the whole process without realizing it. the first dye bath turned out great tho!!! https://t.co/JEv6GZsLm3",
+        "created_at": "2022-02-03 06:20:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489056191170834434,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1489065412104835073,
+        "text": "if u see me dying my entire wardrobe black.......... mind ur business I need the serotonin",
+        "created_at": "2022-02-03 02:37:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1489056191170834434,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489056191170834434,
+        "text": "dying my clothes rather than buying new ones &gt;&gt;&gt;",
+        "created_at": "2022-02-03 02:00:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488422087144325122,
+        "text": "0/5 stars for the assessment I had to do for this psychiatrist",
+        "created_at": "2022-02-01 08:00:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488325849837232130,
+        "text": "RT @eugene126412: \u201cu look tired\u201d bro i want to die",
+        "created_at": "2022-02-01 01:38:29+00:00",
+        "public_metrics": {
+            "retweet_count": 20010,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487969835539734528,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488320381509603329,
+        "text": "@kaiagoodhope ty \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2022-02-01 01:16:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1240121420270747651,
+        "referenced_tweets": {
+            "id": 1488269046336262144,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488263944972107778,
+        "text": "there's so much more but I've told my brain it's not allowed to think of other things until at least some of this has been sorted and dealt with",
+        "created_at": "2022-01-31 21:32:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1488263378745237506,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488263378745237506,
+        "text": "- new psychiatrist on thursday\n- iso a new therapist, the school one is not working out \n- the fucking trucker convoy &amp; supporters actually make me nervous to leave my home atm\n- god I am so depressed",
+        "created_at": "2022-01-31 21:30:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1488261942393270273,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488261942393270273,
+        "text": "- I need to get my finances in order, I spent WAY too much the past few days \n- figuring out lots in terms of what I want in terms of relationships\n- so much gender stuff\n- fucking insomnia \n- working in customer service is not for me and I need a different job",
+        "created_at": "2022-01-31 21:24:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1488260896216412161,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488260896216412161,
+        "text": "- I have like 6 packages that are somewhere in the mailing system. everything is delayed which sucks but it'll be a fun day when they get here \n- I got new dishes that feel like they belong in a farm to table restaurant and I love them so so so much",
+        "created_at": "2022-01-31 21:20:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1488259266628571136,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488259266628571136,
+        "text": "- decided on what i'm doing with my schooling (double major)\n- the ndp posted a job that I would love to do, but am severely underqualified for lol\n- adhd meds are running out and I need to find a doctor \n- never. ending. dishes. \n- and laundry",
+        "created_at": "2022-01-31 21:13:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1488258772409536517,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488258772409536517,
+        "text": "my life fell apart over the weekend (again) so im pickin up the pieces and putting it back together so here is a thread of all the good and bad and neutral things going on in my mind rn",
+        "created_at": "2022-01-31 21:11:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488257012768993283,
+        "text": "this isn't even someone I know, it's a friend of a friend. we live in different countries. he wouldn't even let me pay for shipping. i'm going to cry I can't wait to receive it",
+        "created_at": "2022-01-31 21:04:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1488256311460458497,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488256311460458497,
+        "text": "being sent a binder from a kind human who doesn't wear it anymore &amp; refuses to accept anything for it, they just want to know it'll be used &gt;&gt;&gt;&gt;&gt;",
+        "created_at": "2022-01-31 21:02:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487892916999651332,
+        "text": "I often think I have really poor self control, &amp; yeah in many areas of my life that's true, but I everyday I fight the urge to stop my meds &amp; go on a bender &amp; become off the walls unstable, and tbh the fact that I haven't is kind of incredible &amp; shows that I do have self control",
+        "created_at": "2022-01-30 20:58:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487675240343752706,
+        "text": "also the store was out of the brand of chips I like so I was like \"okay I'll try something new\" \ud83d\ude10 bro when I tell you that that was a MISTAKE",
+        "created_at": "2022-01-30 06:33:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487673386834620416,
+        "text": "instead of being sad in my bed, today I was sad in the bath. it's been 3 hours I should probably get out",
+        "created_at": "2022-01-30 06:25:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487651056485998595,
+        "text": "RT @emmadeady: \u201cThis is not my Canada\ud83d\ude14\ud83d\udc94\u201d\nYes it is. Yes it absolutely is.",
+        "created_at": "2022-01-30 04:57:05+00:00",
+        "public_metrics": {
+            "retweet_count": 460,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487631960096841732,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487600815040696322,
+        "text": "I can hear all the honking in my apartment. I want to feel safe why is that such a hard thing to achieve",
+        "created_at": "2022-01-30 01:37:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1487590584520900610,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487590584520900610,
+        "text": "I just want to be home",
+        "created_at": "2022-01-30 00:56:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1487583751898947586,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487583751898947586,
+        "text": "i'm stuck in traffic because of these stupid fucking truckers and i'm just bawling my eyes out. I hate it here so much",
+        "created_at": "2022-01-30 00:29:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487565152278892548,
+        "text": "nothing makes me feel more like myself than drawing a big fuckin eyeliner wing and using crazy false lashes",
+        "created_at": "2022-01-29 23:15:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486795559532785664,
+        "text": "oh a different note, the psychiatrist appointment I made in like, march? april? last year is now exactly a week away",
+        "created_at": "2022-01-27 20:17:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486784278872559620,
+        "text": "oh, and the concert I was looking forward to in march, the first event I have gone to since early feb 2020, has been postponed. fuck today",
+        "created_at": "2022-01-27 19:32:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1486782908459143168,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486782981125541889,
+        "text": "art to cope? I think yes",
+        "created_at": "2022-01-27 19:27:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486782908459143168,
+        "text": "to top it off I had a string of bad dreams last night that played off every insecurity I have and I just feel like shit today",
+        "created_at": "2022-01-27 19:27:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1486782625146544128,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486782625146544128,
+        "text": "i'm also pretty sure I have ovarian cysts again and I am in pain",
+        "created_at": "2022-01-27 19:26:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1486782434658045954,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486782434658045954,
+        "text": "my doctor isn't a gp anymore which means i'm back on the hunt for a doc but I have less than a month of vyvanse left and I am freaking out",
+        "created_at": "2022-01-27 19:25:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486466090829942784,
+        "text": "I hate being a person pls just let me be a lil frog under a mushroom on a rainy day",
+        "created_at": "2022-01-26 22:28:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485879908530196482,
+        "text": "I love 2 play silly little number games on my phone but I figure out the patterns far too quick and then they aren't fun anymore :/",
+        "created_at": "2022-01-25 07:39:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485734181816602625,
+        "text": "RT @brendan905: the first rule of fight club is text me when you get home so I know you\u2019re ok\u2764\ufe0f",
+        "created_at": "2022-01-24 22:00:07+00:00",
+        "public_metrics": {
+            "retweet_count": 504,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485655991639330816,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1484384269891899397,
+        "text": "@kaiagoodhope fuckin rip. double helix it most definitely is then",
+        "created_at": "2022-01-21 04:36:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1240121420270747651,
+        "referenced_tweets": {
+            "id": 1484200038288936960,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484014078230089728,
+        "text": "I think..... maybe I should increase my med dose",
+        "created_at": "2022-01-20 04:05:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483996341659267079,
+        "text": "reposting this because surprise! it's the mood again today https://t.co/8uBWyrwE6a",
+        "created_at": "2022-01-20 02:54:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478796168586874880,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1483937055499755520,
+        "text": "also kinda wild that i've got almost all the piercings I want but I keep thinking \"well maybe I should get this one too \ud83e\udd2a\" so my end will be anywhere between 16-20 piercings lmao",
+        "created_at": "2022-01-19 22:58:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1483936670261006336,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483936670261006336,
+        "text": "also the piercer told me I do have the anatomy for an industrial but a gold bar is like $900. so uh. probably not going to do that because there is no way in HELL you'll catch me with one silver ear piercing so I guess a double helix it is lmao",
+        "created_at": "2022-01-19 22:57:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1483895873780150272,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483895873780150272,
+        "text": "I got a new piercing today and I will be riding this high for the next month when I inevitably get another one",
+        "created_at": "2022-01-19 20:15:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483842901054410755,
+        "text": "the more I look at the when we were young fest the more i'm like oh this shits gonna be disastrous lmao",
+        "created_at": "2022-01-19 16:44:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483628714344660992,
+        "text": "RT @ourphantoms: my chemical romance and paramore and the used at once\u2026 https://t.co/IL28cyjsc1",
+        "created_at": "2022-01-19 02:33:44+00:00",
+        "public_metrics": {
+            "retweet_count": 6329,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483524328721293312,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483552992796327937,
+        "text": "lol @ me talking about this like i'm actually gonna go",
+        "created_at": "2022-01-18 21:32:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1483552857424945156,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483552857424945156,
+        "text": "I just looked it up and GA starts at $225 USD which like. for a lineup like that? definitely worth it. but the fact that it's a 1 day festival is very :( cause I KNOW I wouldn't get to see even half of the people I wanted to",
+        "created_at": "2022-01-18 21:32:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1483551303108161545,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483551303108161545,
+        "text": "holy. fuck. brb gonna go spend my student loans to get tickets https://t.co/dhvj0cWFxa",
+        "created_at": "2022-01-18 21:26:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483304295747391490,
+        "text": "think i'm gonna start makin silly little tiktoks some of these dances look fun ngl",
+        "created_at": "2022-01-18 05:04:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483270966503362563,
+        "text": "how am I doing? i'm eating a container of cookie dough for dinner mind ur business",
+        "created_at": "2022-01-18 02:52:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482971312955920384,
+        "text": "I have 16/136 shrines left. 3 of which I've found I just haven't completed, I have 4 marked where the dlc quests are, &amp; 9 I have no info on yet",
+        "created_at": "2022-01-17 07:01:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1482970142279491584,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482970142279491584,
+        "text": "did I just spend the past hour and a half making an alphabetical #botw shrine list so I could figure out which ones I am missing? yes. yes I did https://t.co/WEGmBsEvfk",
+        "created_at": "2022-01-17 06:56:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482450170423885825,
+        "text": "turns out handpan music is best for post anxiety attack recovery",
+        "created_at": "2022-01-15 20:30:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482204819691491330,
+        "text": "and don't drop out",
+        "created_at": "2022-01-15 04:15:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1482204769015906308,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482204769015906308,
+        "text": "now the goal is get at least a B in both",
+        "created_at": "2022-01-15 04:15:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1482204720492023810,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482204720492023810,
+        "text": "my goal of taking 3 classes this semester lasted a week. i'm back at 2 classes lmao",
+        "created_at": "2022-01-15 04:15:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481883549615550464,
+        "text": "but also if you dare to try taking them away I will break ur fingers. I love my feelings",
+        "created_at": "2022-01-14 06:59:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1481883400080220161,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481883400080220161,
+        "text": "having feelings is fucked I don't want them",
+        "created_at": "2022-01-14 06:58:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481736530855034883,
+        "text": "sometimes self care is skipping class to cook for yourself",
+        "created_at": "2022-01-13 21:14:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481505042192486402,
+        "text": "i'm trying so hard to stay in control and keep my shit sorted and yet feel like i'm constantly failing or running out of options or am just a ticking time bomb",
+        "created_at": "2022-01-13 05:55:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1481502691607994370,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481502691607994370,
+        "text": "I literally used to cope with this by changing my hair, but now I have no hair to change. what the fuck am I supposed to do",
+        "created_at": "2022-01-13 05:45:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1481502495402692608,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481502495402692608,
+        "text": "so things are generally going well but I have I'm slowly being consumed by the urge to give into every impulse that pops into my head and i'm just wondering how long it's gonna be before I destroy my life again",
+        "created_at": "2022-01-13 05:44:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481464753427922945,
+        "text": "@AlyInTheHouse1 i'm just. so. tired dude",
+        "created_at": "2022-01-13 03:14:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1259904777330110467,
+        "referenced_tweets": {
+            "id": 1481366031058669570,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481168405319225345,
+        "text": "look it's not that I want to die, it's just that existing is exhausting and I am so, so tired",
+        "created_at": "2022-01-12 07:37:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1481091648704716801,
+        "text": "how is it that time is moving so fucking slow today and yet I've accomplished nothing",
+        "created_at": "2022-01-12 02:32:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480766161222389760,
+        "text": "I cannot wait till my friends and I can go back to playing together https://t.co/XJ4xfT9Olm",
+        "created_at": "2022-01-11 04:58:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1480412775583125506,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1480341316768714753,
+        "text": "am I brave enough to post my art online",
+        "created_at": "2022-01-10 00:50:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480318925782937605,
+        "text": "do I play the witcher for hours or do I clean or do I make soup or do I start my school work or do I watch a tv show or do I do laundry or do I take a nap why is there so many options today and I want to do them ALL",
+        "created_at": "2022-01-09 23:21:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479135421690888193,
+        "text": "and then moving it around every couple days so she doesn't get suspicious and stop",
+        "created_at": "2022-01-06 16:59:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1479135281957666822,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479135281957666822,
+        "text": "purposefully leaving a cup of water on the counter so my cat can think she's being sneaky and drink out of it when in reality I know and i'm just trying to keep her hydrated",
+        "created_at": "2022-01-06 16:58:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478920116477698048,
+        "text": "i'm calling it rn this is going to be my top played song of the year cause oh damn https://t.co/HB8HUm7IE4",
+        "created_at": "2022-01-06 02:43:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478851056360513542,
+        "text": "rip my mental health cause not doing something I enjoy is going to make me want to die but at least i'll have money to afford food and meds that don't make me want to die and maybe something nice for myself now and again",
+        "created_at": "2022-01-05 22:09:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1478850763694620672,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478850763694620672,
+        "text": "well. time to go suck up my pride and apply for jobs that I don't give a fuck about but that pay more than my current one because the cost of living is too expensive for me to have a job that I enjoy what I do",
+        "created_at": "2022-01-05 22:07:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478796348665200640,
+        "text": "I also have this same feeling everyday at about 1pm and again around 9pm",
+        "created_at": "2022-01-05 18:31:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1478796168586874880,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478796168586874880,
+        "text": "how is it already wednesday but also how is it only wednesday?",
+        "created_at": "2022-01-05 18:30:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478615663929278464,
+        "text": "school starts again tomorrow \ud83e\udd72",
+        "created_at": "2022-01-05 06:33:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478546348081233921,
+        "text": "do I regret shaving my head? no absolutely not. do I miss my hair? yes my head is so cold all the time",
+        "created_at": "2022-01-05 01:58:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478543386894221314,
+        "text": "mmmm why do I have the urge to watch all the barbie princess movies",
+        "created_at": "2022-01-05 01:46:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478442066598268934,
+        "text": "all I know is pain while waiting for s3",
+        "created_at": "2022-01-04 19:03:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1478442014802792451,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478442014802792451,
+        "text": "screaming and crying at the end of the witcher",
+        "created_at": "2022-01-04 19:03:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478277173731467265,
+        "text": "shaved my head and I love it but if any fabric touches my head it's a sensory nightmare so I also hate it",
+        "created_at": "2022-01-04 08:08:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478090394709594112,
+        "text": "BROOOO THIS SHOW IS SO GOOD IM IN LOVE WITH EVERYONE LMAO",
+        "created_at": "2022-01-03 19:46:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477874637748850692,
+        "text": "I knew I shouldn't have started it tonight I don't wanna go to sleep I wanna stay up n watch it but holy fuck i'm exhausted",
+        "created_at": "2022-01-03 05:29:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1477874366142509059,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477874366142509059,
+        "text": "god I fucking love this show",
+        "created_at": "2022-01-03 05:28:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477848150299721728,
+        "text": "i'm also such a fucking baby i'm so scared watching this alone i'm gonna have fucking nightmares lmao",
+        "created_at": "2022-01-03 03:43:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1477846319179841537,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477846319179841537,
+        "text": "I uhhh... apparently forgot more of s1 than I thought",
+        "created_at": "2022-01-03 03:36:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1477835847936348161,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477835847936348161,
+        "text": "finally starting s2 of the witcher \ud83d\ude0d",
+        "created_at": "2022-01-03 02:54:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477744696558456833,
+        "text": "gorgeous gorgeous girls contemplate quitting every time they have to do this",
+        "created_at": "2022-01-02 20:52:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1477744594049658881,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477744594049658881,
+        "text": "gorgeous gorgeous girls spend 15 mins adjusting their 2 masks so they won't have sore ears and a headache at work",
+        "created_at": "2022-01-02 20:52:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477468558929973252,
+        "text": "THAT CANT BE HOW IT ENDS WHAT",
+        "created_at": "2022-01-02 02:35:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1477468531180519429,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477468531180519429,
+        "text": "SORRY W H A T",
+        "created_at": "2022-01-02 02:35:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1477462537515913218,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477462537515913218,
+        "text": "OH BOY THIS EPISODE HURTS. OH NO",
+        "created_at": "2022-01-02 02:11:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1477458464565649409,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477458464565649409,
+        "text": "i'm watching sweet tooth and lemme tell ya I LOVE shows with independent stories that connect at various points of time and ooooooooo boy does this show do that so well",
+        "created_at": "2022-01-02 01:55:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477352195108442113,
+        "text": "anyways sitting on my couch with my best friend was the best possible way to ring in 2022. calm, quiet, loved, &amp; with laughter",
+        "created_at": "2022-01-01 18:53:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477148439917973510,
+        "text": "giving a big ol \ud83d\udd95\ud83c\udffc to 2021. I will not be looking back",
+        "created_at": "2022-01-01 05:23:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476725509996220417,
+        "text": "RT @mackscrossing: why can\u2019t I just be sucked into the game of animal crossing jumanji style and live out the rest of my life on my island",
+        "created_at": "2021-12-31 01:22:52+00:00",
+        "public_metrics": {
+            "retweet_count": 4426,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1476652586069643266,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1476415998777384960,
+        "text": "but anyways for not being very busy we got a lot of interesting people in today. sometimes working with the public is alright",
+        "created_at": "2021-12-30 04:52:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1476415704958070784,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476415704958070784,
+        "text": "they were cute. he carried her out of the store and then was swinging her around outside, that was nice to see.",
+        "created_at": "2021-12-30 04:51:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1476415554810384386,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476415554810384386,
+        "text": "dad kinda laughed/rolled his eyes and responded with \"look, you make a great wingman but you gotta stop trying to set me up with every girl you think is pretty\" and the daughter just giggled so much",
+        "created_at": "2021-12-30 04:51:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1476414915636199424,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476414915636199424,
+        "text": "LOL also an hour later there was also a younger dad with his daughter (who was maybe like 5? 6?) and the daughter was staring up at me talking and then stopped and was like \"your earrings are sooo pretty!!\" and then turned to her dad and was like \"you two should be friends!\"",
+        "created_at": "2021-12-30 04:48:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1476414412080570371,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476414412080570371,
+        "text": "idk why it threw me off so much but it did and my brain had to completely reboot. but anyways him and his wife were both lovely I hope they have a good week",
+        "created_at": "2021-12-30 04:46:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1476414125697736706,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476414125697736706,
+        "text": "like I literally was just like \ud83d\ude10\ud83e\uddcd\ud83c\udffb as I processed it",
+        "created_at": "2021-12-30 04:45:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1476413928255090688,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476413928255090688,
+        "text": "me n my fucking hearing problems I thought there's no way he said bowling but I was just so surprised/confused I just stood there staring at him for a second before I was like \"sorry, bowling?\" and he just was like yeah and repeated the question",
+        "created_at": "2021-12-30 04:44:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1476412716038254592,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476412716038254592,
+        "text": "anyways I can't stop thinking about the customer I had today that asked me how my holidays were and I said \"it was good! I got to see my family which I feel really lucky about\" and his response was \"oh did you go bowling?\"",
+        "created_at": "2021-12-30 04:39:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476057150224945155,
+        "text": "I'll never be able to be the same person that I was at the start of this year, but I can create something new with those pieces. I don't know what yet. but that's the beauty of the artistic process",
+        "created_at": "2021-12-29 05:07:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1476056610862551043,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476056610862551043,
+        "text": "instead the pieces sit on a shelf, and as I am ready I can deal with them one at a time. the edges are sharp so I have to be careful, but now I have gloves to pick them up better. and I have better glue for the pieces that I do want to save",
+        "created_at": "2021-12-29 05:04:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1476055817568669696,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476055817568669696,
+        "text": "and like, that's difficult. I don't want to get rid of these old pieces yet, they mean a lot to me still. but i'm not sitting here anymore not understanding why they won't glue back together and keep falling apart",
+        "created_at": "2021-12-29 05:01:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1476055264260284421,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476055264260284421,
+        "text": "2021 completely broke me as a person. like, absolutely shattered me. and I so desperately wanted to put those pieces back together again but I've realized I can't do that and I need to build something new",
+        "created_at": "2021-12-29 04:59:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1476053859134939139,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476053859134939139,
+        "text": "i'm not normally one to be like \"new year new me!\" but it's really cool that all these changes in my life are lining up w the start of a new year",
+        "created_at": "2021-12-29 04:53:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476025428045287425,
+        "text": "also I put so much art on my walls today!!!!",
+        "created_at": "2021-12-29 03:00:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1476025357786439683,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476025357786439683,
+        "text": "I got myself a big ass pride flag and a pronoun pin. I love living on my own",
+        "created_at": "2021-12-29 03:00:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475897244276572161,
+        "text": "sleeping on my mattress after 2 months of being on an air mattress is incredible. my joints feel so good. I slept for like 12 hours",
+        "created_at": "2021-12-28 18:31:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475664237733109765,
+        "text": "crying because i'm back at my apartment and it feels. different. better. don't get me wrong I'm still scared as hell to be alone, but I think i'll be okay this time",
+        "created_at": "2021-12-28 03:05:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475296121383620610,
+        "text": "nothin says traditional christmas dinner like a white people taco night",
+        "created_at": "2021-12-27 02:42:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1474499709452443651,
+        "text": "RT @ACABspocky: Hot people love Star Trek, just speaking from experience",
+        "created_at": "2021-12-24 21:58:20+00:00",
+        "public_metrics": {
+            "retweet_count": 316,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474268814334386193,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1474272932385878019,
+        "text": "I like to think i'm fairly good with dealing with things re: my health &amp; having an immune disorder. but sometimes things hit me like a train and I realize i'm not. and boy oh boy has today ever been One Of Those Days",
+        "created_at": "2021-12-24 06:57:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1474272260181532673,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474272260181532673,
+        "text": "I know my family has taken this all very seriously but tonight has been a painful reminder that I am living &amp; experiencing this pandemic on a different level from them. from many people. and it hurts",
+        "created_at": "2021-12-24 06:54:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1474271558885466113,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474271558885466113,
+        "text": "i'm tired of being afraid and cautious and passing on events and not seeing my friends and constantly giving up my shifts. I so desperately want to be able to enjoy christmas with my family in peace but I can't",
+        "created_at": "2021-12-24 06:51:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1474271167657627648,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474271167657627648,
+        "text": "I would 10000% rather be too cautious about everything covid related and find out that I could have eased up, over finding out that I was right and it's as deadly to me as i'm afraid of, but oh my god I am tired",
+        "created_at": "2021-12-24 06:50:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1474231964768952321,
+        "text": "am I ready to go back to my apartment? no. am I going to? yes. the stress of living with people &amp; covid is too much again i'm going back to isolating myself completely from the world even if I don't want to. be back in a month. maybe",
+        "created_at": "2021-12-24 04:14:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1474222536090996737,
+        "text": "I got too comfortable in things going well and now things are very bad again",
+        "created_at": "2021-12-24 03:36:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1474222324089909249,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474222324089909249,
+        "text": "fucking fuck fuck",
+        "created_at": "2021-12-24 03:36:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473521753913626625,
+        "text": "hm should I quit my job rn and just hope to god I get this interview and just potentially be hella broke if I don't",
+        "created_at": "2021-12-22 05:12:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473506950360887297,
+        "text": "I love my job but also omg do I ever hate it",
+        "created_at": "2021-12-22 04:13:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473166972082745344,
+        "text": "my bones are made of bricks and if I lie down I may not get up again",
+        "created_at": "2021-12-21 05:42:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472067019264589828,
+        "text": "also I know no one cares but my english prof is the best person ever &amp; I passed with a C+",
+        "created_at": "2021-12-18 04:51:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472059316043608068,
+        "text": "IT DID LMAO BYE CALLING IN SICK TO WORK TOMORROW TO WATCH",
+        "created_at": "2021-12-18 04:21:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1472054187940663296,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472054187940663296,
+        "text": "DID THE WITCHER REALLY COME OUT TODAY AND I JUST???? FORGOT ???????",
+        "created_at": "2021-12-18 04:00:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1472054033607102471,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472054033607102471,
+        "text": "HOLD TJE FUCK UP WAIT",
+        "created_at": "2021-12-18 04:00:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1470950843713130498,
+        "text": "so very incredibly proud of myself rn tho for not dropping out",
+        "created_at": "2021-12-15 02:56:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1470950645465157635,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1470950645465157635,
+        "text": "I just finished my sociology final, which means my semester is officially over. i'm going to go cry for a day because holy FUCK that was hard",
+        "created_at": "2021-12-15 02:55:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1470225603169116165,
+        "text": "RT @shanhorandraws: me around my cat: i love my cat\nme thinking about my cat: Cat :)\nme away from my cat: i miss my cat",
+        "created_at": "2021-12-13 02:54:33+00:00",
+        "public_metrics": {
+            "retweet_count": 9349,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1469930214645854209,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1469774096007262208,
+        "text": "RT @movbsta: Without my nose ring I am nothin",
+        "created_at": "2021-12-11 21:00:26+00:00",
+        "public_metrics": {
+            "retweet_count": 20394,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1469448428921008130,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1469409962984022016,
+        "text": "also my therapist has got me (a person with impulse control issues) walking a very fine line by telling me I should treat myself/celebrate",
+        "created_at": "2021-12-10 20:53:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469408298675806208,
+        "text": "okay being able to think and do things is really great but I haven't been able to eat in like 4 days so like \ud83d\ude10 what the fuck am I supposed to do",
+        "created_at": "2021-12-10 20:46:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1469108592217182211,
+        "text": "the mentally ill urge to think im fine now and not go to therapy anymore",
+        "created_at": "2021-12-10 00:55:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468998884982624259,
+        "text": "therapist told me she was proud of me and I cried for the rest of our session",
+        "created_at": "2021-12-09 17:40:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468828059650301956,
+        "text": "hm hm hm looks like imma start playing eso",
+        "created_at": "2021-12-09 06:21:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468491510844821507,
+        "text": "crying bc I completed my english class. I honestly wasn't sure u was going to be able to do it, this semester has been hell. I looked at the drop class page so many times. but it's done, and I think I'm going to pass too. relief",
+        "created_at": "2021-12-08 08:03:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468329358032998406,
+        "text": "so much of my life could have been so much easier, and it's really hard not to grieve for my past selves",
+        "created_at": "2021-12-07 21:19:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1468328862413058050,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1468328862413058050,
+        "text": "today comes with more Big Feelings about this medication, but instead of excitement like yesterday, it's just Sad",
+        "created_at": "2021-12-07 21:17:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1468032909487460354,
+        "text": "RT @heluvtat: the feminine urge to say \u201cit\u2019s okay\u201d when i\u2019m hysterically crying",
+        "created_at": "2021-12-07 01:41:35+00:00",
+        "public_metrics": {
+            "retweet_count": 37943,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1467756878700716036,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1467959357182648321,
+        "text": "no ok i'm not done. READING IS SIGNIFICANTLY EASIER WHAT THE HELL",
+        "created_at": "2021-12-06 20:49:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1467956423355027456,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1467956423355027456,
+        "text": "I also brushed my teeth today, so that's cool",
+        "created_at": "2021-12-06 20:37:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1467956369206636544,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1467956369206636544,
+        "text": "anyways break over time to go back to my essay cause APPARENTLY DOING THAT IS JUST A THING I CAN DO NOW",
+        "created_at": "2021-12-06 20:37:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1467956226503811074,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1467956226503811074,
+        "text": "okay it's not perfect I've still got some resistance and I'm still pretty easily distracted (I took a lower dose than what was prescribed tho bc of the massive medication anxiety) but still this is absolutely insane I am loosing my mind",
+        "created_at": "2021-12-06 20:36:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1467946066280546305,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1467946066280546305,
+        "text": "\"i'm gonna get up and take a shower and then i'll finish my paper\" *proceeds to immediately get up and shower and do my essay* WHAT THE FUCK",
+        "created_at": "2021-12-06 19:56:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1467945863372623877,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1467945863372623877,
+        "text": "screaming because todays day 1 of adhd meds and they're doing what they're supposed to",
+        "created_at": "2021-12-06 19:55:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467381965326217220,
+        "text": "RT @rareform1k: self care is creating a life you don\u2019t routinely have to escape from.",
+        "created_at": "2021-12-05 06:34:57+00:00",
+        "public_metrics": {
+            "retweet_count": 3676,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1467167428148961288,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1467367672375439360,
+        "text": "sometimes I want to get pronoun pins for work, and sometimes I get trapped by a customer that says homophobic things directly to my face and then I change my mind",
+        "created_at": "2021-12-05 05:38:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1467018380427231232,
+        "text": "I love my managers but sometimes......... things  are a mess lol",
+        "created_at": "2021-12-04 06:30:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466998603679875076,
+        "text": "but just. it would have been so easy for her to have not cared and not said anything. but she did. i'm going to cry myself to sleep but for the first time in a long time it won't be because i'm sad &amp; empty. goodnight lmao",
+        "created_at": "2021-12-04 05:11:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1466998303313195009,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466998303313195009,
+        "text": "ALL SHE DID WAS CHECK IN TO MAKE SURE I WAS ENROLLED IN A CLASS THAT WOULD BE SUITABLE FOR MY NEEDS. AND IM ABSOLUTELY LOOSING MY MIND BECAUSE OF IT",
+        "created_at": "2021-12-04 05:10:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1466998062690148356,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466998062690148356,
+        "text": "i'm not joking this fucking email has fixed probably 50% of my mental health issues at the moment holy shit. i'm going to print it off and keep it forever",
+        "created_at": "2021-12-04 05:09:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466989583653036039,
+        "text": "like, what a gentle reminder that there are random people that care about me and that life isn't all bad",
+        "created_at": "2021-12-04 04:35:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1466985417710911488,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466985417710911488,
+        "text": "my english prof is easily the most caring instructor I've ever had im literally sitting here crying over an email she sent me because she was nice to me lol",
+        "created_at": "2021-12-04 04:19:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466571975527047168,
+        "text": "might fuck around and make some cosplays over winter break",
+        "created_at": "2021-12-03 00:56:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1466571836070641665,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466571836070641665,
+        "text": "the absolute chokehold that arcane has on me rn",
+        "created_at": "2021-12-03 00:55:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466279329386663938,
+        "text": "RT @KlSSGOODNlGHT: spotify wrapped is just like a funky little reminder that i need therapy",
+        "created_at": "2021-12-02 05:33:28+00:00",
+        "public_metrics": {
+            "retweet_count": 88,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1466055704737951751,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1466257105044738051,
+        "text": "feels good to be back in therapy but I have also spent all day on edge bc of it \ud83d\ude43 what are emotions",
+        "created_at": "2021-12-02 04:05:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466189366204637184,
+        "text": "oh baby. 2 days early? \ud83e\udd29 https://t.co/AliQAtnqxL",
+        "created_at": "2021-12-01 23:36:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466170466586873859,
+        "text": "I hope there's an alternative universe me that doesn't constantly get their dates fucked up",
+        "created_at": "2021-12-01 22:20:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1466169297873506309,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466169297873506309,
+        "text": "screaming and crying and throwing up bc I got my dates mixed up and my research paper is due on the 6th not the 13th FUUUUUUUUCK oh my god",
+        "created_at": "2021-12-01 22:16:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 5,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466129224587255815,
+        "text": "he was in my top 5 artists tho and 3/5 songs were still breakup songs so maybe I should shut up lmao",
+        "created_at": "2021-12-01 19:37:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1466128919434866696,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1466128919434866696,
+        "text": "absolutely amazed there was not a single jeremy zucker song in my top 5 despite going through two break ups this year",
+        "created_at": "2021-12-01 19:35:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1466101396265070603,
+        "text": "anyways how do I get over medical trauma so I'm not paralyzed with fear whenever I have to take new medications?",
+        "created_at": "2021-12-01 17:46:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465973767272681474,
+        "text": "I take it back she attacked my foot",
+        "created_at": "2021-12-01 09:19:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1465972445240643591,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1465972445240643591,
+        "text": "my cat coming to lay in bed with me every single night is one of my biggest blessings",
+        "created_at": "2021-12-01 09:14:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465968679712030723,
+        "text": "it truly is sad boi hours rn and while I am thrilled to be going back to therapy in the morning, all I can think about is how much stuff I want to cram into my first meeting with this poor lady",
+        "created_at": "2021-12-01 08:59:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465967521182273536,
+        "text": "I just don't want to do this alone anymore",
+        "created_at": "2021-12-01 08:54:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1465967346737029121,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1465967346737029121,
+        "text": "im so tired of having to pick myself up off the ground. im tired of forcing myself to stand up over and over again. im just so tired.",
+        "created_at": "2021-12-01 08:53:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1465966760352382977,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1465966760352382977,
+        "text": "actually you know what? I changed my mind. I don't want to do this alone. I want there to be someone to hold my hand and to carry me through the bad days. I want to share the fact that I have bad days! I want to be open about everything and I want to be cared for and loved",
+        "created_at": "2021-12-01 08:51:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465441742287609866,
+        "text": "lol @ me using my christmas money from my grandparents to pay for my meds cause I can't afford them otherwise",
+        "created_at": "2021-11-29 22:05:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1465441251411386373,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1465441251411386373,
+        "text": "kinda fucked up that my school health insurance doesn't cover the med thATS SUPPOSED TO HELP ME WITH SCHOOL",
+        "created_at": "2021-11-29 22:03:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465433423346946048,
+        "text": "getting my adhd med prescription today!!!!!!!",
+        "created_at": "2021-11-29 21:32:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465209633576927234,
+        "text": "honestly if I fail this class i'm gonna be fucking pissed",
+        "created_at": "2021-11-29 06:42:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465209560159834115,
+        "text": "essay is done going so brb to go throw up to release the stress",
+        "created_at": "2021-11-29 06:42:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465196168523096072,
+        "text": "literally all I have left is the conclusion and my brain has decided it's done. i'm so close. why",
+        "created_at": "2021-11-29 05:49:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1465143626644688896,
+        "text": "tis an absolute shame though that I can't just lie down on the floor of remedy and scream a little",
+        "created_at": "2021-11-29 02:20:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1465142550675607557,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1465142550675607557,
+        "text": "gotta say tho, ive make great progress in the last hour and a half",
+        "created_at": "2021-11-29 02:16:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1465142386569347078,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1465142386569347078,
+        "text": "AAAAAAAHHHHHHH ESSAY WRITING IS HARD ESPECIALLY WHEN ITS SOMETHING IM PASSIONATE ABOUT BC I WANT TO MAKE SURE IM PROPERLY ARTICULATING MY THOUGHTS AAAAAHHHHH",
+        "created_at": "2021-11-29 02:15:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464816101003460609,
+        "text": "like i'm not gonna but M A N do I ever wanna",
+        "created_at": "2021-11-28 04:39:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1464815840709144577,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464815840709144577,
+        "text": "ok one last thing before I go. I know I made a tweet yesterday about being proud I haven't drank in so long but the urge to get utterly blacked out right now is strong. I hate this",
+        "created_at": "2021-11-28 04:38:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464815487385149443,
+        "text": "anyways i'm mad, rant over see y'all in 24 hrs when this papers deadline is up",
+        "created_at": "2021-11-28 04:36:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1464815230593081344,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464815230593081344,
+        "text": "i'm supposed to be lowering my caffeine intake so I can start stimulants but I will be drinking a shit ton of coffee in the next 24hrs and going on a spending spree to try to activate my god mode to get this shit done",
+        "created_at": "2021-11-28 04:35:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1464814761107886080,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464814761107886080,
+        "text": "actually I know why, it's crippling adhd and depression! and probably other undiagnosed psychological disorders! and the fact that this year has been absolutely awful! and also probably the fact that I was raised to believe anything under a 90% might as well be an F!",
+        "created_at": "2021-11-28 04:33:48+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1464814428939960322,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464814428939960322,
+        "text": "I have 24 hrs to hand in a draft of my research paper, and I haven't even started it yet good lord why am I like this",
+        "created_at": "2021-11-28 04:32:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464747578524770304,
+        "text": "oh you though this only applied yesterday? surprise mfers! it always applies! so if you were rude to me today guess what! bad things are coming your way \ud83d\ude42 https://t.co/brkRIyX9tF",
+        "created_at": "2021-11-28 00:06:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1464271419215282177,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1464651607048478726,
+        "text": "rsd really is a bitch huh",
+        "created_at": "2021-11-27 17:45:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464461857880625161,
+        "text": "@kaiagoodhope this means so much thank you \ud83d\ude2d",
+        "created_at": "2021-11-27 05:11:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1240121420270747651,
+        "referenced_tweets": {
+            "id": 1464287582800465940,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464452701467541510,
+        "text": "I've only really told one person about that decision. but i'm feeling kind of proud rn. so if u see this, celebrate w me and get yourself a treat ok",
+        "created_at": "2021-11-27 04:35:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1464451923180863489,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464451923180863489,
+        "text": "it's been almost 5 months since I decided to stop drinking",
+        "created_at": "2021-11-27 04:32:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464441676252934145,
+        "text": "i'm tired of being so goddamn exhausted all the time",
+        "created_at": "2021-11-27 03:51:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464271419215282177,
+        "text": "if you go black friday shopping and are rude to the employees, I will put a curse on your entire family that can only be lifted with the end of your bloodline",
+        "created_at": "2021-11-26 16:34:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1464079676972830720,
+        "text": "@AlyInTheHouse1 I wish I could like this more than once, thank you",
+        "created_at": "2021-11-26 03:52:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1259904777330110467,
+        "referenced_tweets": {
+            "id": 1463606161970806786,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1464079596614152196,
+        "text": "I got 35% after all the late marks were taken off. i'm going to puke",
+        "created_at": "2021-11-26 03:52:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1445203031755149313,
+        "referenced_tweets": {
+            "id": 1463396358090600448,
+            "type": "replied_to"
+        }
+    }
+]

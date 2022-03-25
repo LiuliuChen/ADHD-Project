@@ -1,0 +1,2955 @@
+[
+    {
+        "tweet_id": 1501877869252907009,
+        "text": "Me appying for jobs. https://t.co/p9gqPCZPlZ",
+        "created_at": "2022-03-10 11:09:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501513334113374211,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1501877679179673605,
+        "text": "I need a pinned comment on my brain that says: \"Coffee makes your anxiety worse. DON'T DO IT\". I also think I do have it but choose to actively ignore it :'^)",
+        "created_at": "2022-03-10 11:08:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500598125056114688,
+        "text": "@miukumauk beautiful",
+        "created_at": "2022-03-06 22:24:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1011673359254478848,
+        "referenced_tweets": {
+            "id": 1500586920052678657,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500597984907743235,
+        "text": "My brain is dead after a 5-hour meeting.",
+        "created_at": "2022-03-06 22:23:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500462194810658819,
+        "text": "#wip https://t.co/4fBDSR6i6l",
+        "created_at": "2022-03-06 13:23:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499753874143514632,
+        "text": "Niebla, my rescue cat, died 2 years ago and today i\u2019m missing her so much. I tend to forget that grieving doesn\u2019t stop just because you want it to.",
+        "created_at": "2022-03-04 14:29:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498440282630725636,
+        "text": "I only had Jackie Chan films back then but with those I was made fun of a lot.",
+        "created_at": "2022-02-28 23:29:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1498439385372676098,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498439385372676098,
+        "text": "Feeling proud of being Chinese is hard in western society. I just watched Shang-Chi and my heart feels so\u2026 overwhelmed\u2026 I\u2019ve never felt like this before. It\u2019s just a superhero film but it means so much to me.",
+        "created_at": "2022-02-28 23:26:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497571687793143825,
+        "text": "it is not even a huge issue (them telling me about the salad), it\u2019s just\u2026 idk i\u2019m very tired of ppl patronising me over this.",
+        "created_at": "2022-02-26 13:58:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1497571405961084928,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497571405961084928,
+        "text": "assuming i like eating salad just because i\u2019m vegetarian is just\u2014 tired of ppl that aren\u2019t even nutritionists talk shot about my eating habits \ud83e\udd2c",
+        "created_at": "2022-02-26 13:57:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497565831823335427,
+        "text": "RT @SimonFRCox: Calling Ukrainians arriving at UK borders without a long-term UK visa! If you have any problems at immigration control, and\u2026",
+        "created_at": "2022-02-26 13:34:52+00:00",
+        "public_metrics": {
+            "retweet_count": 8208,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497548704844324864,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496907013133152258,
+        "text": "RT @Lavellyne: \ud83c\uddfa\ud83c\udde6 to my ukrainian followers \ud83c\uddfa\ud83c\udde6\n\npoland currently has 9 reception points with medication and shelter at the border. the gove\u2026",
+        "created_at": "2022-02-24 17:56:57+00:00",
+        "public_metrics": {
+            "retweet_count": 29866,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496883714344824833,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496452121658642433,
+        "text": "i cant stop saying hello (formal) in russian. my adhd brain is going brrr at how russian language sounds and i just want to have a break.",
+        "created_at": "2022-02-23 11:49:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496270129939816452,
+        "text": "@0ltremare sii, et parlo dem\u00e0 que hem que dormir!! zzz",
+        "created_at": "2022-02-22 23:46:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1325783804246683648,
+        "referenced_tweets": {
+            "id": 1496269563197108227,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496269256924794888,
+        "text": "@0ltremare jo tampoc tinc temps D: Estic amd els subt\u00edtols del m\u00e0ster que pareix que no puc fer r\u00e9s m\u00e9s hahaha El diumenge no treballe~ \u00e9s el meu dia lliure",
+        "created_at": "2022-02-22 23:42:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1325783804246683648,
+        "referenced_tweets": {
+            "id": 1496268469079265283,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496268061149736963,
+        "text": "@0ltremare necessite altre d\u00eda dibuixant amb tu perqu\u00e8 estic sense forces per a dibuixar. es la part quan mr darcy li toca la m\u00e0 a la elisabeth, saps? \ud83d\udc40",
+        "created_at": "2022-02-22 23:37:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1325783804246683648,
+        "referenced_tweets": {
+            "id": 1496267001202937859,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496266814636142595,
+        "text": "@0ltremare yo he perdido las ganas de dibujar y eso que estaba muy on fire con el paralelismo pride and prejudice/hualian (tgcf) xD",
+        "created_at": "2022-02-22 23:33:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1325783804246683648,
+        "referenced_tweets": {
+            "id": 1496264519785631747,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496266557902761985,
+        "text": "@0ltremare quina veritat!!! que fuc fer-ho!!! se m'oblidava hahah he tingut que pensar molt per a contestarte. no s\u00e9 si est\u00e0 b\u00e9 la gram\u00e0tica...",
+        "created_at": "2022-02-22 23:32:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1325783804246683648,
+        "referenced_tweets": {
+            "id": 1496264326734401541,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496264081350746122,
+        "text": "sometimes no s\u00e9 si speak in spanish o responder en ingl\u00e9s to my mutuals. like... we know que hablamos espa\u00f1ol y eso hahaha",
+        "created_at": "2022-02-22 23:22:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496263714990870529,
+        "text": "@0ltremare my brain woke up just now bc the russian language has sparked smth inside it. i feel u on that. (i want to sleep tho\ud83d\ude11)",
+        "created_at": "2022-02-22 23:20:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1325783804246683648,
+        "referenced_tweets": {
+            "id": 1496260779145842692,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496263012549894149,
+        "text": "RT @Lisu__chan: \"The waters were freezing and the air was cold, too; yet, Xie Lian\u2019s whole body was burning up.\"\n\nHua Cheng is yours truly\u2026",
+        "created_at": "2022-02-22 23:17:56+00:00",
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493306054821781509,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496209779940896772,
+        "text": "@annrandano ame too. If there isn\u2019t a happy ending to that much angst\u2026 i\u2019m suing them!!! hahaha The books are very pretty and have even more prettier illustrations inside \ud83d\udc97\ud83d\udc97\ud83d\udc97",
+        "created_at": "2022-02-22 19:46:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123269541033910272,
+        "referenced_tweets": {
+            "id": 1495525522499158020,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495522317950201857,
+        "text": "@annrandano Sooo I see you like angst too \ud83d\udc40 When I got in, I didn\u2019t think I\u2019d be so invested in the story \ud83d\ude02 (I\u2019m even thinking about buying the physical copies to mark my favourite parts)",
+        "created_at": "2022-02-20 22:14:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123269541033910272,
+        "referenced_tweets": {
+            "id": 1495520572616359946,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495518552237002752,
+        "text": "@annrandano i\u2019m still in book two. now, i\u2019m scared to what lies ahead \ud83e\udd23\ud83d\ude2d\ud83e\udd23\ud83d\ude2d\ud83e\udd23",
+        "created_at": "2022-02-20 21:59:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1123269541033910272,
+        "referenced_tweets": {
+            "id": 1495180119454986244,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495517847963025409,
+        "text": "funny how me liking to be alive is tied to a proper amount of rest days. damn, i hate capitalism.",
+        "created_at": "2022-02-20 21:56:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495517161212764163,
+        "text": "I had the most satisfying sunday/rest day. Organised my bedroom (long overdue), changed bedsheets, did laundry, sketch the hualian piece I had in mind, had an amazing workout and shower afterwards\ud83e\udd18\ud83c\udffbi\u2019m in love with life again \u2600\ufe0f",
+        "created_at": "2022-02-20 21:54:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495412681532227595,
+        "text": "RT @titsay: https://t.co/DyZ3ja2hSC",
+        "created_at": "2022-02-20 14:59:01+00:00",
+        "public_metrics": {
+            "retweet_count": 40390,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494690946415398926,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495356004875317252,
+        "text": "long overdue",
+        "created_at": "2022-02-20 11:13:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495355972293902345,
+        "text": "soooo i think i will spend my rest day drawing a hualian piece and drinking tea \ud83c\udf75",
+        "created_at": "2022-02-20 11:13:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495092866804297728,
+        "text": "i sometimes imagine genshin characters with the same element meeting and trying to copy each other\u2019s attacks. that\u2019d be fun i guess.",
+        "created_at": "2022-02-19 17:48:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495079686501814280,
+        "text": "@0ltremare https://t.co/fcAsjjJHJA",
+        "created_at": "2022-02-19 16:55:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1325783804246683648,
+        "referenced_tweets": {
+            "id": 1495030426875932678,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495067764251320331,
+        "text": "RT @alexpixelk: gendered languages fucking suck why do i need to know gender of a table",
+        "created_at": "2022-02-19 16:08:26+00:00",
+        "public_metrics": {
+            "retweet_count": 17705,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494533850688589824,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495066100312252428,
+        "text": "@lidl_delirium I was 17! (almost a decade ago lol) I wanted to visit one earlier but my parents didn\u2019t let me hahaha",
+        "created_at": "2022-02-19 16:01:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 135163319,
+        "referenced_tweets": {
+            "id": 1494961032078503937,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495065617115881480,
+        "text": "i wasn\u2019t expecting the professor to praise a translation i did. it made me so happy lmao is this praise kink??? \ud83e\udd23",
+        "created_at": "2022-02-19 15:59:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493881162946826247,
+        "text": "a friend of mine noticed i tend to say fluffy stuff at the end of my audios. it is mainly bc i don\u2019t know how to end them and i panic lmao",
+        "created_at": "2022-02-16 09:33:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493757985629167616,
+        "text": "me: doesn\u2019t finish an easy subtitling task.\n\nalso me: finished it a month later. in less than a day. when feeling very under the weather bc of 3rd shot.",
+        "created_at": "2022-02-16 01:23:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493756792576299009,
+        "text": "i can see huacheng crocheting this #hualian https://t.co/5L6E9p1e2u",
+        "created_at": "2022-02-16 01:19:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493351255359504385,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1493740247414448130,
+        "text": "it\u2019s more painful than my shoulder day muscle soreness :$",
+        "created_at": "2022-02-16 00:13:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1493739892035096581,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493739892035096581,
+        "text": "i got my 3rd covid shot today. tomorrow, i won\u2019t be able to play my role as human adult \ud83e\udd74",
+        "created_at": "2022-02-16 00:11:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492829918761205763,
+        "text": "I am tired of hyper on things. I drew more in january than in the last 2 years and then I stopped bc I felt the urge to crochet \ud83d\ude11 Aaaand I haven\u2019t gotten back to it. Agh.",
+        "created_at": "2022-02-13 11:56:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492605264058593289,
+        "text": "Speaking Spanglish requires 0 thought progress. But if speak \u201cproperly\u201d I immediately  turn into a dumb person with a British accent. That\u2019s why I think Spanglish is superior, thank you for coming to my Ted Talk.",
+        "created_at": "2022-02-12 21:03:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492604154916876290,
+        "text": "i find the word \u201c unbeknownst\u201d very funny idk why \ud83e\udd23",
+        "created_at": "2022-02-12 20:58:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492600970756476931,
+        "text": "actually, you know what? people should stop having broad shoulders!! \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "created_at": "2022-02-12 20:46:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1492600476923273219,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492600476923273219,
+        "text": "i was rewatching some marvel films and i realised that i\u2019m a simp for steve rogers\u2026 eye-",
+        "created_at": "2022-02-12 20:44:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492296236761862144,
+        "text": "i urgently need to stop being a simp for namjoon. even my feelings can\u2019t handle feeling themselves anymore \ud83d\ude2e\u200d\ud83d\udca8",
+        "created_at": "2022-02-12 00:35:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491867187472216066,
+        "text": "@0ltremare t\u00eda i\u2019m speechless",
+        "created_at": "2022-02-10 20:10:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1325783804246683648,
+        "referenced_tweets": {
+            "id": 1491843859978113030,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491866618003136515,
+        "text": "RT @0ltremare: I'm here to deliver viking #KaoruSakurayashiki \n\n#SK8THEINFINITY #\u30a8\u30b9\u30b1\u30fc\u30a8\u30a4\u30c8 https://t.co/GlE35j1D3Z",
+        "created_at": "2022-02-10 20:08:13+00:00",
+        "public_metrics": {
+            "retweet_count": 224,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491843859978113030,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491866510691864580,
+        "text": "do people get turned on by the smooth af video transitions synched with great music? or it\u2019s only an asexual thing? lmao",
+        "created_at": "2022-02-10 20:07:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491822223509835778,
+        "text": "so i\u2019ve been saying \u201cvaya tela\u201d (meaning \u201cit\u2019s such a fuss\u201d in Spanish)\u2026 my byelingual brain, which is always translating, whispers to me:\u201cwhat a fabric\u201d and i can\u2019t stop it \ud83e\udd21",
+        "created_at": "2022-02-10 17:11:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491377553528950788,
+        "text": "when loki in avengers: infinity war says \"i have some experience in that arena (earth)\" and thanos replies \"if you consider failure as experience\" and he counters \"i consider experience experience\". i want that last sentence engraved in my mind please.",
+        "created_at": "2022-02-09 11:44:51+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490360498809880578,
+        "text": "having multiple interest leaves some of my art undone. it makes me uneasy\u2026 why do i have the urge to crochet a bunny balaclava? cause i have a hualian fanart in mind but the urge to crochet is bigger lmao my life is a sitcom",
+        "created_at": "2022-02-06 16:23:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490089851202510850,
+        "text": "i'm trying to figure out in how many parts do i have to separate each part and there are SO MANY parts... even the lashes have to be on a separate layer xD",
+        "created_at": "2022-02-05 22:27:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1490089537279860736,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490089537279860736,
+        "text": "i get why vtuber models are so expensive: they're a pain in the ass to draw (among other things).",
+        "created_at": "2022-02-05 22:26:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489955096863649796,
+        "text": "@lidl_delirium thank you \ud83d\ude4f\ud83c\udffb \ud83d\udc97\ud83d\udc97\ud83d\udc97",
+        "created_at": "2022-02-05 13:32:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 135163319,
+        "referenced_tweets": {
+            "id": 1489929952971608071,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489924872180486150,
+        "text": "@pigeonsuffers congrats! you deserve it!!!!",
+        "created_at": "2022-02-05 11:32:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1367055260108357632,
+        "referenced_tweets": {
+            "id": 1489884853264920581,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489776728067256329,
+        "text": "i feel very called out \ud83e\udd23 https://t.co/umHCHpKUUd",
+        "created_at": "2022-02-05 01:43:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489162609094008835,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1489564529772187650,
+        "text": "they i have a crush in calcifer ever since i first saw him. i love him https://t.co/yL6AWeMqyK",
+        "created_at": "2022-02-04 11:40:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489245131211481089,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1489564196371111943,
+        "text": "\ud83d\ude02 https://t.co/hS8sttzIze",
+        "created_at": "2022-02-04 11:39:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489534831000457216,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1489516957934268418,
+        "text": "RT @Velinxi: Kaeya! https://t.co/el89YCqFmI",
+        "created_at": "2022-02-04 08:31:31+00:00",
+        "public_metrics": {
+            "retweet_count": 12135,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489358751358492680,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489285591300780035,
+        "text": "i need buff lumine content aaaa",
+        "created_at": "2022-02-03 17:12:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489283795765321729,
+        "text": "noelle \ud83e\udd7a https://t.co/URYQVZ66ZI",
+        "created_at": "2022-02-03 17:05:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489273524598550529,
+        "text": "@itslopezz after reading their dialogues in the northland bank\u2026 they finally gave them a free day to meet each other \ud83d\ude2d\ud83d\udc96",
+        "created_at": "2022-02-03 16:24:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 67952305,
+        "referenced_tweets": {
+            "id": 1489264449173155844,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489242562116390912,
+        "text": "RT @umaflorzinha__: https://t.co/QI6g9qg7Md",
+        "created_at": "2022-02-03 14:21:10+00:00",
+        "public_metrics": {
+            "retweet_count": 22501,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488528406195183626,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489235306196967426,
+        "text": "I HAVE HAD AN IDEA OMG IM- AAAAAA",
+        "created_at": "2022-02-03 13:52:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489214716647981058,
+        "text": "i wanted to paint with oils but I figured my room is so small that i\u2019d ruin my bedsheets or my clothes even \ud83e\udd72",
+        "created_at": "2022-02-03 12:30:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489208126440198149,
+        "text": "I\u2019m working in this so much as if it were a real commission lmao I\u2019m even planning on learning how to use live2d just to see if i am capable of it\u2026 Why do i do this to myself??? \ud83e\udd23",
+        "created_at": "2022-02-03 12:04:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1489207077801271301,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489207077801271301,
+        "text": "drawing a vtuber model + not having a over the top fashion sense = lots of hours looking at clothes AND still not knowing what clothes would look cool \ud83e\udd18\ud83c\udffb\ud83e\udd21\u2728 https://t.co/4k58E8zH7Q",
+        "created_at": "2022-02-03 12:00:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489205535111057411,
+        "text": "@0ltremare its always capitalism D: Stay strong \ud83d\udcaa\ud83c\udffb",
+        "created_at": "2022-02-03 11:54:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1325783804246683648,
+        "referenced_tweets": {
+            "id": 1489124927835979778,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489034333599977474,
+        "text": "@0ltremare what happened \ud83e\udd7a",
+        "created_at": "2022-02-03 00:33:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1325783804246683648,
+        "referenced_tweets": {
+            "id": 1488764655904468995,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488980532025307145,
+        "text": "russian sounds so powerful. i wish i understood it.",
+        "created_at": "2022-02-02 20:59:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488671281851600898,
+        "text": "Diluc came instead of Albedo, I will be salty about it until the day I die.\n\nMy 5*\nAnemo - Kazuha\ud83d\udc97, Jean\nGeo      - Zhongli \ud83d\udc97\nHydro   -  Mona\nElectro -  Keqing, Raiden\ud83d\udc97\nPyro      -  Hu Tao\ud83d\udc97, Diluc\nCyro      - Qiqi\nDendro - \ud83e\udd21 https://t.co/LNUL7dKUva",
+        "created_at": "2022-02-02 00:31:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488444682707165184,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1488667317546500099,
+        "text": "i\u2019m ded \ud83e\udd23 https://t.co/6XWP7yXI0n",
+        "created_at": "2022-02-02 00:15:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488182001584664585,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1488656727365111811,
+        "text": "RT @Totem_skin: A RT Can get you a free mask \ud83d\udda4\ud83d\udd25 https://t.co/ByZJPy5S4F",
+        "created_at": "2022-02-01 23:33:16+00:00",
+        "public_metrics": {
+            "retweet_count": 632,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488590711331205128,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488654896903729156,
+        "text": "RT @TylerWalpole: In case you\u2019ve never read this story, it\u2019s worth your time. https://t.co/xmWi15oSo0",
+        "created_at": "2022-02-01 23:25:59+00:00",
+        "public_metrics": {
+            "retweet_count": 20225,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488256339541430276,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488653724012666885,
+        "text": "RT @krizless: drawing is hard and i hate it unless i\u2019m doing a good job then i\u2019m a genius",
+        "created_at": "2022-02-01 23:21:20+00:00",
+        "public_metrics": {
+            "retweet_count": 9339,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488608270516461570,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488652264264937472,
+        "text": "i love that for every east asian i know, offering oranges to each other is our way to say \u201ci love you\u201d. Pff i fucking miss my friends too \ud83d\ude2b\ud83d\ude2d",
+        "created_at": "2022-02-01 23:15:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488651659974791171,
+        "text": "i really miss celebrating the lunar new year with my grandparents. Lots of food and good company \ud83d\ude2d I hope I can see them soon\u2026",
+        "created_at": "2022-02-01 23:13:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488651323163779073,
+        "text": "RT @leiahamart: Happy Lunar New Year! I saw a two-tone Ruqun which made me think oo Tiger catgirl and here we are. Wishin everyone a great\u2026",
+        "created_at": "2022-02-01 23:11:47+00:00",
+        "public_metrics": {
+            "retweet_count": 57,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488630641667108864,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488648768073388044,
+        "text": "RT @mad4yu: Acomp\u00e1\u00f1ame en las actuaciones m\u00e1s bonitas de la Gala de A\u00f1o Nuevo Chino 2022 \ud83e\udd70\n\n\u300a\u53ea\u6b64\u9752\u7eff\u300b\n\nBaile inspirado por el famoso cuadro \"A\u2026",
+        "created_at": "2022-02-01 23:01:38+00:00",
+        "public_metrics": {
+            "retweet_count": 369,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488251183168991240,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488647065794191367,
+        "text": "@pigeonsuffers @geyusan they\u2019re so cute agh, my heart is melting \ud83d\ude2d\ud83d\udc96\ud83d\udc96\ud83d\udc96",
+        "created_at": "2022-02-01 22:54:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1367055260108357632,
+        "referenced_tweets": {
+            "id": 1488223486451531781,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488645138096300045,
+        "text": "RT @stariwei: happy lunar new year!!\n#\u539f\u795e #ganqing https://t.co/XFiKgWezrX",
+        "created_at": "2022-02-01 22:47:13+00:00",
+        "public_metrics": {
+            "retweet_count": 5093,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488371445659013123,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488617747118440458,
+        "text": "RT @aspirinoverdose: Ringing in the #LunarNewYear with Zuko and Aang https://t.co/aKgKskEGAE",
+        "created_at": "2022-02-01 20:58:22+00:00",
+        "public_metrics": {
+            "retweet_count": 14863,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488216347448279042,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488606291207630848,
+        "text": "RT @cronchybaguette: a happy lunar new year from Roo https://t.co/TPnM8aBLLI",
+        "created_at": "2022-02-01 20:12:51+00:00",
+        "public_metrics": {
+            "retweet_count": 2972,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488297682426761217,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488605519334068225,
+        "text": "i envy all artists hahaha my only motivation to draw is to get to your level someday aaaaah",
+        "created_at": "2022-02-01 20:09:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488604790296915974,
+        "text": "@oshiettero omg this is so beautiful i can\u2019t \ud83d\udc96\ud83d\udc96\ud83d\udc96 if you told me this is the official art i\u2019d believe it right away!",
+        "created_at": "2022-02-01 20:06:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1113237616952872962,
+        "referenced_tweets": {
+            "id": 1488452282765447173,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488604461664808960,
+        "text": "RT @oshiettero: Donghua dianxia is so beautiful but is also a pain to draw skskdjfjfjhfhf\n#tgcf https://t.co/8eRh1Uz98I",
+        "created_at": "2022-02-01 20:05:35+00:00",
+        "public_metrics": {
+            "retweet_count": 3189,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488452282765447173,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488604402948661248,
+        "text": "RT @washanapple: Happy Chinese New Year~~ https://t.co/qqJ5W9BHnA",
+        "created_at": "2022-02-01 20:05:21+00:00",
+        "public_metrics": {
+            "retweet_count": 4298,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488420388824514563,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488603640294264832,
+        "text": "RT @cchaiart: Happy Lantern Rite! \ud83c\udfee\ud83e\udde7 #genshinimpact #\u539f\u795e https://t.co/HbuxgEwheU",
+        "created_at": "2022-02-01 20:02:19+00:00",
+        "public_metrics": {
+            "retweet_count": 3083,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488314595005456386,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488592074337398787,
+        "text": "levelling up weapons cost sooo much D: At least I have Raiden Shogun, if I didnt... *sigh*",
+        "created_at": "2022-02-01 19:16:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1488591433657430020,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488591433657430020,
+        "text": "ok, so there was a point where i had 10M mora... After Zhongli I am 1M... If I didnt have done the Windtrace event... I'd be at 0 mora lol",
+        "created_at": "2022-02-01 19:13:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488317856433508352,
+        "text": "i am trying to draw my own vtuber model and i forgot how indecisive i was lmaoooo",
+        "created_at": "2022-02-01 01:06:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488316810869067776,
+        "text": "RT @padeliciouss: lunar new year https://t.co/F6vkbL7EwG",
+        "created_at": "2022-02-01 01:02:33+00:00",
+        "public_metrics": {
+            "retweet_count": 33180,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488293316944965636,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488316556505399298,
+        "text": "RT @butchinelle: Happy lunar new year ! \ud83d\udc2f https://t.co/kQR1mMCXFk",
+        "created_at": "2022-02-01 01:01:33+00:00",
+        "public_metrics": {
+            "retweet_count": 560,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488272649595731968,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1488190867949207559,
+        "text": "RT @4dango_the2nd: HBD Rosaria [1/4]\nLate but better late than never, I guess lol\nRosaria's childhood is... sad...\n\n#GenshinImpact #\u539f\u795e http\u2026",
+        "created_at": "2022-01-31 16:42:06+00:00",
+        "public_metrics": {
+            "retweet_count": 2552,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487944021058019330,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487944916223287306,
+        "text": "i want to fight my friends in genshin co-op, please make it happen mihoyooooo",
+        "created_at": "2022-01-31 00:24:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487943933963472900,
+        "text": "i should start reading fanfics to get more ideas but I\u2019m still in ch.70 of the tgcf book. Don\u2019t want to read further bc i feel there is so much angst and my potato heart can\u2019t handle it rn.",
+        "created_at": "2022-01-31 00:20:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1487942488547549185,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487942488547549185,
+        "text": "if this tweet reaches any hualian shippers, please tell me something you\u2019d like to see as an illustration. I have ideas but I am new to this fandom \ud83e\udd14 (i can try nsfw but idk if it\u2019d be good since i\u2019ve never tried).",
+        "created_at": "2022-01-31 00:15:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487938316951597063,
+        "text": "@arcticissues waaaa i was so immersed in the lore i forgot that genshin gets inspiration from the real world lmao thank you for adding your comment, it makes so much sense!!!",
+        "created_at": "2022-01-30 23:58:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 814141052701577216,
+        "referenced_tweets": {
+            "id": 1487937603672363013,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487936686344519683,
+        "text": "@meru90 hello, i just placed an order but i was wondering if you\u2019ll restock this print? in case you do, could i  be able to add it to my previous order? thank you in advance!\ud83d\udc96 https://t.co/n0Hkpv4LQ1",
+        "created_at": "2022-01-30 23:52:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92260656,
+        "referenced_tweets": {
+            "id": 1484181740562173958,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1487929428776730626,
+        "text": "ok, so im going to add the pfp here bc he\u2019s beautiful\ud83e\udd7a\ud83e\udd32\ud83c\udffb #xielian #tgcf https://t.co/f8mDbi9Djt",
+        "created_at": "2022-01-30 23:23:14+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1487760351286411274,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487897227968532480,
+        "text": "I get the feeling that from the new fanart of Ayato that he has been many years in Mondstad. His clothes have a mix of european and japanese styles\u2026 \ud83e\udd14",
+        "created_at": "2022-01-30 21:15:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487895833152569348,
+        "text": "@crispyclaw josuke with earrings was something i didn\u2019t ask for but i am glad it exists \ud83e\udd7a\ud83e\udd32\ud83c\udffb",
+        "created_at": "2022-01-30 21:09:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1244313987992477697,
+        "referenced_tweets": {
+            "id": 1487292213646311424,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487895419648712705,
+        "text": "RT @crispyclaw: josuke no wayyy https://t.co/phS5kf14F9",
+        "created_at": "2022-01-30 21:08:06+00:00",
+        "public_metrics": {
+            "retweet_count": 1089,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487292213646311424,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487895126932393989,
+        "text": "it gives me #chilumi vibes lmaooooo https://t.co/zS0ef3uiFK",
+        "created_at": "2022-01-30 21:06:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 12,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487570528814739464,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1487874254418894855,
+        "text": "@0ltremare i\u2019m in looooooooooveeeeee aaaaaaaa bienvenida a la sectaaaaa",
+        "created_at": "2022-01-30 19:44:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1325783804246683648,
+        "referenced_tweets": {
+            "id": 1487864429538684929,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487874162303680515,
+        "text": "RT @0ltremare: This is my first time drawing Hua Cheng so please be kind \ud83e\udd7a\ud83d\udc9b \n\n#HuaCheng #hualian #tgcf #HeavenOfficialsBlessing https://t.c\u2026",
+        "created_at": "2022-01-30 19:43:38+00:00",
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487864429538684929,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487830749604683776,
+        "text": "organising my art here is painful.",
+        "created_at": "2022-01-30 16:51:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487830220237418497,
+        "text": "\ud83d\udc2f\ud83e\udd18\ud83c\udfa8art\u26a1\ud83d\udc9e\ud83d\udc97\nhttps://t.co/uhdtN0IvVm",
+        "created_at": "2022-01-30 16:49:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487829013234126850,
+        "text": "https://t.co/UdDoiY0vSf",
+        "created_at": "2022-01-30 16:44:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487828839619256324,
+        "text": "https://t.co/tY7ZHpj4KB",
+        "created_at": "2022-01-30 16:43:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487828782299942912,
+        "text": "https://t.co/05pUsVZXlo",
+        "created_at": "2022-01-30 16:43:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487822654098788359,
+        "text": "RT @kiwi_scorner: NANAMI IS SO HOT BYEEEE",
+        "created_at": "2022-01-30 16:18:57+00:00",
+        "public_metrics": {
+            "retweet_count": 59,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487607461393711112,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487820244324335620,
+        "text": "@mspaintpics aaaaaaah i am really touched by siblings helping each other like what you said. Them having each other\u2019s backs \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83d\udc96",
+        "created_at": "2022-01-30 16:09:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 959919856383643649,
+        "referenced_tweets": {
+            "id": 1487816294120448002,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487815724986994700,
+        "text": "@mspaintpics should sound angry but it sounds funny so they both have to hold it in because they are *angry* and ego stuff but they can\u2019t help but to burst into laughter. afterwards, i imagine that they rekindle their relationship and begin to help each others with their roles \ud83d\ude2d\ud83d\udc96",
+        "created_at": "2022-01-30 15:51:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1487815560687763463,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487815560687763463,
+        "text": "@mspaintpics i feel like they would have been close when they were younger but as ayato grew older they had a period where they weren\u2019t that close bc of family responsibilities. i imagine ayaka thinking ayato is full of bullshit and confronts him. they fight, and someone says something that +",
+        "created_at": "2022-01-30 15:50:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 959919856383643649,
+        "referenced_tweets": {
+            "id": 1487811129460105236,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487810644904656896,
+        "text": "@mspaintpics from experience as the older one i think both of them are jealous of one another to certain point, which i feel is natural since each take a different role in the family. I also think that IF it ends up in \u201chate\u201d, it might be to their role rather than to each other.",
+        "created_at": "2022-01-30 15:31:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 959919856383643649,
+        "referenced_tweets": {
+            "id": 1487724493279842304,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487772561853370370,
+        "text": "i really don\u2019t mind the likes of the people i follow but twitter really had me looking at 15+ tweets of \u201ctopics\u201d i might like and it makes me mad",
+        "created_at": "2022-01-30 12:59:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487764342036643840,
+        "text": "RT @DonaldAkron: \u8dd1\u56fe\u7684\u65f6\u5019\u7a81\u53d1\u7075\u611f\u5c31\u6f66\u8349\u6478\u4e86\uff01\n\u662f\u60f3\u8c61\u4e2d\u949f\u79bb\u5148\u751f\u5e26\u65c5\u8005\u6e38\u7483\u6708\u65f6\u7684\u6837\u5b50~ https://t.co/NjJ0F3TigQ",
+        "created_at": "2022-01-30 12:27:15+00:00",
+        "public_metrics": {
+            "retweet_count": 6960,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487666330987814915,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487760351286411274,
+        "text": "i thought is was funny that huachen\u2019s bubble was in his own handwriting \ud83e\udd23 https://t.co/Wruz5EJ0BS",
+        "created_at": "2022-01-30 12:11:23+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1487758409210417152,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487758409210417152,
+        "text": "#\u5929\u5b98\u8d50\u798f #\u82b1\u601c #tgcf #hualian #HuaCheng  #XieLian https://t.co/znMYlfyhx5",
+        "created_at": "2022-01-30 12:03:40+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487748817806151681,
+        "text": "@viria13 Whenever I see a group of rocks I just go and throw the meteor. It is very satisfying. I also really like his fighting style. Who gave them the right to make throwing the spear to your enemies so hot??lmao",
+        "created_at": "2022-01-30 11:25:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 20,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 276393603,
+        "referenced_tweets": {
+            "id": 1487729640932352004,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487580409667936257,
+        "text": "i put so much effort into a meme\u2026 why am i like this\u2026",
+        "created_at": "2022-01-30 00:16:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487557097399234560,
+        "text": "I had hotpot for dinner because of the lunar new year and I always baffled at how little attention is paid to vegetarians\u2026 i had nothing but carbs that tasted like absolutely \u2728NOTHING\u2728",
+        "created_at": "2022-01-29 22:43:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487240973449150465,
+        "text": "RT @gomanga: 3 winners (worldwide) will get this bundle of #SevenSeasDanmei / #MXTX novels (print)!\n\n\ud83d\udfe9 THE SCUM VILLAIN\u2019S SELF-SAVING SYSTE\u2026",
+        "created_at": "2022-01-29 01:47:34+00:00",
+        "public_metrics": {
+            "retweet_count": 3978,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487194867868577793,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487238369952346112,
+        "text": "me trying to write in huacheng\u2019s handwriting. what a trip. https://t.co/4zAXaJGRoq",
+        "created_at": "2022-01-29 01:37:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487236286486401024,
+        "text": "@il0v3hotmommys this looks like a fairytale illustration, i love it \ud83d\udc96",
+        "created_at": "2022-01-29 01:28:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1333345133560025088,
+        "referenced_tweets": {
+            "id": 1487089040528756737,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487235901625409536,
+        "text": "RT @il0v3hotmommys: https://t.co/vxi8Ku3lGZ",
+        "created_at": "2022-01-29 01:27:25+00:00",
+        "public_metrics": {
+            "retweet_count": 456,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1464661758069641226,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487235891886280709,
+        "text": "RT @il0v3hotmommys: #tgcf #\u5929\u5b98\u8d50\u798f #HuaLian\ngossipin bout ke mo\ud83e\udd2d https://t.co/LTmjzDKBhl",
+        "created_at": "2022-01-29 01:27:22+00:00",
+        "public_metrics": {
+            "retweet_count": 267,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487089040528756737,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487232417488420864,
+        "text": "RT @AmiThompson_h: https://t.co/qet8Tarjza",
+        "created_at": "2022-01-29 01:13:34+00:00",
+        "public_metrics": {
+            "retweet_count": 11475,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487144390988484609,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487153108975247363,
+        "text": "RT @viria13: (mild nsfw)\n\ndifferent kind of heat \n\n#genshinimpact #chilumi #childe #lumine #tartaglia #art #viria https://t.co/SFpM2RFSMX",
+        "created_at": "2022-01-28 19:58:25+00:00",
+        "public_metrics": {
+            "retweet_count": 3630,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487149787396907013,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487018028088836097,
+        "text": "Also, i\u2019d like to add\u2026 the way the fights with his polearm is hot\u2026 So i completely understand them falling for him \ud83e\udd75",
+        "created_at": "2022-01-28 11:01:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1487015983395000327,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487015983395000327,
+        "text": "He looks nostalgic and, probably for some, even cold. However, my headcanon for this piece is that the Glaze Lily and Qingxin represent Guizhong (a past lover) and Xiao (current lover), respectively.",
+        "created_at": "2022-01-28 10:53:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1487015299010412548,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487015299010412548,
+        "text": "\ud83d\udcabTHE CEO OF GEO CAME HOME!!! \ud83d\udcab\n\n#Zhongli #GenshinImpact #\u539f\u795e https://t.co/LmDddgcBLY",
+        "created_at": "2022-01-28 10:50:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486982527738916866,
+        "text": "RT @gukxm: trans!Aether x Childe right in front of Rex Lapis\u2019 salad \ud83c\udf1d\u2728\ud83c\udf1a\n\n#\u30bf\u30eb\u7a7a #Chilaether #childeaether #childe #transaether #aether #Gensh\u2026",
+        "created_at": "2022-01-28 08:40:36+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485574252690616323,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1486778137203597314,
+        "text": "RT @jdebbiel: Ringing In https://t.co/7B9fSaT2W4",
+        "created_at": "2022-01-27 19:08:25+00:00",
+        "public_metrics": {
+            "retweet_count": 11910,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1486748257955033090,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1486678161186336770,
+        "text": "Being multilingual means I have to learn slang from English by force. My search history is always \"what is...\" lol",
+        "created_at": "2022-01-27 12:31:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486676979642519557,
+        "text": "This is so Capricorn of him https://t.co/Oft5nuna9W",
+        "created_at": "2022-01-27 12:26:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484897897892106242,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1486493933458886658,
+        "text": "ok, i forgot to say in the alt text that XL is blushing and staring longingly at HC, who is also blushing and extremely embarrassed bc of XL said + this time, it\u2019s not him flirting first aaaaaaaahhhhh",
+        "created_at": "2022-01-27 00:19:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1486466930399760385,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486486763803713536,
+        "text": "i had an idea for a drawing but my adhd brain goes \u2728puff\u2728 and thoughts gone !! head empty!! of everything but anxiety!!",
+        "created_at": "2022-01-26 23:50:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486469329713520640,
+        "text": "ah, fuck, i forgot these are not the hours to post smth AAAAAAAAAAAGGGGGGGGGGHHH",
+        "created_at": "2022-01-26 22:41:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486467877809098753,
+        "text": "if this video had sound, it would be me groaning of pain. i will not try to anymate anything in procreate ever again. https://t.co/S5LkOfauKV",
+        "created_at": "2022-01-26 22:35:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1486466357440958479,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1486466930399760385,
+        "text": "Also, the english translation the text in both my tweet and animation: \n\n\"Don't worry, San Lang\nI will protect you~\u2661\"",
+        "created_at": "2022-01-26 22:31:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1486466360838434816,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486466360838434816,
+        "text": "Alt text: 4 second animation of Xie Lian (XL) and Hua Cheng (HC) from Heaven Official's Blessing. XL is kissing one of HC's hands while holding them. XL has brown hair and wears white while HC has black hair and red clothes. Warm light hits XL's back and anso part os HC's head.",
+        "created_at": "2022-01-26 22:29:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1486466357440958479,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486466357440958479,
+        "text": "\u4e09\u90ce\uff0c\u522b\u62c5\u5fc3\n\u6211\u4f1a\u4fdd\u62a4\u4f60~\u2661\n(alt text in next tweet)\n\n#\u5929\u5b98\u8d50\u798f #tgcf #hualian #XieLian #HuaCheng #Hualesbians https://t.co/sDx35zMC4W",
+        "created_at": "2022-01-26 22:29:31+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486405840118726660,
+        "text": "I grinded for his talent books and i JUST REALISED that I levelled everything BUT THE TALENTS AAAAAAAA i\u2019m stupid hahaha (he does reach 24k when throwing the meteor tho) https://t.co/LmQqtxDob1",
+        "created_at": "2022-01-26 18:29:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1486070213896544268,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1486384592085045252,
+        "text": "@nya_Deko she crushes my heart with cuteness \ud83e\udd7a\ud83e\udd32",
+        "created_at": "2022-01-26 17:04:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3039086517,
+        "referenced_tweets": {
+            "id": 1486019891232706561,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486384346596585473,
+        "text": "having poses i want to draw makes everything easier. if i didn\u2019t have a folder of expressions + poses i\u2019d like to draw i would turn mad.",
+        "created_at": "2022-01-26 17:03:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486345749109645314,
+        "text": "@0ltremare @WindyEngel @Sk8Bingo que monos \ud83d\ude0d",
+        "created_at": "2022-01-26 14:30:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1325783804246683648,
+        "referenced_tweets": {
+            "id": 1486043336960090113,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486182355224207360,
+        "text": "the conclusion i got from trying new stuff in procreate is: i have 0 units of consistent art style \ud83d\ude35\u200d\ud83d\udcab",
+        "created_at": "2022-01-26 03:41:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486153241226321923,
+        "text": "trying to upload here an animation i made in procreate is hellish. i can\u2019t even access the videos on the app \ud83e\udd72",
+        "created_at": "2022-01-26 01:45:18+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486072112473382915,
+        "text": "i was saving for him and i just wish they put xiao\u2019s banner later so i could pull for him too D:",
+        "created_at": "2022-01-25 20:22:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1486070213896544268,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1486070213896544268,
+        "text": "eye- the CEO of GEO came home!!!  AAAAAAAAAAA!!!\n#Zhongli #GenshinImapct https://t.co/12uH42OgVs",
+        "created_at": "2022-01-25 20:15:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1486068349943562243,
+        "text": "i might be going over board with the hualesbians fanart\u2026",
+        "created_at": "2022-01-25 20:07:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485923017620340738,
+        "text": "ok, this is the first time i have actually gone off my way to grind and have everything ready to level up a character\u2026 so Zhongli, you better come home you fucker",
+        "created_at": "2022-01-25 10:30:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485904942795743233,
+        "text": "RT @hiya_cass: Rain\n[ xingyun archon/adeptus AU ]\n\n#genshinimpact #Xingqiu #Chongyun https://t.co/WVAIWGEy1U",
+        "created_at": "2022-01-25 09:18:39+00:00",
+        "public_metrics": {
+            "retweet_count": 3526,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485732950587191298,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485773849291640833,
+        "text": "i just found out there are accounts of people that draw poses you can use\u2026 i am saved.",
+        "created_at": "2022-01-25 00:37:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485750576273051648,
+        "text": "RT @Zeniiet: Rosaria with her new Alternative apperance\n#\u539f\u795e #GenshinImpact https://t.co/OZsQ7NDVxh",
+        "created_at": "2022-01-24 23:05:15+00:00",
+        "public_metrics": {
+            "retweet_count": 2631,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485465028367044608,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485748943334129667,
+        "text": "the new rosaria skin is giving e feelings i thought i never had.",
+        "created_at": "2022-01-24 22:58:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485651350667120647,
+        "text": "the nonbinary urge to buy a butterfly knife.",
+        "created_at": "2022-01-24 16:30:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485627586713636871,
+        "text": "RT @gukxm: \ubdd4\n\n#BTS #BTSV #KimTaehyung #btsfanart @BTS_twt \ud83d\udc9c https://t.co/yInfYwTwbu",
+        "created_at": "2022-01-24 14:56:32+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484333467085127688,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485574346370433030,
+        "text": "I really played myself when I told myself that drawing them \u201cnaked\u201d will be less hard than drawing genshin clothes\u2026",
+        "created_at": "2022-01-24 11:24:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1485574252690616323,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485574252690616323,
+        "text": "trans!Aether x Childe right in front of Rex Lapis\u2019 salad \ud83c\udf1d\u2728\ud83c\udf1a\n\n#\u30bf\u30eb\u7a7a #Chilaether #childeaether #childe #transaether #aether #GenshinImpact #genshinfanart #genshinimpactfanart https://t.co/7VLTv1fc7H",
+        "created_at": "2022-01-24 11:24:37+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 25,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485435688757641220,
+        "text": "i was a soft neutral and now i\u2019m a sexy meow meow \ud83e\udd7a https://t.co/jKNHKVZcXJ",
+        "created_at": "2022-01-24 02:14:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484751923492401157,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1485407203842482180,
+        "text": "I\u2019m starting a tumblr but i am so lazy to post there\u2026 It takes a toll on me even posting to instagram\u2026",
+        "created_at": "2022-01-24 00:20:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485406889231929349,
+        "text": "i just spent 1M+ mora levelling up artifacts for Zhongli \ud83d\ude33 I will be poor when I get him, how fitting!!! lmao https://t.co/NSopBH1T5x",
+        "created_at": "2022-01-24 00:19:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485338590842343424,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1485405556126932992,
+        "text": "RT @cranity: I think you've got the wrong stall #chainsawman https://t.co/cBw2wlMLjc",
+        "created_at": "2022-01-24 00:14:16+00:00",
+        "public_metrics": {
+            "retweet_count": 6933,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485355328552292362,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485341680257675267,
+        "text": "RT @2964_KO: \u4f9b\u990a\u7d75 https://t.co/bw8YnjNMyC",
+        "created_at": "2022-01-23 20:00:27+00:00",
+        "public_metrics": {
+            "retweet_count": 1139,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485257175177973760,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485338590842343424,
+        "text": "i want xiao but i literally can\u2019t bc i am saving for zhongli\ud83d\ude2d",
+        "created_at": "2022-01-23 19:48:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485332573115064323,
+        "text": "i finally finished the #chilather piece that is a continuation of this one. i realised i have so much to learn and it pains me\ud83d\ude2d https://t.co/svHRKKXYjz",
+        "created_at": "2022-01-23 19:24:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485297279171018752,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1485321988063346700,
+        "text": "@meru90 thank you for giving Kojiro a crop top \ud83d\ude47\ud83c\udffb\u200d\u2642\ufe0f They look cute \ud83d\udc97\ud83d\udc97",
+        "created_at": "2022-01-23 18:42:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 92260656,
+        "referenced_tweets": {
+            "id": 1485320784168075272,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485297279171018752,
+        "text": "aether + childe\u2019s hand \ud83c\udf1a\u2728\ud83c\udf1d\n\n#\u30bf\u30eb\u7a7a #Chilaether #childeaether #childe #aether #GenshinImpact #Genshinfanart https://t.co/7yPlQHsvLl",
+        "created_at": "2022-01-23 17:04:01+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 14,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1485295318367408136,
+        "text": "RT @CANOP_s: #zhongli https://t.co/adrfp2xr4v",
+        "created_at": "2022-01-23 16:56:14+00:00",
+        "public_metrics": {
+            "retweet_count": 18753,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1485205425553555459,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485291661450166275,
+        "text": "@jayessart so pretty \ud83d\ude0d",
+        "created_at": "2022-01-23 16:41:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2846387379,
+        "referenced_tweets": {
+            "id": 1484967171520286723,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1485291530344615945,
+        "text": "RT @jayessart: zhongli during the archon wars...\n#GenshinImpact #\u539f\u795e #\u949f\u79bb https://t.co/qiU2Lmoz88",
+        "created_at": "2022-01-23 16:41:10+00:00",
+        "public_metrics": {
+            "retweet_count": 5273,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483268996543627265,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485291459398049798,
+        "text": "RT @jayessart: Ningguang\n#\u51dd\u5149 #GenshinImpact #\u539f\u795e #study https://t.co/9vgzCevTtD",
+        "created_at": "2022-01-23 16:40:53+00:00",
+        "public_metrics": {
+            "retweet_count": 708,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483975061329559553,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1485178099444682754,
+        "text": "Good morning. It\u2019s raining and I don\u2019t want to be an adult today.",
+        "created_at": "2022-01-23 09:10:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484946887375478786,
+        "text": "@itslopezz they're so smol \ud83e\udd32\u2764\ufe0f",
+        "created_at": "2022-01-22 17:51:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 67952305,
+        "referenced_tweets": {
+            "id": 1483835237821997059,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484927719162974208,
+        "text": "RT @1954love_hate_: \ud83e\ude85\ud83e\uddb7\ud83e\ude85\ud83e\uddb7\ud83e\ude85 https://t.co/19H8gjnso6",
+        "created_at": "2022-01-22 16:35:31+00:00",
+        "public_metrics": {
+            "retweet_count": 1019,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484819394996105228,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1484906242321563649,
+        "text": "I am drawing while rewatching (listening actually) jojo and i forgot how much i like these series \ud83d\ude2d\u2764\ufe0f\u200d\ud83d\udd25",
+        "created_at": "2022-01-22 15:10:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484905549565243404,
+        "text": "RT @geyusan: i will use a reference for each and every molecule in my art. when i pick up my stylus i do not remember what a single thing l\u2026",
+        "created_at": "2022-01-22 15:07:25+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484093168132198401,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1484901516234342404,
+        "text": "RT @artistemika: \"It looks just like him.\" \u2728\n#TGCF #tianguancifu #HeavenOfficialsBlessing #hualian #\u5929\u5b98\u8d50\u798f https://t.co/fNU8vFDSC0",
+        "created_at": "2022-01-22 14:51:24+00:00",
+        "public_metrics": {
+            "retweet_count": 1001,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484888586411331585,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1484797284093149185,
+        "text": "RT @Totem_skin: A simple Rt can get you a free Mask \ud83d\udc3a\ud83d\udda4 https://t.co/1wkcfz9qzy",
+        "created_at": "2022-01-22 07:57:13+00:00",
+        "public_metrics": {
+            "retweet_count": 13081,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484606021997940742,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1484793999516917762,
+        "text": "RT @geyusan: wake up babe it\u2019s time for some monthly ren song fanart \ud83d\ude0c https://t.co/6nbJl0AJcF",
+        "created_at": "2022-01-22 07:44:10+00:00",
+        "public_metrics": {
+            "retweet_count": 517,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484752590181380097,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1484793994295009280,
+        "text": "@geyusan the hair, the composition, the colouring + everythingggg asdfghirksj i love it, he\u2019s handsome af \ud83d\ude0d\ud83d\udc97\ud83d\udc97\ud83d\udc97",
+        "created_at": "2022-01-22 07:44:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1419470763262824449,
+        "referenced_tweets": {
+            "id": 1484752590181380097,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484792320952258561,
+        "text": "i dread the moment i\u2019ll have to colour it \n\n#wip #aether #genshin https://t.co/OXcJ5ItpRa",
+        "created_at": "2022-01-22 07:37:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484630984221990922,
+        "text": "The good thing about understanding a bit of Chinese is that *sometimes* I can understand what they say in the manhua or the donghua.  #tgcf",
+        "created_at": "2022-01-21 20:56:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484630261123977221,
+        "text": "(good for them tho, i wish it was me)",
+        "created_at": "2022-01-21 20:53:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1484630216081350657,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484630216081350657,
+        "text": "When some artist post smth and caption it \u201cwarm up\u201d or \u201cdoodle\u201d and it\u2019s the equivalent of my final art. #depresso",
+        "created_at": "2022-01-21 20:53:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484609058485243907,
+        "text": "My teenage self would go apeshit if they knew i enjoy 75% dark chocolate hahaha I feel like a I get older, things are just too sweet",
+        "created_at": "2022-01-21 19:29:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484554313523470343,
+        "text": "@bbybluemochi yes, please,xie lian in your style: \ud83e\udd7a\ud83e\udd32\ud83c\udffb\ud83d\udc97",
+        "created_at": "2022-01-21 15:51:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 926880290722721794,
+        "referenced_tweets": {
+            "id": 1484495787413417985,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484553866150662151,
+        "text": "This Zhongli makes me feel\u2026 \u2764\ufe0f\u200d\ud83d\udd25THINGS\u2764\ufe0f\u200d\ud83d\udd25 https://t.co/SLCqY7LNg6",
+        "created_at": "2022-01-21 15:49:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483268996543627265,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1484553544782987275,
+        "text": "RT @zksnzksn_0001: \ubcf4\ub4dc\ud0c0\ub294\uac78 \uc88b\uc544\ud558\ub294 \uc545\ub9c8 \ud83d\ude08 https://t.co/roJJKL41Ij",
+        "created_at": "2022-01-21 15:48:41+00:00",
+        "public_metrics": {
+            "retweet_count": 395,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484174155826495489,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1484553539989000195,
+        "text": "@zksnzksn_0001 her design is no neat, i love it \ud83d\udc97\ud83d\udc97\ud83d\udc97",
+        "created_at": "2022-01-21 15:48:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 785121165006114816,
+        "referenced_tweets": {
+            "id": 1484174155826495489,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484553370119684104,
+        "text": "RT @twoyatwoyao: I animated THAT Itto's CN VA laughing video! Their laugh really got me\ud83e\udd23\ud83e\udd23 https://t.co/SX7nuNHwvV",
+        "created_at": "2022-01-21 15:47:59+00:00",
+        "public_metrics": {
+            "retweet_count": 6513,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484155116093865986,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1484553351496970240,
+        "text": "@twoyatwoyao The animation is so cute and funny \ud83e\udd23 Ever since they began steaming, i\u2019m addicted to their laugh lmaoooo",
+        "created_at": "2022-01-21 15:47:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1251424387682594816,
+        "referenced_tweets": {
+            "id": 1484155116093865986,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484497116957401091,
+        "text": "This is cute \ud83d\udc97 https://t.co/JPObhrP9H1 https://t.co/hYGUZgmJGf",
+        "created_at": "2022-01-21 12:04:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484232773263138817,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1484341896516280320,
+        "text": "How do people post high resolution in instagram? is it even possible? I just uploaded something and it looks shitty as hell \ud83e\udd74",
+        "created_at": "2022-01-21 01:47:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484334321192161280,
+        "text": "i really like drawing shoes\ud83e\udd18\ud83c\udffb\n\ndetails: https://t.co/h46VT4iQUM",
+        "created_at": "2022-01-21 01:17:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482059277342855175,
+        "referenced_tweets": {
+            "id": 1484333467085127688,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484333467085127688,
+        "text": "\ubdd4\n\n#BTS #BTSV #KimTaehyung #btsfanart @BTS_twt \ud83d\udc9c https://t.co/yInfYwTwbu",
+        "created_at": "2022-01-21 01:14:10+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

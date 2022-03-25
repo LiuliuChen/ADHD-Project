@@ -1,0 +1,3011 @@
+[
+    {
+        "tweet_id": 1505306381838319616,
+        "text": "LMAO https://t.co/RMvXrJpraR",
+        "created_at": "2022-03-19 22:13:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505099340926361602,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1504178565688053771,
+        "text": "RT @crown_prinxe: So crazy that some people can't enjoy Turning Red because they can't relate to the main character whereas I was able to f\u2026",
+        "created_at": "2022-03-16 19:31:31+00:00",
+        "public_metrics": {
+            "retweet_count": 16575,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503885724852051971,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503515976201084932,
+        "text": "@SarahBurssty Truly speaking a universal language https://t.co/FbYYo2gtRE",
+        "created_at": "2022-03-14 23:38:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 16,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 796532256915542016,
+        "referenced_tweets": {
+            "id": 1503507238509449216,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503439151311593473,
+        "text": "RT @KatyMontgomerie: Mate this post\n\n https://t.co/HbErKLtoOV https://t.co/dmN5vtmug2",
+        "created_at": "2022-03-14 18:33:20+00:00",
+        "public_metrics": {
+            "retweet_count": 2719,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503327821636194305,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503054316684333058,
+        "text": "RT @WholesomeMeme: https://t.co/Hs6k4Qerj3",
+        "created_at": "2022-03-13 17:04:09+00:00",
+        "public_metrics": {
+            "retweet_count": 22995,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503041444768006151,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502789873941598214,
+        "text": "@GarbageDumpster Maybe create a safe environment for trans kids and adults to express themselves first.",
+        "created_at": "2022-03-12 23:33:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 329531410,
+        "referenced_tweets": {
+            "id": 1502773471562108931,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502789204954292227,
+        "text": "@kinkymoderate Shouldn't have to DIY yet it's really just not safe to do anything else for many people",
+        "created_at": "2022-03-12 23:30:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1349923713630625795,
+        "referenced_tweets": {
+            "id": 1502762593110298628,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502786949043695616,
+        "text": "@IWentToLondon @bobposting Yes, which is why trans healthcare should be improved so people seeking gender-affirming care can receive it safely",
+        "created_at": "2022-03-12 23:21:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1385345455979175938,
+        "referenced_tweets": {
+            "id": 1502746598719336448,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502774483194720262,
+        "text": "isnt all this people being transphobic/homophobic boiling down to people not allowing other people to do what makes them happy cos someone said so. Who said so. I want names",
+        "created_at": "2022-03-12 22:32:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502743221276979205,
+        "text": "RT @carterjwm: HELP ME PLEASE. A MAN NEEDS HIS NUGGS https://t.co/4SrfHmEMo3",
+        "created_at": "2022-03-12 20:27:58+00:00",
+        "public_metrics": {
+            "retweet_count": 3119554,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 849813577770778624,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499890122174648320,
+        "text": "RT @TigerFolf: Morning https://t.co/di3yRq84cm",
+        "created_at": "2022-03-04 23:30:46+00:00",
+        "public_metrics": {
+            "retweet_count": 1638,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499708811279486979,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499885298888716294,
+        "text": "I felt like taking and sharing this after seeing it and found it credible and interesting https://t.co/PGLPCs2dQz via @idr_labs",
+        "created_at": "2022-03-04 23:11:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499544696015699972,
+        "text": "good news no adhd unless the doctor was wrong but honestly i doubt it",
+        "created_at": "2022-03-04 00:38:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498480065402839043,
+        "text": "-difference that others do, and perhaps even to believe it exists. If you cannot trust anyone in telling you of the difference, or get told not to trust, well, that's a problem. Now to slip back into silent pain, which I shall not share because I don't like to be depressing",
+        "created_at": "2022-03-01 02:07:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1472322076262514696,
+        "referenced_tweets": {
+            "id": 1498479533711937538,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498479533711937538,
+        "text": "And if for you it's slid in perfectly- or at least close enough- well, you cannot read minds, and so for everyone else you only see the plate representing the body, and what they tell you of the mind. So I suppose for those born without gaps in these plates, it's hard to see a-",
+        "created_at": "2022-03-01 02:05:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1472322076262514696,
+        "referenced_tweets": {
+            "id": 1498478958949675012,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498478958949675012,
+        "text": "Before the thought pops put of my head I must use this as a notepad: the incongruence between mind and body is like two plates meant to slide perfectly into each other- you never notice the difference between the two if they aren't already separate. (1/2?)",
+        "created_at": "2022-03-01 02:03:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497626571691237377,
+        "text": "RT @KeepsYouWaiting: sigh https://t.co/xz13c1vXhS",
+        "created_at": "2022-02-26 17:36:13+00:00",
+        "public_metrics": {
+            "retweet_count": 139,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497483700115849219,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497567637093724167,
+        "text": "RT @TheRealCoolmath: who u gonna call? https://t.co/5eYywiqq2U",
+        "created_at": "2022-02-26 13:42:02+00:00",
+        "public_metrics": {
+            "retweet_count": 3807,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497300365372497927,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497052278552993795,
+        "text": "RT @SaeedDiCaprio: \u201cI use humor to cope with what\u2019s going on in Ukraine\u201d https://t.co/vrZu2Fiig1",
+        "created_at": "2022-02-25 03:34:11+00:00",
+        "public_metrics": {
+            "retweet_count": 28959,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496845196046315524,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1495542361430052864,
+        "text": "@Lilly94840151 yuh. wish i could take it now but at least I have a plan to achieve that goal soonish,,",
+        "created_at": "2022-02-20 23:34:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1455676651338092552,
+        "referenced_tweets": {
+            "id": 1495537197910577158,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495535197269463042,
+        "text": "@catgirl_trans I think the queen will be expressing 'cold-like' symptoms on March 13th 2022",
+        "created_at": "2022-02-20 23:05:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1479764516355424261,
+        "referenced_tweets": {
+            "id": 1495533027014885378,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495534987696906240,
+        "text": "1h after drinking 32oz of coffee: I feel a little tingle in my head but otherwise nothing extreme",
+        "created_at": "2022-02-20 23:05:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495534532774305797,
+        "text": "@UlricaArt mine is taken in spirit",
+        "created_at": "2022-02-20 23:03:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1389194832011276288,
+        "referenced_tweets": {
+            "id": 1495531536342523909,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495521197165092873,
+        "text": "my dog https://t.co/Oa96crbPfy",
+        "created_at": "2022-02-20 22:10:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495509434830925837,
+        "text": "like jesus christ if you're gonna harass people do it right. dumb fucks",
+        "created_at": "2022-02-20 21:23:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1472322076262514696,
+        "referenced_tweets": {
+            "id": 1495509343978065924,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495509343978065924,
+        "text": "Im reading tweets with all these Ls accounts getting suspended and what they're so fucking dumb they post a screenshot of their previous account getting suspended for their old followers like its NOT gonna get the new one immediately suspended??? I dont know what to expect lol",
+        "created_at": "2022-02-20 21:23:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495504382288355332,
+        "text": "@Ranting_Trans BLAHAJJJJ",
+        "created_at": "2022-02-20 21:03:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 393930113,
+        "referenced_tweets": {
+            "id": 1495503071707004928,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495503804967661572,
+        "text": "-but do not tell anyone this is just because I really like coffee. Also Keurig coffee tastes like water.",
+        "created_at": "2022-02-20 21:01:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1472322076262514696,
+        "referenced_tweets": {
+            "id": 1495503688508579840,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495503688508579840,
+        "text": "I have created a test to see if I have ADHD since apparently a deciding factor is immunity to coffee. I have drank 16oz of coffee so far and am sitting in front of another 16 ounces. If I can go to bed tonight I probably am immune to coffee. Which would suggest I have ADHD",
+        "created_at": "2022-02-20 21:00:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495495931860557829,
+        "text": "gonna download mods for new vegas and see if i can actually tolerate it since that exists",
+        "created_at": "2022-02-20 20:29:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495397540048560129,
+        "text": "@CatherineDotUK this is normal what do you mean",
+        "created_at": "2022-02-20 13:58:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1326336775791513601,
+        "referenced_tweets": {
+            "id": 1495300708710723584,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495224115376140290,
+        "text": "@CatherineDotUK awh thwt sucks",
+        "created_at": "2022-02-20 02:29:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1326336775791513601,
+        "referenced_tweets": {
+            "id": 1495222935816183811,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495134486304067588,
+        "text": "float on air that is",
+        "created_at": "2022-02-19 20:33:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1472322076262514696,
+        "referenced_tweets": {
+            "id": 1495134381295513601,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495134381295513601,
+        "text": "@KoalaPhoenix77 If you can't fill a glass with water and make it float you have no chance finding something like this",
+        "created_at": "2022-02-19 20:33:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1135030112,
+        "referenced_tweets": {
+            "id": 1495132061757231105,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495077771441278980,
+        "text": "@SoundThird YEAAAAAA",
+        "created_at": "2022-02-19 16:48:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1495076821104271369,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495065434265206787,
+        "text": ",, is so nice fot separating sentrnces without ending them,, its like a period but indicates more or less trailing off",
+        "created_at": "2022-02-19 15:59:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495065176206450692,
+        "text": "@Cosmos54 damn thatd suck,, razor time ig",
+        "created_at": "2022-02-19 15:58:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 700503767905603585,
+        "referenced_tweets": {
+            "id": 1495064940440428547,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495064926464925698,
+        "text": "@BrenIsConcerned lol what they gonna do focefeed u estrogen? what a silly lil dweeb",
+        "created_at": "2022-02-19 15:57:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 139989042,
+        "referenced_tweets": {
+            "id": 1495042307040628742,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495064660353200134,
+        "text": "@Faith_doughnut1 nooooooo",
+        "created_at": "2022-02-19 15:56:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463684319084523526,
+        "referenced_tweets": {
+            "id": 1495064495676346369,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495064001201553411,
+        "text": "@Faith_doughnut1 no bais unless ur going to bed or smth i am the law",
+        "created_at": "2022-02-19 15:53:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463684319084523526,
+        "referenced_tweets": {
+            "id": 1495054010113572866,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494820417030299652,
+        "text": "@bonkey_bong Definitely sounds like it sucks to deal with,, I do care but I also have no experience with that, if anything you'd be giving me life advice\n\nIf it's with anyone in particular it wouldn't hurt to express that, I'm sure it'd help to tell who you need to",
+        "created_at": "2022-02-18 23:45:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 737635398,
+        "referenced_tweets": {
+            "id": 1494818803695464449,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494731396065247236,
+        "text": "@Faith_doughnut1 wack",
+        "created_at": "2022-02-18 17:51:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463684319084523526,
+        "referenced_tweets": {
+            "id": 1494731021488730117,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494730853271879688,
+        "text": "@Faith_doughnut1 is it a fancy one or smth",
+        "created_at": "2022-02-18 17:49:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463684319084523526,
+        "referenced_tweets": {
+            "id": 1494706082903732230,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494626040366436353,
+        "text": "quick test shows it kinda looks weird but isn't too bad overall. Trying the extra boy setting makes me wanna puke in comparison so I have a winner",
+        "created_at": "2022-02-18 10:53:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1472322076262514696,
+        "referenced_tweets": {
+            "id": 1494625223504805889,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494625223504805889,
+        "text": "@TransIsabella_ Hmm just a shot in the dark here but you could see how some AI face editor that makes you look like a girl feels.\n\nHaven't even done it nyself but it sounds helpful. I will probably even try it not just to see how I feel\n(Faceapp ig)",
+        "created_at": "2022-02-18 10:49:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1484672367217594368,
+        "referenced_tweets": {
+            "id": 1494599619501826070,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494623773701591042,
+        "text": "RT @InscrutableJane: If you're trans, please retweet this!\n\nIf you're cisgender but you had a magic Character Creation menu but for real li\u2026",
+        "created_at": "2022-02-18 10:44:11+00:00",
+        "public_metrics": {
+            "retweet_count": 2073,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494524694912983048,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494492118265573377,
+        "text": "@Faith_doughnut1 hug",
+        "created_at": "2022-02-18 02:01:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463684319084523526,
+        "referenced_tweets": {
+            "id": 1494487739278008320,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494445632630804483,
+        "text": "@majortomxyz In my opinion it looks like they feed off of the attention you give to them (which they normally lack from sitting in a dark room all day)",
+        "created_at": "2022-02-17 22:56:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1426394656720531458,
+        "referenced_tweets": {
+            "id": 1494445237434990601,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494432716397371399,
+        "text": "RT @dorrismccomics: https://t.co/bXJvLMnNPM",
+        "created_at": "2022-02-17 22:04:59+00:00",
+        "public_metrics": {
+            "retweet_count": 6147,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494018257531060224,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494428383022923777,
+        "text": "RT @ErinInTheMorn: @Ranting_Trans Yup. That's why I made my informed consent map, to spare other trans people that shit.\n\nhttps://t.co/0dJL\u2026",
+        "created_at": "2022-02-17 21:47:46+00:00",
+        "public_metrics": {
+            "retweet_count": 29,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494291536221294594,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494424975650009090,
+        "text": "@CivilizedSwine @krystalwolfy lol, lmao",
+        "created_at": "2022-02-17 21:34:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1431691871902912517,
+        "referenced_tweets": {
+            "id": 1494057974561714183,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494285470842462210,
+        "text": "Friendly reminder not to take bigots seriously. I mean cmon we all *know* what they say is just really fucking dumb. Bad arguments that have been debunked deserve no real attention except that akin to claims the earth is flat. Both are equally stupid",
+        "created_at": "2022-02-17 12:19:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494265327508766723,
+        "text": "twitter showing me a post on my timeline I want to see and then being like \"nope bitch\" and making it disappear so that I may never find it again",
+        "created_at": "2022-02-17 10:59:50+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494264634383257605,
+        "text": "til theres voice feminization surgery??? this improves things",
+        "created_at": "2022-02-17 10:57:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494099114912538624,
+        "text": "I think I might have to unfollow some trans activists because the doom news is kind of fucking me up. I kind of need every inch of ground I can get mentally sorry",
+        "created_at": "2022-02-16 23:59:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494091430649729026,
+        "text": "@bonkey_bong W??",
+        "created_at": "2022-02-16 23:28:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 737635398,
+        "referenced_tweets": {
+            "id": 1493976544896856067,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494085675267862528,
+        "text": "@OfflineApril honestly??? cute hair. I wish I could have my hair like that",
+        "created_at": "2022-02-16 23:05:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 849750450979188736,
+        "referenced_tweets": {
+            "id": 1494080084495548416,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494047258073042947,
+        "text": "@aradiati0n yea some psychologist could probably say something really smart about it",
+        "created_at": "2022-02-16 20:33:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1222377372856602624,
+        "referenced_tweets": {
+            "id": 1494044356902371329,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494040333616918529,
+        "text": "RT @jakki__AK: My eternal struggle https://t.co/mR8df6Jsdz",
+        "created_at": "2022-02-16 20:05:48+00:00",
+        "public_metrics": {
+            "retweet_count": 18,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494021649179365377,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494039493778808838,
+        "text": "RT @krystalwolfy: You can only retweet this today UwU https://t.co/MuA77jZ7mZ",
+        "created_at": "2022-02-16 20:02:27+00:00",
+        "public_metrics": {
+            "retweet_count": 75,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494037464377344005,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494035950904688641,
+        "text": "I remember getting ads always for womens products before my egg cracked but never mens. Kinduvve odd",
+        "created_at": "2022-02-16 19:48:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493975629632528386,
+        "text": "Yea nothing really comes out of it except you getting annoyed and the bigots getting satisfaction, you don't really ever win. Just a waste of precious energy https://t.co/5WYh2zSMLB",
+        "created_at": "2022-02-16 15:48:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493922643594121221,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1493729105749106690,
+        "text": "reminded that the internet is maintained by furries and I do not object",
+        "created_at": "2022-02-15 23:29:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493717616921354247,
+        "text": "@TransIsabella_ You be you! By the looks of it, you've got a lot of people here to support you no matter what, and that's amazing.",
+        "created_at": "2022-02-15 22:43:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1484672367217594368,
+        "referenced_tweets": {
+            "id": 1493696586743959561,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493388706404872197,
+        "text": "ugh hff voice training definitrly not just pitch",
+        "created_at": "2022-02-15 00:56:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493377132650766338,
+        "text": "RT @OpusFloof: Just because someone seems happy-go-lucky on Twitter does not mean they have perfect lives.",
+        "created_at": "2022-02-15 00:10:28+00:00",
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492372492878430209,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493361992068915200,
+        "text": "@CatgirlYukina No",
+        "created_at": "2022-02-14 23:10:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1318353738864754691,
+        "referenced_tweets": {
+            "id": 1493360374002950149,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493336009844613120,
+        "text": "@SoundThird lol i tried playing it and got bored immediately",
+        "created_at": "2022-02-14 21:27:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1493334089268711433,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493335904143953926,
+        "text": "@aradiati0n o/",
+        "created_at": "2022-02-14 21:26:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1222377372856602624,
+        "referenced_tweets": {
+            "id": 1493314399691489288,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493310584720347146,
+        "text": "YOU!!\nYES YOU\n\npretty &lt;3",
+        "created_at": "2022-02-14 19:46:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493272286723547140,
+        "text": "Just gotta keep hoping for the future, every bit you do per day towards your goals amounts to getting just that much closer.",
+        "created_at": "2022-02-14 17:13:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493058893773160452,
+        "text": "@aradiati0n idkk im boutta pass out ask me tmr",
+        "created_at": "2022-02-14 03:05:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1222377372856602624,
+        "referenced_tweets": {
+            "id": 1493048794920984576,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493040582503059462,
+        "text": "yall awesome gn",
+        "created_at": "2022-02-14 01:53:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493039356898074624,
+        "text": "@Faith_doughnut1 you would not be ready",
+        "created_at": "2022-02-14 01:48:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463684319084523526,
+        "referenced_tweets": {
+            "id": 1492984729406251008,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493038828696834048,
+        "text": "@CatherineDotUK YEAAA",
+        "created_at": "2022-02-14 01:46:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1326336775791513601,
+        "referenced_tweets": {
+            "id": 1493036421157896194,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493032696263626763,
+        "text": "@CatherineDotUK one day,,",
+        "created_at": "2022-02-14 01:21:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1326336775791513601,
+        "referenced_tweets": {
+            "id": 1493032230947414017,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493030423156379652,
+        "text": "RT @ManMilk2: https://t.co/ub8hJfn6w3",
+        "created_at": "2022-02-14 01:12:46+00:00",
+        "public_metrics": {
+            "retweet_count": 12888,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492911211016511494,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493030240062521348,
+        "text": "@majortomxyz np!!",
+        "created_at": "2022-02-14 01:12:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1426394656720531458,
+        "referenced_tweets": {
+            "id": 1493029871446114308,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493029479161159684,
+        "text": "@majortomxyz this thread has inspired me to look into less effective hrt that i can actually do rn https://t.co/IVBq862Pq0",
+        "created_at": "2022-02-14 01:09:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1426394656720531458,
+        "referenced_tweets": {
+            "id": 1469223187376390144,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1493028420242096134,
+        "text": "@majortomxyz Same, trying to make do with tea but too lazyyy",
+        "created_at": "2022-02-14 01:04:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1426394656720531458,
+        "referenced_tweets": {
+            "id": 1493010955529302019,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492475441998934019,
+        "text": "Who keeps making topics https://t.co/uka34mx1GL",
+        "created_at": "2022-02-12 12:27:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492474184076779521,
+        "text": "@UlricaArt Would be pretty neat if the audience just couldn't because ideally there is no difference",
+        "created_at": "2022-02-12 12:22:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1389194832011276288,
+        "referenced_tweets": {
+            "id": 1492468489029832704,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492266673495330820,
+        "text": "@nathansmokee You are asked a question by a lizard what do you say back?\n\nClick Here to view context",
+        "created_at": "2022-02-11 22:37:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1200605371674636290,
+        "referenced_tweets": {
+            "id": 1492244383357452290,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492178451163353088,
+        "text": "Heads up being trans is about to get more chaotic as the spotlight is shone on us so buckle upppppp",
+        "created_at": "2022-02-11 16:47:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492177506215989257,
+        "text": "RT @everywhereist: My doctor and I were discussing my anxiety and she said \"Brains are made to keep us alive. They're not made to keep us h\u2026",
+        "created_at": "2022-02-11 16:43:35+00:00",
+        "public_metrics": {
+            "retweet_count": 33828,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491841407111159815,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491933287824211973,
+        "text": "so bitersweet to see what I can be and do but not be allowed or even have a chance to do it for years. Obviously not trying to hate, yall being yourselves is inspiring and beautiful, I live to witness that kind of stuff",
+        "created_at": "2022-02-11 00:33:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491902290646777857,
+        "text": "@Faith_trans1 @kalosianlitten That is a suicide note",
+        "created_at": "2022-02-10 22:29:58+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463684319084523526,
+        "referenced_tweets": {
+            "id": 1491898021956702209,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491869909005049866,
+        "text": "RT @arthurstacy: Every time someone defends Rogan, say: https://t.co/twWnCd83hJ",
+        "created_at": "2022-02-10 20:21:18+00:00",
+        "public_metrics": {
+            "retweet_count": 76,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491789030052151297,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491817773223325711,
+        "text": "@SoundThird no shame that I usually just cull my yt recommended and click whats interesting and not clickbait or short form content",
+        "created_at": "2022-02-10 16:54:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1472322076262514696,
+        "referenced_tweets": {
+            "id": 1491817606873071623,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491817606873071623,
+        "text": "@SoundThird Not at all actually",
+        "created_at": "2022-02-10 16:53:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1491811547768885248,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491813369464205312,
+        "text": "@SoundThird I have seen worse",
+        "created_at": "2022-02-10 16:36:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1491812949635309568,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491812241951309827,
+        "text": "@SoundThird im not going to melt away if I hear about sex relaxxxx",
+        "created_at": "2022-02-10 16:32:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1491811255048445963,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491812071213785094,
+        "text": "@yaggers4 Ok, just checking with you, have a good day",
+        "created_at": "2022-02-10 16:31:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1487438205368557575,
+        "referenced_tweets": {
+            "id": 1491811637380239360,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491810167809351682,
+        "text": "@SoundThird and yeah pretenders one of my favs. great song! and now im starting to like more of ken's music, binge timee",
+        "created_at": "2022-02-10 16:23:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1472322076262514696,
+        "referenced_tweets": {
+            "id": 1491809966075822084,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491809966075822084,
+        "text": "@SoundThird Ive listened to all their music I could find and stuff like Fields of Grey are awesome, same w Horus the Chorus, etc etc. Most of em are great",
+        "created_at": "2022-02-10 16:23:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1491808751816486913,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491808452745875456,
+        "text": "@yaggers4 Are you mentally okay in any capacity, do you need help",
+        "created_at": "2022-02-10 16:17:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1487438205368557575,
+        "referenced_tweets": {
+            "id": 1491617135419961348,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491807551767433220,
+        "text": "@SoundThird Electronic, bass-y, psytrance, stuff like vocaloid and artists like Infected Mushroom",
+        "created_at": "2022-02-10 16:13:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1491807213697974273,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491804892121518080,
+        "text": "@SoundThird and same on music taste lol",
+        "created_at": "2022-02-10 16:02:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1472322076262514696,
+        "referenced_tweets": {
+            "id": 1491804830398132225,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491804830398132225,
+        "text": "@SoundThird Actually on this music no it bops I like it, somehow the lyrics arent giving bad vibes.",
+        "created_at": "2022-02-10 16:02:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1491804335310843904,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491803459686854658,
+        "text": "@SoundThird Hmm im more of a fan of lyricless stuff but i will give it a listen",
+        "created_at": "2022-02-10 15:57:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1491803061752242190,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491802226657951748,
+        "text": "@SoundThird Not rlly ime",
+        "created_at": "2022-02-10 15:52:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1491798561595420675,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491581623103537152,
+        "text": "women",
+        "created_at": "2022-02-10 01:15:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491579849340821505,
+        "text": "@paricyte vore",
+        "created_at": "2022-02-10 01:08:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 722205898429505536,
+        "referenced_tweets": {
+            "id": 1491578413672538117,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491556972642119685,
+        "text": "@spybblez NICEE",
+        "created_at": "2022-02-09 23:37:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 827866489889890304,
+        "referenced_tweets": {
+            "id": 1491529885143244800,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491539191485931520,
+        "text": "@LongTaint Ooh wait are you also one of those people who think certain bodily characteristics and identities make you superior/inferior to other people",
+        "created_at": "2022-02-09 22:27:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1406078008750903299,
+        "referenced_tweets": {
+            "id": 1491512897872220160,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491538825964883974,
+        "text": "@lewdginger1 @krystalwolfy That's a manic episode??? fuck",
+        "created_at": "2022-02-09 22:25:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 950706214249402370,
+        "referenced_tweets": {
+            "id": 1491516748146913291,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491538520867061765,
+        "text": "@LongTaint Okay cool hello my pronouns are she/her see you never",
+        "created_at": "2022-02-09 22:24:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1406078008750903299,
+        "referenced_tweets": {
+            "id": 1491513082228744195,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491533213008867331,
+        "text": "@SoundThird uuuHHH that does not sound good",
+        "created_at": "2022-02-09 22:03:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1491531323634294787,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491509634133331971,
+        "text": "my brain really be like /-##$@--_____??=... eat pizza",
+        "created_at": "2022-02-09 20:29:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491487488552153088,
+        "text": "I think I may just start as many media accounts to spread more good will but I'd need help, all I'll ask for now is pique your interest if I follow through",
+        "created_at": "2022-02-09 19:01:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491483723539304450,
+        "text": "wooo hair actually grows I was beginning to get doubtful",
+        "created_at": "2022-02-09 18:46:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491430141918314498,
+        "text": "What's this argument of being trans = hurting myself about? I don't understand, this makes me happier by default.",
+        "created_at": "2022-02-09 15:13:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491417166775984132,
+        "text": "@GoldenBombed I've been happy for longer than I ever have being myself, what harm is there? I do not understand.",
+        "created_at": "2022-02-09 14:22:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482737515203379203,
+        "referenced_tweets": {
+            "id": 1491406393949454336,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491406327075459072,
+        "text": "@GoldenBombed And what do you define as bad behavior? Who is being harmed?",
+        "created_at": "2022-02-09 13:39:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482737515203379203,
+        "referenced_tweets": {
+            "id": 1491385437457629187,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491380719167283201,
+        "text": "Here's your daily dose of intolerant people for the day https://t.co/zwpXFLHUae",
+        "created_at": "2022-02-09 11:57:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491227176699850752,
+        "text": "@SoundThird would but boutta sleep, try installing mobile apps like good pizza great pizza or if you got someone to rp w thats awesomeeee",
+        "created_at": "2022-02-09 01:47:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1491222038983618563,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491223735231082497,
+        "text": "tired ramblings you all are WONDERFUL and I just wish you all the best because wow life can be disproportionately shit and YET YALL HERE like cmon thats just impressive. Would be happy to brighten anyones days I can, anytime.",
+        "created_at": "2022-02-09 01:33:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491220433760571392,
+        "text": "@Fanny_Traggot Forgot all concept of time and decided if I couldn't achieve decent happiness at 20 that was gonna be it",
+        "created_at": "2022-02-09 01:20:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1300067765357871104,
+        "referenced_tweets": {
+            "id": 1491113440429342721,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491142822040600576,
+        "text": "@SarahBurssty Drinking everything with a reusable straw because why not",
+        "created_at": "2022-02-08 20:12:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 796532256915542016,
+        "referenced_tweets": {
+            "id": 1491141060520996865,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491086106367954952,
+        "text": "Me downing 3 cups of coffee to roughly function as a regular person",
+        "created_at": "2022-02-08 16:26:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490785029517201409,
+        "text": "RT @AuntMarvel: IF YOU CARE ABOUT TRANS YOUTH IN UTAH SCHOOLS, PLEASE take some time before 5pm MST today to fill out this survey.\n\nhttps:/\u2026",
+        "created_at": "2022-02-07 20:30:23+00:00",
+        "public_metrics": {
+            "retweet_count": 173,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490755504297025537,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490349927704244226,
+        "text": "Ive finally decided to make bad decisions. You're all welcome.",
+        "created_at": "2022-02-06 15:41:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490336948636073989,
+        "text": "@AngelChipss Oops I mean uh check back in 3 years that's my personal reminder. There is nothing hostile about this just humored curiosity",
+        "created_at": "2022-02-06 14:49:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1413550144814034946,
+        "referenced_tweets": {
+            "id": 1490327223261442050,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490316955160657920,
+        "text": "@trans_vannesa1e epic circle",
+        "created_at": "2022-02-06 13:30:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463684319084523526,
+        "referenced_tweets": {
+            "id": 1490215466886995972,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490316594932862976,
+        "text": "I will follow this one closely... no reason... https://t.co/NMd148x5ai",
+        "created_at": "2022-02-06 13:28:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490316051086823426,
+        "text": "RT @Ranting_Trans: There comes a time in some trans women's lives, when they briefly, but seriously, consider learning sign language and pr\u2026",
+        "created_at": "2022-02-06 13:26:49+00:00",
+        "public_metrics": {
+            "retweet_count": 258,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490225800406200320,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490129203693592579,
+        "text": "perhaps even the gayest thoughts",
+        "created_at": "2022-02-06 01:04:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1472322076262514696,
+        "referenced_tweets": {
+            "id": 1490129033023131653,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490129033023131653,
+        "text": "@Froslady69 gay and more gay",
+        "created_at": "2022-02-06 01:03:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1464744330300641287,
+        "referenced_tweets": {
+            "id": 1490126969639354371,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490122698860675077,
+        "text": "@valeriehalla There are products that fix that problem idk what they called but mines a lil shark and it straightens the wire at the base so it doesnt do that",
+        "created_at": "2022-02-06 00:38:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2806265092,
+        "referenced_tweets": {
+            "id": 1490073101974999040,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490120807942705159,
+        "text": "@AngelChipss Ok nice",
+        "created_at": "2022-02-06 00:31:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1413550144814034946,
+        "referenced_tweets": {
+            "id": 1490119138169147393,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490116095419850753,
+        "text": "@SarahBurssty Yuh I get that! Hoping you pop off on yt and everywhere, more content creators like you need to be out there.",
+        "created_at": "2022-02-06 00:12:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 796532256915542016,
+        "referenced_tweets": {
+            "id": 1490115668401819651,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490114582509203459,
+        "text": "@AngelChipss Problem?????",
+        "created_at": "2022-02-06 00:06:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1413550144814034946,
+        "referenced_tweets": {
+            "id": 1490113980412710914,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490114224147861508,
+        "text": "Aha yes 10 followers. The timeline begins. Though I dont think it speeds it up if you follow faster than my body changes so let's keep a slower pace thanks",
+        "created_at": "2022-02-06 00:04:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490113542250541059,
+        "text": "@AngelChipss Hey look the tinnitus helps avoid an uncannily silent night make it your friend or curb headphones/loud noises while you still can",
+        "created_at": "2022-02-06 00:02:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1413550144814034946,
+        "referenced_tweets": {
+            "id": 1490112940904751111,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490112879273648133,
+        "text": "@revolvoe 16 o'glock",
+        "created_at": "2022-02-05 23:59:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 17,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1401185845990678531,
+        "referenced_tweets": {
+            "id": 1490085858459807745,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490112577250238470,
+        "text": "@AngelChipss if its constant I welcome you to the tinnitus experience",
+        "created_at": "2022-02-05 23:58:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1413550144814034946,
+        "referenced_tweets": {
+            "id": 1490108466354167813,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490112361952382980,
+        "text": "@AngelChipss hmmmmmmmmmmmmmmmmmmmmmmmmmm yep boy",
+        "created_at": "2022-02-05 23:57:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1413550144814034946,
+        "referenced_tweets": {
+            "id": 1490072475945811977,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490111952328269827,
+        "text": "@Froslady69 -and if you need to vent I'll happily lend an ear.",
+        "created_at": "2022-02-05 23:55:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1472322076262514696,
+        "referenced_tweets": {
+            "id": 1490111204492251139,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490111204492251139,
+        "text": "@Froslady69 Call up the caring people at the suicide prevention hotline, killing yourself isn't worth it. Things get better even if it doesn't look like they can.",
+        "created_at": "2022-02-05 23:52:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1464744330300641287,
+        "referenced_tweets": {
+            "id": 1490107132208844801,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490106575331201030,
+        "text": "@SarahBurssty idk ill sub but the thumbnails feel clickbaity (ik its for views and meant to be a norm w/e)",
+        "created_at": "2022-02-05 23:34:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 796532256915542016,
+        "referenced_tweets": {
+            "id": 1490097198217924609,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490106129334034438,
+        "text": "RT @blackcatgirlz: \u201ccan two girls not be friends\u201d no they need to date",
+        "created_at": "2022-02-05 23:32:40+00:00",
+        "public_metrics": {
+            "retweet_count": 4494,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489621673422774275,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1490028449284739076,
+        "text": "Someone recommend me more good teas I want ones that can increase estrogen. So easy to do this bc I can ask for it and everyone thinks I just like the tea.",
+        "created_at": "2022-02-05 18:24:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489999981004079104,
+        "text": "@SoundThird Nice, only other thing I can think of is disabling all images and emojis you can since they'd take kb and mb over time",
+        "created_at": "2022-02-05 16:30:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1489999574475448324,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489998082561478660,
+        "text": "@SoundThird Should be possible to disable apps ftom data usage in the background if you haven't already",
+        "created_at": "2022-02-05 16:23:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1489832604954210308,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489793822884311042,
+        "text": "woooah my skins soft now and I blame the tea. Absolutely intentional results btw",
+        "created_at": "2022-02-05 02:51:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489760484073029634,
+        "text": "@YouTube Reasons to make alternatives to Youtube",
+        "created_at": "2022-02-05 00:39:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 10228272,
+        "referenced_tweets": {
+            "id": 1489729448551272451,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489757265364144130,
+        "text": "RT @meowriza: https://t.co/U8BIE7PyLK",
+        "created_at": "2022-02-05 00:26:25+00:00",
+        "public_metrics": {
+            "retweet_count": 444,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489689387831115777,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489756537811873793,
+        "text": "@FollowOnlyWomen Corgis. I mean cmon just imagine it",
+        "created_at": "2022-02-05 00:23:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482008897435181057,
+        "referenced_tweets": {
+            "id": 1489651326321627140,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489693176894038022,
+        "text": "@aradiati0n The forbidden cheddar",
+        "created_at": "2022-02-04 20:11:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1222377372856602624,
+        "referenced_tweets": {
+            "id": 1489692967388565507,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489691375910236165,
+        "text": "Getting the moments of 'oh yeah anything productive I do right now will be a masterpiece' and then your brain refusing to allow you to do anything productive because it  takes effort. Bravo",
+        "created_at": "2022-02-04 20:04:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489576749340020737,
+        "text": "Can't believe I actually missed the whole thing of Pokemon giving kids real responsibilities instead of the fake shit. Damn https://t.co/WdFTEXA4qJ",
+        "created_at": "2022-02-04 12:29:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489552275752329216,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1489555142689144832,
+        "text": "Whos gonna steal it https://t.co/rFt9JMXfkF",
+        "created_at": "2022-02-04 11:03:15+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1488945096192143368,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1489534037400211459,
+        "text": "Can't PM her so @Froslady69 I wish you well!!!",
+        "created_at": "2022-02-04 09:39:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489411390712553473,
+        "text": "@CatherineDotUK Hmm do you like the taste of tha drink?",
+        "created_at": "2022-02-04 01:32:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1326336775791513601,
+        "referenced_tweets": {
+            "id": 1489228852127846406,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489409664920043520,
+        "text": "@SoundThird RIP",
+        "created_at": "2022-02-04 01:25:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1489376408312889345,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489407231250546701,
+        "text": "@trans_vannesa1e The body grew but the mind only shrunk",
+        "created_at": "2022-02-04 01:15:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463684319084523526,
+        "referenced_tweets": {
+            "id": 1489406734305304577,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489405859662905351,
+        "text": "@trans_vannesa1e Woah certified toddler brother",
+        "created_at": "2022-02-04 01:10:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463684319084523526,
+        "referenced_tweets": {
+            "id": 1489404689842118657,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489361979835928580,
+        "text": "@SoundThird Oo dont pass out",
+        "created_at": "2022-02-03 22:15:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1489359012147642369,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489349624565575687,
+        "text": "New banner",
+        "created_at": "2022-02-03 21:26:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489338065516695554,
+        "text": "RT @scantierrr: @altNOAA https://t.co/MgOJzq8v8C",
+        "created_at": "2022-02-03 20:40:40+00:00",
+        "public_metrics": {
+            "retweet_count": 1367,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489324896509435909,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489337774436139011,
+        "text": "RT @StepUp4Trans: 30/50 states in the United States are currently considering anti-trans legislation. \nPlease RT this to spread the word an\u2026",
+        "created_at": "2022-02-03 20:39:30+00:00",
+        "public_metrics": {
+            "retweet_count": 59,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489330025631526920,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1489264041021239308,
+        "text": "@ItsChloeNow Learnt about hrtea! My only option, but I work with what I have. Plus voice training going well.\nThat's my good news. My predictions on the legislation is it'll turn around in a few decades for pro-trans laws, people are just learning right now.",
+        "created_at": "2022-02-03 15:46:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1050112636522704896,
+        "referenced_tweets": {
+            "id": 1488971271538761729,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489207390138425354,
+        "text": "@trans_vannesa1e Yeah I usually just laugh at it though because I assume it makes them stupid and ignorant",
+        "created_at": "2022-02-03 12:01:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463684319084523526,
+        "referenced_tweets": {
+            "id": 1489205002572910599,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489189670470787079,
+        "text": "Gonna be a great day when hate is bypassed and people in the world choose to help instead of hurt",
+        "created_at": "2022-02-03 10:50:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489188430395412481,
+        "text": "@SoundThird Because of course someone would be named that",
+        "created_at": "2022-02-03 10:46:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1256014842370162688,
+        "referenced_tweets": {
+            "id": 1489109345673621510,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489016380435443713,
+        "text": "Thinking about becoming good at art and then remembering Id keep forgetting lol",
+        "created_at": "2022-02-02 23:22:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489008027491610628,
+        "text": "I have concluded that school is actively hurting my mental health. I really should have concluded this several years ago. Like NO SHIT brain wow what next you want a skirt? Too predictable i swear.",
+        "created_at": "2022-02-02 22:49:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488979935649804298,
+        "text": "@noblehighwayman Why did you feel it was appropriate to ask if you could get someone on the internet pregnant or not",
+        "created_at": "2022-02-02 20:57:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1393341607739461635,
+        "referenced_tweets": {
+            "id": 1488969137145610240,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488666816096477186,
+        "text": "@TsukiStepOnMe Eh, better than a homophobe staying one.",
+        "created_at": "2022-02-02 00:13:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1263835096441925632,
+        "referenced_tweets": {
+            "id": 1488637430399909889,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488662046019403777,
+        "text": "Why are all the cool girls I find depressed so far. Like is the heart of gold heavy or what",
+        "created_at": "2022-02-01 23:54:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488660195207225348,
+        "text": "Thinking of just finding a nice cottage somewhere in canada and just. Living in it. Yea",
+        "created_at": "2022-02-01 23:47:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488638042151825411,
+        "text": "@krystalwolfy \"Even the most cringe people can become based.\"\nPowerful worlds",
+        "created_at": "2022-02-01 22:19:01+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 83,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1202614545266675712,
+        "referenced_tweets": {
+            "id": 1488634197426245632,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488632547441623043,
+        "text": "Wow the future US political climate isn't looking like it'll improve for people like me. What's a nice accepting country I can move to later. I can really go anywhere if my career path works out.",
+        "created_at": "2022-02-01 21:57:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488609270526627844,
+        "text": "Thinking about how if you got sent to pre-enlightenment Europe and how you'd totally revolutionize the world and then remembering you don't know shit and would be effectively useless",
+        "created_at": "2022-02-01 20:24:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488457331394424836,
+        "text": "@beefalo123 Lol ok. Go on im bored. What else am I doing go ahead",
+        "created_at": "2022-02-01 10:20:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 601475372,
+        "referenced_tweets": {
+            "id": 1488352787410743303,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488392418676379650,
+        "text": "haha look at me i am awake at 1am this is not scheduled at all no mam",
+        "created_at": "2022-02-01 06:03:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488305804574924802,
+        "text": "@beefalo123 Casual observation that you have the MOST stereotypical white american vibes I have ever seen on the internet. Wowie",
+        "created_at": "2022-02-01 00:18:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 601475372,
+        "referenced_tweets": {
+            "id": 1488271098156183552,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488305485006753798,
+        "text": "They call the Factorio achievement lazy bastard but this is the most effort I put into factorio so far on my factory. Wtf",
+        "created_at": "2022-02-01 00:17:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488301306636906496,
+        "text": "So... whats the secret. How do people do that thing where they go in a chair with a notebook and a textbook and \"take notes\". I dont need to right now but it sounds important",
+        "created_at": "2022-02-01 00:00:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488274380526292995,
+        "text": "WAIT  ICAN SCEDULE TWEET",
+        "created_at": "2022-01-31 22:13:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488265986767732736,
+        "text": "@trans_vannesa1e One more tally on the \"You might have ADHD\" side it is https://t.co/4JVXzqAHhK",
+        "created_at": "2022-01-31 21:40:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463684319084523526,
+        "referenced_tweets": {
+            "id": 1488265326219632641,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488264985079947268,
+        "text": "@trans_vannesa1e Ya id bet. Does my rant sound a lil like ADHD or not because it's been driving me crazy about what the fucks wrong with me the last however long. I need answers",
+        "created_at": "2022-01-31 21:36:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463684319084523526,
+        "referenced_tweets": {
+            "id": 1488264316361060359,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488263679028207624,
+        "text": "@keffals Even better my computer science class has a huge pride flag up all year. Its amazing",
+        "created_at": "2022-01-31 21:31:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1341914117599350784,
+        "referenced_tweets": {
+            "id": 1488259890787274753,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488247776353959937,
+        "text": "@skeptic_dad Yeah that sounds like religion to me.",
+        "created_at": "2022-01-31 20:28:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 826471609389162497,
+        "referenced_tweets": {
+            "id": 1488244741913264128,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488229203673853954,
+        "text": "@InactiveMormon NO COFFEE?????????????? WHY",
+        "created_at": "2022-01-31 19:14:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1086643188213866496,
+        "referenced_tweets": {
+            "id": 1488226954029375488,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488102521356918786,
+        "text": "@SarahBurssty This is twitter, homeland of shit takes",
+        "created_at": "2022-01-31 10:51:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 796532256915542016,
+        "referenced_tweets": {
+            "id": 1488099965918318592,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488094887388004357,
+        "text": "My \"Gender is dumb and I refuse to acknowledge it\" to \"FUCK\" pipeline",
+        "created_at": "2022-01-31 10:20:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487961622043897857,
+        "text": "@SarahBurssty actually how wtf",
+        "created_at": "2022-01-31 01:31:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 796532256915542016,
+        "referenced_tweets": {
+            "id": 1487961317273006080,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487961057926676481,
+        "text": "@TransSalamander YOOO thats awesome. Jury duty sucks I hear, lucky to get off it! (?) (I dunno sounds cool yet boring to go aye or nay on someones lawsuit)",
+        "created_at": "2022-01-31 01:28:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 28763613,
+        "referenced_tweets": {
+            "id": 1487944553541914631,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487960415296499716,
+        "text": "RT @QuartsClock: \"Her chromosomes?! That's asinine! Her pronouns are she/her. You're not talking to a got-dang petri dish, you're talking t\u2026",
+        "created_at": "2022-01-31 01:26:22+00:00",
+        "public_metrics": {
+            "retweet_count": 1439,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1487951050334261249,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1487956233596424196,
+        "text": "@ItsChloeNow The whole idea is not in being right, but to harm. There will be no logic in their remarks, only thinly veiled hate for what they have been told to fear. Why? I may never know myself.",
+        "created_at": "2022-01-31 01:09:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1050112636522704896,
+        "referenced_tweets": {
+            "id": 1487954777975648256,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487955694968098817,
+        "text": "It's exhausting, and yet I have sat here, doing nothing. I think it's about time I asked for help. The appointment is on March 2nd but I need to act now. I want to, I desire to, but I do not like to and am anxious, so it never happens. I can't live like this.",
+        "created_at": "2022-01-31 01:07:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1472322076262514696,
+        "referenced_tweets": {
+            "id": 1487955482228801542,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487955482228801542,
+        "text": "Has anyone EVER dealt with this. To the point where doing anything that takes longer than a minute or cant be divided into those parts is fucking impossible unless you like it. Where if anything gives you anxiety (read: HW) you never finish it?",
+        "created_at": "2022-01-31 01:06:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1472322076262514696,
+        "referenced_tweets": {
+            "id": 1487955226749509632,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487955226749509632,
+        "text": "I just want to be able to sit down, spend some hours googling programming commissions gigs, and be done with it. I just want to do something that gets me to where I want to be. I'm getting sick of being helpless to my own causes and others causes all the time.",
+        "created_at": "2022-01-31 01:05:45+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1472322076262514696,
+        "referenced_tweets": {
+            "id": 1487954898847158272,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487954898847158272,
+        "text": "I don't want to waste any more of my time playing video games like Factorio, Slime Rancher, watching Youtube videos... Tweeting. On this platform. I try not to, but it's the only motivation that strikes me.",
+        "created_at": "2022-01-31 01:04:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1472322076262514696,
+        "referenced_tweets": {
+            "id": 1487954717397458947,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487954717397458947,
+        "text": "Yknow what if anyones out there yet. How the fuck do I do things that make money now. Regardless of whether or not I'll have a funny doctor tell me I have ADHD or whatever (And I might), how can I overcome this right now.",
+        "created_at": "2022-01-31 01:03:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1487952407812358147,
+        "text": "@trans_vannesa1e Glad it's so! Nice to have things heal up like that.",
+        "created_at": "2022-01-31 00:54:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1463684319084523526,
+        "referenced_tweets": {
+            "id": 1487952238316249090,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1487952106942341125,
+        "text": "Ive been noticing that the hurt people I talk to (Namely trans, gay, more) are most restricted by their parents... kinda shitty considering they're supposed to be the most supportive ones.",
+        "created_at": "2022-01-31 00:53:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]

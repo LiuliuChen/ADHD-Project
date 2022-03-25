@@ -1,0 +1,4547 @@
+[
+    {
+        "tweet_id": 1506478772089987073,
+        "text": "@RhondaStefonsky @AMCTheatres Was it good",
+        "created_at": "2022-03-23 03:51:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3156705831,
+        "referenced_tweets": {
+            "id": 1506407755803938828,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506478541742899205,
+        "text": "@liz_theisen I keep hearing there's gonna be a movie cause there's so much stuff left",
+        "created_at": "2022-03-23 03:50:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1459688817372241923,
+        "referenced_tweets": {
+            "id": 1506476033121259525,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506364100418412554,
+        "text": "@AmeliaPlayzYT I can't wait I hope they add Amy and shadow soon",
+        "created_at": "2022-03-22 20:16:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 864939660975501312,
+        "referenced_tweets": {
+            "id": 1505997298110709760,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1506363929953460229,
+        "text": "RT @JohnCena: Bringing the awesomeness of #Peacemaker across the pond and into YOUR homes. \n\nSee all episodes of @DCpeacemaker on @SkyTV an\u2026",
+        "created_at": "2022-03-22 20:15:22+00:00",
+        "public_metrics": {
+            "retweet_count": 1206,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506215638930497538,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506363880699834376,
+        "text": "RT @ZelinaVegaWWE: \ud83d\udda4\u2764\ufe0f #raw https://t.co/HQouCq9jcG",
+        "created_at": "2022-03-22 20:15:10+00:00",
+        "public_metrics": {
+            "retweet_count": 271,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1506070862629203973,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1506347638475657226,
+        "text": "@JustChrisSabat your vshout page actually doesn't have a personalize option but thanks for personalizing my zoro @vShoutOfficial https://t.co/Icm98Ee92l",
+        "created_at": "2022-03-22 19:10:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 35425166,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506294430780772367,
+        "text": "@BrycePapenbrook is amazing and I love all his work attack on titan will always be one of my all time favorite animes I can't wait for for sword art and demon slayer and thanks for the 8x10 and video look forward to all your next projects @vShoutOfficial https://t.co/AJBkauDyHP",
+        "created_at": "2022-03-22 15:39:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1559844498,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506206295359201286,
+        "text": "i love all the vshouts i got in mail last week hears a video from @ccarrollbeard erza my all time favorite fairytail character sorry @Rialisms lol jk https://t.co/v8dpONqdAQ",
+        "created_at": "2022-03-22 09:48:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1506000576353513473,
+        "text": "RT @TiaToony: Trends change. Your value does not.",
+        "created_at": "2022-03-21 20:11:32+00:00",
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1505975312840110090,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505730161831985155,
+        "text": "@DeneenMelody i want one to be better if it was signed",
+        "created_at": "2022-03-21 02:17:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19327027,
+        "referenced_tweets": {
+            "id": 1505726609596182529,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505705641301753856,
+        "text": "@marchimark @JMichaelTatum its on amazon prime https://t.co/8pxGHZUNBw",
+        "created_at": "2022-03-21 00:39:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 62079677,
+        "referenced_tweets": {
+            "id": 1505421417390788609,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505408048457732097,
+        "text": "RT @AEW: #AndNew!!!!!!!!\n@ThunderRosa22 is your #AEW Women's World Champion after an absolute war against Dr. @realbrittbaker! What an amaz\u2026",
+        "created_at": "2022-03-20 04:57:02+00:00",
+        "public_metrics": {
+            "retweet_count": 2597,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504277194276806666,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1505407602133454849,
+        "text": "@lucilovesmic i think somebody forgot about a certain one piece death i wont say who just incase anybody hasnt seen that part yet but happy bday luci i cant wait to finally watch mha world hero when it  gets dvd release https://t.co/hqH4S6rQbZ",
+        "created_at": "2022-03-20 04:55:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3028393820,
+        "referenced_tweets": {
+            "id": 1505403720464584706,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505400537784766464,
+        "text": "@marchimark didnt you and @JMichaelTatum talk about robert the doll in a episode of ghoul intentions apparently theres a movie and my friends in discord are watching it",
+        "created_at": "2022-03-20 04:27:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 62079677,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1505334795244552192,
+        "text": "@itsmelissawhite faiiry tail probally the only anime ive seen all the way thru dubbed everything else i stared dubbed and finished subbed currently watching one piece dubbed and on 580 https://t.co/m3dB2UMYv9",
+        "created_at": "2022-03-20 00:05:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1380937202914369540,
+        "referenced_tweets": {
+            "id": 1504984526048485376,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505078832239362050,
+        "text": "@marchimark where can i get those cookies and listening to it now",
+        "created_at": "2022-03-19 07:08:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 62079677,
+        "referenced_tweets": {
+            "id": 1504874417150648322,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1505077932271841280,
+        "text": "RT @marchimark: I told you it would be soon! \n\nIntroducing HALFTIME! An in-between regular episodes episode where we answer listener questi\u2026",
+        "created_at": "2022-03-19 07:05:16+00:00",
+        "public_metrics": {
+            "retweet_count": 41,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1504874417150648322,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1504848230449823752,
+        "text": "think there should be an achievement for tiny tinas wonderland where you play with a gear box employee like the first one one more week and still cant decide what class to use @marchimark @GearboxOfficial #tinytinaswonderlands https://t.co/U22EYGVzGK",
+        "created_at": "2022-03-18 15:52:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503756117159161868,
+        "text": "@marchimark yea hopefully cause it be cheaper to get one from you from va store once it opens back up or buy one then mail to you through vshout https://t.co/F9ljtpPiiZ",
+        "created_at": "2022-03-15 15:32:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 62079677,
+        "referenced_tweets": {
+            "id": 1503724621413163012,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503677831787823107,
+        "text": "@marchimark I need a mt lady pop to go with my signed 8x10 but she's one of the harder ones to find I think https://t.co/TyK4RFddwY",
+        "created_at": "2022-03-15 10:21:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 62079677,
+        "referenced_tweets": {
+            "id": 1502325931003854855,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503497882648948744,
+        "text": "RT @JohnCena: For any sort of change to happen, it must be genuinely believed that the change is feasible.",
+        "created_at": "2022-03-14 22:26:43+00:00",
+        "public_metrics": {
+            "retweet_count": 5572,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503309919482789888,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503497858477133831,
+        "text": "Think I made some progress got from 538 to 552 today before work If I keep it up I'll be at episode 600 before the weekend @JustChrisSabat @ccarrollbeard @ericvale @lucilovesmic @sonnystrait https://t.co/mbYDkVG7Jv",
+        "created_at": "2022-03-14 22:26:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1503488247711866883,
+        "text": "RT @SBNeoSailorMars: Always post this once a year to remind myself that one thing I learned from Mirajane is, it\u2019s okay to break down and c\u2026",
+        "created_at": "2022-03-14 21:48:26+00:00",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1503482318245318656,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503387559497449474,
+        "text": "@Rialisms nice i just redownloaded instagram",
+        "created_at": "2022-03-14 15:08:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 565242027,
+        "referenced_tweets": {
+            "id": 1503386740991709186,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503250039782744066,
+        "text": "RT @KyleColby: He\u2019s a hero. On the Reg. #madeinabyss #toonami @lucilovesmic @BrittanyLaudaVO https://t.co/j9drhzV1s2",
+        "created_at": "2022-03-14 06:01:53+00:00",
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502903990400471045,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1503249896123645954,
+        "text": "@SBNeoSailorMars @lucilovesmic @BaugusBryson wait theres a anime now i never did finish the games but they were fun",
+        "created_at": "2022-03-14 06:01:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2556883640,
+        "referenced_tweets": {
+            "id": 1502875945585319938,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1503244455163441152,
+        "text": "@Dianasaura__ are you live",
+        "created_at": "2022-03-14 05:39:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 999010890623025152,
+        "referenced_tweets": {
+            "id": 1503243835228377092,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502880144456916992,
+        "text": "@missnotyou @JustChrisSabat @Yuuto_kun23 are they ever gonna make more episodes i watched this on toonami",
+        "created_at": "2022-03-13 05:32:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 93567064,
+        "referenced_tweets": {
+            "id": 1502704460862214150,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502874038858829830,
+        "text": "RT @Kamille_brick: 2 girls, 1 giant. https://t.co/nu4a08MOWY",
+        "created_at": "2022-03-13 05:07:47+00:00",
+        "public_metrics": {
+            "retweet_count": 85,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502794149602463751,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502797038534156292,
+        "text": "RT @RealPaigeWWE: Ayy that\u2019s awesome, very well done. Included my butt chin too. Nice!",
+        "created_at": "2022-03-13 00:01:49+00:00",
+        "public_metrics": {
+            "retweet_count": 173,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1502692450120310787,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1502789171760574472,
+        "text": "@amandawinnlee With gas prices so high more people probally have nothing better to do then stay at home and troll sorry you guys all gotta deal with trolls",
+        "created_at": "2022-03-12 23:30:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1129129729,
+        "referenced_tweets": {
+            "id": 1502711335498383360,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502774725780647940,
+        "text": "@AbbyTrott is there anywhere I can buy a nezuko autograph for a friend of mine https://t.co/KSugkHXqyE",
+        "created_at": "2022-03-12 22:33:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 29168154,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502752696528478218,
+        "text": "@Bellchrissy1 @YaOnlyLivvOnce Already did in my gm on my 2k22",
+        "created_at": "2022-03-12 21:05:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1225095785114755073,
+        "referenced_tweets": {
+            "id": 1501041578051309568,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502554326069358595,
+        "text": "@Ronald_Toye_III i love it you and monica have a cute cat hows bruce doing",
+        "created_at": "2022-03-12 07:57:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": {
+            "id": 1502551979142397957,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502553589033676800,
+        "text": "@JustChrisSabat @vShoutOfficial im gonna save kuwabara and yami for if your ever at a nearby convention",
+        "created_at": "2022-03-12 07:54:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1466596239521288195,
+        "referenced_tweets": {
+            "id": 1502553131321864193,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502553131321864193,
+        "text": "@JustChrisSabat says i should be receiving your vshouts from @vShoutOfficial wed i cant wait to see the videos cause i bet you had fun with it like all the other videos ive seen\nhttps://t.co/gpepa3bC8o",
+        "created_at": "2022-03-12 07:52:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 35425166,
+        "referenced_tweets": {
+            "id": 1498794735095492619,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502551664896753664,
+        "text": "@Ronald_Toye_III thats awesome",
+        "created_at": "2022-03-12 07:46:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": {
+            "id": 1502547011207409666,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502526343795331076,
+        "text": "@Ronald_Toye_III @Rialisms @DBSuperDope1 I'm finishing it now since I'm at home my friend kind of on the other side and I'm like well everybody titled to their own opinion and dropped it but I agree with @DBSuperDope1 more my hero characters need time to shine and hopefully this last arc in the manga does that",
+        "created_at": "2022-03-12 06:06:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1466596239521288195,
+        "referenced_tweets": {
+            "id": 1502364656039514120,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502487645426962436,
+        "text": "@EndoSurvivor282 @liz_theisen Your fine",
+        "created_at": "2022-03-12 03:32:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1347443399385747456,
+        "referenced_tweets": {
+            "id": 1502486630371770371,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502484104562020352,
+        "text": "Finally done installing so if you follow me in going live starting with my gm mode @EndoSurvivor282 @liz_theisen",
+        "created_at": "2022-03-12 03:18:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502440417157165059,
+        "text": "@EndoSurvivor282 @liz_theisen",
+        "created_at": "2022-03-12 00:24:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1466596239521288195,
+        "referenced_tweets": {
+            "id": 1502440068660793348,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502440068660793348,
+        "text": "Which gm should I pick in my gm stuck between these two @SonyaDevilleWWE @StephMcMahon and I'll be streaming 2k22 on my twitch later",
+        "created_at": "2022-03-12 00:23:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502426540059111426,
+        "text": "How you gonna have trish stratus and have Lita missing from the game",
+        "created_at": "2022-03-11 23:29:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502421468860329990,
+        "text": "@RealPaigeWWE @ZelinaVegaWWE @DoudropWWE @BellaTwins @WWEgames Right I can't belive I just caved and bought it no @gigidolin_wwe or @jacyjaynewwe I'd love to do toxic attraction in my faction but have you @RealPaigeWWE as the faction leader https://t.co/NbGRXkJX6d",
+        "created_at": "2022-03-11 23:09:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 221573745,
+        "referenced_tweets": {
+            "id": 1498450122140622849,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502419928854507522,
+        "text": "@WWEgames @2K",
+        "created_at": "2022-03-11 23:03:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1466596239521288195,
+        "referenced_tweets": {
+            "id": 1502419708859109382,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502419708859109382,
+        "text": "@WWE how tf you not gonna put @gigidolin_wwe and @jacyjaynewwe in wwe 2k22 how am I supposed to use toxic attraction in my faction now https://t.co/9XortgWcAz",
+        "created_at": "2022-03-11 23:02:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 7517222,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502383026109620226,
+        "text": "@Ronald_Toye_III @Rialisms https://t.co/CpeMJJVJP4 if you have amazon prime video its free to watch",
+        "created_at": "2022-03-11 20:36:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": {
+            "id": 1502382357629833223,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502370651298045953,
+        "text": "@liz_theisen You get a 8x10 and video think bryce(eren is closed atm) but the guy who plays reiner on there and few others I might get reiner and ymir but gotta watch my money https://t.co/AYtSDgKC00",
+        "created_at": "2022-03-11 19:47:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1459688817372241923,
+        "referenced_tweets": {
+            "id": 1502364528767483906,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502370149512404995,
+        "text": "@liz_theisen https://t.co/2BeWnpPOUd",
+        "created_at": "2022-03-11 19:45:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1459688817372241923,
+        "referenced_tweets": {
+            "id": 1502364528767483906,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502364656039514120,
+        "text": "@Ronald_Toye_III @Rialisms @DBSuperDope1 I was listening to it till my friend made me turn it off so I'll finish it later",
+        "created_at": "2022-03-11 19:23:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": {
+            "id": 1502058623266136068,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502363016314114053,
+        "text": "@liz_theisen I sorta know what happens but I won't say anything sis I can't wait to see it all play out cause I have coworker that's read the manga and I seen the ending on fb so I had him tell me about it I got Bryce and Trina autograph on the way",
+        "created_at": "2022-03-11 19:17:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1459688817372241923,
+        "referenced_tweets": {
+            "id": 1501774731510304770,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502362276774531073,
+        "text": "@Ronald_Toye_III hopefully this don't get taken put of contacts if you've seen the movie you'll know what I'm talking about cause Daniel Radcliff character trolls somebody and they track his ip its a really good movie if you @Rialisms get time",
+        "created_at": "2022-03-11 19:14:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1466596239521288195,
+        "referenced_tweets": {
+            "id": 1502200275578327043,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502323816915247106,
+        "text": "@Rialisms @DBSuperDope1 I'll have to check this out later for sure",
+        "created_at": "2022-03-11 16:41:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 565242027,
+        "referenced_tweets": {
+            "id": 1502056635744849922,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1502323063551053824,
+        "text": "Can't wait for next week my @vShoutOfficial from @JustChrisSabat @ccarrollbeard @BrycePapenbrook  are on the way to me and my vshout from @TrinaNishimura was a suprise so now my armin from @JoshGrelle will be happy to be reunited with his friends https://t.co/bxAu9skUIS",
+        "created_at": "2022-03-11 16:38:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1502200275578327043,
+        "text": "I think this movie a perfect example of why you shouldn't troll just saying  @marchimark @Rialisms @Ronald_Toye_III just watched guns akimbo for 5th time https://t.co/tIk8P2zmGy",
+        "created_at": "2022-03-11 08:30:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501692951612862465,
+        "text": "Why does 2 of my most anticipated games of the year gotta come out on the same day luckily I get early acess to ghostwire tokyo so maybe I'll take the week off and have it beat before tiny Tina's wonderland @marchimark @GearboxOfficial @bethesda https://t.co/cNw008tY9s",
+        "created_at": "2022-03-09 22:54:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1501233304703430656,
+        "text": "RT @Bellchrissy1: Liv is going to Wrestlemania watch her  win her first title !! @YaOnlyLivvOnce #LivMorgan #WrestleMania #WWERaw #wwe http\u2026",
+        "created_at": "2022-03-08 16:28:06+00:00",
+        "public_metrics": {
+            "retweet_count": 42,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1501041578051309568,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1501070523832233987,
+        "text": "RT @spltn83: @hwinkler4real thank you the @vShoutOfficial and signing my Ghost Face funko! #scream  It\u2019s a Scream!! I appreciate it so much\u2026",
+        "created_at": "2022-03-08 05:41:16+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500920864300146688,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500943979302596610,
+        "text": "RT @AniTrendz: \"Date A Live\" Season 4 - New Visual!\n\nThe anime is scheduled for April 8.\n\nAnimation Studio: GEEKTOYS https://t.co/f8AJxPDJSr",
+        "created_at": "2022-03-07 21:18:25+00:00",
+        "public_metrics": {
+            "retweet_count": 606,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500770865704685568,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500933745750290434,
+        "text": "RT @DeadByBHVR: Don't poke the dragon. \ud83d\udc09 Whose lore is it? https://t.co/AmrJmqFGGs",
+        "created_at": "2022-03-07 20:37:45+00:00",
+        "public_metrics": {
+            "retweet_count": 119,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500894106008051712,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500918673581789187,
+        "text": "RT @ZelinaVegaWWE: I\u2019m following my loyal subjects randomly because I\u2019m in a good mood. Tell me your favorite Demon Slayer character and wh\u2026",
+        "created_at": "2022-03-07 19:37:52+00:00",
+        "public_metrics": {
+            "retweet_count": 42,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500590012093640705,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500918590463266822,
+        "text": "@ZelinaVegaWWE I love rengoku cause how many people normally die with a smile on their face after going all out in a fight but my favorite character is actually inosuke cause @BrycePapenbrook one of my all time favorite voice actors tanjiro a close second https://t.co/ejtru0qGRJ",
+        "created_at": "2022-03-07 19:37:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 186718723,
+        "referenced_tweets": {
+            "id": 1500590012093640705,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500781151971119104,
+        "text": "@lucilovesmic Looks like you had fun I'm jealous of everybody that got to meet you probally gonna binge some one piece here soon",
+        "created_at": "2022-03-07 10:31:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3028393820,
+        "referenced_tweets": {
+            "id": 1500649853273137155,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500745907935105029,
+        "text": "RT @DemonSlayerUSA: Sumiko, Zenko, and Inoko reporting to work! \ud83c\udf80\n\nA new English dub episode of Demon Slayer: Kimetsu no Yaiba Entertainmen\u2026",
+        "created_at": "2022-03-07 08:11:21+00:00",
+        "public_metrics": {
+            "retweet_count": 329,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1500108879648202759,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500745711897518081,
+        "text": "@JustChrisSabat @AnimeVerseFest Hope you had fun and look forward to zobie sending me my vshouts  all 3 of them was tempted to get a 4th and ask for yami cause he's my favorite I bought that zoro after you told me I knew what needed done https://t.co/8q7dgUGQEm",
+        "created_at": "2022-03-07 08:10:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 35425166,
+        "referenced_tweets": {
+            "id": 1499914048644820992,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500569871511429121,
+        "text": "Spoiled again by my best friend she bought me a lego batmobile the movie so good one of these days I'll actually own the car hopefully 1946 mercury convertable with 400 hp @Ronald_Toye_III @Rialisms @marchimark @JayMewes https://t.co/nZhfzJyd6u",
+        "created_at": "2022-03-06 20:31:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1500352809862111240,
+        "text": "@Bellchrissy1 Congrats hun",
+        "created_at": "2022-03-06 06:09:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1225095785114755073,
+        "referenced_tweets": {
+            "id": 1500159791976624128,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500352505733169153,
+        "text": "@ccarrollbeard @MikeMcFarlandVA I love one piece just cause I grew up loving pirates and always wanted to be one i really need to buckle down and watch more of it I can't wait for my luffy and erza after @vShoutOfficial edits the videos and sends them https://t.co/2cM0QTmF2M",
+        "created_at": "2022-03-06 06:08:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 50219664,
+        "referenced_tweets": {
+            "id": 1500316508127477764,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500350784621395973,
+        "text": "@lexywolze Omg I love black clover I'm reading the manga while I wait for more episodes",
+        "created_at": "2022-03-06 06:01:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 159626736,
+        "referenced_tweets": {
+            "id": 1500152281353764865,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1500022906264469508,
+        "text": "RT @AniTrendz: \"Uzaki-chan Wants to Hang Out!\" Season 2 - Update Visual!\n\nThe anime is scheduled for 2022.\n\nAnimation Studio: ENGI https://\u2026",
+        "created_at": "2022-03-05 08:18:24+00:00",
+        "public_metrics": {
+            "retweet_count": 477,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499678040678273026,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1500022863256076292,
+        "text": "RT @Funimation: Who doesn't love a good wholesome anime about a girl and her new dinosaur roommate? \ud83e\udd95\n\nAll 12 episodes of Gal &amp; Dino make t\u2026",
+        "created_at": "2022-03-05 08:18:14+00:00",
+        "public_metrics": {
+            "retweet_count": 101,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1499807040084000768,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1499661967988080641,
+        "text": "So my friend messages me outta the blue and asks me this @marchimark @jadbsaxton @JoshGrelle so what should I have told him https://t.co/7cEwpzFY5S",
+        "created_at": "2022-03-04 08:24:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1499092608093667334,
+        "text": "@ccarrollbeard I really need to catch up on Dr stone and one piece and I need to find seasons 3 and 4 of haikyuu dubbed my friends got me so hooked on it I normally don't do sports https://t.co/Ci5G8VjhnO",
+        "created_at": "2022-03-02 18:41:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 50219664,
+        "referenced_tweets": {
+            "id": 1498671916059709454,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498724864320016391,
+        "text": "@Madusa_rocks @WWEgames Wasn't buying the game anyway and now I know it don't have you @RealPaigeWWE @ZelinaVegaWWE now I have all the more reason not to",
+        "created_at": "2022-03-01 18:20:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 205905986,
+        "referenced_tweets": {
+            "id": 1498468729688047618,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1498522875279642625,
+        "text": "Lady's and gentleman it finally happend went into the bathroom and all you hear is me screaming that John Cena followed me just finished peacemaker can't wait for season 2 @EndoSurvivor282 @liz_theisen @RhondaStefonsky https://t.co/y1nywP4m0L",
+        "created_at": "2022-03-01 04:57:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498464282324967430,
+        "text": "RT @screenrant: Beetlejuice\u00a02 is reportedly being produced by Brad Pitt's production company, Plan B Entertainment, with Michael Keaton and\u2026",
+        "created_at": "2022-03-01 01:04:59+00:00",
+        "public_metrics": {
+            "retweet_count": 1732,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498439181617532936,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498354293103022088,
+        "text": "https://t.co/jKFOey41Pd thought this was funny and wanted to share @EndoSurvivor282 @liz_theisen",
+        "created_at": "2022-02-28 17:47:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1498308135492235270,
+        "text": "RT @JohnCena: Have the patience to understand that most all of us our simply trying to find our place and purpose in a very complex world.",
+        "created_at": "2022-02-28 14:44:31+00:00",
+        "public_metrics": {
+            "retweet_count": 7616,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1498255854784684032,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498023455433781248,
+        "text": "RT @JohnCena: Sometimes the most productive choice is to rest. Disconnect. Take time off.",
+        "created_at": "2022-02-27 19:53:18+00:00",
+        "public_metrics": {
+            "retweet_count": 11856,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497547735616172033,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1498023417907396608,
+        "text": "RT @JohnCena: Those mornings that begin with continuous problems, stop. Take 5 minutes and reflect on the good in life. It might not solve\u2026",
+        "created_at": "2022-02-27 19:53:09+00:00",
+        "public_metrics": {
+            "retweet_count": 6175,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497916856048525315,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497591610724564996,
+        "text": "@TomHolland1996 @nolan_north dragged a friend of mine to watch the new uncharted movie cause it's my all time favorite playstation exclusive and it was so good and she enjoyed it also first time going to a amc theater 50 minutes from where I live and was worth the extra money https://t.co/d6xDDLQjYa",
+        "created_at": "2022-02-26 15:17:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 624056226,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497490457378627584,
+        "text": "RT @JohnCena: Love what you do, just make sure what you do isn\u2019t all you love.",
+        "created_at": "2022-02-26 08:35:21+00:00",
+        "public_metrics": {
+            "retweet_count": 8993,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1497154027418759171,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1497161049069346816,
+        "text": "@Ronald_Toye_III @Rialisms @marchimark @JustChrisSabat @CheramiLeigh @lucilovesmic @ccarrollbeard @JMichaelTatum @SeanSchemmel @DeneenMelody @BrycePapenbrook @JessicaCalvello  any replies I can get would really make my day so much better",
+        "created_at": "2022-02-25 10:46:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1466596239521288195,
+        "referenced_tweets": {
+            "id": 1497159831567937544,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1497159831567937544,
+        "text": "It's been such a shitty night why couldnt I have paid more attention in school so I could be in texas working as a animator or voice actor for @Funimation instead of working on a assembly line tired of being treated like crap all the time time to watch some anime when I get home https://t.co/gCmGHOmm9q",
+        "created_at": "2022-02-25 10:41:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1497079379976933388,
+        "text": "@marchimark @JMichaelTatum @CarissaHolohan Wish I could go https://t.co/NYfGg4oiqW",
+        "created_at": "2022-02-25 05:21:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 62079677,
+        "referenced_tweets": {
+            "id": 1496877274808737800,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496995388271869952,
+        "text": "RT @EndoSurvivor282: #NeroTNC is streaming on @Twitch! Pro-Wrestler turned Variety Streamer #LIVE @ https://t.co/WDVvwTBsGw ~ Follow @Nero1\u2026",
+        "created_at": "2022-02-24 23:48:08+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496885620987219968,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496995320940703750,
+        "text": "@lucilovesmic @LVLUPEXPO A hug sounds really good right now wish I could come get one",
+        "created_at": "2022-02-24 23:47:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3028393820,
+        "referenced_tweets": {
+            "id": 1496847593493647363,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496987898675367938,
+        "text": "RT @missbricosplay: Uzui\u2019s Wives: Makio, Suma, and Hinatsuru \ud83d\udc9b\ud83d\udc99\ud83d\udc9c cosplayed by me :0) Which is your favorite? https://t.co/NSQcBeoIHd",
+        "created_at": "2022-02-24 23:18:22+00:00",
+        "public_metrics": {
+            "retweet_count": 570,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496900420538540067,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496987398646943746,
+        "text": "RT @liz_theisen: Just want everyone happy and successful. Wishing on someone's downfall even if you don't like them or they don't like you\u2026",
+        "created_at": "2022-02-24 23:16:23+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496890874021642245,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496983958533324806,
+        "text": "Got my luffy and zoro preorders in from @vShoutOfficial since orders for chris close tomorowand reedemed points which was really nice hope @JustChrisSabat and @ccarrollbeard enjoy my notes I left https://t.co/ubIlYSHsuv",
+        "created_at": "2022-02-24 23:02:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496980602695860224,
+        "text": "@Ronald_Toye_III @amandawinnlee @notcolterross This is why I avoid politics in general but just recently found out trump the reason my tax return like 500 so wasn't to happy when I found that out",
+        "created_at": "2022-02-24 22:49:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": {
+            "id": 1496978347632783362,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496979092792647682,
+        "text": "When you lose but still get play of the game gotta make reiner proud https://t.co/sVwVpvzJ03",
+        "created_at": "2022-02-24 22:43:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496928839817056288,
+        "text": "RT @JohnCena: Learning about and eventually becoming #PEACEMAKER was an exercise in exploring the fun and absolutely genius mind of @JamesG\u2026",
+        "created_at": "2022-02-24 19:23:41+00:00",
+        "public_metrics": {
+            "retweet_count": 4548,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494020154535067650,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496928755054682112,
+        "text": "RT @JohnCena: If you can\u2019t handle the Peace then get out \u2026 the old self reflection tools and a good therapist and dig deep within your soul\u2026",
+        "created_at": "2022-02-24 19:23:21+00:00",
+        "public_metrics": {
+            "retweet_count": 3618,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494621887602827273,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496928571234865157,
+        "text": "RT @JohnCena: If I could somehow summon the powers of a real life #Peacemaker I think this would be a great time to do so.",
+        "created_at": "2022-02-24 19:22:37+00:00",
+        "public_metrics": {
+            "retweet_count": 7200,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496804055171092485,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496824803264708608,
+        "text": "RT @marchimark: Well, since I'll be quarantining all weekend, how about that podcast episode? @Rialisms and I are proud to present:\n\"In Tou\u2026",
+        "created_at": "2022-02-24 12:30:17+00:00",
+        "public_metrics": {
+            "retweet_count": 135,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489851452457639936,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496824637484937216,
+        "text": "RT @Dianasaura__: #PS4share\n\nhttps://t.co/tplgimdcW6 https://t.co/jGfbVOxNv0",
+        "created_at": "2022-02-24 12:29:37+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496810210496684033,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496822540018360323,
+        "text": "RT @vShoutOfficial: Hey #cobrakai fans! We have your covered on #vshout! Mail in your own personal item to be signed or choose a print we h\u2026",
+        "created_at": "2022-02-24 12:21:17+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1491920169295360000,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496822502768713732,
+        "text": "RT @atsuyaito: OMG!\nI'm happy to receive a great video message from you on \nValentine's Day!\u2764\ufe0f\nand\nI'm looking forward to receiving your be\u2026",
+        "created_at": "2022-02-24 12:21:08+00:00",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493394543286259714,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496794515730010118,
+        "text": "RT @liz_theisen: The world can wait. Your mental health is more important. Go ghost mode for 24 hours or however long you need, nap as much\u2026",
+        "created_at": "2022-02-24 10:29:56+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496363681331953667,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496764123983581193,
+        "text": "RT @JohnCena: BEWARE: NSFW UNLESS your job is to keep the \u270c\ufe0fat any cost. #Peacemaker",
+        "created_at": "2022-02-24 08:29:10+00:00",
+        "public_metrics": {
+            "retweet_count": 1332,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494842799149228034,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496764083768639492,
+        "text": "RT @JohnCena: Work hard to live by the values you define",
+        "created_at": "2022-02-24 08:29:00+00:00",
+        "public_metrics": {
+            "retweet_count": 7242,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495365774990458880,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496763989908496388,
+        "text": "RT @JohnCena: So happy 4 U both! When needed I can get U an incredible justice of the PEACE! I know a guy, that you also know, who isn\u2019t re\u2026",
+        "created_at": "2022-02-24 08:28:38+00:00",
+        "public_metrics": {
+            "retweet_count": 1357,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495540741652852744,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496763970522423297,
+        "text": "RT @JohnCena: Do not let this terrific twos-day tip-toe or tumble past you. Make it a day to provide peace to the people in your periphery\u2026",
+        "created_at": "2022-02-24 08:28:33+00:00",
+        "public_metrics": {
+            "retweet_count": 2690,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496107567965163525,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496763953438883841,
+        "text": "RT @JohnCena: So\u2026 what did @nicolebyer say to make me ponder this question? Is there a place for \u270c\ufe0f on the @WIPEOUT course? Find out tonigh\u2026",
+        "created_at": "2022-02-24 08:28:29+00:00",
+        "public_metrics": {
+            "retweet_count": 1206,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496260298742841344,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496763928105259012,
+        "text": "RT @JohnCena: A new episode is on now!!! #WipeoutTBS",
+        "created_at": "2022-02-24 08:28:23+00:00",
+        "public_metrics": {
+            "retweet_count": 896,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496304776690155528,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496629064588791819,
+        "text": "RT @JohnCena: Care less for what others say about you. Care more for what your actions say about you.",
+        "created_at": "2022-02-23 23:32:29+00:00",
+        "public_metrics": {
+            "retweet_count": 9495,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1496520768942919680,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496628936075264006,
+        "text": "RT @JohnCena: Respect all those who question your judgment, choices, actions, and existence. It allows you to honestly reflect on who you a\u2026",
+        "created_at": "2022-02-23 23:31:59+00:00",
+        "public_metrics": {
+            "retweet_count": 6538,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1495759659684319245,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1496628654905958405,
+        "text": "@JohnCena @nicolebyer @Wipeout @TBSNetwork @DCpeacemaker Judomaster https://t.co/EXkYA4FKXS",
+        "created_at": "2022-02-23 23:30:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 141664648,
+        "referenced_tweets": {
+            "id": 1496260298742841344,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496628228542373888,
+        "text": "@JohnCena ready for the weekend so I can go to my best friends and watch the last two episodes of peacemaker and watch vigilante f things up even more so peacemaker has to fix it one of best dc comic shows hands down much love my friend https://t.co/Duz7eS6rhr",
+        "created_at": "2022-02-23 23:29:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 141664648,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496134963208540175,
+        "text": "@DeneenMelody I can't wait for Mando season 3 after book of Boba fett now",
+        "created_at": "2022-02-22 14:49:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19327027,
+        "referenced_tweets": {
+            "id": 1495856080572002304,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496134789073678350,
+        "text": "@DeneenMelody So do i wish I could make him come alive like in ted https://t.co/TWHiWmMwCW",
+        "created_at": "2022-02-22 14:48:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19327027,
+        "referenced_tweets": {
+            "id": 1495856080572002304,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1496033473093685248,
+        "text": "My nights been made thanks so much @airzach @BrycePapenbrook @AbbyTrott @AleksLeVO I get to watch episode 1 of entertainment district arc dubbed on my unplanned night off https://t.co/T5cRF1aWhe",
+        "created_at": "2022-02-22 08:05:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1496009814333616128,
+        "text": "So I guess i have till March 5-6 to decide if I want that luffy to go with my erza looking at the status for @vShoutOfficial and says @ccarrollbeard will be doing the signings there https://t.co/1iu7D5WOon",
+        "created_at": "2022-02-22 06:31:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495870769187934209,
+        "text": "@DeneenMelody",
+        "created_at": "2022-02-21 21:19:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1466596239521288195,
+        "referenced_tweets": {
+            "id": 1495869927839997956,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1495869927839997956,
+        "text": "Went to my best friends and the kids got Encanto on and i havnt seen it so I'm sitting here trying to watch the movie while they try and steal my gummybears @ccarrollbeard @marchimark @Rialisms @JMichaelTatum @Ronald_Toye_III https://t.co/gF0iPfhqEg",
+        "created_at": "2022-02-21 21:15:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495651756667199497,
+        "text": "@JMichaelTatum  Guess I'm gonna have to buy a tenya sebastion and erwin print after I move to go with all my @marchimark and @Rialisms stuff from voice actor store I think we need need more black butler https://t.co/lUVyF8a5Nw",
+        "created_at": "2022-02-21 06:49:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1100191130,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495438415856349185,
+        "text": "@SSGoshin4 @YouTube Oh no did it get delayed \ud83d\udc94\ud83d\udc94\ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2022-02-20 16:41:16+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 49251831,
+        "referenced_tweets": {
+            "id": 1495259812837433357,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494639169599115267,
+        "text": "So I did a thing and changed my Activision name I got tired of looking at my old one lol so ready for it to be april already @Ronald_Toye_III @Rialisms @JustChrisSabat @SeanSchemmel https://t.co/OWIv3BkR48",
+        "created_at": "2022-02-18 11:45:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494629850140786691,
+        "text": "Wish @BandaiNamcoUS would make a new dragon ball game like kakarot but it has battle of gods resurrection f goku black and tournament of power and broly then add Moro and granola as dlc",
+        "created_at": "2022-02-18 11:08:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494629185637306370,
+        "text": "Think I'm gonna keep my twitch so I can support my streamer friends but streaming wise think I'm gonna start posting content to YouTube now what to stream oh wait horizon zero dawn forbidden west came out today",
+        "created_at": "2022-02-18 11:05:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494270107815657472,
+        "text": "RT @Chuck_Huber: https://t.co/L3dJHPvZ7i",
+        "created_at": "2022-02-17 11:18:50+00:00",
+        "public_metrics": {
+            "retweet_count": 16,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1494142205216370689,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1494180265673072644,
+        "text": "@marchimark @PlayWonderlands I'm so ready for this game to come out https://t.co/q0iGoHLc0y",
+        "created_at": "2022-02-17 05:21:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 62079677,
+        "referenced_tweets": {
+            "id": 1494125143035191299,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494139463471185922,
+        "text": "@JMichaelTatum guessing you must really like lion king cause I hear you go no king no king falala in a episode of ghost intentions lol its on of my all time favorites to @marchimark @ghoulintent https://t.co/MFbr7W6FEh",
+        "created_at": "2022-02-17 02:39:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1100191130,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1494074096681996288,
+        "text": "@catlyncrespo Could you teach me how to play",
+        "created_at": "2022-02-16 22:19:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1908978840,
+        "referenced_tweets": {
+            "id": 1493750786609844224,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494001101997289480,
+        "text": "@R2Des2 This is really sad Ghostbusters is one of my all time favorite movies",
+        "created_at": "2022-02-16 17:29:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 240101170,
+        "referenced_tweets": {
+            "id": 1493067796649021440,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1494000960301146115,
+        "text": "RT @R2Des2: Aaaand I\u2019m crying. \nRest In Peace, Mr. Reitman. Thank you for the greatest movie ever that forever changed my life for the bett\u2026",
+        "created_at": "2022-02-16 17:29:20+00:00",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493067796649021440,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493998326253039616,
+        "text": "Bulma and android 18 arrived safe and sound can't get bulma to hold her pewpew though @Rialisms @Ronald_Toye_III https://t.co/rBBYgTW9jO",
+        "created_at": "2022-02-16 17:18:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493904999537119237,
+        "text": "After the podcast I did look up burst angel watched 5 minutes then my adhd kicked in and decided I need to finish watching the Witcher @marchimark @Rialisms I got way To much I need to watch and finish watching https://t.co/WkFKrpnpDK",
+        "created_at": "2022-02-16 11:08:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493901744622944256,
+        "text": "@TheJohnDiMaggio You've been a huge part of my childhood from Futurama to gears of war franchise adventure time and so many others and I 100% agree I feel like sometime Hollywood wants to just get that quick cash grab I'm suprised it's hulu and not netflix always know your worth https://t.co/JZeT6pKgNn",
+        "created_at": "2022-02-16 10:55:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 320463544,
+        "referenced_tweets": {
+            "id": 1493769815353225217,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493898563985842176,
+        "text": "RT @TheJohnDiMaggio: Update: #bendergate https://t.co/tBG7d9hQ3R",
+        "created_at": "2022-02-16 10:42:27+00:00",
+        "public_metrics": {
+            "retweet_count": 6772,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1493769815353225217,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493894844405669890,
+        "text": "Listening to @ghoulintent the last 2 1/2 hours of work really interesting and fun to listen to especially when @marchimark or @JMichaelTatum say the f word both down to earth amazing voice actors",
+        "created_at": "2022-02-16 10:27:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493725889493880833,
+        "text": "@Rialisms So will it be like once a week with you and @marchimark or how often will they come out I'm not familiar with podcasts so yours is first I actually listened to",
+        "created_at": "2022-02-15 23:16:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 565242027,
+        "referenced_tweets": {
+            "id": 1489962932419149826,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493725393840447491,
+        "text": "@Rialisms @TrinaNishimura Wish I could be there so I can meet you finally and meet Trina mikasa my favorite attack on titan character besides levi of course https://t.co/PgKwuEbm0V",
+        "created_at": "2022-02-15 23:14:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 565242027,
+        "referenced_tweets": {
+            "id": 1489970349869617158,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1493724662278373382,
+        "text": "RT @Rialisms: Awww! \ud83d\ude0d Miss you @DomSkyeRN \u2764\ufe0f",
+        "created_at": "2022-02-15 23:11:26+00:00",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490451019561672708,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1493707574734172167,
+        "text": "Well it's not borderlands but I think it's still a fun game while i wait for tiny Tina's wonderland https://t.co/0bstOKUhX8",
+        "created_at": "2022-02-15 22:03:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1493534133045403649,
+        "text": "Finally Annie back she's one of my favorite characters https://t.co/tW0dwMNqah",
+        "created_at": "2022-02-15 10:34:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492893155582173188,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1492772194031656961,
+        "text": "Watching episode 1 of season 2 dubbed but still waiting on entertainment district to start getting dubbed when can we expect a release date @airzach @AbbyTrott  @AleksLeVO  i know @BrycePapenbrook probally really busy with attack on titan final episodes https://t.co/tay1QtG2rZ",
+        "created_at": "2022-02-13 08:06:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492719002367545346,
+        "text": "@Ronald_Toye_III to bad I'm not in texas or id make one for you to give @Rialisms for vday https://t.co/j8Wb4m7XhO",
+        "created_at": "2022-02-13 04:35:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492438290783522816,
+        "text": "RT @animecorner_ac: Happy birthday to the kind and reliable hero from Class 1-A, Tsuyu Asui! \ud83d\udc9a\ud83c\udf82\ud83d\udc38\n\nCV (JP): Aoi Yuki\nCV (EN): Monica Rial\nAn\u2026",
+        "created_at": "2022-02-12 09:59:51+00:00",
+        "public_metrics": {
+            "retweet_count": 61,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492151488650653699,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1492405828648845314,
+        "text": "Gonna give this game a try if I had a capture card I'd stream either on YouTube or twitch @marchimark https://t.co/mlL2rKYZAw",
+        "created_at": "2022-02-12 07:50:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492399970657443841,
+        "text": "@Ronald_Toye_III @Rialisms @marchimark I wanna know what @Rialisms cookies are to let's just have everyone tell us what there favorite cookie is lil",
+        "created_at": "2022-02-12 07:27:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": {
+            "id": 1492374199587028993,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492399488304140289,
+        "text": "@Ronald_Toye_III @Rialisms @marchimark That does sound amazing @SSGoshin4 what's your favorite cookie",
+        "created_at": "2022-02-12 07:25:40+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": {
+            "id": 1492374199587028993,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492332553340170247,
+        "text": "@Ronald_Toye_III @Rialisms @marchimark I've never had those",
+        "created_at": "2022-02-12 02:59:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": {
+            "id": 1492309034195685376,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492291850228707328,
+        "text": "It better be https://t.co/AqzpfWxCki",
+        "created_at": "2022-02-12 00:17:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1492210355480805379,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1492291229094232077,
+        "text": "@Ronald_Toye_III @Rialisms @marchimark I bet I'm just waiting to get all my girls out cookies I bought https://t.co/ZxGwuaxqZa",
+        "created_at": "2022-02-12 00:15:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": {
+            "id": 1492283912529317894,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492274694820708352,
+        "text": "Hoping my dude doesn't sell it this weekend so I can buy it and get it signed by @Rialisms and @AlexisTiptonVA next time there in ohio https://t.co/BOlbMjACZB",
+        "created_at": "2022-02-11 23:09:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492270977962622979,
+        "text": "Feel like I been duped taste like plan water https://t.co/50w6fd5MRx",
+        "created_at": "2022-02-11 22:55:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492263644901613576,
+        "text": "@Rialisms @marchimark Then after I made my post Google decides to send me a notification I'm like yes Google I just watched it but thought this was a cool pic of you guys right @Ronald_Toye_III what are those cookies? https://t.co/pTmNK5OhaN",
+        "created_at": "2022-02-11 22:25:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 565242027,
+        "referenced_tweets": {
+            "id": 1491900645645123586,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492261188528480259,
+        "text": "So ghost stories one night I was working at speedway stocking cigarette wall and my coworker was putting food away in the back and nobody else was in store and we hear a crash go to the pop cooler and good $100 worth of beer broke all over the floor @marchimark @JMichaelTatum",
+        "created_at": "2022-02-11 22:16:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492229386451496966,
+        "text": "Friend of mine has a two year old name Diana but I feel like this is something @Dianasaura__ would also do lol jk https://t.co/Jalliiaqx4",
+        "created_at": "2022-02-11 20:09:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492226939280670720,
+        "text": "@jadbsaxton @comconaberdeen @PrimeTimeAppea @comconscotland Perrine should be in the top right corner hope you have fun jad",
+        "created_at": "2022-02-11 20:00:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 113054268,
+        "referenced_tweets": {
+            "id": 1491847180121956357,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492226412077633542,
+        "text": "@DeneenMelody I only know mari but I'd like to watch some other stuff with you in it",
+        "created_at": "2022-02-11 19:57:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19327027,
+        "referenced_tweets": {
+            "id": 1491888544574439432,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492179226686013446,
+        "text": "@luvvmaid Never played it",
+        "created_at": "2022-02-11 16:50:25+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1465748362544750601,
+        "referenced_tweets": {
+            "id": 1491925885259333648,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492089023212490757,
+        "text": "@JustChrisSabat @TheJohnDiMaggio @hulu I thought you was serious for a sec Chris but yea no matter how interesting that would've been nobody can replace John dimagggio I'm excited for the revival https://t.co/aoecRqjYwr",
+        "created_at": "2022-02-11 10:51:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 35425166,
+        "referenced_tweets": {
+            "id": 1491985133032910853,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492088267839311884,
+        "text": "@marchimark I just downloaded one of the games on gamepass I still need to watch the show https://t.co/L5FUt31rm7",
+        "created_at": "2022-02-11 10:48:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 62079677,
+        "referenced_tweets": {
+            "id": 1491946326157934595,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1492087921368875010,
+        "text": "Cut myself pretty good at work perks of being at the front of the assembly line building the dryer cabs https://t.co/JGH9oTS2cU",
+        "created_at": "2022-02-11 10:47:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1492005766697529354,
+        "text": "@Rialisms @marchimark Your welcome good to know I'm not the only one in illuminati lol jk I get told that all the time I'm like no its a assasins creed tatoo https://t.co/hyM9Z8dN4Y",
+        "created_at": "2022-02-11 05:21:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 565242027,
+        "referenced_tweets": {
+            "id": 1491900645645123586,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491909467700613120,
+        "text": "@ccarrollbeard Probally steak for me",
+        "created_at": "2022-02-10 22:58:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 50219664,
+        "referenced_tweets": {
+            "id": 1491652022877179905,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491835687343165441,
+        "text": "@RayChase I keep getting merced by genichiro",
+        "created_at": "2022-02-10 18:05:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 129722792,
+        "referenced_tweets": {
+            "id": 1488992779938107397,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491832784406646788,
+        "text": "Listened to first episode of @marchimark and @Rialisms podcast and couldn't help but laugh at the mention of lizard people and I've been talking to Monica for almost a year now and she's such a Down to earth amazing woman same with Jamie \u2764\ufe0fu both #standwithmonica #standwithjamie",
+        "created_at": "2022-02-10 17:53:47+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491645640073490434,
+        "text": "@DeneenMelody @JulianRhaney I got a dirty look cause I told coworker piek one of my favorites https://t.co/fGPGJry4CZ",
+        "created_at": "2022-02-10 05:30:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19327027,
+        "referenced_tweets": {
+            "id": 1491482744907390977,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491644623248408576,
+        "text": "@Funimation @DeneenMelody I'm so ready for this https://t.co/cLHYTIrJ7L",
+        "created_at": "2022-02-10 05:26:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17444764,
+        "referenced_tweets": {
+            "id": 1491562610038292482,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1491554966976225280,
+        "text": "RT @Tindlefandom: IF THE CAST OF FUNIMATION WAS A TV SITCOM\n\n~STARRING~\n@austintindle @CiaranStrange @BrinaPalencia @SarahWiedenheft @Jessi\u2026",
+        "created_at": "2022-02-09 23:29:50+00:00",
+        "public_metrics": {
+            "retweet_count": 41,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1490825446749057029,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1491543753814945806,
+        "text": "Well I think I know what I'm listening to tonight at work now and started typing highschool dxd and highschool of dead came up @Rialisms @marchimark @Ronald_Toye_III so hopefully i don't get caught jamming to much or they might be onto me https://t.co/mH1QC6iHcY",
+        "created_at": "2022-02-09 22:45:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1491534366660513797,
+        "text": "Now that I got my earbuds to pair time to add some Hikaru Utada to my Spotify so I can jam while I'm at work and hope I don't get caught lol love her music from kingdom hearts and evangelion @DeneenMelody https://t.co/9aFyO1L3Xw",
+        "created_at": "2022-02-09 22:07:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1490998882188541952,
+        "text": "@MiaYim Wth i didn't know you was streaming again I've missed you https://t.co/XdzIDnH3mW",
+        "created_at": "2022-02-08 10:40:09+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 108200716,
+        "referenced_tweets": {
+            "id": 1490925310313140224,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490998132540272641,
+        "text": "@CoryYee @childishgamzeno @playGhostwire I been waiting since tango gameworks first announced this game at e3 to play it cause I love the evil within games https://t.co/jfr2TSYHoD",
+        "created_at": "2022-02-08 10:37:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 904442958,
+        "referenced_tweets": {
+            "id": 1490795529680216065,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490997057472983041,
+        "text": "@SSGoshin4 That's awesome I wish I still had all my original figures",
+        "created_at": "2022-02-08 10:32:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 49251831,
+        "referenced_tweets": {
+            "id": 1490872969773469701,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490776410755145740,
+        "text": "@Bellchrissy1 @SashaBanksWWE @WWE Honestly all you can do is just ignore them and do what makes you happy there's always gonna be bullies in the world no matter what just don't let them bother you",
+        "created_at": "2022-02-07 19:56:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1225095785114755073,
+        "referenced_tweets": {
+            "id": 1490403132777586693,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490572061059788801,
+        "text": "@southernzomby @JustChrisSabat @SeanSchemmel @Rialisms @kylehebert I just wanna know if this is legit I was bored and started reading the manga back in october https://t.co/eJEnMo1fh8",
+        "created_at": "2022-02-07 06:24:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 241303707,
+        "referenced_tweets": {
+            "id": 1490461211439284229,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1490232065618501632,
+        "text": "@DeneenMelody this is the one your in ain't it I tried playing it on steam but I need to get another external for my laptop I might try it on xbox but can't stream if I do https://t.co/H9IQ4nYVFO",
+        "created_at": "2022-02-06 07:53:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19327027,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489958693064085512,
+        "text": "Highschool of the dead was so good sucks we never got a season 2 @Rialisms @BKarbowski \nbefore all of us are dead,\nwe have highschool of the dead...\n\nwhere the anime was cancelled because the author is already dead, and will never get another season \ud83d\udc94 https://t.co/r5Ve6Hk0fz",
+        "created_at": "2022-02-05 13:46:49+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 12,
+            "quote_count": 1
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489956339728011264,
+        "text": "@ccarrollbeard @LauraBaileyVO @WillingBlam @VoiceOfOBrien @samriegel @executivegoth @matthewmercer @MaryEMcGlynn I put it in my watch list I'll try to check it out after I finish dexter",
+        "created_at": "2022-02-05 13:37:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 50219664,
+        "referenced_tweets": {
+            "id": 1487420859585335301,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489837383570841603,
+        "text": "@Ronald_Toye_III @austintindle @Rialisms Hurts like hell can barely move my hand",
+        "created_at": "2022-02-05 05:44:46+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": {
+            "id": 1489835874280001540,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489834726613561349,
+        "text": "@Ronald_Toye_III @austintindle @Rialisms it's finally done https://t.co/m7sJ7Y0mfh",
+        "created_at": "2022-02-05 05:34:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489711583660023815,
+        "text": "@TrinaNishimura I can't wait I got a vshout from you and @BrycePapenbrook coming I can't have armin without eren and mikasa @JoshGrelle https://t.co/fTu2G4n8iD",
+        "created_at": "2022-02-04 21:24:53+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2861235493,
+        "referenced_tweets": {
+            "id": 1489692258018418692,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489705366904623111,
+        "text": "@Ronald_Toye_III @Rialisms @austintindle I wanna get a rize tat eventually but kaneki and itachi for now https://t.co/tnIvkd5dvR",
+        "created_at": "2022-02-04 21:00:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489696106074324997,
+        "text": "I'll post pics when it's done start of a anime sleeve https://t.co/bDerk1anCk",
+        "created_at": "2022-02-04 20:23:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489499290963750913,
+        "text": "@Ronald_Toye_III @Rialisms @austintindle @Ronald_Toye_III your the one married to her lol https://t.co/94yFGWd0sB",
+        "created_at": "2022-02-04 07:21:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": {
+            "id": 1489410070156877824,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489498345408274437,
+        "text": "So i decided to deactivate my discord for reasons I don't wanna talk about cause I prefer my Twitter to be drama free if anybody wants to know maybe I'll tell you in pvt few people already know what's going on",
+        "created_at": "2022-02-04 07:17:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489372309865574403,
+        "text": "Hoping this guy in toy group I'm in don't charge me arm and a leg for a Johnny Lawrence figure he has so I can mail into @vShoutOfficial and get it signed I love cobra kai and original karate kid https://t.co/jaYfWkIVDd",
+        "created_at": "2022-02-03 22:56:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489365931872694275,
+        "text": "@DeneenMelody What's it on",
+        "created_at": "2022-02-03 22:31:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19327027,
+        "referenced_tweets": {
+            "id": 1489349835589251081,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1489364870013329409,
+        "text": "@Rialisms @Ronald_Toye_III @austintindle https://t.co/LCvx9IH1xa",
+        "created_at": "2022-02-03 22:27:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 565242027,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1489085029024075781,
+        "text": "@Ronald_Toye_III @Rialisms I feel like they need to make a ultimate death battle video on this  but  without saying spoilers I think merleona I think mira will put up good fight but mer mana zone will overwhelm her",
+        "created_at": "2022-02-03 03:55:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": {
+            "id": 1489038124609060867,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488995047345377285,
+        "text": "Debating if I should buy a Luffy 8x10 from @ccarrollbeard and a zoro from @JustChrisSabat while I wait on my erza vegeta and all might from @vShoutOfficial I love one piece but just to damn long I'm right where they get back together after Marineford https://t.co/G28ZcuFQSy",
+        "created_at": "2022-02-02 21:57:38+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1488966934716686338,
+        "text": "@Ronald_Toye_III @Rialisms Good question I think it would be close https://t.co/7lEqaBi8Rr",
+        "created_at": "2022-02-02 20:05:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": {
+            "id": 1488870167060914180,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488466057798979584,
+        "text": "@Rialisms I wonder who would be stronger though merleona or mirajane cause their the Two most op characters you voice",
+        "created_at": "2022-02-01 10:55:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 565242027,
+        "referenced_tweets": {
+            "id": 1488328704124149762,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1488254896361062400,
+        "text": "Just seen this on fb and not gonna lie I kind of agree @Rialisms https://t.co/D4T6EP3nxj",
+        "created_at": "2022-01-31 20:56:32+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484846576124235779,
+        "text": "RT @RealPaigeWWE: Betty white, now meat loaf?!! 21/22 has some fucking nerveeeee!",
+        "created_at": "2022-01-22 11:13:05+00:00",
+        "public_metrics": {
+            "retweet_count": 206,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1484561654763462656,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1484846233353134080,
+        "text": "@Bellchrissy1 You look really cute in this pic https://t.co/VLsjhRK2mP",
+        "created_at": "2022-01-22 11:11:43+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1225095785114755073,
+        "referenced_tweets": {
+            "id": 1484646519093538820,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484771092526997504,
+        "text": "@vShoutOfficial Can my vshout say I'm coming for you to lol",
+        "created_at": "2022-01-22 06:13:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1253071556475052034,
+        "referenced_tweets": {
+            "id": 1482016573883916299,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484701335454982144,
+        "text": "@DeneenMelody @vShoutOfficial That would be awesome",
+        "created_at": "2022-01-22 01:35:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19327027,
+        "referenced_tweets": {
+            "id": 1484699063089991683,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484697787090489344,
+        "text": "@DeneenMelody Right I try to make one atleast every few weeks I hope evangelion gets best movie of the year have you ever done @vShoutOfficial or anything I'd love to add mari to my autographs along with rest of cast https://t.co/ClugXCYIbK",
+        "created_at": "2022-01-22 01:21:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19327027,
+        "referenced_tweets": {
+            "id": 1484696768352636930,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484695657164255234,
+        "text": "Now that I know @DeneenMelody has tiktok determined to get her to duet me talking as mari https://t.co/44Pr4uhklJ",
+        "created_at": "2022-01-22 01:13:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484695119626444809,
+        "text": "@DeneenMelody That is pretty",
+        "created_at": "2022-01-22 01:11:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19327027,
+        "referenced_tweets": {
+            "id": 1484304660672352260,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484476693708484617,
+        "text": "@airzach @LVLUPEXPO Can't wait for one punch man season 3 and demon slayer season 2 dub genos is my favorite one punch man character https://t.co/57kwlMnIui",
+        "created_at": "2022-01-21 10:43:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 174058267,
+        "referenced_tweets": {
+            "id": 1483968661089972226,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484305522413105155,
+        "text": "@PapaPauly79 @vShoutOfficial @PeytonList I decided to buy Peyton @PeytonList cobra kai vshout and now I'm halfway through season 1",
+        "created_at": "2022-01-20 23:23:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482447945383436293,
+        "referenced_tweets": {
+            "id": 1483919649544851463,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484305350304190466,
+        "text": "@PapaPauly79 @vShoutOfficial @PeytonList I decided to buy Peyton @PeytonList cobra kai vshout and now I'm halfway through season 1",
+        "created_at": "2022-01-20 23:22:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482447945383436293,
+        "referenced_tweets": {
+            "id": 1483919649544851463,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484244413887008782,
+        "text": "So I decided to go ahead and order a All might while I wait for my vegeta so now I'll have not only 1 but 2 vshouts coming from the legendary @JustChrisSabat @vShoutOfficial https://t.co/N6s7JeFfcJ",
+        "created_at": "2022-01-20 19:20:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484222211745533959,
+        "text": "@PapaPauly79 @vShoutOfficial @PeytonList Never seen cobra kai or karate kid but I did love @PeytonList in Jessie and diary of wimpy kid I'll have to watch it now and get vshout",
+        "created_at": "2022-01-20 17:52:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1482447945383436293,
+        "referenced_tweets": {
+            "id": 1483919649544851463,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1484215901029289995,
+        "text": "@marchimark thank you so much for doing Cana for me I can't wait for 100 year quest to come out https://t.co/RcOqju9WzA",
+        "created_at": "2022-01-20 17:27:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 62079677,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1484112386621648896,
+        "text": "@Bellchrissy1 @MandaLHuber @annajay___ I'm so tempted to buy the whole set cause brodie Lee gonna be so hard to find once It release all aew figures are 90% of time",
+        "created_at": "2022-01-20 10:35:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1225095785114755073,
+        "referenced_tweets": {
+            "id": 1484010610409062400,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483944202073481218,
+        "text": "How often does the same person get nominated for both best protagonist and best antagonist @BrycePapenbrook https://t.co/7asR1TXOrn",
+        "created_at": "2022-01-19 23:27:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483646119011835906,
+        "text": "@BKarbowski Wait there's a anime awards and I'm just finding out",
+        "created_at": "2022-01-19 03:42:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3794161153,
+        "referenced_tweets": {
+            "id": 1483508922581458944,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483614778144743427,
+        "text": "RT @cagesideseats: So ready for Jon Moxley to be back on #AEWDynamite! https://t.co/MGsdvDGaGG",
+        "created_at": "2022-01-19 01:38:21+00:00",
+        "public_metrics": {
+            "retweet_count": 8,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1483554953117552640,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483614346190200833,
+        "text": "@GTOmegaRacing What's the weight limit on these",
+        "created_at": "2022-01-19 01:36:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 982747388,
+        "referenced_tweets": {
+            "id": 1446552823127285760,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483395176102084610,
+        "text": "RT @elgato: Thanks to our friends at @SquareEnix we are giving away a custom #NieR Replicant ver.1.22 Stream Deck and Steam Key! \n\nTo win:\u2026",
+        "created_at": "2022-01-18 11:05:44+00:00",
+        "public_metrics": {
+            "retweet_count": 10378,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479506470395731969,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483395161422016512,
+        "text": "@elgato @liz_theisen @SquareEnix @NieRGame That's dope I love nier",
+        "created_at": "2022-01-18 11:05:41+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 563890459,
+        "referenced_tweets": {
+            "id": 1479506470395731969,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483394467424088066,
+        "text": "RT @realudovic: #WeWantPaige on The #RoyalRumble Saturday, January 29 on The Road To #Wrestlemania \ud83d\ude4f\ud83c\udffc\n\n@RealPaigeWWE \ud83d\udda4\ud83d\udc9c\n\n#Realudovic #WWE #\u2026",
+        "created_at": "2022-01-18 11:02:55+00:00",
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1482445761803608076,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1483391951328141313,
+        "text": "@Funimation @BKarbowski @CheyenneTheGeek Blackstar my favorite soul eater character but now I'd have to say my all time favorite @BKarbowski character is rimuru https://t.co/SVamIq0cyd",
+        "created_at": "2022-01-18 10:52:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 17444764,
+        "referenced_tweets": {
+            "id": 1477029316043104261,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483391431150653445,
+        "text": "@KyleColby @BKarbowski @BrittanyLaudaVO @lucilovesmic @TeeDotally I need to get hulu live again I miss being able to watch cable and toonami but I'll look it up on funimation",
+        "created_at": "2022-01-18 10:50:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 22162521,
+        "referenced_tweets": {
+            "id": 1481350040165695493,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483312248756002816,
+        "text": "@TiaToony I can't wait for my 02 vshout https://t.co/BwrLeOaLb7",
+        "created_at": "2022-01-18 05:36:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1266342607,
+        "referenced_tweets": {
+            "id": 1482867489218482176,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483220487371206660,
+        "text": "@BenjaminOscar77 @jadbsaxton Tamaki my favorite fire force character",
+        "created_at": "2022-01-17 23:31:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 16021324,
+        "referenced_tweets": {
+            "id": 1482492473842749443,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483220306571505665,
+        "text": "@jadbsaxton @vShoutOfficial @PrimeTimeAppea I need to mail in my highschool dxd poster for her to sign so after I get rest of the vshouts I already paid for I'll have to buy hers https://t.co/l3zq5UXAUv",
+        "created_at": "2022-01-17 23:30:52+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 113054268,
+        "referenced_tweets": {
+            "id": 1482481580106944515,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483192991514828800,
+        "text": "@Rialisms Wish we could get a season 2 https://t.co/TKNc4FR2Rz",
+        "created_at": "2022-01-17 21:42:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 565242027,
+        "referenced_tweets": {
+            "id": 1479661057652273152,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483172081416216584,
+        "text": "@StephSouthVO @animeimpulse Yea I really need to play more",
+        "created_at": "2022-01-17 20:19:14+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 4756863912,
+        "referenced_tweets": {
+            "id": 1483129911854321664,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483171786271469569,
+        "text": "@EndoSurvivor282 Yea good luck finding one sell you mine and all my games for 1500 lol jk I'm sorry https://t.co/acsT0yhYlN",
+        "created_at": "2022-01-17 20:18:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1347443399385747456,
+        "referenced_tweets": {
+            "id": 1482903422680535040,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1483171223853056001,
+        "text": "What anime should I watch after I finish strike witches? @marchimark @Rialisms",
+        "created_at": "2022-01-17 20:15:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1483169832266776579,
+        "text": "@liz_theisen Your doing great https://t.co/fDflzPmZv6",
+        "created_at": "2022-01-17 20:10:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1459688817372241923,
+        "referenced_tweets": {
+            "id": 1482984891641839616,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482620681682567168,
+        "text": "@Dianasaura__ When we gonna play some warzone",
+        "created_at": "2022-01-16 07:48:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 999010890623025152,
+        "referenced_tweets": {
+            "id": 1482541566904307713,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482608465637949440,
+        "text": "Think I'm gonna call this claptraps lucky day even though it's not ellie I couldn't find anywhere else to hang it since I moved @marchimark @GearboxOfficial https://t.co/AC6wv7EtpV",
+        "created_at": "2022-01-16 06:59:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1482533724868775941,
+        "text": "@DeneenMelody I've never played it I been wanting to",
+        "created_at": "2022-01-16 02:02:38+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19327027,
+        "referenced_tweets": {
+            "id": 1482443085510426627,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482441835897360391,
+        "text": "@DeneenMelody Phantasy star I'm guessing ??",
+        "created_at": "2022-01-15 19:57:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19327027,
+        "referenced_tweets": {
+            "id": 1481402668236951552,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482415938024660997,
+        "text": "@ccarrollbeard Just create a night light with your quirk https://t.co/S2qR0HagxP",
+        "created_at": "2022-01-15 18:14:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 50219664,
+        "referenced_tweets": {
+            "id": 1482176190672785411,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482144116846870529,
+        "text": "@marchimark I need to get @jadbsaxton and everybody else to sign my poster https://t.co/yCtBCy6E04",
+        "created_at": "2022-01-15 00:14:29+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 62079677,
+        "referenced_tweets": {
+            "id": 1481831061936123913,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1482124273238122497,
+        "text": "@PornStarStacie I'm close like 40 minutes away",
+        "created_at": "2022-01-14 22:55:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1185518526519332864,
+        "referenced_tweets": {
+            "id": 1473306406325559298,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481962370775797765,
+        "text": "@DeneenMelody You look beautiful can't wait to see what all you do next in the anime industry and other projects you have planned",
+        "created_at": "2022-01-14 12:12:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19327027,
+        "referenced_tweets": {
+            "id": 1481801595100696576,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481862684580712448,
+        "text": "RT @Crunchyroll: 4 years ago today DARLING in the FRANXX first aired! \ud83d\ude08\ud83d\udc95 https://t.co/cUHcrUBMfG",
+        "created_at": "2022-01-14 05:36:10+00:00",
+        "public_metrics": {
+            "retweet_count": 1182,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1481672392871227394,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1481459877474091008,
+        "text": "@DeneenMelody @PrimeVideo @DubingBrosUSA Yea I was really happy when amazon released it cause my local theater never gets any anime movies",
+        "created_at": "2022-01-13 02:55:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19327027,
+        "referenced_tweets": {
+            "id": 1481456461884493827,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481454813955174401,
+        "text": "@DeneenMelody @PrimeVideo @DubingBrosUSA Shes my favorite character I need to rewatch all 4 movies now waiting on the blue ray release for last movie https://t.co/sPMSlNdXgx",
+        "created_at": "2022-01-13 02:35:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19327027,
+        "referenced_tweets": {
+            "id": 1426058065753698307,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481213659946885120,
+        "text": "@CliffordChapin Guess I need to start playing more vanguard then but I'll probally be to busy rewatching the dubs for attack on titan and my hero https://t.co/Fj7ZvgKb8r",
+        "created_at": "2022-01-12 10:37:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1331503970,
+        "referenced_tweets": {
+            "id": 1481063265065177089,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481173187375345670,
+        "text": "@liz_theisen But for real they should give summer rae a contract and I might start watching again https://t.co/ps8eccxU9c",
+        "created_at": "2022-01-12 07:56:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1459688817372241923,
+        "referenced_tweets": {
+            "id": 1481125786916589568,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1481171517627146245,
+        "text": "@liz_theisen Summer rae and Johnny Knoxville are my picks to win",
+        "created_at": "2022-01-12 07:49:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1459688817372241923,
+        "referenced_tweets": {
+            "id": 1481125786916589568,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480983927750017025,
+        "text": "@WWE @DoudropWWE @BeckyLynchWWE My money on Doudrop winning but we all know wwe creative team gonna screw her over and have becky cheat to win https://t.co/3LMxDtvjm3",
+        "created_at": "2022-01-11 19:24:18+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 7517222,
+        "referenced_tweets": {
+            "id": 1480768120457515009,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480808271082631170,
+        "text": "RT @ccarrollbeard: I don't know who needs to hear this right now, but just do the thing you're thinking you should do but don't feel like d\u2026",
+        "created_at": "2022-01-11 07:46:18+00:00",
+        "public_metrics": {
+            "retweet_count": 176,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1480585855714697226,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1480668236270157826,
+        "text": "@liz_theisen Right",
+        "created_at": "2022-01-10 22:29:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1459688817372241923,
+        "referenced_tweets": {
+            "id": 1480380058946596865,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1480334749478662144,
+        "text": "What should I stream tonight",
+        "created_at": "2022-01-10 00:24:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1480097995202998274,
+        "text": "@vShoutOfficial @Rialisms I loved it https://t.co/ScHbv5CG2p",
+        "created_at": "2022-01-09 08:43:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1253071556475052034,
+        "referenced_tweets": {
+            "id": 1479931156346949633,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1479684066836422658,
+        "text": "Can't wait to receive my ammo box and hopefully more 8x10s later from my good friend @FearHavok her twitch streams are always fun when I'm able to watch https://t.co/KcML2vn8K4",
+        "created_at": "2022-01-08 05:19:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479682612620926978,
+        "text": "I bought this last year from voice actor store and so glad I did Chris will be missed @DamanMills just need to have @LindaYoungVA sign it and I'll have all 3 people  that really brought frieza to life https://t.co/i11jkKXs3e",
+        "created_at": "2022-01-08 05:13:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479680724315873282,
+        "text": "Since I been posting alot of snime autographs let's change it up I bought this and a yellow ranger action figure from @TLCYellowRanger the figure somewhere in my storage unit ashley my favorite yellow ranger https://t.co/2wnJN0ustD",
+        "created_at": "2022-01-08 05:05:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479679537072021507,
+        "text": "Out of all my @Rialisms autographs this one my favorite and here soon I'll have @JustChrisSabat autograph vegeta to go with it through @vShoutOfficial https://t.co/bd5VudpATK",
+        "created_at": "2022-01-08 05:01:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479618919426101252,
+        "text": "Bout to finally use these shot glasses I've had for long time and do some shots wish you guys were here @FearHavok @SamiZayn I just finished moving finally https://t.co/MTR54S5KRV",
+        "created_at": "2022-01-08 01:00:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1479511621852672000,
+        "text": "RT @RottenTomatoes: Our first look at the all-new season of #TheBoys.\n\n#TheBoys Season 3 will officially premiere June 3 on Prime Video wit\u2026",
+        "created_at": "2022-01-07 17:53:53+00:00",
+        "public_metrics": {
+            "retweet_count": 1821,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1479491264651448320,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1479048835938889732,
+        "text": "@BeckyLynchWWE @liz_theisen I'm a fan of both of you but liv @YaOnlyLivvOnce gonna take that title from you https://t.co/SXlD9n5nIy",
+        "created_at": "2022-01-06 11:14:56+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 955885435,
+        "referenced_tweets": {
+            "id": 1478189954249416711,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478865652433797120,
+        "text": "RT @MATTHARDYBRAND: Each of us face difficult days &amp; challenging experiences - Please try to keep your composure &amp; don\u2019t allow yourself to\u2026",
+        "created_at": "2022-01-05 23:07:02+00:00",
+        "public_metrics": {
+            "retweet_count": 78,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478604992844079108,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478865439425970176,
+        "text": "@ragercoaster do you have any prints of that hercule in the background hope your feeling better and excited to get my signed hercule eventually I'm bout to start replaying borderlands https://t.co/Fz4PWziNaU",
+        "created_at": "2022-01-05 23:06:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 81266523,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1478864298487291904,
+        "text": "@EmilyNeves @VoiceActorStore Wait I can get one with eri and aizawa signed I need one",
+        "created_at": "2022-01-05 23:01:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 62445782,
+        "referenced_tweets": {
+            "id": 1407874704988377090,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478860682766569477,
+        "text": "RT @AEWonTV: What better place than here, what better time than now? \n\nA champion is crowned on #AEWDynamite https://t.co/eTTT86Sls2",
+        "created_at": "2022-01-05 22:47:17+00:00",
+        "public_metrics": {
+            "retweet_count": 414,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1478819738100944896,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1478860675598491648,
+        "text": "@AEWonTV @realrubysoho @Jade_Cargill @AEW @TBSNetwork I want ruby to win she's champion material and deserves a good title run https://t.co/xWAHk6amn6",
+        "created_at": "2022-01-05 22:47:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1128707845589876736,
+        "referenced_tweets": {
+            "id": 1478819738100944896,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478834471419973634,
+        "text": "@Dianasaura__ I found you lol jk",
+        "created_at": "2022-01-05 21:03:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 999010890623025152,
+        "referenced_tweets": {
+            "id": 1476605733470818309,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478643641040220161,
+        "text": "@Ronald_Toye_III @FeralNietzsche One of my favorite sour candy so I'm down",
+        "created_at": "2022-01-05 08:24:50+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1236428379542433792,
+        "referenced_tweets": {
+            "id": 1478597739399323650,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478079574890229769,
+        "text": "@VelVelHoller A section of the page where we can buy merch and signed 8x10s would be awesome",
+        "created_at": "2022-01-03 19:03:26+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 295227803,
+        "referenced_tweets": {
+            "id": 1475977187799011348,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1478070643723849730,
+        "text": "Maybe next time I'll mail in my figures to bad Darby always sold out though @DarbyAllin @RealBrittBaker https://t.co/0Xa4hFbWC1",
+        "created_at": "2022-01-03 18:27:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477705341504733185,
+        "text": "@AnimeFan299110 @Rialisms https://t.co/38rI7sIxCc here's where you can buy it",
+        "created_at": "2022-01-02 18:16:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2339427716,
+        "referenced_tweets": {
+            "id": 1477690434000457732,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477659861085265930,
+        "text": "As much as I want more episodes of my favorite animes I know recording from home ain't easy and everybody going to cons just want all my favorite voice actors to stay safe and healthy on their travels during this time",
+        "created_at": "2022-01-02 15:15:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1477658602357862400,
+        "text": "@Rialisms Posting my stuff as a example for other fans \u2764 you Monica and hope your all staying staff and healthy https://t.co/X6PoW6Yl8K",
+        "created_at": "2022-01-02 15:10:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 565242027,
+        "referenced_tweets": {
+            "id": 1477417710556487684,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1477467516662386690,
+        "text": "@DavidMatranga1 Hope your dad gets better and you guys get through this todoroki my favorite my hero character I been sorta couch hopping I work 2 jobs and still struggling just gotta try and go beyond plus ultra my friend https://t.co/evpmwdIS0D",
+        "created_at": "2022-01-02 02:31:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1609120554,
+        "referenced_tweets": {
+            "id": 1477098778578595850,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476982322595520515,
+        "text": "Another autograph from @Rialisms now to wait on my uraraka from @lucilovesmic to go with it https://t.co/hYJMGtdASV",
+        "created_at": "2021-12-31 18:23:21+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476981615956045824,
+        "text": "Just finished season 5 of dexter for the first time and decided to buy a poster from Amazon with a gift card I got for Christmas to bad I couldn't get the signatures in person but thought it was so cool  @J2thecarpenter @DavidZayas62 @juliebenz https://t.co/Lq9cw2n6u5",
+        "created_at": "2021-12-31 18:20:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476901336952315917,
+        "text": "@ragercoaster Merry Christmas",
+        "created_at": "2021-12-31 13:01:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 81266523,
+        "referenced_tweets": {
+            "id": 1474422174295470088,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476813141598167055,
+        "text": "@ccarrollbeard @_nicolodeonn I didn't know you was momo guess I better start over and watch the dub I normally just watched what I could on toonami plus the movies https://t.co/YzdPL4bNWD",
+        "created_at": "2021-12-31 07:11:05+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 50219664,
+        "referenced_tweets": {
+            "id": 1470521412720889859,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476693794921885697,
+        "text": "@JohnCena @DCpeacemaker @hbomax Can't wait for peacemaker to come out please follow me to John Cena",
+        "created_at": "2021-12-30 23:16:51+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 141664648,
+        "referenced_tweets": {
+            "id": 1476614861643780101,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476436903872372736,
+        "text": "@TiaToony I just got a turbo man for Christmas when you gonna start streaming again https://t.co/rnXV0y8WMP",
+        "created_at": "2021-12-30 06:16:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1266342607,
+        "referenced_tweets": {
+            "id": 1471915695416000517,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476381580839067653,
+        "text": "@Lewd_Monarch @Etrouse You forget samurai Champloo Gundam zoids neon genesis evangelion https://t.co/t431bFL1gl",
+        "created_at": "2021-12-30 02:36:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1354887871241613314,
+        "referenced_tweets": {
+            "id": 1475938308366741508,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476314466014879746,
+        "text": "@realrubysoho good luck in the tbs woman's championship finals I'll be rooting for you love my autograph and shoutout I been thinking about getting my ears gauged what size are your gauges if don't mind me asking https://t.co/vYEBoTTDNt",
+        "created_at": "2021-12-29 22:09:31+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 529654692,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476313033379037194,
+        "text": "@RealBrittBaker I think @AdamColePro should've let you wear his halo Jordan's for the @vShoutOfficial videos https://t.co/S583Pi4GWZ",
+        "created_at": "2021-12-29 22:03:50+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 115072361,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476289702688927747,
+        "text": "RT @VibertKevin: Just heard a conspiracy theory that the Loch Ness Monster is actually the ghost of an ancient dinosaur, and since it affec\u2026",
+        "created_at": "2021-12-29 20:31:07+00:00",
+        "public_metrics": {
+            "retweet_count": 5995,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1401881400853381126,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1476283374771789830,
+        "text": "@liz_theisen If you have funimation I recommend watching mugen train which is the first half of season 2 https://t.co/HOPkhLzdSX",
+        "created_at": "2021-12-29 20:05:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1466596239521288195,
+        "referenced_tweets": {
+            "id": 1476255087358054402,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476276368656715777,
+        "text": "Sitting here waiting on @Funimation to start streaming mha worlds hero mission @Rialisms @JustChrisSabat @justinbr0iner @CliffordChapin @lucilovesmic https://t.co/PRT2GYGkid",
+        "created_at": "2021-12-29 19:38:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1476272357807431680,
+        "text": "@amandawinnlee @JohnCena I'd be more excited if voice of rei followed me https://t.co/QB5KMYCiRU",
+        "created_at": "2021-12-29 19:22:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1129129729,
+        "referenced_tweets": {
+            "id": 1476256521671507968,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476255087358054402,
+        "text": "@liz_theisen It's amazing I'm waiting on season 2 to get dubbed but I'm almost done with the manga",
+        "created_at": "2021-12-29 18:13:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1459688817372241923,
+        "referenced_tweets": {
+            "id": 1476068962332921856,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1476254825918742530,
+        "text": "@NicoletteStassi I been watching dexter https://t.co/m6OU0OI4Vp",
+        "created_at": "2021-12-29 18:12:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1955483384,
+        "referenced_tweets": {
+            "id": 1476019456920850436,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475648611191078912,
+        "text": "@childishgamzeno I keep hearing there gonna make this guy black panther https://t.co/b4raefG9B2",
+        "created_at": "2021-12-28 02:03:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 754386322685562881,
+        "referenced_tweets": {
+            "id": 1475557383342489602,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475547810556690443,
+        "text": "Got two of my vshouts in the mail today there both awesome @RealBrittBaker @realrubysoho @vShoutOfficial https://t.co/22syOmKgCm",
+        "created_at": "2021-12-27 19:23:07+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1475471832379711506,
+        "text": "@marchimark In the words of Randal Graves there's only one return lol I love star wars and lord of the rings both I just never have time to sit and rewatch 9 hours of lord of the rings https://t.co/wLxsKITxtD",
+        "created_at": "2021-12-27 14:21:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 62079677,
+        "referenced_tweets": {
+            "id": 1475340237651984386,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1475361734877667330,
+        "text": "@VelVelHoller just got off work and seen my cameo was ready I love it your the best @BookCameo https://t.co/wMisjaJpyf",
+        "created_at": "2021-12-27 07:03:43+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 14,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 295227803,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1474686110513213442,
+        "text": "@JustChrisSabat Next time I get a vshout from you I'll have to send in my pink shirt vegeta one of my all time favorite vegeta scenes can't wait to get my preorder though https://t.co/tB3VZ6Bvcw",
+        "created_at": "2021-12-25 10:19:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 35425166,
+        "referenced_tweets": {
+            "id": 1453521612372942851,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474633236240285702,
+        "text": "Finished genlock now need to finish combatants will be dispatched, watch that time I got reincarnated as a slime season 2 and finish strike witches hopefully before my holiday break over before I start anything else I been wanting to watch fruit basket and panty stocking",
+        "created_at": "2021-12-25 06:48:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1474632498411937795,
+        "text": "@JustChrisSabat I need to sit down and watch season 1 still Witcher one of the best rpgs of all time for sure and looks like Henry cavill  did an amazing job from what I've seen so far https://t.co/qncnrAxQI3",
+        "created_at": "2021-12-25 06:45:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 35425166,
+        "referenced_tweets": {
+            "id": 1471935986762489867,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474627976377647104,
+        "text": "@ccarrollbeard Merry Christmas I look forward to getting my vshout from you eventually hopefully it's a erza she's my favorite character you voice https://t.co/2o72NIlgt4",
+        "created_at": "2021-12-25 06:28:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 50219664,
+        "referenced_tweets": {
+            "id": 1474460679339925516,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474607284416352256,
+        "text": "@lexywolze I'll let you play my ps5",
+        "created_at": "2021-12-25 05:05:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 159626736,
+        "referenced_tweets": {
+            "id": 1474312765527396355,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1474258037779185664,
+        "text": "RT @animetv_jp: JUJUTSU KAISEN 0 Movie is now released in Japan! \n\n\u2728More: https://t.co/CTpsFtmpww https://t.co/KeY1gkFRl4",
+        "created_at": "2021-12-24 05:58:01+00:00",
+        "public_metrics": {
+            "retweet_count": 1276,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1474036767561035776,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1474217568265195523,
+        "text": "@Rialisms it finally got here its perfect I need to frame it and hang it up once I get my new place I mean it's missing merleona but I still love it so much cause it has mira in the center and Tsubaki my all time favorite soul eater weapon https://t.co/dDoFX1qU3B",
+        "created_at": "2021-12-24 03:17:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 565242027,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473920231756214277,
+        "text": "RT @vShoutOfficial: Thank you to all the fans that ordered a Britt Baker and Ruby Soho #vshout! Don\u2019t miss out on the next wave! https://t.\u2026",
+        "created_at": "2021-12-23 07:35:42+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1472749105378209792,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473920140630704132,
+        "text": "When you rip your pants at work and your underwear is showing so you improvise https://t.co/tHcvTQNyIJ",
+        "created_at": "2021-12-23 07:35:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473784428669415436,
+        "text": "@vShoutOfficial Yea that's mine I love it @realrubysoho the order # matches the one in my email",
+        "created_at": "2021-12-22 22:36:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1253071556475052034,
+        "referenced_tweets": {
+            "id": 1472749105378209792,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1473780411083931648,
+        "text": "@TvirusKiss @vShoutOfficial @ElCidRecords @MHAOfficial Wait dabi was on vshout and I missed it",
+        "created_at": "2021-12-22 22:20:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1190403582,
+        "referenced_tweets": {
+            "id": 1428025302895058944,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1473779108400271371,
+        "text": "@vShoutOfficial When should I expect my videos from both of them and I'm curious if the one ruby holding is mine",
+        "created_at": "2021-12-22 22:14:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1253071556475052034,
+        "referenced_tweets": {
+            "id": 1472749105378209792,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1473431949754703881,
+        "text": "RT @VisualAnimes_: 19 Days until Attack on Titan is back! https://t.co/em0HEdzhkZ",
+        "created_at": "2021-12-21 23:15:26+00:00",
+        "public_metrics": {
+            "retweet_count": 1372,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1473367967438188554,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1473419845341429766,
+        "text": "@ragercoaster I remember playing this on my 360 can't wait for tiny Tina's wonderland",
+        "created_at": "2021-12-21 22:27:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 81266523,
+        "referenced_tweets": {
+            "id": 1462809533500338176,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1473419299079528448,
+        "text": "@ragercoaster Hope you get better soon there can be only on Mr Satan or Mr torque I really like the Mr Satan painting you had in your tiktok",
+        "created_at": "2021-12-21 22:25:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 81266523,
+        "referenced_tweets": {
+            "id": 1471025727218892800,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1473416082505539592,
+        "text": "Do I really wanna read black clover instead of waiting for the anime to return decisions decisions I need to know what happens to captain yami @JustChrisSabat @Rialisms @AlexisTiptonVA https://t.co/NHDbqK4jV2",
+        "created_at": "2021-12-21 22:12:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473036632253210629,
+        "text": "@BrycePapenbrook is this you my dude I know that voice anywhere I'm getting good knowing the voice actor just by the voices cause astas devil sounds just like inosuke or any of your other characters when their yelling https://t.co/hEJn5IKe5k",
+        "created_at": "2021-12-20 21:04:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1559844498,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1473015692186296324,
+        "text": "Just got complete set of neon genesis evangelion in the mail @amandawinnlee  #TikTok https://t.co/yPrKPfnhoX",
+        "created_at": "2021-12-20 19:41:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472845015542026248,
+        "text": "I have a week to watch both seasons of Gen lock now had to cancel my hbo for awhile guess I'll be binge watching after black clover we just talking about how good it was at work https://t.co/GZ7CTSEcMu",
+        "created_at": "2021-12-20 08:23:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1472657891761008643,
+        "text": "RT @JovanMalik1: This is terrible Tay Conti has deactivated her Twitter account  because of these fucking AEW Toxic fans who wouldn't leave\u2026",
+        "created_at": "2021-12-19 19:59:36+00:00",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1472401979049713668,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1472637596421533697,
+        "text": "@RebyHardy I'm so jealous wish I could've been part of stream to get one \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+        "created_at": "2021-12-19 18:38:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 22901762,
+        "referenced_tweets": {
+            "id": 1472402101171113992,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1472348585928835073,
+        "text": "@airzach I been wanting alienware cause of big bang theory https://t.co/OydjcuocYp",
+        "created_at": "2021-12-18 23:30:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 174058267,
+        "referenced_tweets": {
+            "id": 1472282588395966469,
+            "type": "replied_to"
+        }
+    }
+]

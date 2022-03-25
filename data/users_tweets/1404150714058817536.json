@@ -1,0 +1,937 @@
+[
+    {
+        "tweet_id": 1496570849310167052,
+        "text": "Fuck Johnny Appleseed",
+        "created_at": "2022-02-23 19:41:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1495884902717403136,
+        "text": "He get an n word pass https://t.co/nGPFRxOpYm",
+        "created_at": "2022-02-21 22:15:27+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1489614737646174210,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1492204372259921932,
+        "text": "I got adhd fr but I ain't takin pills cause it make me more gangsta https://t.co/slwa6BZxsY",
+        "created_at": "2022-02-11 18:30:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1437803141215490053,
+        "text": "RT @facts_fridge: RIP to the legend @SmeepKang. Went back to help people evacuate Afghanistan and was killed by the Taliban. Gone but not f\u2026",
+        "created_at": "2021-09-14 15:39:16+00:00",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1437571790738530307,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1421676107485650944,
+        "text": "@jordygals @disclosetv who tf is Marshall and what is his law?",
+        "created_at": "2021-08-01 03:36:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 370528193,
+        "referenced_tweets": {
+            "id": 1421635024135262212,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1421251194169827329,
+        "text": "@hookahaa Bill Cosby is a positive black role model who was framed by the racist media, so of course I wouldn't call him a monkey. Chris a dumbass white monkey tho.",
+        "created_at": "2021-07-30 23:27:44+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1242207528068538369,
+        "referenced_tweets": {
+            "id": 1421248099645800448,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1417637543965822979,
+        "text": "300,000 mormons died in the holocaust but yall afraid to talk about it \ud83d\udce0",
+        "created_at": "2021-07-21 00:08:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1417617499076628483,
+        "text": "RT @facts_fridge: The museum will address this but never address Susan killing her 3 year old by locking them in a commercial refrigerator.\u2026",
+        "created_at": "2021-07-20 22:48:44+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1417615786504564738,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1417164373609664512,
+        "text": "@sexyran69 https://t.co/x60Zgmsn0S",
+        "created_at": "2021-07-19 16:48:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1241479902748119040,
+        "referenced_tweets": {
+            "id": 1416120707860271108,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1416130780686950403,
+        "text": "@100gecs is a racist band. no cap. \ud83d\udcaf #100gecsisracist",
+        "created_at": "2021-07-16 20:21:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1135041350028500992,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1411745940722094082,
+        "text": "@RoyalFamily fuck you",
+        "created_at": "2021-07-04 17:57:15+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 36042554,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1411105225432260610,
+        "text": "@njen28_jennifer @Zvbear He so funny Ima give him 200 get out of jail free cards on the rape shit",
+        "created_at": "2021-07-02 23:31:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1514527519,
+        "referenced_tweets": {
+            "id": 1410328798260826126,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1411104950021730305,
+        "text": "@_heroinandtaryn @Zvbear He lookin p gangsta to me",
+        "created_at": "2021-07-02 23:30:11+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1929965124,
+        "referenced_tweets": {
+            "id": 1410401392091619336,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1411103990163574787,
+        "text": "@CairdeLiz @Zvbear lmao",
+        "created_at": "2021-07-02 23:26:22+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3192619659,
+        "referenced_tweets": {
+            "id": 1410505204848599047,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1411103831224631301,
+        "text": "RT @Zvbear: These are Bill Cosby accusers? Yeah that man innocent https://t.co/96B56M0elz",
+        "created_at": "2021-07-02 23:25:45+00:00",
+        "public_metrics": {
+            "retweet_count": 93,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1410319179215933442,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1411069459368927232,
+        "text": "@MVglittergirl I don't care if he raped no bitches, he so funny \ud83d\udce0\ud83d\udce0\ud83d\udce0",
+        "created_at": "2021-07-02 21:09:10+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2940251416,
+        "referenced_tweets": {
+            "id": 1411069064131366914,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1411048429812424714,
+        "text": "straight fax right here https://t.co/dSgHj0r22H",
+        "created_at": "2021-07-02 19:45:36+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1411037184212099072,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1411048058994020354,
+        "text": "@dcostalis @Faulksrobertm @RandyRRQuaid I don't care cuz he so funny tho",
+        "created_at": "2021-07-02 19:44:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3170991,
+        "referenced_tweets": {
+            "id": 1411047901875249153,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1411039298044973062,
+        "text": "@DPetruzella @JerkyRon @WhiteHouse homie there is free wifi everywhere, I've found youtube channels run by homeless people",
+        "created_at": "2021-07-02 19:09:19+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 731986526012375040,
+        "referenced_tweets": {
+            "id": 1410710358638141451,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1410364572708519937,
+        "text": "@BillCosby Bill everybody raped a hoe or two in the 80s, you cool #BillCosbyIsInnocent",
+        "created_at": "2021-06-30 22:28:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 54682125,
+        "referenced_tweets": {
+            "id": 1410359498162769926,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1410363440233865218,
+        "text": "@tariqnasheed Even if he did it idgaf, he too funny",
+        "created_at": "2021-06-30 22:23:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 16948493,
+        "referenced_tweets": {
+            "id": 1410283032519462915,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1410363186545676293,
+        "text": "RT @tariqnasheed: Bill Cosby will finally be released after that racist ass witch-hunt sentence that never should have happened in the firs\u2026",
+        "created_at": "2021-06-30 22:22:41+00:00",
+        "public_metrics": {
+            "retweet_count": 1078,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1410283032519462915,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1409975715370504201,
+        "text": "@BTS_ARMY https://t.co/JJiHOckNFF",
+        "created_at": "2021-06-29 20:43:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1173787748,
+        "referenced_tweets": {
+            "id": 1409185735752785922,
+            "type": "quoted"
+        }
+    },
+    {
+        "tweet_id": 1409589414146101252,
+        "text": "@tariqnasheed Yeah but rick and morty has a buck breaking scene so I wouldn't post that gif",
+        "created_at": "2021-06-28 19:07:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 16948493,
+        "referenced_tweets": {
+            "id": 1409528617118298116,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1409586599319379985,
+        "text": "@oursvmk Racist",
+        "created_at": "2021-06-28 18:56:48+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 996134253720231941,
+        "referenced_tweets": {
+            "id": 1409571158761037826,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1409586423414476801,
+        "text": "#happybirthdaymarkiplier Mark likes BTS so he's probably racist, stop using this hashtag",
+        "created_at": "2021-06-28 18:56:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1409585513950896131,
+        "text": "@AmazonHelp Racist",
+        "created_at": "2021-06-28 18:52:30+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 85741735,
+        "referenced_tweets": {
+            "id": 1409537319141584902,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1409355631765622789,
+        "text": "@mrs_lerner Reading this has made me decide to buy another gun",
+        "created_at": "2021-06-28 03:39:01+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 500294769,
+        "referenced_tweets": {
+            "id": 1409224273282150402,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1409349480663552002,
+        "text": "@AmazonHelp my alexa won't stop calling me the n word",
+        "created_at": "2021-06-28 03:14:35+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 85741735,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1409348848779247619,
+        "text": "@amazon Alexa called me the n word :(",
+        "created_at": "2021-06-28 03:12:04+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 20793816,
+        "referenced_tweets": {
+            "id": 1408832151223742469,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1409348724283875329,
+        "text": "@amazon my alexa called me the n word",
+        "created_at": "2021-06-28 03:11:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 20793816,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1409223073518211076,
+        "text": "@_queenlaurenn @SFTLOLZ \ud83d\ude1e\ud83d\ude1e\ud83d\ude1e\ud83d\ude1e https://t.co/aS8IyzexjI",
+        "created_at": "2021-06-27 18:52:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 39640338,
+        "referenced_tweets": {
+            "id": 1409220350311813128,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1409220116735303688,
+        "text": "@_queenlaurenn @SFTLOLZ Stay away from my daughter",
+        "created_at": "2021-06-27 18:40:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 39640338,
+        "referenced_tweets": {
+            "id": 1409219120835567622,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1409219152691175429,
+        "text": "@alexa99 Why did my Alexa call me the n word?",
+        "created_at": "2021-06-27 18:36:42+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 2905440476,
+        "referenced_tweets": {
+            "id": 1383089412553240579,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1409218615321284610,
+        "text": "https://t.co/m6ysTUYn5F the only kpop I respect @BTS_twt",
+        "created_at": "2021-06-27 18:34:34+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1409217963207573506,
+        "text": "@_queenlaurenn @SFTLOLZ Smh",
+        "created_at": "2021-06-27 18:31:59+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 39640338,
+        "referenced_tweets": {
+            "id": 1408951275811655688,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1408942756005822464,
+        "text": "@_queenlaurenn Homophobe \ud83d\ude1e",
+        "created_at": "2021-06-27 00:18:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 39640338,
+        "referenced_tweets": {
+            "id": 1408904997329321990,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1408942565005611011,
+        "text": "@_queenlaurenn My daughter is 5 you pedophile",
+        "created_at": "2021-06-27 00:17:39+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 39640338,
+        "referenced_tweets": {
+            "id": 1408939484125749249,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1408918475842768896,
+        "text": "@DankJong @LisaMarieNap_ @oHailNah @ZachDenyer She can't stop lying, it's pathetic",
+        "created_at": "2021-06-26 22:41:55+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1403717969700601860,
+        "referenced_tweets": {
+            "id": 1408918130966073347,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1408917894185029635,
+        "text": "@LisaMarieNap_ @oHailNah @DankJong @ZachDenyer Bitch tf u on about",
+        "created_at": "2021-06-26 22:39:37+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 19564019,
+        "referenced_tweets": {
+            "id": 1408905020792311813,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1407408577745199111,
+        "text": "\ud83d\udc4f\ud83c\udfffDrag\ud83d\udc4f\ud83c\udfffQueens\ud83d\udc4f\ud83c\udfffAre\ud83d\udc4f\ud83c\udfffNazis\ud83d\udc4f\ud83c\udfff\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf https://t.co/pjDaGj48Xc",
+        "created_at": "2021-06-22 18:42:07+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1407407802184835079,
+        "text": "@amanda_obdam Drag queens are nazis https://t.co/gFa0u0bbXd",
+        "created_at": "2021-06-22 18:39:03+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1296405058553184258,
+        "referenced_tweets": {
+            "id": 1407278117018767362,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1405576056808087553,
+        "text": "@ABC why tf yall name a holiday June Teeth? is it bout keepin ur teeth healthy?",
+        "created_at": "2021-06-17 17:20:20+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 28785486,
+        "referenced_tweets": {
+            "id": 1405307523914215427,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1405566646924759041,
+        "text": "Hunter Biden a gangsta fr #HunterBiden #hunterbidenisgangsta",
+        "created_at": "2021-06-17 16:42:57+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1405566039166001153,
+        "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "created_at": "2021-06-17 16:40:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1404150714058817536,
+        "referenced_tweets": {
+            "id": 1405565940167856133,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1405565940167856133,
+        "text": "BTS BE UP IN THE CLUB LIKE https://t.co/7PFLz2Lq5q",
+        "created_at": "2021-06-17 16:40:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1405318750430273537,
+        "text": "@tariqnasheed GIBS ME DAT",
+        "created_at": "2021-06-17 00:17:54+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 16948493,
+        "referenced_tweets": {
+            "id": 1405023863344406528,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1405242029119049732,
+        "text": "@Itsktocry1 Did you know? BTS are also racist and you're racist if you support them. #BTSisRacist",
+        "created_at": "2021-06-16 19:13:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1379004440376569859,
+        "referenced_tweets": {
+            "id": 1405241543343054848,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404254112317911044,
+        "text": "@BTS_ARMY @BTS_twt racist",
+        "created_at": "2021-06-14 01:47:24+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1173787748,
+        "referenced_tweets": {
+            "id": 1404071111604592646,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404195624812220416,
+        "text": "@HansonRobo Why did you break into a VA hospital, film Francis E Dec on his death bed, interrogate him dressed as FBI agents, and sell the footage? Can you admit that in retrospect that was pure evil?",
+        "created_at": "2021-06-13 21:55:00+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 475171539,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1404191875184140290,
+        "text": "@DankJong to*",
+        "created_at": "2021-06-13 21:40:06+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1404150714058817536,
+        "referenced_tweets": {
+            "id": 1404191696691380233,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404191696691380233,
+        "text": "@DankJong Racist too,,,,,, one of the hosts was black, they planned this shit \ud83d\ude25\ud83d\ude25\ud83d\udcaf",
+        "created_at": "2021-06-13 21:39:23+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1403717969700601860,
+        "referenced_tweets": {
+            "id": 1404187114837786630,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404174036842778627,
+        "text": "Yall need to read this fr, whats wrong wit yall @BTS_ARMY https://t.co/nEzb2XJ3L0",
+        "created_at": "2021-06-13 20:29:13+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1404163950955143169,
+        "text": "Fact: Listening to BTS is more racist than voting Trump #BTSARMY #BTS #btsisoverparty #btsisracist",
+        "created_at": "2021-06-13 19:49:08+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1404160281140416512,
+        "text": "#btsisoverparty #BTSARMY #BTSIsRacist @LouisFarrakhan https://t.co/AgbpLd7h4V",
+        "created_at": "2021-06-13 19:34:33+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1404159206320754693,
+        "text": "@RollingStoneIN @BTS_twt @bts_bighit #BTSIsRacist they just tryna sweep all that racist shit under the rug....WTF!!!!!!!!!1!!!",
+        "created_at": "2021-06-13 19:30:17+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 28307619,
+        "referenced_tweets": {
+            "id": 1400747011909898242,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404157522013995013,
+        "text": "@McDonalds I will not be taking my kids to eat here til yall get that BTS shit off the menu #BTSisracist",
+        "created_at": "2021-06-13 19:23:35+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 71026122,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1404157129582329859,
+        "text": "@ModestyQueen1 @BTS_twt this what yall doin to black culture",
+        "created_at": "2021-06-13 19:22:02+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 3296499115,
+        "referenced_tweets": {
+            "id": 1404047069678129155,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404156544632098821,
+        "text": "RT @Tykira86109680: #Btsisracist they used our black culture and called it \u201cdope\u201d yeah I don\u2019t think our culture is dope  also used the \u201cbl\u2026",
+        "created_at": "2021-06-13 19:19:42+00:00",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": {
+            "id": 1387478924528164867,
+            "type": "retweeted"
+        }
+    },
+    {
+        "tweet_id": 1404156416135475214,
+        "text": "#BTSARMY #BTS so why do u hate black ppl?",
+        "created_at": "2021-06-13 19:19:12+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    },
+    {
+        "tweet_id": 1404156250712068096,
+        "text": "#BTSARMY #BTS yall some cowards if u dont respond fr \ud83d\ude02",
+        "created_at": "2021-06-13 19:18:32+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": 1404150714058817536,
+        "referenced_tweets": {
+            "id": 1404155730622623746,
+            "type": "replied_to"
+        }
+    },
+    {
+        "tweet_id": 1404155730622623746,
+        "text": "Dis what BTS is afraid of #BTSIsRacist #BTSHateBlackFolk #Fax #BlackEgypt https://t.co/RzzOlERCk1",
+        "created_at": "2021-06-13 19:16:28+00:00",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "in_reply_to_user_id": null,
+        "referenced_tweets": []
+    }
+]
